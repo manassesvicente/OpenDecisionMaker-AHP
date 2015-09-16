@@ -1,0 +1,109 @@
+TY  - JOUR
+TI  - Selecting "the best" ERP system for SMEs using a combination of ANP and PROMETHEE methods
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 42
+IS  - 5
+SP  - 2343
+EP  - 2352
+PY  - 2015
+DO  - 10.1016/j.eswa.2014.10.034
+SN  - 09574174 (ISSN) 
+AU  - Kilic, H.S.
+AU  - Zaim, S.
+AU  - Delen, D.
+AD  - Department of Industrial Engineering, Faculty of Engineering Marmara University, Kadikoy, Istanbul, Turkey
+AD  - Department of Industrial Engineering, Faculty of Management Istanbul Technical University, Macka, Istanbul, Turkey
+AD  - Department of Management Science and Information Systems, Spears School of Business Oklahoma State University, Tulsa, OK, United States
+AB  - Enterprise Resource Planning (ERP) system, which integrates all of the units within an organization at the information level, plays an important role for a successful enterprise. With the right ERP system, it is easier to provide coordination between the units, eliminate waste and make faster and better decisions. Adopting an ERP system is a significant investment decision for a firm, therefore a great deal of attention should be given to the selection of the right system. Since there are a large number of criteria to consider in selecting an ERP system, the process itself is regarded as a complex multi-criteria decision making problem. In this study, two prevalent multi-criteria decision making techniques, Analytic Network Process (ANP) and Preference Ranking Organization Method for Enrichment Evaluations (PROMETHEE), are used in combination to better address the ERP selection problem. First, ANP is used to determine the weights of all criteria, and then, the obtained weights are used in the PROMETHEE method for optimal ranking of the alternative system choices. To demonstrate the viability of the proposed methodology, an application case is performed on the ERP selection problem for the Small Medium Enterprises (SMEs) in Istanbul, Turkey. The proposed hybrid methodology successfully ranked the alternatives and identified the best ERP system based on the information obtained from a number of SMEs participated in this study. © 2014 Elsevier Ltd.
+KW  - ERP selection
+KW  - Multi-criteria decision making
+KW  - PROMETHEE
+KW  - SME ANP
+KW  - Complex networks
+KW  - Decision making
+KW  - Investments
+KW  - Analytic network process
+KW  - Enterprise resource planning systems
+KW  - ERP selection
+KW  - Multi-criteria decision making
+KW  - Multi-criteria decision making problems
+KW  - Multi-criteria decision making technique
+KW  - PROMETHEE
+KW  - SME ANP
+KW  - ANP
+KW  - SME
+KW  - Enterprise resource planning
+PB  - Elsevier Ltd
+N1  - Cited By :6
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Delen, D.; Center for Health Systems Innovation, Department of Management Science and Information Systems, Oklahoma State University, 700 N. Greenwood Ave., United States
+N1  - References: Albadvi, A., Chaharsooghi, S.K., Esfahanipour, A., Decision making in stock trading: An application of PROMETHEE (2007) European Journal of Operational Research, 177, pp. 673-683; 
+Aloini, D., Dulmin, R., Mininno, V., Risk management in ERP project introduction: Review of the literature (2007) Information & Management, 44, pp. 547-567; 
+Ayaʇ, Z., Özdemir, R.G., An intelligent approach to ERP software selection through fuzzy ANP (2007) International Journal of Production Research, 45 (10), pp. 2169-2194; 
+Baki, B., Çakar, K., Determining the ERP package-selecting criteria: The case of Turkish manufacturing companies (2005) Business Process Management Journal, 11 (1), pp. 75-86; 
+Behzadian, M., Kazemzadeh, R.B., Albadvi, A., Aghdasi, M., PROMETHEE: A comprehensive literature review on methodologies and applications (2010) European Journal of Operational Research, 200, pp. 198-215; 
+Berköz, L., Eyüboglu, E., Locational preferences of FDI firms in Istanbul (2005) Report for ITU, Research Project, Istanbul, , (in Turkish); 
+Brans, J.P., Lingenierie de la decision. Elaboration dinstruments daide a la decision. Methode PROMETHEE (1982) Laide A la Decision: Nature, Instrument S et Perspectives Davenir, pp. 183-214. , R. Nadeau, M. Landry, Presses de Universite Laval, Quebec Canada; 
+Büyüközkan, G., Çifçi, G., A novel hybrid MCDM approach based on fuzzy DEMATEL, fuzzy ANP and fuzzy TOPSIS to evaluate green suppliers (2012) Expert Systems with Applications, 39, pp. 3000-3011; 
+Calabrese, A., Costa, R., Menichini, T., Using fuzzy AHP to manage intellectual capital assets: An application to the ICT service industry (2013) Expert Systems with Applications, 40 (9), pp. 3747-3755; 
+Cebeci, U., Fuzzy AHP-based decision support system for selecting ERP systems in textile industry by using balanced scorecard (2009) Expert Systems with Applications, 36 (5), pp. 8900-8909; 
+Chen, F.-H., Hsu, T.-S., Tzeng, G.-H., A balanced scorecard approach to establish a performance evaluation and relationship model for hot spring hotels based on a hybrid MCDM model combining DEMATEL and ANP (2011) International Journal of Hospitality Management, 30, pp. 908-932; 
+Daʇdeviren, M., Eraslan, E., PROMETHEE SIralama Yöntemi Ile Tedarikçi Seçimi (2008) Gazi Üniversitesi Mühendislik MimarlIk Fakültesi Dergisi, 23, pp. 69-75; 
+Daʇdeviren, M., Yüksel, I., A fuzzy analytic network process (ANP) model for measurement of the sectoral competition level (SCL) (2010) Expert Systems with Applications, 37, pp. 1005-1014; 
+Das, S., Chakraborty, S., Selection of non-traditional machining processes using analytic network process (2011) Journal of Manufacturing Systems, 30, pp. 41-53; 
+Deep, A., Guttridge, P., Dani, S., Burns, N., Investigating factors affecting ERP selection in made-to-order SME sector (2008) Journal of Manufacturing Technology Management, 19 (4), pp. 430-446; 
+Dou, Y., Zhu, Q., Sarkis, J., Evaluating green supplier development programs with a grey-analytical network process-based methodology (2014) European Journal of Operational Research, 233 (2), pp. 420-431; 
+Forslund, H., Jonsson, P., Selection, implementation and use of ERP systems for supply chain performance management (2010) Industrial Management & Data Systems, 110 (8), pp. 1159-1175; 
+Genoulaz, V.B., Millet, P.-A., Grabot, B., A survey on the recent research literature on ERP systems (2005) Computers in Industry, 56, pp. 510-522; 
+Gürbüz, T., Alptekin, S.E., Işiklar Alptekin, G., A hybrid MCDM methodology for ERP selection problem with interacting criteria (2012) Decision Support Systems, 54 (1), pp. 206-214; 
+Hakim, A., Hakim, H., A practical model on controlling the ERP implementation risks (2010) Information Systems, 35, pp. 204-214; 
+Horenbeek, A.V., Pintelon, L., Development of a maintenance performance measurement framework - Using the analytic network process (ANP) for maintenance performance indicator selection (2014) Omega, 42 (1), pp. 33-46; 
+Ishizaka, A., Nguyen, N.H., Calibrated fuzzy AHP for current bank account selection (2013) Expert Systems with Applications, 40 (9), pp. 3775-3783; 
+Jharkharia, S., Shankar, R., Selection of logistics service provider: An analytic network process (ANP) approach (2007) Omega, 35 (3), pp. 274-289; 
+Jung, U., Seo, D.W., An ANP approach for R&D project evaluation based on interdependencies between research objectives and evaluation criteria (2010) Decision Support Systems, 49, pp. 335-342; 
+Kahraman, C., Beskese, A., Kaya, I., Selection among ERP outsourcing alternatives using a fuzzy multi-criteria decision making methodology (2010) International Journal of Production Research, 48 (2), pp. 547-566; 
+Karsak, E.E., Özogul, C.O., An integrated decision making approach for ERP system selection (2009) Expert Systems with Applications, 36, pp. 660-667; 
+Kaya, T., Kahraman, C., An integrated fuzzy AHP-ELECTRE methodology for environmental impact assessment (2011) Expert Systems with Applications, 38 (7), pp. 8553-8562; 
+Kilic, H.S., A fuzzy AHP based performance assessment system for the strategic plan of Turkish municipalities (2011) International Journal of Business and Management Studies, 3 (2), pp. 77-86; 
+Kilic, S.H., Cevikcan, E., A hybrid weighting methodology for performance assessment in turkish municipalities (2012) 14th International Conference on Information Processing and Management of Uncertainty in Knowledge-based Systems, 300, pp. 354-363. , IPMU 2012, Catania, Italy, proceedings, part IV series: Communications in computer and information science; 
+Kilic, H.S., Cevikcan, E., Job selection based on fuzzy AHP: An investigation including the students of Istanbul Technical University Management Faculty (2011) International Journal of Business and Management Studies, 3 (1), pp. 173-182; 
+Kilic, H.S., Zaim, S., Delen, D., Development of a hybrid methodology for ERP system selection: The case of Turkish Airlines (2014) Decision Support Systems; 
+Kulvatunyou, B., Wysk, R.A., A functional approach to enterprise-based engineering integration (2000) Journal of Manufacturing Systems, 19 (3), pp. 156-171; 
+Kumar, V., Maheshwari, B., Kumar, U., An investigation of critical management issues in ERP implementation: Empirical evidence from Canadian organizations (2003) Technovation, 23, pp. 793-807; 
+Lee, H., Kim, C., Cho, H., Park, Y., An ANP-based technology network for identification of core technologies: A case of telecommunication technologies (2009) Expert Systems with Applications, 36, pp. 894-908; 
+Lin, C.-T., Chen, C.-B., Ting, Y.-C., An ERP model for supplier selection in electronics industry (2011) Expert Systems with Applications, 38, pp. 1760-1765; 
+Maditinos, D., Chatzoudes, D., Tsairidis, C., Factors affecting ERP system implementation effectiveness (2011) Journal of Enterprise Information Management, 25 (1), pp. 60-78; 
+Malhotra, R., Temponi, C., Critical decisions for ERP integration: Small business issues (2010) International Journal of Information Management, 30, pp. 28-37; 
+Nguyen, H.T., Dawal, S.Z.M., Nukman, Y., Aoyama, H., A hybrid approach for fuzzy multi-attribute decision making in machine tool selection with consideration of the interactions of attributes (2014) Expert Systems with Applications, 41 (6), pp. 3078-3090; 
+Olsen, D.L., (2004) Managerial Issues of Enterprise Resources Planning Systems, , The McGraw-Hill Companies; 
+Olson, D.L., Evaluation of ERP outsourcing (2007) Computers & Operations Research, 34, pp. 3715-3724; 
+Park, H.-S., Tran, N.-H., An autonomous manufacturing system based on swarm of cognitive agents (2012) Journal of Manufacturing Systems, 31, pp. 337-348; 
+Peng, A.-H., Xiao, X.-M., Material selection using PROMETHEE combined with analytic network process under hybrid environment (2013) Materials and Design, 47, pp. 643-652; 
+Perçin, S., Using the ANP approach in selecting and benchmarking ERP systems (2008) Benchmarking: An International Journal, 15 (5), pp. 630-649; 
+Saaty, T., (1980) The Analytic Hierarchy Process, , McGraw-Hill New York; 
+Saaty, T., (1996) Decision Making with Dependence and Feedback: The Analytic Network Process, , RWS Publications Pittsburgh; 
+Şen, C.G., Baraçli, H., Şen, S., Başligil, H., An integrated decision support system dealing with qualitative and quantitative objectives for enterprise software selection (2009) Expert Systems with Applications, 36, pp. 5272-5283; 
+Şevkli, M., Oztekin, A., Uysal, O., Torlak, G., Türkyilmaz, A., Delen, D., Development of a fuzzy ANP based SWOT analysis for the airline industry in Turkey (2012) Expert Systems with Applications, 39, pp. 14-24; 
+Sun, A.Y.T., Yazdani, A., Overend, J.D., Achievement assessment for enterprise resource planning (ERP) system implementations based on critical success factors (CSFs) (2005) International Journal of Production Economics, 98, pp. 189-203; 
+Tsai, W.H., Chou, W.C., Leu, J.D., An effectiveness evaluation model for the web-based marketing of the airline industry (2011) Expert Systems with Applications, 38 (12), pp. 15499-15516; 
+Umble, E.J., Haft, R.R., Umble, M.M., Enterprise resource planning: Implementation procedures and critical success factors (2003) European Journal of Operational Research, 146 (2), pp. 241-257; 
+Ünal, C., Güner, M.G., Selection of ERP suppliers using AHP tools in the clothing industry (2009) International Journal of Clothing Science and Technology, 21 (4), pp. 239-251; 
+Velcu, O., Exploring the effects of ERP systems on organizational performance. Evidence from Finnish companies (2007) Industrial Management & Data Systems, 107 (9), pp. 1316-1334; 
+Vetschera, R., Almeida, A.T., A PROMETHEE-based approach to portfolio selection problems (2012) Computers & Operations Research, 39 (5), pp. 1010-1020; 
+Vincke, J.P., Brans Ph., A preference ranking organization method. The PROMETHEE method for MCDM (1985) Management Science, 31, pp. 641-656; 
+Wei, C.-C., Chien, C.-F., Wang, M.-J.J., An AHP-based approach to ERP system selection (2005) International Journal of Production Economics, 96, pp. 47-62; 
+Xu, H.H., A Web-based system for proactive management of supply exceptions (2010) Journal of Manufacturing Systems, 29, pp. 91-101; 
+Yang, C.-L., Chuang, S.-P., Huang, R.-H., Manufacturing evaluation system based on AHP/ANP approach for wafer fabricating industry (2009) Expert Systems with Applications, 36, pp. 11369-11377; 
+Yang, J.-B., Wu, C.-T., Tsai, C.-H., Selection of an ERP system for a construction firm in Taiwan: A case study (2007) Automation in Construction, 16, pp. 787-796; 
+Yazgan, H.R., Boran, S., Goztepe, K., An ERP software selection process with using artificial neural network based on analytic network process approach (2009) Expert Systems with Applications, 36, pp. 9214-9222; 
+Yilmaz, B., Daʇdeviren, M., A combined approach for equipment selection: F-PROMETHEE method and zero-one goal programming (2011) Expert Systems with Applications, 38 (9), pp. 11641-11650; 
+Zaim, S., Sevkli, M., Camgöz-Akdaʇ, H., Demirel, O.F., Yesim Yayla, A., Delen, D., Use of ANP weighted crisp and fuzzy QFD for product development (2014) Expert Systems with Applications, 41 (9), pp. 4464-4474; 
+Zaim, S., Turkyilmaz, A., Acar, M.F., Al-Turki, U., Demirel, O.F., Maintenance strategy selection using AHP and ANP algorithms: A case study (2012) Journal of Quality in Maintenance Engineering, 18 (1), pp. 16-29; 
+Ziaee, M., Fathian, M., Sadjadi, S.J., A modular approach to ERP system selection: A case study (2006) Information Management & Computer Security, 14 (5), pp. 485-495
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84912569278&partnerID=40&md5=666da4eec976b2440c59834f987b6b1e
+ER  - 
+

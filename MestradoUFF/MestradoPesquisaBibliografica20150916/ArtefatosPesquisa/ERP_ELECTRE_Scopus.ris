@@ -1,0 +1,77 @@
+TY  - JOUR
+TI  - Using multiple variables decision-making analysis for ERP selection
+T2  - International Journal of Manufacturing Technology and Management
+J2  - Int. J. Manuf. Technol. Manage.
+VL  - 18
+IS  - 2
+SP  - 228
+EP  - 441
+PY  - 2009
+DO  - 10.1504/IJMTM.2009.026195
+SN  - 13682148 (ISSN) 
+AU  - Wu, J.-H.
+AU  - Tai, W.-C.
+AU  - Tsai, R.J.
+AU  - Lu, I.-Y.
+AD  - Department of Information Management, National Sun Yat-Sen University, His-Tze Wan, Kaohsiung 804, Taiwan
+AD  - St. Cloud State University, 720 4th Avenue Street, St. Cloud, MN 56301, United States
+AD  - Department of Business Administration, National Sun Yat-sen University, Hsi-Tze Wan, Kaohsiung, Taiwan
+AB  - Enterprise Resource Planning (ERP) systems have been recognised as excellent tools for integrating information, reducing operational costs and enhancing competitiveness. However, they are expensive and complex software with a well-documented high risk of failure when implemented badly. The selection of an ERP system is therefore critical. This paper identifies a set of evaluating variables within three categories: supplier, product functionality and technical capacity. These variables were based on an extensive literature review and interviews with industry experts. ELECTRE I, a multiple variables decision-making method, may then be applied for pair-wise comparison of alternatives to provide an efficient and effective method for selecting an optimum ERP system for a given situation. © 2009 Inderscience Enterprises Ltd.
+KW  - ELECTRE I
+KW  - Enterprise resource planning
+KW  - ERP
+KW  - ERP selection
+KW  - Complex software
+KW  - Decision-making method
+KW  - Electre
+KW  - ELECTRE I
+KW  - Enterprise resource planning systems
+KW  - ERP
+KW  - ERP selection
+KW  - ERP system
+KW  - Industry experts
+KW  - Integrating information
+KW  - Literature reviews
+KW  - Operational costs
+KW  - Pair-wise comparison
+KW  - Risk of failure
+KW  - Technical capacity
+KW  - Competition
+KW  - Decision making
+KW  - Resource allocation
+KW  - Enterprise resource planning
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Wu, J.-H.; Department of Information Management, National Sun Yat-Sen University, His-Tze Wan, Kaohsiung 804, Taiwan; email: jhwu@mis.nsysu.edu.tw
+N1  - References: Al-Mashari, M., Constructs of process change management in ERP content: A focus on SAP R/3 (2000) Proceedings of 2000 Americas Conference on Information Systems, pp. 977-980. , Long Beach, CA, pp; 
+Benayoun, R., Roy, B., Sussman, N., Manual de reference du programme electre (1966) Note de Synthese et Formation, Direction Scrientifique SEMA, p. 25. , Paris, p; 
+Bowen, T.S., ERP installation fit to be tied? (1998) InfoWorld, , Framingham, 21 September; 
+Christopher, P.H., Ben, L., A critical successful factors model for ERP implementation (1999) IEEE Software, pp. 30-36. , May/June, pp; 
+Chuang, M.L., Shaw, W.H., Distinguishing the critical success factors between e-commerce, enterprise resource planning and supply chain management (2000) Engineering Management Society, pp. 596-601; 
+Constantinos, J.S., The selection process of Enterprise Resource Planning (ERP) systems (2000) Proceeding of Americas Conference on Information Systems; 
+Everdingen, Y.M.V., Hillegersberg, J.V., Waarts, E., ERP adoption by European Midsize companies (2000) Communications of the ACM, 43 (4), pp. 27-31; 
+Haughey, W., (2000) OMG - Strategic Approach to Value Chain Integration, , www.omg.org/omg/strategy.html, Available at:, Accessed on 9 January 2000; 
+IP, W.H., Chau, K.Y., Chan, S.F., Implementing ERP through continuous improvement (2002) International Journal of Manufacturing Technology and Management, 4 (6), pp. 465-478; 
+Kochan, A., The key to success (1999) Work Management, pp. 8-9. , September, pp; 
+Krumbholz, M., Maiden, N., The implementation of enterprise resource planning packages in different organizational and national cultures (2001) Information Systems, 26, pp. 185-204; 
+Laudon, K.C., Laudon, J.P., (1998) Management Information Systems - New Approaches to Organization and Technology, , 5th ed, Prentice-Hall, London; 
+Liang, H., Xue, Y., Boulton, W.R., Byrd, T.A., Why Western vendors don't dominate China's ERP market' (2004) Communications of the ACM, 47 (7), pp. 69-72; 
+Markus, M.L., Tanis, C., Fenema, P.C.V., Multisite ERP implementations (2000) Communications of the ACM, 43 (4), pp. 42-46; 
+Martinsons, M.G., ERP in China: One package, two profiles (2004) Communications of the ACM, 47 (7), pp. 65-68; 
+Nijkamp, P., A multivariables analysis for project evaluation: Economic-ecological evaluation of residential environment (1974) Regional Science Association, 35, pp. 87-111; 
+Rao, S.S., Enterprise resource planning: Business needs and technologies (2000) Industrial Management and Data Systems, 100 (2), pp. 81-88; 
+Scott, J., The FoxMeyer drugs' bankruptcy: Was it a failure of ERP? (1998) Proceedings of the 5th American Conference on Information Systems; 
+Soh, C., Kien, S.S., Tay-yap, J., Cultural fits and misfits: Is ERP a universal solution? (2000) Communications of the ACM, 43 (4), pp. 47-51; 
+Tarn, J.M., Razi, M.A., Yen, D.C., Xu, Z., Linking ERP and SCM systems (2002) International Journal of Manufacturing Technology and Management, 45 (5), pp. 420-439; 
+Teltumbde, A., A framework for evaluating ERP projects (2000) International Journal of Production Research, 38 (17), pp. 4507-4520; 
+(2004) IDC Software Research, (31269). , Top 10 vendors in ERP applications market, 14 May; 
+Upton, D.M., McAfee, A.P., A path-based approach to information technology in manufacturing (2000) International Journal of Manufacturing Technology and Management, 1 (1), pp. 59-78; 
+Walecka, J., System integration: Legacy system (1998) InternetWeek, , 1 June; 
+Wu, J.H., A generic solution framework and a mixed model for selecting an expert system development tool (1997) Journal of the Chinese Institute of Industrial Engineers, 14 (3), pp. 227-235; 
+Wu, J.H., Shin, S.S., Heng, S.H., A methodology for ERP misfits analysis (2007) Information and Management, 44 (8), pp. 666-680; 
+Xavier, B.I., Xavier, F., Joan, A., Formalizing ERP selection variables (2000) Software Specification and Design, Tenth International Workshop
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-67650485552&partnerID=40&md5=6cc29a51f23fab872a4eb01b9c11698e
+ER  - 
+
