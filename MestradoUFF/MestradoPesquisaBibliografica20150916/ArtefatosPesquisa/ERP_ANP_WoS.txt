@@ -1,0 +1,972 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kilic, Huseyin Selcuk
+   Zaim, Selim
+   Delen, Dursun
+TI Selecting "The Best" ERP system for SMEs using a combination of ANP and
+   PROMETHEE methods
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 5
+BP 2343
+EP 2352
+DI 10.1016/j.eswa.2014.10.034
+PD APR 1 2015
+PY 2015
+AB Enterprise Resource Planning (ERP) system, which integrates all of the
+   units within an organization at the information level, plays an
+   important role for a successful enterprise. With the right ERP system,
+   it is easier to provide coordination.between the units, eliminate waste
+   and make faster and better decisions. Adopting an ERP system is a
+   significant investment decision for a firm, therefore a great deal of
+   attention should be given to the selection of the right system. Since
+   there are a large number of criteria to consider in selecting an ERP
+   system, the process itself is regarded as a complex multi-criteria
+   decision making problem. In this study, two prevalent multi-criteria
+   decision making techniques, Analytic Network Process (ANP) and
+   Preference Ranking Organization Method for Enrichment Evaluations
+   (PROMETHEE), are used in combination to better address the ERP selection
+   problem. First, ANP is used to determine the weights of all criteria,
+   and then, the obtained weights are used in the PROMETHEE method for
+   optimal ranking of the alternative system choices. To demonstrate the
+   viability of the proposed methodology, an application case is performed
+   on the ERP selection problem for the Small Medium Enterprises (SMEs) in
+   Istanbul, Turkey. The proposed hybrid methodology successfully ranked
+   the alternatives and identified the best ERP system based on the
+   information obtained from a number of SMEs participated in this study.
+   (C) 2014 Elsevier Ltd. All rights reserved.
+TC 3
+ZB 1
+Z8 0
+ZS 0
+Z9 3
+SN 0957-4174
+EI 1873-6793
+UT WOS:000348619900006
+ER
+
+PT J
+AU Chang, Betty
+   Kuo, Chin
+   Wu, Chih-Hung
+   Tzeng, Gwo-Hshiung
+TI Using Fuzzy Analytic Network Process to assess the risks in enterprise
+   resource planning system implementation
+SO APPLIED SOFT COMPUTING
+VL 28
+BP 196
+EP 207
+DI 10.1016/j.asoc.2014.11.025
+PD MAR 2015
+PY 2015
+AB The aim of this paper was to evaluate the risk level for both
+   intra-organizational cultures and for different industries in
+   implementing an enterprise resource planning (ERP) system. This study
+   adopts the Fuzzy Analytic Network Process (FANP) method to assess ERP
+   implementation risks, which were categorized into four dimensions:
+   management and execution, software system, users, and technology
+   planning. An empirical survey was conducted that utilized the collected
+   survey data of 20 ERP experts in Taiwan to assess, rank, and improve the
+   critical risks of ERP implementation via the FANP method. Based on the
+   results of the FANP method, a follow-up survey of ERP end-users in
+   different departments of three industries was conducted to assess how
+   intra-organizational cultures and cross-industries affect users'
+   perceived risks a real world scenario. Our research results demonstrated
+   that "lack of management support and assistance" is vital risk for a
+   successful ERP implementation. Top management support and involvement
+   are crucial and essential factors to the success of a firm's ERP
+   implementation. "Ineffective communication with users" was found to be
+   the second highest risk factor. The benefits of using the FANP method
+   for evaluating the risk factors come from the clear priority weights
+   between alternatives. Finally, this study provides suggestions to help
+   enterprises decrease ERP risks, and enhance the chances of success of
+   ERP implementations among intra-organizational cultures and
+   across-industries. (C) 2014 Elsevier B. V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1568-4946
+EI 1872-9681
+UT WOS:000348452500021
+ER
+
+PT J
+AU Medeiros Jr, Alberto de
+   Perez, Gilberto
+   Lex, Sérgio
+TI Using analytic network for selection of enterprise resource planning
+   systems (erp) aligned to business strategy
+SO JISTEM - Journal of Information Systems and Technology Management
+VL 11
+IS 2
+BP 277
+EP 296
+DI 10.4301/S1807-17752014000200004
+PD 2014-08
+PY 2014
+AB The choice of an Enterprise Resource Planning (ERP) must be made
+   judiciously by the high costs involved in the acquisition of such
+   systems. Managers in areas such as accounting, financial and information
+   technology need support and tools that help in selecting an appropriate
+   ERP for their business. With this article, we present a study aimed at
+   investigating the possibility of a Decision Support System (DSS) to be
+   used for this selection interrelating evaluation criteria, which could
+   allow to contemplate the strategic alignment between Business and
+   Information Technology. From the literature review 28 factors related to
+   the selection of software packages, with special emphasis on ERP were
+   identified. For the research procedures, the qualitative ones were
+   adopted, in that the 18 factors considered relevant to a good selection
+   of ERP were classified with the Delphi technique and used as input in a
+   DSS: Analytical Network Process (ANP), applied as a Case Study in a
+   small business that hired the ERP. The results showed that the ANP was
+   efficient in interrelated criteria and evaluated the strategic alignment
+   between Business and Information Technology. 
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1807-1775
+UT SCIELO:S1807-17752014000200277
+ER
+
+PT J
+AU Peris, Jordi
+   Garcia-Melon, Monica
+   Gomez-Navarro, Tomas
+   Calabuig, Carola
+TI Prioritizing Local Agenda 21 Programmes using Analytic Network Process:
+   A Spanish Case Study
+SO SUSTAINABLE DEVELOPMENT
+VL 21
+IS 5
+BP 338
+EP 352
+DI 10.1002/sd.514
+PD SEP 2013
+PY 2013
+AB Given that prioritization of programmes is a key concern in Local Agenda
+   21 processes, the aim of this paper is to explore how the Analytic
+   Network Process (ANP) can provide greater consistency and legitimacy to
+   prioritization of local action plans. Through the analysis of an
+   experience in the municipality of Benetusser in Spain, the study shows
+   how ANP, by modelling reality as a network of multiple and mutual
+   interrelations, embraces complexity and translates it into a set of
+   operational questionnaires that help participants to reflect on their
+   preferences and think deeply on the real implications of programmes for
+   sustainable development. In the case study, citizens, technical staff
+   and politicians of Benetusser carried out the prioritization process by
+   defining a set of criteria and assessing the programmes in an
+   interrelated way. The experience shows that the ANP procedure not only
+   allows prioritization to be dealt with in an organized and systematic
+   way, but also enables reflective thinking on sustainable development and
+   the role of Local Agenda 21 itself. Copyright (c) 2011 John Wiley &
+   Sons, Ltd and ERP Environment.
+RI Garcia Melon, Monica/L-5200-2014; Gomez-Navarro, Tomas/I-5792-2014
+OI Garcia Melon, Monica/0000-0001-8101-4049; Gomez-Navarro,
+   Tomas/0000-0001-6114-2414
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0968-0802
+EI 1099-1719
+UT WOS:000325989800005
+ER
+
+PT J
+AU Tsai, Wen-Hsien
+   Chou, Yu-Wei
+   Lee, Kuen-Chang
+   Lin, Wan-Rung
+   Hwang, Elliott T. Y.
+TI Combining Decision Making Trial and Evaluation Laboratory with Analytic
+   Network Process to Perform an Investigation of Information Technology
+   Auditing and Risk Control in an Enterprise Resource Planning Environment
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+VL 30
+IS 2
+BP 176
+EP 193
+DI 10.1002/sres.2129
+PD MAR-APR 2013
+PY 2013
+AB The research examined different types of risk through interviews with
+   experts. The risks studied include business interruption risk, process
+   interdependency risk and system security risk. The decision making trial
+   and evaluation laboratory is used to find the relationship among risks
+   and combined with the analytic network process to select the optimal
+   measures for reducing risks. The results indicate that information
+   technology (IT) consultants prefer the Disaster Recovery Plan (DRP).
+   They usually use the remote replication or High Availability (HA) to
+   protect data. IT personnel believe that all of the IT risk controls are
+   important. Auditors indicate that data access control is very important
+   because users have to execute data access every day. Users of IT express
+   a preference towards data input/output control as the most important
+   control. The results achieved from all experts indicate that the most
+   important controls overall are data input/output control, data access
+   control and so on. Managers need to consider these risks to avoid any
+   potential problems. Copyright (c) 2012 John Wiley & Sons, Ltd.
+TC 3
+ZB 0
+Z8 0
+ZS 0
+Z9 3
+SN 1092-7026
+UT WOS:000316764800006
+ER
+
+PT J
+AU Moalagh, Morteza
+   Ravasan, Ahad Zare
+TI Developing a practical framework for assessing ERP post-implementation
+   success using fuzzy analytic network process
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 51
+IS 4
+BP 1236
+EP 1257
+DI 10.1080/00207543.2012.698318
+PD FEB 15 2013
+PY 2013
+AB Implementing an enterprise resource planning system is a sophisticated,
+   lengthy, and costly process which tends to face serious failure. Thus,
+   it is essential to perform a success assessment at the
+   post-implementation stage of an ERP project to evaluate how much the
+   system has succeeded in achieving its predetermined objectives. This
+   paper proposes a practical framework for assessing a firm's ERP
+   post-implementation success utilising current models through a fuzzy
+   analytic network process. The construct of ERP success is broken down
+   into three main parts, including managerial success, organisational
+   success, and individual success. Using this framework, the firm's ERP
+   system success can be determined and the required improvement projects
+   can be proposed to promote the success level. The proposed framework has
+   been applied to a real international company, in the field of
+   manufacturing and supplying turbines, to measure the firm's ERP
+   post-implementation success. Finally, the advantages of the model are
+   illustrated.
+TC 6
+ZB 0
+Z8 0
+ZS 0
+Z9 6
+SN 0020-7543
+UT WOS:000313950400018
+ER
+
+PT J
+AU Razmi, Jafar
+   Sangari, Mohamad Sadegh
+TI A comprehensive decision support system for ERP pre-implementation phase
+SO EUROPEAN JOURNAL OF INDUSTRIAL ENGINEERING
+VL 7
+IS 4
+BP 475
+EP 496
+DI 10.1504/EJIE.2013.055020
+PD 2013
+PY 2013
+AB Given significant investments in enterprise resource planning (ERP)
+   systems, previous studies report unusually high failure rate and major
+   challenges in ERP projects. The activities prior to ERP implementation,
+   referred to as the pre-implementation phase, are very important because
+   they significantly affect the implementation success. In this paper, the
+   pre-implementation phase is focused in which necessary preparations
+   before embarking on the ERP initiative, required functions and features,
+   and the most appropriate ERP solution are decided. Such decisions are
+   risky, costly, and very time-consuming because they necessitate working
+   with a vast amount of information and require appropriate analytical
+   capabilities as well as decision making methods and structures. In this
+   paper, a comprehensive decision support system (DSS) is developed
+   helping organisations to make the targeted decisions both efficiently
+   and effectively. The proposed framework is applied in a real case study
+   to illustrate its effectiveness and practicality.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1751-5254
+UT WOS:000321615900005
+ER
+
+PT J
+AU Zhao Hui-ru
+   Li Na-na
+TI A Novel Hybrid Evaluation Model for the Performance of ERP Project Based
+   on ANP and Improved Matter-Element Extension Model
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+AR 913212
+DI 10.1155/2013/913212
+PD 2013
+PY 2013
+AB Considerable resources are needed when implementing the ERP project, so
+   it is necessary to evaluate its performance. Firstly, the evaluation
+   index system of implementation performance of the ERP project was built,
+   and an Analytic Network Process (ANP) which can fully take the
+   relationship between evaluation indexes into account was employed to
+   determine the index weight. Secondly, an improved matter-element
+   extension model, which can overcome the limitations and inadequacies of
+   traditional matter-element extension model when performing the
+   comprehensive evaluation, was proposed to evaluate the implementation
+   performance of the ERP project. Finally, taking an enterprise's ERP
+   project as an example, a comprehensive evaluation was done, and the
+   empirical analysis result shows that this proposed hybrid evaluation
+   model is feasible and practical.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1024-123X
+UT WOS:000317211800001
+ER
+
+PT J
+AU Gurbuz, Tuncay
+   Alptekin, S. Emre
+   Alptekin, Gulfem Isiklar
+TI A hybrid MCDM methodology for ERP selection problem with interacting
+   criteria
+SO DECISION SUPPORT SYSTEMS
+VL 54
+IS 1
+BP 206
+EP 214
+DI 10.1016/j.dss.2012.05.006
+PD DEC 2012
+PY 2012
+AB An enterprise resource planning (ERP) system is an information system to
+   plan and integrate all of an enterprise's subsystems including purchase,
+   production, sales and finance. Adopting such a comprehensive framework
+   may result in the great savings in both costs and man hours. This
+   research explores the application of a hybrid multicriteria decision
+   making (MCDM) procedure for the evaluation of various ERP alternatives.
+   The proposed evaluation framework integrates three methodologies:
+   Analytic Network Process (ANP), Choquet integral (Cl) and Measuring
+   Attractiveness by a Categorical Based Evaluation Technique (MACBETH).
+   ANP produces the priorities of alternatives with respect to the
+   interdependent evaluation criteria. The conjunctive or disjunctive
+   behaviors between criteria are determined using MACBETH and Cl.
+   Numerical application of the proposed methodology is implemented on the
+   decision making problem of a firm that faces with four ERP projects. The
+   final ranking is compared to the one obtained by ignoring the
+   interactions among criteria. The results demonstrate that the ignorance
+   of the interactions may lead to erroneous decisions. (C) 2012 Elsevier
+   B.V. All rights reserved.
+TC 5
+ZB 0
+Z8 0
+ZS 0
+Z9 5
+SN 0167-9236
+UT WOS:000313152200019
+ER
+
+PT J
+AU Lin, Chin-Tsai
+   Chen, Chie-Bein
+   Ting, Ying-Chan
+TI An ERP model for supplier selection in electronics industry
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 38
+IS 3
+BP 1760
+EP 1765
+DI 10.1016/j.eswa.2010.07.102
+PD MAR 2011
+PY 2011
+AB Asus Tech, is the largest motherboard manufacturer in Taiwan. Hundreds
+   of suppliers cooperate with the company in business. So that supplier
+   selection is the most important function of a purchasing department in
+   the enterprise. An enterprise resource planning (ERP) system in the
+   process of supplier selection may result in the great savings in both
+   costs and man hours. In the concept of push and pull, an ERP system acts
+   as an efficient tool in the resource integration and profit creation for
+   a company. Through ERP, a decision manager can clearly realize the
+   strength and weakness of the purchasing operation. To establish a
+   real-time purchasing environment, a methodology of analytic network
+   process (ANP), technique for order preference by similarity to ideal
+   solution (TOPSIS) and linear programming (LP) are effectively applied in
+   the supplier selection process. ANP and TOPSIS are used to calculate the
+   weight and give suppliers a ranking; LP effectively allocates order
+   quantity to each vendor. As to the result, four PC board suppliers are
+   given orders for 1200, 727, 1000 and 73 pieces. (C) 2010 Elsevier Ltd.
+   All rights reserved.
+TC 25
+ZB 1
+Z8 1
+ZS 2
+Z9 28
+SN 0957-4174
+UT WOS:000284863200053
+ER
+
+PT J
+AU Kop, Yesim
+   Ulukan, H. Ziya
+   Gurbuz, Tuncay
+TI Evaluating the Failure Risk Level of an Enterprise Resource Planning
+   Project Using Analytic Network Process in Fuzzy Environment
+SO JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING
+VL 17
+IS 4
+SI SI
+BP 407
+EP 423
+PD 2011
+PY 2011
+AB In today's world of competition, effective and on time information and
+   efficient decisions are indispensable aspects of the management.
+   Enterprise Resource Planning systems are information systems that ensure
+   an effective and efficient management by providing cooperative data
+   flow, handling and planning all process. ERP projects represent a major
+   investment but their failure rates are very high. They are risky
+   projects. Six main risk factors considered in this study are: Executive
+   risks, Organizational risks, Project management risks, Technical risks,
+   Decision making risks, Functional risks. Having "evaluation of the
+   failure risk of a SAP/R3 implementation project" as the main objective,
+   possible inter and inner relationships/dependencies between the main
+   factors are considered and an Analytic Network Process approach is
+   proposed to the model. Decision makers usually are unable to be explicit
+   about their preferences due to the fuzzy nature of the comparison
+   process. So, expert judgments are matched with fuzzy numbers, in this
+   study.
+RI Caposaldo, Marica/I-8659-2014
+TC 3
+ZB 0
+Z8 0
+ZS 0
+Z9 3
+SN 1542-3980
+UT WOS:000291082800008
+ER
+
+PT J
+AU 경태원
+   Kim, Sangkuk
+TI Priority Analysis of Information System by the Stakeholders using   BSC
+   and ANP Method
+Z1 BSC와 ANP기법을 이용한 직무그룹별 정보시스템 우선순위 분석
+SO The Journal of the Korea Contents Association
+S1 한국콘텐츠학회 논문지
+VL 11
+IS 7
+BP 426
+EP 436
+PD 2011
+PY 2011
+AB In the past, ERP had been applied to large company mainly, but recently,
+   in order to exist from global business environment, most of smaller
+   businesses are using or planing to introduce ERP. However, introduction
+   of ERP requires considerable expense and effort, before ERP come into
+   being, it is needed to measure the expense of introducing and the
+   outcome expected. Previous analytical frameworks (according to
+   introduction of ERP) have been focused on measuring improvement of
+   performance by introducing ERP. This study carries out a survey on
+   priority analysis of information system with small businesses which
+   produce displayer parts. To derive the user's priorities which have been
+   disregarded beside the improvement of performance on information system,
+   this study rearranges the analysis indices by using BSC model and it
+   analyzes the priorities of importance according to the
+   stakeholder(manager group, middle manager group, worker group) by using
+   ANP method.
+AK 과거 ERP는 주로 대기업 중심으로 활용되어 왔으나 글로벌 비즈니스 환경에서 생존하기 위해 이제는 대부분의 중소기업들이 기본적으로
+   ERP를 사용하거나 도입을 계획하고 있다. 그러나 ERP 도입을 위한 비용과 개발에 소요되는 노력은 결코 적지 않으므로 ERP
+   도입 이전에 도입에 따른 비용과 기대되는 성과와의 비교 측정이 필요하다. 그러나 지금까지 도입에 따른 분석의 틀은 주로 ERP
+   도입에 따른 업무 성과의 향상 정도를 측정하는데 주력하였다. 본 연구에서는 디스플레이어 부품을 생산하는 중소기업 임직원을 대상으로
+   정보시스템 우선순위 분석을 위한 설문조사를 실시하였다. 업무성과의 향상 이외에 지금까지 간과되었던 시스템에 대한 사용자들의
+   우선순위 도출을 위해 BSC(Balanced Scorecard)모형을 이용하여 분석 지표를 재정리하였고, ANP기법을 이용하여
+   직무그룹별(경영자그룹, 중간관리자그룹, 실무자그룹) 중요도의 우선순위를 분석 하였다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-4877
+UT KJD:ART001574708
+ER
+
+PT J
+AU Mehrjerdi, Yahia Zare
+TI Applications and extensions of quality function deployment
+SO ASSEMBLY AUTOMATION
+VL 30
+IS 4
+BP 388
+EP 403
+DI 10.1108/01445151011075843
+PD 2010
+PY 2010
+AB Purpose - The paper aims to review the fundamental concept of quality
+   function deployment (QFD) and discusses the fact that a road to success
+   for a new product development is the identification of customers
+   requirements and their conversion into engineering design requirements
+   Thereafter it seeks to review the subject and to study four new cases on
+   the topic of QFD
+   Design/methodology/approach - The paper discusses key elements of QFD
+   and the fact that the vision for the development of a comprehensive
+   quality system can be built upon the principles of QFD taking customer
+   requirements into consideration and relating that to the design
+   requirements
+   Findings - To make product development task successful and bringing
+   competitive advantages to the core business management must be committed
+   to the needs of the customers through marketing surveys and implementing
+   that into the process of product development by converting them into
+   engineering design requirements
+   Practical implications - The method has been used successfully in
+   practice in areas such as facility locations marketing strategies robot
+   selection ERP selection software development and sports
+   Originality/value - The paper reviews QFDs and its extensions such as
+   fuzzy QFD analytic hierarchy process analytic network process and QFD
+   statistically extended QFD dynamic QFD and other extensions of that In
+   addition to that cases covering topics of ship of quality cost design
+   parameter modeling enhanced version of the quality function development
+   financial factors and uncertainties in the product design process with
+   fuzzy formulation and a model for prioritizing and designing rule
+   changes for the game of soccer are also reviewed
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0144-5154
+UT WOS:000284184200012
+ER
+
+PT J
+AU Razmi, Jafar
+   Sangari, Mohamad Sadegh
+   Ghodsi, Reza
+TI Developing a practical framework for ERP readiness assessment using
+   fuzzy analytic network process
+SO ADVANCES IN ENGINEERING SOFTWARE
+VL 40
+IS 11
+BP 1168
+EP 1178
+DI 10.1016/j.advengsoft.2009.05.002
+PD NOV 2009
+PY 2009
+AB Previous studies report unusually high failure in enterprise resource
+   planning (ERP) projects. Thus, it is necessary to perform an assessment
+   at the initial stage of an ERP implementation program to identify
+   weaknesses or problems which may lead to project failure. No definite
+   practical solution could be found for these kinds of problems in the
+   literature. In this paper, a new look at the determinants of a firm's
+   readiness to implement an ERP project is presented and using fuzzy
+   analytic network process a practical framework is developed. The firm's
+   current conditions regarding ERP project can be determined and necessary
+   changes prior to implementation of ERP system can be specified. The
+   readiness for ERP implementation is decomposed into project management,
+   organizational, and change management areas and the assessment factors
+   are identified after comprehensive study of critical success factors on
+   ERP implementation. The proposed framework is applied to a real case and
+   the advantages are illustrated. (C) 2009 Elsevier Ltd. All rights
+   reserved.
+TC 18
+ZB 1
+Z8 0
+ZS 0
+Z9 18
+SN 0965-9978
+UT WOS:000269322200010
+ER
+
+PT J
+AU Yazgan, Harun Resit
+   Boran, Semra
+   Goztepe, Kerim
+TI An ERP software selection process with using artificial neural network
+   based on analytic network process approach
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 36
+IS 5
+BP 9214
+EP 9222
+DI 10.1016/j.eswa.2008.12.022
+PD JUL 2009
+PY 2009
+AB An enterprise resource planning (ERP) software selection is known to be
+   multi attribute decision making (MADM) problem. This problem has been
+   modeled according with analytic network process (ANP) method due to Tact
+   that it considers criteria and sub criteria relations and interrelations
+   in selecting the software.
+   Opinions of many experts are obtained while building ANP model for the
+   selection ERP then opinions arc reduced to one single value by methods
+   like geometric means so as to get desired results. To use ANP model for
+   the selection of ERP for a new organization, a new group of expert's
+   opinions are needed. In this case the same problem will be in counter.
+   In the proposed model, when ANP and ANN models are setup, an ERP
+   software selection can be made easily by the opinions of one single
+   expert. In that case calculation of geometric mean of answers that
+   obtained from many experts will be unnecessary. Additionally the effect
+   of subjective opinion of one single decision maker will be avoided. In
+   terms of difficulty, ANP has some difficulties due to eigenvalue and
+   their limit value calculation.
+   An ANN model has been designed and trained with using ANP results in
+   order to calculate ERP software priority. The artificial neural network
+   (ANN) model is trained by results obtained from ANP. It seems that there
+   is no any major difficulty in order to predict software priorities with
+   trained ANN model. By this results ANN model has been come suitable for
+   using in the selection of ERP for another new decision. (C) 2008
+   Elsevier Ltd. All rights reserved.
+RI yazgan, harun/B-2579-2013; yazgan, harun resit/; Norton, Andrew/D-4749-2012
+OI yazgan, harun resit/0000-0002-8791-0458; Norton,
+   Andrew/0000-0003-4899-1686
+TC 25
+ZB 0
+Z8 1
+ZS 1
+Z9 27
+SN 0957-4174
+UT WOS:000264782800054
+ER
+
+PT J
+AU Hallikainen, Petri
+   Kivijarvi, Hannu
+   Tuominen, Markku
+TI Supporting the module sequencing decision in the ERP implementation
+   process-An application of the ANP method
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+VL 119
+IS 2
+BP 259
+EP 270
+DI 10.1016/j.ijpe.2009.03.008
+PD JUN 2009
+PY 2009
+AB The paper addresses the alignment between business processes and
+   information technology in enterprise resource planning (ERP)
+   implementation. More specifically, we concentrate on one of the key
+   decisions at the tactical alignment level: the decision on the
+   implementation sequence of the ERP modules. Since the module sequencing
+   problem involves a myriad of organizational and technical issues,
+   connected to each other in networked manner, the analytic network
+   process (ANP) methodology is applied. As a result of the study, we
+   present first a general level conceptual framework to sequence ERP
+   module implementations and expand the model to a more detailed level in
+   a case study. The priorities for the implementation sequence of the ERP
+   modules are determined in the case study. (C) 2009 Elsevier B.V. All
+   rights reserved.
+TC 10
+ZB 0
+Z8 0
+ZS 0
+Z9 10
+SN 0925-5273
+UT WOS:000267643400005
+ER
+
+PT J
+AU Yoshida, Toru
+   Niwano, Shinichi
+   Niwano, Hiroe
+   Imaki, Ryuta
+   Satoh, Daisuke
+   Masaki, Yoshio
+   Nakazato, Kazumi
+   Soma, Kazui
+   Izumi, Tohru
+TI Atrial natriuretic peptide (ANP) suppresses acute atrial electrical
+   remodeling in the canine rapid atrial stimulation model
+SO INTERNATIONAL JOURNAL OF CARDIOLOGY
+VL 123
+IS 2
+BP 147
+EP 154
+DI 10.1016/j.ijcard.2006.12.005
+PD JAN 11 2008
+PY 2008
+AB Objectives: Atrial electrical remodeling is considered to play an
+   important role in the appearance of atrial fibrillation. The effect of
+   atrial natriuretic peptide (ANP) on atrial electrical remodeling was
+   evaluated in a canine atrial stimulation model.
+   Methods: In 15 beagle dogs, electrodes for pacing and recording were
+   fixed on the atrial surface. In 10/15 dogs, rapid atrial stimulation
+   (400 bpm) was performed for 7 h at the right atrial appendage (RAA) and
+   the remaining 5 were used as the sham without rapid pacing. In 5/ 10
+   dogs with rapid pacing, human atrial natriuretic peptide (ANP) was
+   infused (1.0 mu g/kg/min). The effective refractory period (ERP) and the
+   monophasic action potential duration (MAP) were evaluated at 0, 3, and 7
+   h after rapid pacing. The expression levels of mRNAs of ion channels or
+   transporters were evaluated from the atrial samples of sham and after a
+   7 hour pacing.
+   Results: In the control group with rapid pacing (n = 5), the atrial ERP
+   and MAP duration were shortened at all atrial sites, e. g., ERP from 148
+   +/- 14 ms to 109 +/- 8 ms at RAA, P = 0.006. In contrast in the ANP
+   group, neither the ERP nor MAP duration showed a significant shortening
+   and the effect of ANP on hemodynamic parameter was relatively small.
+   Expression levels of the mRNA were not significantly different between
+   the control and ANP groups.
+   Conclusions: Administration of ANP prevented the shortening of the ERP
+   and MAP duration in the rapid atrial stimulation model. The effect of
+   ANP on atrial electrical remodeling was considered to be due to its
+   direct action on the myocardium. (c) 2007 Elsevier Ireland Ltd. All
+   rights reserved.
+TC 5
+ZB 2
+Z8 1
+ZS 0
+Z9 6
+SN 0167-5273
+UT WOS:000252154900013
+PM 17376550
+ER
+
+PT J
+AU 고제석
+   박순학
+TI A Empirical Study on the Performance Evaluation of ERP Systems Using
+   Analytic Network Process
+Z1 ANP를 이용한 ERP 성과평가에 관한 실증연구
+SO Journal of the Korean Society of Supply Chain Management
+S1 한국SCM학회지
+VL 8
+IS 1
+BP 103
+EP 112
+PD 2008
+PY 2008
+AB Assessing ERP system's performance has become an important research
+   issue these days. Using a decision analysis such as analytic network
+   process (ANP), the  performance evaluation model for ERP System is
+   discussed. In this study, the performance variables are identified as
+   the perspectives of cost, business process, systems operation, and
+   change management, respectively. The empirical study also investigated
+   factors that affect the performance variables to find out the causal
+   relationship between them using the ANP approach. The data for the
+   empirical analysis were collected from manufacturing industries that
+   have implemented ERP systems. The result shows that the reduction of
+   labour cost, operational expense, and productivity of overall workload
+   are crucial factors influencing the success or failure of ERP systems
+   among the small & medium-sized companies.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-382X
+UT KJD:ART001253509
+ER
+
+PT J
+AU Ayag, Z.
+   Oezdemir, R. G.
+TI An intelligent approach to ERP software selection through fuzzy ANP
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 45
+IS 10
+BP 2169
+EP 2194
+DI 10.1080/00207540600724849
+PD 2007
+PY 2007
+AB During the implementations of enterprise resource planning (ERP)
+   systems, most companies have experienced some problems, one of which is
+   how to determine the best ERP software satisfying their needs and
+   expectations. Because improperly selected ERP software may have an
+   impact on the time required, and the costs and market share of a
+   company, selecting the best desirable ERP software has been the most
+   critical problem for a long time. On the other hand, selecting ERP
+   software is a multiple-criteria decision-making (MCDM) problem, and in
+   the literature, many methods have been introduced to evaluate this kind
+   of problem, one of which is the analytic hierarchy process (AHP), which
+   has been widely used in MCDM selection problems. However, in this paper,
+   we use a fuzzy extension of an analytic network process (ANP), a more
+   general form of AHP, which uses uncertain human preferences as input
+   information in the decision-making process, because the AHP cannot
+   accommodate the variety of interactions, dependencies, and feedback
+   between higher- and lower-level elements. Instead of using the classical
+   eigenvector prioritization method in the AHP, only employed in the
+   prioritization stage of ANP, a fuzzy-logic method providing more
+   accuracy on judgements is applied. The resulting fuzzy ANP enhances the
+   potential of the conventional ANP for dealing with imprecise and
+   uncertain human comparison judgements. In short, in this paper, an
+   intelligent approach to ERP software selection through a fuzzy ANP is
+   proposed by taking into consideration quantitative and qualitative
+   elements to evaluate ERP software alternatives.
+RI Ayag, Zeki/E-9143-2013
+OI Ayag, Zeki/0000-0003-4078-2804
+TC 43
+ZB 2
+Z8 0
+ZS 1
+Z9 44
+SN 0020-7543
+UT WOS:000246549300001
+ER
+
+PT J
+AU 고제석
+   박순학
+TI An ANP-Based Performance Model for ERP System's Implementation
+SO Journal of the Korean Data And Information Science Sociaty
+S1 한국데이터정보과학회지
+VL 18
+IS 2
+BP 401
+EP 409
+PD 2007
+PY 2007
+AB This paper addresses a performance evaluation model for ERP system's
+   implementation using Analytic Network Process (ANP) technique. In this
+   study, the performance variables are identified as the perspectives of
+   cost, business process, systems operation, and change management,
+   respectively. The empirical study also investigated factors that affect
+   the performance variables to find out the causal relationship between
+   them using the ANP approach. The data for the empirical analysis were
+   collected from manufacturing companies that have implemented ERP
+   systems. The research findings indicate the proposed model is powerful
+   in proposing that the indirect relationship between influencing factors
+   and managerial effectiveness, mediated by employee satisfaction, is an
+   important one.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-9402
+UT KJD:ART001065011
+ER
+
+PT J
+AU Sarkis, J
+   Sundarraj, RP
+TI Evaluation of enterprise information technologies: A decision model for
+   high-level consideration of strategic and operational issues
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND
+   REVIEWS
+VL 36
+IS 2
+BP 260
+EP 273
+DI 10.1109/TSMCC.2004.843245
+PD MAR 2006
+PY 2006
+AB Despite the possibility of short-term financial losses and concerns by
+   executive management of potential failure, enterprise information
+   technologies (EITs) are being implemented by a growing number of Fortune
+   100 and midsize corporations in the hope of acquiring long-term
+   benefits. EITs, expensive and risky information technology assets, must
+   be evaluated on the basis of both their productivity gains and their
+   support for corporate reengineering through integration of business
+   processes. In this paper, we propose a two-stage methodology (involving
+   a combination of the analytical network process and integer programming)
+   to conduct a high-level evaluation of an interdependent set of tangible,
+   intangible, strategic and operational factors that should be considered
+   in EIT evaluation. We perform sensitivity analyses and conduct tests
+   with real-world data to show the robustness of our methodology and the
+   resulting managerial implications.
+RI Sarkis, Joseph/F-4508-2014
+OI Sarkis, Joseph/0000-0003-0143-804X
+TC 16
+ZB 0
+Z8 0
+ZS 0
+Z9 16
+SN 1094-6977
+UT WOS:000237197600015
+ER
+
+PT J
+AU Stambler, BS
+   Guo, GB
+TI Atrial natriuretic peptide has dose-dependent, autonomically mediated
+   effects on atrial refractoriness and repolarization in anesthetized dogs
+SO JOURNAL OF CARDIOVASCULAR ELECTROPHYSIOLOGY
+VL 16
+IS 12
+BP 1341
+EP 1347
+DI 10.1111/j.1540-8167.2005.00259.x
+PD DEC 2005
+PY 2005
+AB Atrial Electrophysiological Effects of ANP.
+   Introduction: Atrial natriuretic peptide (ANP) may alter
+   electrophysiological properties of the heart and possibly have a role in
+   arrhythmogenesis. However, previous studies have yielded conflicting
+   results and have not fully considered whether ANP's cardiac
+   electrophysiological effects are mediated via direct actions and/or
+   indirectly via the autonomic nervous system. This study's aim was to
+   establish whether ANP infused at pathophysiological and pharmacological
+   doses has significant in vivo cardiac electrophysiological effects and
+   to determine whether these effects are directly or autonomically
+   mediated.
+   Methods and Results: Electrophysiologic and hemodynamic effects of ANP
+   infusion (human ANP at 15-600 ng/kg per minute) were examined in
+   chloralose-anesthetized dogs under conditions of varying autonomic
+   blockade. In autonomically intact dogs (n = 12), low-dose ANP (15 ng/kg
+   per minute) shortened atrial effective refractory period (ERP) (P <
+   0.001) and monophasic action potential duration (MAPD90) (P < 0.05) at
+   600, 500, and 400 msec atrial paced cycle lengths and reduced right
+   atrial pressure (P < 0.05) but did not alter mean arterial pressure.
+   After either combined vagal and beta-adrenergic blockade (vagotomy plus
+   atropine plus propranolol, n = 7) or selective vagal blockade (n = 9),
+   low-dose ANP no longer altered atrial ERP or MAPD90. Higher ANP doses
+   (150 and 600 ng/kg per minute) decreased mean arterial and right atrial
+   pressures (P < 0.001) but did not alter atrial ERP, MAPD90, or other
+   electrophysiological parameters including atrial fibrillation threshold,
+   ventricular ERP, and MAPD90.
+   Conclusion: ANP has dose-dependent, autonomically mediated effects on
+   atrial refractoriness and repolarization.
+TC 10
+ZB 7
+Z8 1
+ZS 0
+Z9 11
+SN 1045-3873
+UT WOS:000233807600015
+PM 16403067
+ER
+
+PT J
+AU Sarkis, J
+   Sundarraj, RP
+TI Evaluating componentized enterprise information technologies: A
+   multiattribute modeling approach
+SO INFORMATION SYSTEMS FRONTIERS
+VL 5
+IS 3
+BP 303
+EP 319
+DI 10.1023/A:1025605529006
+PD SEP 2003
+PY 2003
+AB Corporations are increasingly implementing enterprise information
+   technologies (EITs), because of the costs of maintaining legacy systems
+   and the lack of fit of such systems for organization-wide information
+   sharing. A new type of EIT that is being introduced in major
+   corporations (such as Dell Computers), is based on the idea of component
+   systems, which are stand-alone software programs that can integrate with
+   other such components with relative ease. Given the financial outlay for
+   EITs, the evaluation and adoption of these systems is not something that
+   can be completed haphazardly. This requirement is complicated by the
+   relative infancy of models for the evaluation of componentized EITs. To
+   this end, in this paper, we introduce a managerial multistage
+   multiattribute decision model, consisting of the Analytical Hierarchy
+   Process (AHP) model and the Supermatrix approach (also defined as the
+   Analytical Network Processes (ANP) approach). This combination of models
+   builds on earlier work that validates the Supermatrix approach for
+   evaluating traditional EITs at a Fortune 100 organization. The
+   aggregation of these benefits is then measured against the costs of
+   systems, thereby arriving at a ranking of alternatives for each
+   functional area. We illustrate the model with an example and draw
+   managerial implications.
+RI Sarkis, Joseph/F-4508-2014
+OI Sarkis, Joseph/0000-0003-0143-804X
+TC 14
+ZB 0
+Z8 4
+ZS 1
+Z9 19
+SN 1387-3326
+UT WOS:000185138200006
+ER
+
+EF

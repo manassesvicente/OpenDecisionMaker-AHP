@@ -1,0 +1,209 @@
+TY  - JOUR
+TI  - Approaches to manage hesitant fuzzy linguistic information based on the cosine distance and similarity measures for HFLTSs and their application in qualitative decision making
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 42
+IS  - 12
+SP  - 5328
+EP  - 5336
+PY  - 2015
+DO  - 10.1016/j.eswa.2015.02.017
+SN  - 09574174 (ISSN) 
+AU  - Liao, H.
+AU  - Xu, Z.
+AD  - Business School, Sichuan University, Chengdu, Sichuan, China
+AB  - Qualitative and hesitant information is common in practical decision making process. In such complicated decision making problem, it is flexible for experts to use comparative linguistic expressions to express their opinions since the linguistic expressions are much closer than single or simple linguistic term to human way of thinking and cognition. The hesitant fuzzy linguistic term set (HFLTS) turns out to be a powerful tool in representing and eliciting the comparative linguistic expressions. In order to develop some approaches to decision making with hesitant fuzzy linguistic information, in this paper, we firstly introduce a family of novel distance and similarity measures for HFLTSs, such as the cosine distance and similarity measures, the weighted cosine distance and similarity measures, the order weighted cosine distance and similarity measures, and the continuous cosine distance and similarity measures. All these distance and similarity measures are proposed from the geometric point of view while the existing distance and similarity measures over HFLTSs are based on the different forms of algebra distance measures. Afterwards, based on the hesitant fuzzy linguistic cosine distance measures between hesitant fuzzy linguistic elements, the cosine-distance-based HFL-TOPSIS method and the cosine-distance-based HFL-VIKOR method are developed to dealing with hesitant fuzzy linguistic multiple criteria decision making problems. The step by step algorithms of these two methods are given for the convenience of applications. Finally, a numerical example concerning the selection of ERP systems is given to illustrate the validation and efficiency of the proposed methods. © 2015 Elsevier Ltd. All rights reserved.
+KW  - Cosine-distance-based HFL-TOPSIS method
+KW  - Cosine-distance-based HFL-VIKOR method
+KW  - Hesitant fuzzy linguistic cosine distance measure
+KW  - Hesitant fuzzy linguistic cosine similarity measure
+KW  - Hesitant fuzzy linguistic term set
+KW  - Multiple criteria decision making
+KW  - Computational linguistics
+KW  - Decision making
+KW  - Numerical methods
+KW  - Cosine similarity measures
+KW  - Distance measure
+KW  - Distance-based
+KW  - Fuzzy linguistics
+KW  - Multiple criteria decision making
+KW  - TOPSIS method
+KW  - Linguistics
+PB  - Elsevier Ltd
+N1  - Cited By :2
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Xu, Z.; Business School, Sichuan UniversityChina
+N1  - Funding Details: 61273209, NSFC, National Natural Science Foundation of China
+N1  - References: Beg, I., Rashid, T., TOPSIS for hesitant fuzzy linguistic term sets (2013) International Journal of Intelligent Systems, 28, pp. 1162-1171; 
+Boran, F.E., Genç, S., Kurt, M., Akay, D., A multi-criteria intuitionistic fuzzy group decision making for supplier selection with TOPSIS method (2009) Expert Systems with Applications, 36, pp. 11363-11368; 
+Chen, C.T., Extensions of the TOPSIS for group decision-making under fuzzy environment (2000) Fuzzy Sets and Systems, 114, pp. 1-9; 
+Chen, T.Y., Tsao, C.Y., The interval-valued fuzzy TOPSIS method and experimental analysis (2008) Fuzzy Sets and Systems, 159, pp. 1410-1428; 
+Devi, K., Extension of VIKOR method in intuitionistic fuzzy environment for robot selection (2011) Expert Systems with Applications, 38, pp. 14163-14168; 
+Friedman, M., Last, M., Makover, Y., Kandel, A., Anomaly detection in web documents using crisp and fuzzy-based cosine clustering methodology (2007) Information Sciences, 177, pp. 467-475; 
+Hadi-Vencheh, A., Mirjaberi, M., Fuzzy inferior ratio method for multiple attribute decision making problems (2014) Information Sciences, 277, pp. 263-272; 
+Hwang, C.L., Yoon, K., (1981) Multiple Attributes Decision Making Methods and Applications, , Springer Berlin, Heidelberg; 
+Liao, H.C., Xu, Z.S., A VIKOR-based method for hesitant fuzzy multi-criteria decision making (2013) Fuzzy Optimization and Decision Making, 12 (4), pp. 373-397; 
+Liao, H.C., Xu, Z.S., Xia, M.M., Multiplicative consistency of hesitant fuzzy preference relation and its application in group decision making (2014) International Journal of Information Technology Decision Making, 13 (1), pp. 47-76; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Distance and similarity measures for hesitant fuzzy linguistic term sets and their application in multi-criteria decision making (2014) Information Sciences, 271, pp. 125-142; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Hesitant fuzzy linguistic VIKOR method and its application in qualitative multiple criteria decision making (2015) IEEE Transactions on Fuzzy Systems; 
+Liao H. ., C., Xu Z. ., S., Zeng X. ., J., (2015) Novel correlation coefficients between hesitant fuzzy sets and their application in decision making, , http://dx.doi.org/10.1016/j.knosys.2015.02.020, Knowledge-Based Systems; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Merigó, J.M., Qualitative decision making with correlation coefficients of hesitant fuzzy linguistic term sets (2015) Knowledge-Based Systems, 76, pp. 127-138; 
+Liu, H.B., Cai, J.F., Jiang, L., On improving the additive consistency of the fuzzy preference relations based on comparative linguistic expressions (2014) International Journal of Intelligent Systems, 29, pp. 544-559; 
+Liu, H.B., Rodríguez, R.M., A fuzzy envelope of hesitant fuzzy linguistic term set and its application to multicriteria decision making (2014) Information Sciences, 258, pp. 220-238; 
+Opricovic, S., Multicriteria optimization of civil engineering systems (1998) Faculty of Civil Engineering, Belgrade; 
+Opricovic, S., Fuzzy VIKOR with an application to water resources planning (2011) Expert Systems with Applications, 38, pp. 12983-12990; 
+Opricovic, S., Tzeng, G.H., Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS (2004) European Journal of Operational Research, 156, pp. 445-455; 
+Park, J.H., Cho, H.J., Kwun, Y.C., Extension of VIKOR method for group decision making with interval-valued intuitionistic fuzzy information (2011) Fuzzy Optimization and Decision Making, 10, pp. 233-253; 
+Rodríguez, R.M., Martínez, L., Herrera, F., Hesitant fuzzy linguistic terms sets for decision making (2012) IEEE Transactions on Fuzzy Systems, 20, pp. 109-119; 
+Rodríguez, R.M., Martínez, L., Herrera, F., A group decision making model dealing with comparative linguistic expressions based on hesitant fuzzy linguistic term set (2013) Information Sciences, 241, pp. 28-42; 
+Salton, G., McGill, M.J., (1983) Introduction to Modern Information Retrieval, , McGraw-Hill Book Company New York; 
+Sayadi, M.K., Heydari, M., Shahanaghi, K., Extension of VIKOR method for decision making problem with interval numbers (2009) Applied Mathematical Modelling, 33, pp. 2257-2262; 
+Torra, V., Hesitant fuzzy sets (2010) International Journal of Intelligent Systems, 25, pp. 529-539; 
+Wei, C.P., Zhao, N., Tang, X.J., Operators and comparisons of hesitant fuzzy linguistic term sets (2014) IEEE Transactions on Fuzzy Systems, 22 (3), pp. 575-585; 
+Xu, Z.S., Uncertain linguistic aggregation operators based approach to multiple attribute group decision making under uncertain linguistic environment (2004) Information Sciences, 168, pp. 171-184; 
+Xu, Z.S., Zhang, X.L., Hesitant fuzzy multi-attribute decision making based on TOPSIS with incomplete weight information (2013) Knowledge-Based Systems, 52, pp. 53-64; 
+Ye, J., Cosine similarity measures for intuitionistic fuzzy sets and their applications (2011) Mathematical and Computer Modelling, 53, pp. 91-97; 
+Yager, R.R., On ordered weighted averaging aggregation operators in multi-criteria decision making (1988) IEEE Transactions on Systems, Man, and Cybernetics, 18, pp. 183-190; 
+Zadeh, L.A., The concept of a linguistic variable and its applications to approximate reasoning-Part i (1975) Information Sciences, 8, pp. 199-249; 
+Zenebe, A., Norcio, A.F., Representation, similarity measures and aggregation methods using fuzzy sets for content-based recommender systems (2009) Fuzzy Sets and Systems, 160, pp. 76-94; 
+Zhu, B., Xu, Z.S., Consistency measures for hesitant fuzzy linguistic preference relations (2014) IEEE Transactions on Fuzzy Systems, 22 (1), pp. 35-45
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84939958334&partnerID=40&md5=de4506b72e3780cd0e382074676b2293
+ER  - 
+
+TY  - JOUR
+TI  - Using the multiple criteria decision making to evaluate the integration project of the ERP and MES modules
+T2  - International Journal of Advancements in Computing Technology
+J2  - Intl. J. Adv. Comput. Technolog.
+VL  - 4
+IS  - 23
+SP  - 403
+EP  - 409
+PY  - 2012
+DO  - 10.4156/ijact.vol4.issue23.47
+SN  - 20058039 (ISSN) 
+AU  - Chen, Y.-C.
+AU  - Kuo, J.-Y.
+AU  - Hsu, C.-Y.
+AU  - Shia, B.-C.
+AU  - Lin, C.-H.
+AD  - Department of Business Administration, De Lin Institute of Technology, Taiwan
+AD  - Department of International Business, Kainan University, Taiwan
+AD  - Department of Statistics and Information Science, Fu Jen Catholic University, Taiwan
+AB  - This study uses the multiple criteria decision making (MCDM) to evaluate the integration project of the MES into ERP modules in a PCB company of Taiwan. The MCDM was applied to filter the indicators of the effectiveness after the integration of modules, and derived the weights of indicator. The result of this study shows that the cost indicator is the most important indicator in integrating MES into ERP. This study also can be the reference for researchers to derive the performance indicators of ERP and MES systems.
+KW  - Enterprise resource planning (ERP)
+KW  - Fuzzy analytic hierarchy process (FAHP)
+KW  - Fuzzy delphi method (FDM)
+KW  - Manufacturing execution system (MES)
+KW  - Multiple criteria decision making (MCDM)
+KW  - Vlsekriterijumska optimizacija i kompromisno resenje (VIKOR)
+KW  - Fuzzy analytic hierarchy process
+KW  - Fuzzy Delphi Method
+KW  - Manufacturing Execution System
+KW  - Multiple criteria decision making
+KW  - Vlsekriterijumska optimizacija i kompromisno resenje (VIKOR)
+KW  - Benchmarking
+KW  - Decision making
+KW  - Integration
+KW  - Polychlorinated biphenyls
+KW  - Enterprise resource planning
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Kuo, J.-Y.; Department of Business Administration, De Lin Institute of TechnologyTaiwan; email: cykuo@mail.knu.edu.tw
+N1  - References: Paul, V., Paul, V., Towards Cooperating Planning and Manufacturing Execution Systems (2006) IFAC Symposium On Information Control Problems In Manufacturing, pp. 371-376; 
+Li, D., Liu, L., Wei, Z., Gang, R., Material-flow Modeling Technology and Its Application in Manufacturing Execution Systems of Petrochemical Industry (2008) Chinese Journal of Chemical Engineering, Elsevier B.V, 16 (1), pp. 71-78; 
+Jafer, R., Mohamad-Sadegh, S., Reza, G., Developing A Practical Framework for ERP Readiness Assessment Using Fuzzy Analytic Network Process (2009) Advances In Engineering Software, Elsevier B.V, 40 (11), pp. 1168-1178; 
+Harun-Resit, Y., Semra, B., Kerin, G., An ERP Software Selection Process with Using Artificial Neural Network Based on Analytic Network Process Approach (2009) Expert Systems With Applications, Elsevier B.V, 36 (5), pp. 9214-9222; 
+Hui, D., Research and Implement of Enterprise Instant Messaging System for MES (2011) International Journal of Advancements In Computing Technology, IJACT, 3 (10), pp. 240-249; 
+Li, Z., Yan, C., Lixin, S., A Component Based Reconfigurable Manufacturing Execution System (2011) Advances In Information Sciences and Service Sciences, AISS, 3 (10), pp. 167-175; 
+Dalkey, N.-C., An Experimental Study of Group Opinion: The Delphi Method (1969) Expert Systems With Applications, 1 (5), pp. 408-426. , Elsevier B.V; 
+Murray, T.-J., Pipion, L.-L., Gigch, J.-P., A Pilot Study of Fuzzy Set Modification of Delphi (1985) Human Systems Management, IOS Press, 5, pp. 76-80; 
+Akira, I., Michio, A., Tetsuo, S., Giichi, T., Rumi, T., Hiroshi, M., The Max-Min Delphi Method and Fuzzy Delphi Method Via Fuzzy Integration (1993) Fuzzy Sets Systems, Elsevier B.V, 55 (3), pp. 241-253; 
+Wan-Li, W., Wen-Chih, C., Analytic Network Process-Based Model for Selecting an Optimal Product Design Solution with Zero-One Goal Programming (2008) Journal of Engineering Design, Taylor & Francis Group, 19 (1), pp. 15-44; 
+Yu-Lung, H., Cheng-Haw, L., Kreng, V.-B., The Application of Fuzzy Delphi Method and Fuzzy AHP in Lubricant Regenerative Technology Selection (2010) Expert Systems With Applications, Elsevier B.V, 37 (1), pp. 419-425; 
+Laarhoven, P.-J.-M., Pedrycz, W., A Fuzzy Extension of Saaty's Priority Theory", "Fuzzy Sets and Systems (1983) Elsevier B.V, 11 (1-3), pp. 279-302; 
+Saaty, T.-L., (1980) The Analytic Hierarchy Process, , NY: McGraw-Hill; 
+Hung-Yi, W., Gwo-Hshiung, T., Yi-Hsuan, C., A Fuzzy MCDM Approach for Evaluating Banking Performance Based on Balanced Scorecard (2009) Expert Systems With Applications, Elsevier B.V, 36 (6), pp. 10135-10147; 
+Serafim, O., (1998) Multicriteria Optimization of Civil Engineering System, , Faculty of Civil Engineering, Belgrade; 
+Serafim, O., Gwo-Hshiung, T., Compromise Solution by MCDM Methods: A Comparative Analysis of VIKOR and TOPSIS (2004) European Journal of Operational Research, Elsevier B.V, 156 (2), pp. 445-455
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84871910646&partnerID=40&md5=deaffdbad2a34d1ff956e4312eb324b1
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of software development projects using a fuzzy multi-criteria decision approach
+T2  - Mathematics and Computers in Simulation
+J2  - Math Comput Simul
+VL  - 77
+IS  - 5-6
+SP  - 464
+EP  - 475
+PY  - 2008
+DO  - 10.1016/j.matcom.2007.11.015
+SN  - 03784754 (ISSN) 
+AU  - Büyüközkan, G.
+AU  - Ruan, D.
+AD  - Industrial Engineering Department, Galatasaray University, Ortaköy, 34357 Istanbul, Turkey
+AD  - Belgian Nuclear Research Centre (SCKCEN), Boeretang 200, Mol, 2400, Belgium
+AB  - Software development is an inherently uncertain activity. To deal with the uncertainty and vagueness from humans' subjective perception and experience in decision process, this paper presents an evaluation model based on the fuzzy multi-criteria decision-making (MCDM) method for measuring the performance of software development projects. In an MCDM problem, a decision maker (DM) has to choose the best alternative that satisfies the evaluation criteria among a set of candidate solutions. It is generally hard to find an alternative that meets all the criteria simultaneously, so a good compromise solution is preferred. This problem may become more complex when multiple DMs are involved, each having not a common perception on the alternatives. Recently, a compromise ranking method (known as the VIKOR method) has been proposed to identify such compromise solutions, by providing a maximum group utility for the majority and a minimum of an individual regret for the opponent. In its actual setting, the method treats exact values for the assessment of the alternatives, which can be quite restrictive with unquantifiable criteria. This will be true especially if the evaluation is made by means of linguistic terms. For this reason we extend the VIKOR method so as to process such data and to provide a more comprehensive evaluation in a fuzzy environment. To demonstrate the potential of the methodology, the proposed extension is used for measuring the performance of enterprise resource planning (ERP) software products. © 2007 IMACS.
+KW  - ERP software products
+KW  - Fuzzy Delphi methodology
+KW  - Fuzzy VIKOR
+KW  - Multi-criteria analysis
+KW  - Software evaluation
+KW  - Decision making
+KW  - Enterprise resource planning
+KW  - Fuzzy sets
+KW  - Software engineering
+KW  - Fuzzy Delphi methodology
+KW  - Multi-criteria analysis
+KW  - Software products
+KW  - Computer software selection and evaluation
+N1  - Cited By :71
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MCSID
+LA  - English
+N1  - Correspondence Address: Ruan, D.; Belgian Nuclear Research Centre (SCKCEN), Boeretang 200, Mol, 2400, Belgium; email: druan@SCKCEN.BE
+N1  - References: Baki, B., Çakar, K., Determining the ERP package-selecting criteria: the case of Turkish manufacturing companies (2005) Bus. Process Manage. J., 11, pp. 75-86; 
+Bojadziev, G., Bojadziev, M., (1997) Fuzzy Logic for Business, Finance, and Management, Advances in Fuzzy Systems, 12. , World Scientific Publication; 
+J. Bresnahan, Mission possible, CIO Magazine, October 15, 1996Büyüközkan, G., Kahraman, C., Ruan, D., A fuzzy multi-criteria decision approach for software development strategy selection (2004) Int. J. Gen. Syst., 33, pp. 259-280; 
+Carney, D.J., Wallnau, K.C., A basis for evaluation of commercial software (1998) Inf. Software Technol., 40, pp. 851-860; 
+Cha, Y., Jung, M., Satisfaction assessment of multi-objective schedules using neural fuzzy methodology (2003) Int. J. Prod. Res., 41, pp. 1831-1849; 
+Chen, C.-T., Extensions of the TOPSIS for group decision-making under fuzzy environment (2000) Fuzzy Sets Syst., 114, pp. 1-9; 
+Cheng, C.H., Lin, Y., Evaluating the best main battle tank using fuzzy decision theory with linguistic criteria evaluation (2002) Eur. J. Oper. Res., 142, pp. 174-186; 
+Chiclana, F., Herrera, F., Herrera-Viedman, E., Integrating three representation models in fuzzy multipurpose decision making based on fuzzy preference relations (1998) Fuzzy Sets Syst., 97, pp. 33-48; 
+Fortemps, P., Roubens, M., Ranking and defuzzification methods based on area compensation (1996) Fuzzy Sets Syst., 82, pp. 319-330; 
+Gediga, G., Hamborg, K.C., Düntsch, I., Evaluation of software systems (2002) Encyclopedia Comput. Sci. Technol., 45, pp. 127-153; 
+Herrera, F., Herrera-Viedma, E., Chiclana, F., Multiperson decision-making based on multiplicative preference relations (2001) Eur. J. Oper. Res., 129, pp. 372-385; 
+Jiang, J.J., Klein, G., Hwang, H.-G., Huang, J., Hung, S.-Y., An exploration of the relationship between software development process maturity and project performance (2004) Inf. Manage., 41, pp. 279-288; 
+Kahraman, C., Büyüközkan, G., Ruan, D., Measuring software development value using fuzzy logic (2004) Intelligent Sensory Evaluation-Methodologies and Applications, pp. 285-308. , Ruan D., and Zeng X. (Eds), Springer; 
+Kaufmann, A., Gupta, M.M., (1988) Fuzzy Mathematical Models in Engineering and Management Science, , North-Holland, Amsterdam; 
+Kaufmann, A., Gupta, M.M., (1991) Introduction to Fuzzy Arithmetic Theory and Applications, , Van Nostrand Reinhold, New York; 
+Kelly, D.P., Oshana, R.S., Improving software quality using statistical testing techniques (2000) Inf. Software Technol., 42, pp. 801-807; 
+Lai, V.S., Wong, B.K., Cheung, W., Group decision making in a multiple criteria environment: a case using the AHP in software selection (2002) Eur. J. Oper. Res., 137, pp. 134-144; 
+Lee, J.W., Kim, S.H., Using analytic network process and goal programming for interdependent information system project selection (2000) Comput. Oper. Res., 27, pp. 367-382; 
+Ngai, E.W.T., Chan, E.W.C., Evaluation of knowledge management tools using AHP (2005) Expert Syst. Appl., 29, pp. 889-899; 
+Opricovic, S., (1998) Multicriteria Optimization of Civil Engineering Systems, , Faculty of Civil Engineering, Belgrade; 
+Opricovic, S., Tzeng, G.H., Fuzzy multicriteria model for postearthquake land-use planning (2003) Nat. Hazard. Rev., 4, pp. 59-64; 
+Opricovic, S., Tzeng, G.H., Defuzzification within a multicriteria decision model (2003) Int. J. Uncertain. Fuzz., 11, pp. 635-652; 
+Opricovic, S., Tzeng, G.H., Compromise solution by MCDM methods: a comparative analysis of VIKOR and TOPSIS (2004) Eur. J. Oper. Res., 156, pp. 445-455; 
+Osmundson, J.S., Michael, J.B., Machniak, M.J., Grossman, M.A., Quality management metrics for software development (2003) Inf. Manage., 40, pp. 799-812; 
+Stamelos, I., Vlahavas, I., Refanidis, I., Tsoukias, A., Knowledge based evaluation of software systems: a case study (2000) Inf. Software Technol., 42, pp. 333-345; 
+Stamelos, I., Tsoukiàs, A., Software evaluation problem situations (2003) Eur. J. Oper. Res., 145, pp. 273-286; 
+Tzeng, G.H., Lin, C.W., Opricovic, S., Multi-criteria analysis of alternative-fuel buses for public transportation (2005) Energy Policy, 33, pp. 1373-1383; 
+Verville, J., Halingten, A., A six-stage model of the buying process for ERP software (2003) Ind. Market. Manage., 32, pp. 585-594; 
+Wang, X., Kerre, E.E., Reasonable properties for the ordering of fuzzy quantities (I) (2001) Fuzzy Sets Syst., 118, pp. 375-385; 
+Wei, C.-C., Wang, M.-J.J., A comprehensive framework for selecting an ERP system (2004) Int. J. Project Manage., 22, pp. 161-169; 
+Wei, C.-C., Chien, C.-F., Wang, M.-J.J., An AHP-based approach to ERP system selection (2005) Int. J. Prod. Econ., 96, pp. 47-62; 
+Yu, P.L., A class of solutions for group decision problems (1973) Manage. Sci., 19, pp. 936-946; 
+Zadeh, L.A., Fuzzy sets (1965) Inf. Control, 8, pp. 338-353; 
+Zadeh, L.A., The concept of a linguistic variable and its applications to approximate reasoning, Part I (1975) Inf. Sci., 8, pp. 199-249. , Part II, 8, 301-357; Part III, 9, 43-80; 
+Zeleny, M., (1982) Multiple Criteria Decision Making, , Mc-Graw-Hill, New York; 
+Zhang, X., Pham, H., Software field failure rate prediction before software deployment (2006) J. Syst. Software, 79, pp. 291-300
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-41149157929&partnerID=40&md5=26762a86f604419f0a4339d762bffbad
+ER  - 
+

@@ -1,0 +1,303 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Liao, Huchang
+   Xu, Zeshui
+TI Approaches to manage hesitant fuzzy linguistic information based on the
+   cosine distance and similarity measures for HFLTSs and their application
+   in qualitative decision making
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 12
+BP 5328
+EP 5336
+DI 10.1016/j.eswa.2015.02.017
+PD JUL 15 2015
+PY 2015
+AB Qualitative and hesitant information is common in practical decision
+   making process. In such complicated decision making problem, it is
+   flexible for experts to use comparative linguistic expressions to
+   express their opinions since the linguistic expressions are much closer
+   than single or simple linguistic term to human way of thinking and
+   cognition. The hesitant fuzzy linguistic term set (HFLTS) turns out to
+   be a powerful tool in representing and eliciting the comparative
+   linguistic expressions. In order to develop some approaches to decision
+   making with hesitant fuzzy linguistic information, in this paper, we
+   firstly introduce a family of novel distance and similarity measures for
+   HFLTSs, such as the cosine distance and similarity measures, the
+   weighted cosine distance and similarity measures, the order weighted
+   cosine distance and similarity measures, and the continuous cosine
+   distance and similarity measures. All these distance and similarity
+   measures are proposed from the geometric point of view while the
+   existing distance and similarity measures over HFLTSs are based on the
+   different forms of algebra distance measures. Afterwards, based on the
+   hesitant fuzzy linguistic cosine distance measures between hesitant
+   fuzzy linguistic elements, the cosine-distance-based HFL-TOPSIS method
+   and the cosine-distance-based HFL-VIKOR method are developed to dealing
+   with hesitant fuzzy linguistic multiple criteria decision making
+   problems. The step by step algorithms of these two methods are given for
+   the convenience of applications. Finally, a numerical example concerning
+   the selection of ERP systems is given to illustrate the validation and
+   efficiency of the proposed methods. (C) 2015 Elsevier Ltd. All rights
+   reserved.
+RI liao, huchang/F-9716-2015
+OI liao, huchang/0000-0001-8278-3384
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0957-4174
+EI 1873-6793
+UT WOS:000353746900024
+ER
+
+PT J
+AU Rouyendegh, Babak Daneshvar
+   Bac, Ugur
+   Erkan, Turan Erman
+TI SECTOR SELECTION FOR ERP IMPLEMENTATION TO ACHIEVE MOST IMPACT ON SUPPLY
+   CHAIN PERFORMANCE BY USING AHP-TOPSIS HYBRID METHOD
+SO TEHNICKI VJESNIK-TECHNICAL GAZETTE
+VL 21
+IS 5
+BP 933
+EP 937
+PD OCT 2014
+PY 2014
+AB Recently, studies about the Enterprise Resource Planning (ERP) have been
+   increased and this research area has attracted more attention.
+   Especially, in the global competition environment, enterprises have to
+   focus on their Information Systems ( IS) performance to have a
+   competitive advantage; implementing an ERP system and improving the
+   effectiveness of the system is the only way. However every sector reacts
+   to ERP implementation differently. Purpose of this study is to rank the
+   sectors according to their performance increments after successful ERP
+   implementations by using AHP-TOPSIS hybrid method. As a result, general
+   structure of Turkish companies will be pictured and the sectors which
+   have the most chance to improve their performance by utilizing an ERP
+   system will be defined. These findings will help the companies to plan
+   the implementation process more precisely and help the managers of these
+   companies to define their expectations more clearly. A numerical example
+   is given to clarify the main developed result in this paper.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1330-3651
+EI 1848-6339
+UT WOS:000344737100003
+ER
+
+PT J
+AU Kilic, Huseyin Selcuk
+   Zaim, Selim
+   Delen, Dursun
+TI Development of a hybrid methodology for ERP system selection: The case
+   of Turkish Airlines
+SO DECISION SUPPORT SYSTEMS
+VL 66
+BP 82
+EP 92
+DI 10.1016/j.dss.2014.06.011
+PD OCT 2014
+PY 2014
+AB Enterprise resource planning (ERP) systems that aim to integrate,
+   synchronize and centralize organizational data are generally regarded as
+   a vital tool for companies to be successful in the rapidly changing
+   global marketplace. Due to its high acquisition purchasing, installation
+   and implementation cost and the wide range of offerings, the selection
+   of ERP systems is a strategically important and difficult decision.
+   Since there is a wide range of tangible and intangible criteria to be
+   considered, it is often defined as a multi-criteria decision making
+   problem. To overcome the challenges imposed by the multifaceted nature
+   of the problem, herein a three-stage hybrid methodology is proposed. The
+   process starts with the identification of most prevailing criteria
+   through a series of brainstorming sessions that include people from
+   different organizational units. Then, due to the varying importance of
+   the criteria, a fuzzy Analytic Hierarchy Process, which handles the
+   vagueness inherent in the decision making process, is used to obtain the
+   relative importance/weights of the criteria. These weighted criteria are
+   then used as input to the Technique for Order Preference by Similarity
+   to Ideal Solution method to rank the decision alternatives. As a
+   real-world illustrative case, the proposed methodology is applied to the
+   ERP selection problem at Turkish Airlines. Because of the collaborative
+   and systematic nature of the methodology, the results obtained from the
+   process were found to be highly satisfactory and trustworthy by the
+   decision makers. (C) 2014 Elsevier B.V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0167-9236
+EI 1873-5797
+UT WOS:000344204800008
+ER
+
+PT J
+AU Razmi, Jafar
+   Sangari, Mohamad Sadegh
+TI A comprehensive decision support system for ERP pre-implementation phase
+SO EUROPEAN JOURNAL OF INDUSTRIAL ENGINEERING
+VL 7
+IS 4
+BP 475
+EP 496
+DI 10.1504/EJIE.2013.055020
+PD 2013
+PY 2013
+AB Given significant investments in enterprise resource planning (ERP)
+   systems, previous studies report unusually high failure rate and major
+   challenges in ERP projects. The activities prior to ERP implementation,
+   referred to as the pre-implementation phase, are very important because
+   they significantly affect the implementation success. In this paper, the
+   pre-implementation phase is focused in which necessary preparations
+   before embarking on the ERP initiative, required functions and features,
+   and the most appropriate ERP solution are decided. Such decisions are
+   risky, costly, and very time-consuming because they necessitate working
+   with a vast amount of information and require appropriate analytical
+   capabilities as well as decision making methods and structures. In this
+   paper, a comprehensive decision support system (DSS) is developed
+   helping organisations to make the targeted decisions both efficiently
+   and effectively. The proposed framework is applied in a real case study
+   to illustrate its effectiveness and practicality.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1751-5254
+UT WOS:000321615900005
+ER
+
+PT J
+AU Lin, Chin-Tsai
+   Chen, Chie-Bein
+   Ting, Ying-Chan
+TI An ERP model for supplier selection in electronics industry
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 38
+IS 3
+BP 1760
+EP 1765
+DI 10.1016/j.eswa.2010.07.102
+PD MAR 2011
+PY 2011
+AB Asus Tech, is the largest motherboard manufacturer in Taiwan. Hundreds
+   of suppliers cooperate with the company in business. So that supplier
+   selection is the most important function of a purchasing department in
+   the enterprise. An enterprise resource planning (ERP) system in the
+   process of supplier selection may result in the great savings in both
+   costs and man hours. In the concept of push and pull, an ERP system acts
+   as an efficient tool in the resource integration and profit creation for
+   a company. Through ERP, a decision manager can clearly realize the
+   strength and weakness of the purchasing operation. To establish a
+   real-time purchasing environment, a methodology of analytic network
+   process (ANP), technique for order preference by similarity to ideal
+   solution (TOPSIS) and linear programming (LP) are effectively applied in
+   the supplier selection process. ANP and TOPSIS are used to calculate the
+   weight and give suppliers a ranking; LP effectively allocates order
+   quantity to each vendor. As to the result, four PC board suppliers are
+   given orders for 1200, 727, 1000 and 73 pieces. (C) 2010 Elsevier Ltd.
+   All rights reserved.
+TC 25
+ZB 1
+Z8 1
+ZS 2
+Z9 28
+SN 0957-4174
+UT WOS:000284863200053
+ER
+
+PT J
+AU Buyukozkan, Gulcin
+   Ruan, Da
+TI Evaluation of software development projects using a fuzzy multi-criteria
+   decision approach
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+VL 77
+IS 5-6
+BP 464
+EP 475
+DI 10.1016/j.matcom.2007.11.015
+PD MAY 1 2008
+PY 2008
+AB Software development is an inherently uncertain activity. To deal with
+   the uncertainty and vagueness from humans' subjective perception and
+   experience in decision process, this paper presents an evaluation model
+   based on the fuzzy multi-criteria decision-making (MCDM) method for
+   measuring the performance of software development projects. In an MCDM
+   problem, a decision maker (DM) has to choose the best alternative that
+   satisfies the evaluation criteria among a set of candidate solutions. It
+   is generally hard to find an alternative that meets all the criteria
+   simultaneously, so a good compromise solution is preferred. This problem
+   may become more complex when multiple DMs are involved, each having not
+   a common perception on the alternatives. Recently, a compromise ranking
+   method (known as the VIKOR method) has been proposed to identify such
+   compromise solutions, by providing a maximum group utility for the
+   majority and a minimum of an individual regret for the opponent. In its
+   actual setting, the method treats exact values for the assessment of the
+   alternatives, which can be quite restrictive with unquantifiable
+   criteria. This will be true especially if the evaluation is made by
+   means of linguistic terms. For this reason we extend the VIKOR method so
+   as to process such data and to provide a more comprehensive evaluation
+   in a fuzzy environment. To demonstrate the potential of the methodology,
+   the proposed extension is used for measuring the performance of
+   enterprise resource planning (ERP) software products. (C) 2007 IMACS.
+   Published by Elsevier B.V. All rights reserved.
+CT 2nd International Workshop on Sensory Evaluation and Intelligent
+   Techniques
+CY JUL 11-13, 2005
+CL Paris, FRANCE
+TC 42
+ZB 0
+Z8 0
+ZS 1
+Z9 43
+SN 0378-4754
+UT WOS:000255370300004
+ER
+
+PT J
+AU Zavadskas, Edmundas Kazimieras
+   Antucheviciene, Jurgita
+TI Development of an indicator model and ranking of sustainable
+   revitalization alternatives of derelict property: A Lithuanian case
+   study
+SO SUSTAINABLE DEVELOPMENT
+VL 14
+IS 5
+BP 287
+EP 299
+DI 10.1002/sd.285
+PD DEC 2006
+PY 2006
+AB The paper deals with the problem of the redevelopment of derelict
+   buildings and abandoned sites as a complex issue that includes
+   environmental, social and economic aspects. The objective of the
+   research was to suggest a model for determining the rational
+   revitalization of derelict immovable property from the perspective of
+   sustainable development. The authors assume that a multi-criterion
+   analysis is an appropriate technique to use to assure equilibrium among
+   various domains of sustainability. When taking into account the
+   uncertainty of a problem, calculations using the fuzzy version of the
+   TOPSIS method were proposed. The development of a model for determining
+   revitalization priorities of abandoned buildings was based on a case
+   study of derelict rural buildings in Lithuania. A set of indicators was
+   defined and used to perform the multi-criterion analysis of
+   revitalization alternatives of the derelict buildings. Based on results
+   from calculations, scientific recommendations for a rational
+   revitalization of buildings and their sites were prepared. Copyright (c)
+   2006 John Wiley & Sons, Ltd and ERP Environment.
+TC 43
+ZB 4
+Z8 0
+ZS 0
+Z9 43
+SN 0968-0802
+UT WOS:000243016500001
+ER
+
+EF

@@ -1,0 +1,85 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kilic, Huseyin Selcuk
+   Zaim, Selim
+   Delen, Dursun
+TI Selecting "The Best" ERP system for SMEs using a combination of ANP and
+   PROMETHEE methods
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 5
+BP 2343
+EP 2352
+DI 10.1016/j.eswa.2014.10.034
+PD APR 1 2015
+PY 2015
+AB Enterprise Resource Planning (ERP) system, which integrates all of the
+   units within an organization at the information level, plays an
+   important role for a successful enterprise. With the right ERP system,
+   it is easier to provide coordination.between the units, eliminate waste
+   and make faster and better decisions. Adopting an ERP system is a
+   significant investment decision for a firm, therefore a great deal of
+   attention should be given to the selection of the right system. Since
+   there are a large number of criteria to consider in selecting an ERP
+   system, the process itself is regarded as a complex multi-criteria
+   decision making problem. In this study, two prevalent multi-criteria
+   decision making techniques, Analytic Network Process (ANP) and
+   Preference Ranking Organization Method for Enrichment Evaluations
+   (PROMETHEE), are used in combination to better address the ERP selection
+   problem. First, ANP is used to determine the weights of all criteria,
+   and then, the obtained weights are used in the PROMETHEE method for
+   optimal ranking of the alternative system choices. To demonstrate the
+   viability of the proposed methodology, an application case is performed
+   on the ERP selection problem for the Small Medium Enterprises (SMEs) in
+   Istanbul, Turkey. The proposed hybrid methodology successfully ranked
+   the alternatives and identified the best ERP system based on the
+   information obtained from a number of SMEs participated in this study.
+   (C) 2014 Elsevier Ltd. All rights reserved.
+TC 3
+ZB 1
+Z8 0
+ZS 0
+Z9 3
+SN 0957-4174
+EI 1873-6793
+UT WOS:000348619900006
+ER
+
+PT J
+AU Razmi, Jafar
+   Sangari, Mohamad Sadegh
+TI A comprehensive decision support system for ERP pre-implementation phase
+SO EUROPEAN JOURNAL OF INDUSTRIAL ENGINEERING
+VL 7
+IS 4
+BP 475
+EP 496
+DI 10.1504/EJIE.2013.055020
+PD 2013
+PY 2013
+AB Given significant investments in enterprise resource planning (ERP)
+   systems, previous studies report unusually high failure rate and major
+   challenges in ERP projects. The activities prior to ERP implementation,
+   referred to as the pre-implementation phase, are very important because
+   they significantly affect the implementation success. In this paper, the
+   pre-implementation phase is focused in which necessary preparations
+   before embarking on the ERP initiative, required functions and features,
+   and the most appropriate ERP solution are decided. Such decisions are
+   risky, costly, and very time-consuming because they necessitate working
+   with a vast amount of information and require appropriate analytical
+   capabilities as well as decision making methods and structures. In this
+   paper, a comprehensive decision support system (DSS) is developed
+   helping organisations to make the targeted decisions both efficiently
+   and effectively. The proposed framework is applied in a real case study
+   to illustrate its effectiveness and practicality.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1751-5254
+UT WOS:000321615900005
+ER
+
+EF

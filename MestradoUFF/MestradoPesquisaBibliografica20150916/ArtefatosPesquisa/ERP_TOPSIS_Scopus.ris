@@ -1,0 +1,707 @@
+TY  - JOUR
+TI  - Approaches to manage hesitant fuzzy linguistic information based on the cosine distance and similarity measures for HFLTSs and their application in qualitative decision making
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 42
+IS  - 12
+SP  - 5328
+EP  - 5336
+PY  - 2015
+DO  - 10.1016/j.eswa.2015.02.017
+SN  - 09574174 (ISSN) 
+AU  - Liao, H.
+AU  - Xu, Z.
+AD  - Business School, Sichuan University, Chengdu, Sichuan, China
+AB  - Qualitative and hesitant information is common in practical decision making process. In such complicated decision making problem, it is flexible for experts to use comparative linguistic expressions to express their opinions since the linguistic expressions are much closer than single or simple linguistic term to human way of thinking and cognition. The hesitant fuzzy linguistic term set (HFLTS) turns out to be a powerful tool in representing and eliciting the comparative linguistic expressions. In order to develop some approaches to decision making with hesitant fuzzy linguistic information, in this paper, we firstly introduce a family of novel distance and similarity measures for HFLTSs, such as the cosine distance and similarity measures, the weighted cosine distance and similarity measures, the order weighted cosine distance and similarity measures, and the continuous cosine distance and similarity measures. All these distance and similarity measures are proposed from the geometric point of view while the existing distance and similarity measures over HFLTSs are based on the different forms of algebra distance measures. Afterwards, based on the hesitant fuzzy linguistic cosine distance measures between hesitant fuzzy linguistic elements, the cosine-distance-based HFL-TOPSIS method and the cosine-distance-based HFL-VIKOR method are developed to dealing with hesitant fuzzy linguistic multiple criteria decision making problems. The step by step algorithms of these two methods are given for the convenience of applications. Finally, a numerical example concerning the selection of ERP systems is given to illustrate the validation and efficiency of the proposed methods. © 2015 Elsevier Ltd. All rights reserved.
+KW  - Cosine-distance-based HFL-TOPSIS method
+KW  - Cosine-distance-based HFL-VIKOR method
+KW  - Hesitant fuzzy linguistic cosine distance measure
+KW  - Hesitant fuzzy linguistic cosine similarity measure
+KW  - Hesitant fuzzy linguistic term set
+KW  - Multiple criteria decision making
+KW  - Computational linguistics
+KW  - Decision making
+KW  - Numerical methods
+KW  - Cosine similarity measures
+KW  - Distance measure
+KW  - Distance-based
+KW  - Fuzzy linguistics
+KW  - Multiple criteria decision making
+KW  - TOPSIS method
+KW  - Linguistics
+PB  - Elsevier Ltd
+N1  - Cited By :2
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Xu, Z.; Business School, Sichuan UniversityChina
+N1  - Funding Details: 61273209, NSFC, National Natural Science Foundation of China
+N1  - References: Beg, I., Rashid, T., TOPSIS for hesitant fuzzy linguistic term sets (2013) International Journal of Intelligent Systems, 28, pp. 1162-1171; 
+Boran, F.E., Genç, S., Kurt, M., Akay, D., A multi-criteria intuitionistic fuzzy group decision making for supplier selection with TOPSIS method (2009) Expert Systems with Applications, 36, pp. 11363-11368; 
+Chen, C.T., Extensions of the TOPSIS for group decision-making under fuzzy environment (2000) Fuzzy Sets and Systems, 114, pp. 1-9; 
+Chen, T.Y., Tsao, C.Y., The interval-valued fuzzy TOPSIS method and experimental analysis (2008) Fuzzy Sets and Systems, 159, pp. 1410-1428; 
+Devi, K., Extension of VIKOR method in intuitionistic fuzzy environment for robot selection (2011) Expert Systems with Applications, 38, pp. 14163-14168; 
+Friedman, M., Last, M., Makover, Y., Kandel, A., Anomaly detection in web documents using crisp and fuzzy-based cosine clustering methodology (2007) Information Sciences, 177, pp. 467-475; 
+Hadi-Vencheh, A., Mirjaberi, M., Fuzzy inferior ratio method for multiple attribute decision making problems (2014) Information Sciences, 277, pp. 263-272; 
+Hwang, C.L., Yoon, K., (1981) Multiple Attributes Decision Making Methods and Applications, , Springer Berlin, Heidelberg; 
+Liao, H.C., Xu, Z.S., A VIKOR-based method for hesitant fuzzy multi-criteria decision making (2013) Fuzzy Optimization and Decision Making, 12 (4), pp. 373-397; 
+Liao, H.C., Xu, Z.S., Xia, M.M., Multiplicative consistency of hesitant fuzzy preference relation and its application in group decision making (2014) International Journal of Information Technology Decision Making, 13 (1), pp. 47-76; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Distance and similarity measures for hesitant fuzzy linguistic term sets and their application in multi-criteria decision making (2014) Information Sciences, 271, pp. 125-142; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Hesitant fuzzy linguistic VIKOR method and its application in qualitative multiple criteria decision making (2015) IEEE Transactions on Fuzzy Systems; 
+Liao H. ., C., Xu Z. ., S., Zeng X. ., J., (2015) Novel correlation coefficients between hesitant fuzzy sets and their application in decision making, , http://dx.doi.org/10.1016/j.knosys.2015.02.020, Knowledge-Based Systems; 
+Liao, H.C., Xu, Z.S., Zeng, X.J., Merigó, J.M., Qualitative decision making with correlation coefficients of hesitant fuzzy linguistic term sets (2015) Knowledge-Based Systems, 76, pp. 127-138; 
+Liu, H.B., Cai, J.F., Jiang, L., On improving the additive consistency of the fuzzy preference relations based on comparative linguistic expressions (2014) International Journal of Intelligent Systems, 29, pp. 544-559; 
+Liu, H.B., Rodríguez, R.M., A fuzzy envelope of hesitant fuzzy linguistic term set and its application to multicriteria decision making (2014) Information Sciences, 258, pp. 220-238; 
+Opricovic, S., Multicriteria optimization of civil engineering systems (1998) Faculty of Civil Engineering, Belgrade; 
+Opricovic, S., Fuzzy VIKOR with an application to water resources planning (2011) Expert Systems with Applications, 38, pp. 12983-12990; 
+Opricovic, S., Tzeng, G.H., Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS (2004) European Journal of Operational Research, 156, pp. 445-455; 
+Park, J.H., Cho, H.J., Kwun, Y.C., Extension of VIKOR method for group decision making with interval-valued intuitionistic fuzzy information (2011) Fuzzy Optimization and Decision Making, 10, pp. 233-253; 
+Rodríguez, R.M., Martínez, L., Herrera, F., Hesitant fuzzy linguistic terms sets for decision making (2012) IEEE Transactions on Fuzzy Systems, 20, pp. 109-119; 
+Rodríguez, R.M., Martínez, L., Herrera, F., A group decision making model dealing with comparative linguistic expressions based on hesitant fuzzy linguistic term set (2013) Information Sciences, 241, pp. 28-42; 
+Salton, G., McGill, M.J., (1983) Introduction to Modern Information Retrieval, , McGraw-Hill Book Company New York; 
+Sayadi, M.K., Heydari, M., Shahanaghi, K., Extension of VIKOR method for decision making problem with interval numbers (2009) Applied Mathematical Modelling, 33, pp. 2257-2262; 
+Torra, V., Hesitant fuzzy sets (2010) International Journal of Intelligent Systems, 25, pp. 529-539; 
+Wei, C.P., Zhao, N., Tang, X.J., Operators and comparisons of hesitant fuzzy linguistic term sets (2014) IEEE Transactions on Fuzzy Systems, 22 (3), pp. 575-585; 
+Xu, Z.S., Uncertain linguistic aggregation operators based approach to multiple attribute group decision making under uncertain linguistic environment (2004) Information Sciences, 168, pp. 171-184; 
+Xu, Z.S., Zhang, X.L., Hesitant fuzzy multi-attribute decision making based on TOPSIS with incomplete weight information (2013) Knowledge-Based Systems, 52, pp. 53-64; 
+Ye, J., Cosine similarity measures for intuitionistic fuzzy sets and their applications (2011) Mathematical and Computer Modelling, 53, pp. 91-97; 
+Yager, R.R., On ordered weighted averaging aggregation operators in multi-criteria decision making (1988) IEEE Transactions on Systems, Man, and Cybernetics, 18, pp. 183-190; 
+Zadeh, L.A., The concept of a linguistic variable and its applications to approximate reasoning-Part i (1975) Information Sciences, 8, pp. 199-249; 
+Zenebe, A., Norcio, A.F., Representation, similarity measures and aggregation methods using fuzzy sets for content-based recommender systems (2009) Fuzzy Sets and Systems, 160, pp. 76-94; 
+Zhu, B., Xu, Z.S., Consistency measures for hesitant fuzzy linguistic preference relations (2014) IEEE Transactions on Fuzzy Systems, 22 (1), pp. 35-45
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84939958334&partnerID=40&md5=de4506b72e3780cd0e382074676b2293
+ER  - 
+
+TY  - JOUR
+TI  - Sector selection for ERP implementation to achieve most impact on supply chain performance by using AHP–TOPSIS hybrid method 
+ST  - Odabir sektora za primjenu ERP–a u cilju što boljeg djelovanja na učinak nabavnog lanca primjenom AHP–TOPSIS hibridne metode
+T2  - Tehnicki Vjesnik
+J2  - Teh. Vjesn.
+VL  - 21
+IS  - 5
+SP  - 933
+EP  - 937
+PY  - 2014
+SN  - 13303651 (ISSN) 
+AU  - Rouyendegh, B.D.
+AU  - Baç, U.
+AU  - Erkan, T.E.
+AD  - Department of Industrial Engineering, Atılım University, P. O. Box 06836, İncek, Ankara, Turkey
+AB  - Recently, studies about the Enterprise Resource Planning (ERP) have been increased and this research area has attracted more attention. Especially, in the global competition environment, enterprises have to focus on their Information Systems (IS) performance to have a competitive advantage; implementing an ERP system and improving the effectiveness of the system is the only way. However every sector reacts to ERP implementation differently. Purpose of this study is to rank the sectors according to their performance increments after successful ERP implementations by using AHP-TOPSIS hybrid method. As a result, general structure of Turkish companies will be pictured and the sectors which have the most chance to improve their performance by utilizing an ERP system will be defined. These findings will help the companies to plan the implementation process more precisely and help the managers of these companies to define their expectations more clearly. A numerical example is given to clarify the main developed result in this paper. © 2014, Technical Gazette. All Rights Reserved.
+KW  - AHP–TOPSIS
+KW  - ERP implementation
+KW  - Sector selection
+KW  - Supply chain performance
+KW  - Chains
+KW  - Competition
+KW  - Hierarchical systems
+KW  - Supply chains
+KW  - Competitive advantage
+KW  - Enterprise resource planning (ERP)
+KW  - ERP implementation
+KW  - General structures
+KW  - Global competition
+KW  - Implementation process
+KW  - Sector selection
+KW  - Supply chain performance
+KW  - Enterprise resource planning
+PB  - Strojarski Facultet
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Rouyendegh, B.D.; Department of Industrial Engineering, Atılım University, P. O. Box 06836, Turkey
+N1  - References: Trkman, P., McCormack, K., Valadares de Oliveira, M.P., Ladeira, M.B., The Impact of Business Analytics on Supply Chain Performance (2010) Decision Support Systems, 49, pp. 318-327; 
+Li, S., Ragu-Nathan, B., Ragu-Nathan, T.S., Subba Rao, S., The Impact of Supply Chain Management Practices on Competitive Advantage and Organizational Performance (2006) Omega, 34 (2), pp. 107-124; 
+Trkman, P., Indihar ŠTemberger, M., Jaklič, J., Groznik, A., Process Approach to Supply Chain Integration, Supply Chain Management (2007) Supply Chain Management: An International Journal, 12 (2), pp. 116-128; 
+Hammond, J.H., (1990) Quick Response in the Apparel Industry, , Working paper, Harvard University, Cambridge, MA. Report Number N9-690-038; 
+Lowson, B., King, R., Hunter, A., (1999) Quick Response Managing the Supply Chain to Meet Consumer Demand, , Wiley, Chichester, West Sussex, England; 
+Lockamy, I.A., McCormack, K., Linking SCOR Planning Practices to Supply Chain Performance: An Exploratory Study (2004) International Journal of Operations & Production Management. 24, 11-12, pp. 1192-1218; 
+Reichardt, E., Nichols, L.J., SCOR your ISO Certification (2003) Quality, 42 (2), pp. 44-47; 
+Liu, C.H., The effect of a quality management system on supply chain performance: an empirical study in Taiwan (2009) International Journal of Management, 26 (2), pp. 285-295; 
+Tesoro, F., Tootson, J., (2000) Implementing Global Performance Measurement Systems-A Cookbook Approach, , Jossey-Bass, San Francisco; 
+Hwang, Y., Lin, Y., Lyu, J., The Performance Evaluation of SCOR Sourcing Process - The Case Study of Taiwan’s TFT-LCD Industry (2008) International Journal of Production Economics, 115, pp. 411-423; 
+Langfield-Smith, K., Smith, D., Performance Measures in Supply Chains (2005) Australian Accounting Review, 15 (1), pp. 39-51; 
+Gunasekaran, A., Patel, C., McGaughey, R.E., A Framework for Supply Chain Performance Measurement (2004) International Journal of Production Economics, 87, pp. 333-347; 
+Xu, L., (2007) Enterprise Information Systems, 1 (1), pp. 1-2. , Editorial; 
+Auramo, J., Kauremaa, J., Tanskanen, K., Benefits of IT in Supply Chain Management: An Explorative Study of Progressive Companies (2005) International Journal of Physical Distribution & Logistics Management, 35 (2), pp. 82-100; 
+Staley, S., Warfield, J., Enterprise Integration of Product Development Data (2007) Systems Science in Action. // Enterprise Information Systems, 1 (3), pp. 269-285; 
+Gulledge, T., Chavusholu, T., Automating the Construction of Supply Chain Key Performance Indicators (2008) Industrial Management & Data Systems, 108 (6), pp. 750-774; 
+Issa, H., QoS-aware Middleware for Web Services Composition: A Qualitative Approach (2009) Enterprise Information Systems, 3 (4), pp. 449-470; 
+Millet, P., Schmitt, P., Botta-Genoulaz, V., The SCOR Model for the Alignment of Business Processes and Information Systems (2009) Enterprise Information Systems, 3 (4), pp. 393-407; 
+Davenport, T.H., (2000) Mission Critical: Realizing the Promise of Enterprise Systems, , Harvard Business Press; 
+Davenport, T.H., Putting the Enterprise into the Enterprise System (1998) Harvard Business Review, pp. 121-131. , July-August; 
+Mabert, V.A., Soni, A., Venkataramanan, V.A., Enterprise Resource Planning Survey of Manufacturing Firms (2000) Production and Inventory Management Journal, 41 (20), pp. 52-58; 
+Shyur, H.J., Shih, H.S., A hybrid MCDM model for strategic vendor selection (2006) Mathematical and Computer Modelling, 44 (7-8), pp. 749-761; 
+Saaty, T.L., Vargas, L.G., (2006) Decision Making With The Analytic Network Process, pp. 1-23. , Spring Science, LLC; 
+Saaty, T.L., (1980) The Analytic Hierarchy Process, , McGraw-Hill, New York; 
+Boroushaki, S., Malczewski, J., Implementing an extension of the analytical hierarchy process using ordered weighted averaging operators with fuzzy quantifiers in ArcGIS (2008) Computers & Geosciences, 34, pp. 399-410; 
+Vahidnia, M.H., Alesheika, A.A., Alimohammadi, A., Hospital site selection using AHP and its derivatives (2009) Journal of Environmental Management, 90, pp. 3048-3056; 
+Erkan, T.E., Bac, U., Supply Chain Performance Measurement: A Case Study about Applicability of Scor Model in a Manufacturing Industry Firm (2011) International Journal of Business And Management Studies, 3 (1), pp. 381-390; 
+Erkan, T.E., Bac, U., Rouyendegh, B.D., Effects of BPR on ERP Implementation Success and Supply Chain Performance (2012) 3rd International Conference on Information Management and Evaluation, , April, Ankara/Turkey
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84923075363&partnerID=40&md5=d98ccfbbc2a8ac0571e7c7841470aa02
+ER  - 
+
+TY  - JOUR
+TI  - Development of a hybrid methodology for ERP system selection: The case of Turkish Airlines
+T2  - Decision Support Systems
+J2  - Decis Support Syst
+VL  - 66
+SP  - 82
+EP  - 92
+PY  - 2014
+DO  - 10.1016/j.dss.2014.06.011
+SN  - 01679236 (ISSN) 
+AU  - Kilic, H.S.
+AU  - Zaim, S.
+AU  - Delen, D.
+AD  - Department of Industrial Engineering, Engineering Faculty, Marmara University, Kadikoy, Istanbul, Turkey
+AD  - Department of Industrial Engineering, Faculty of Management, Istanbul Technical University, Macka, Istanbul, Turkey
+AD  - Department of Management Science and Information Systems, Spears School of Business, Oklahoma State University, Tulsa, OK, United States
+AB  - Enterprise resource planning (ERP) systems that aimto integrate, synchronize and centralize organizational data are generally regarded as a vital tool for companies to be successful in the rapidly changing global marketplace. Due to its high acquisition-purchasing, installation and implementation-cost and the wide range of offerings, the selection of ERP systems is a strategically important and difficult decision. Since there is a wide range of tangible and intangible criteria to be considered, it is often defined as a multi-criteria decision making problem. To overcome the challenges imposed by the multifaceted nature of the problem, herein a three-stage hybrid methodology is proposed. The process starts with the identification of most prevailing criteria through a series of brainstorming sessions that include people from different organizational units. Then, due to the varying importance of the criteria, a fuzzy Analytic Hierarchy Process, which handles the vagueness inherent in the decision making process, is used to obtain the relative importance/weights of the criteria. Theseweighted criteria are then used as input to the Technique for Order Preference by Similarity to Ideal Solution method to rank the decision alternatives. As a real-world illustrative case, the proposed methodology is applied to the ERP selection problem at Turkish Airlines. Because of the collaborative and systematic nature of the methodology, the results obtained from the process were found to be highly satisfactory and trustworthy by the decision makers. © 2014 Elsevier B.V. All rights reserved.
+KW  - AHP
+KW  - Airline industry
+KW  - ERP
+KW  - Fuzzy logic
+KW  - MCDM
+KW  - TOPSIS
+KW  - Fuzzy logic
+KW  - AHP
+KW  - Airline industry
+KW  - Erp system selections
+KW  - Hybrid methodologies
+KW  - MCDM
+KW  - TOPSIS
+KW  - Turkishs
+KW  - Enterprise resource planning
+PB  - Elsevier
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: DSSYD
+LA  - English
+N1  - Correspondence Address: Delen, D.; Department of Management Science and Information Systems, Spears School of Business, Oklahoma State UniversityUnited States
+N1  - References: Ahi, A., Aryanezhad, M.B., Ashtiani, B., Makui, A., A novel approach to determine cell formation, intracellular machine layout and cell layout in the CMS problem based on TOPSIS method (2009) Computers & Operations Research, 36 (5), pp. 1478-1496; 
+Aloini, D., Dulmin, R., Mininno, V., Risk management in ERP project introduction: Review of the literature (2007) Information & Management, 44, pp. 547-567; 
+Al-Mashari, M., Enterprise resource planning (ERP) systems: A research agenda (2002) Industrial Management & Data Systems, 102 (3), pp. 165-170; 
+Baki, B., Çakar, K., Determining the ERP package-selecting criteria: The case of Turkish manufacturing companies (2005) Business Process Management Journal, 11 (1), pp. 75-86; 
+Behzadian, M., Otaghsara, S.K., Yazdani, M., Ignatius, J., A state-of the-art survey of TOPSIS applications (2012) Expert Systems with Applications, 39 (17), pp. 13051-13069; 
+Bozbura, F.T., Beskese, A., Kahraman, C., Prioritization of human capital measurement indicators using fuzzy AHP (2007) Expert Systems with Applications, 32, pp. 1100-1112; 
+Buckley, J.J., Fuzzy hierarchical analysis (1985) Fuzzy Sets Systems, 17 (1), pp. 233-247; 
+Chang, D.-Y., Applications of the extent analysis method on fuzzy AHP (1996) European Journal of Operational Research, 95, pp. 649-655; 
+Chou, S.-W., Chang, Y.-C., The implementation factors that influence the ERP (Enterprise Resource Planning) benefits (2008) Decision Support Systems, 46, pp. 149-157; 
+Deep, A., Guttridge, P., Dani, S., Burns, N., Investigating factors affecting ERP selection in made-to-order SME sector (2008) Journal of Manufacturing Technology Management, 19 (4), pp. 430-446; 
+Doom, C., Milis, K., Poelmans, S., Bloemen, E., Critical success factors for ERP implementations in Belgian SMEs (2010) Journal of Enterprise Information Management, 23 (3), pp. 378-406; 
+Ertuʇrul, I., Karakaşoglu, N., Performance evaluation of Turkish cement firms with fuzzy analytic hierarchy process and TOPSIS methods (2009) Expert Systems with Applications, 36 (1), pp. 702-715; 
+Finney, S., Corbett, M., ERP implementation: A compilation and analysis of critical success factors (2007) Business Process Management Journal, 13 (3), pp. 329-347; 
+Forslund, H., Jonsson, P., Selection, implementation and use of ERP systems for supply chain performance management (2010) Industrial Management & Data Systems, 110 (8), pp. 1159-1175; 
+Genoulaz, V.B., Millet, P.-A., Grabot, B., A survey on the recent research literature on ERP systems (2005) Computers in Industry, 56, pp. 510-522; 
+Gürbüz, T., Alptekin, S.E., Alptekin, G.I., A hybrid MCDM methodology for ERP selection problem with interacting criteria (2012) Decision Support Systems, 54, pp. 206-214; 
+Hakim, A., Hakim, H., A practical model on controlling the ERP implementation risks (2010) Information Systems, 35, pp. 204-214; 
+Hwang, C.L., Yoon, K., (1981) Multiple Attributes Decision Making Methods & Applications, , Springer New York; 
+Kahraman, C., Kaya, I., A fuzzy multicriteria methodology for selection among energy alternatives (2010) Expert Systems with Applications, 37 (9), pp. 6270-6281; 
+Karsak, E.E., Özogul, C.O., An integrated decision making approach for ERP system selection (2009) Expert Systems with Applications, 36, pp. 660-667; 
+Kilic, H.S., A fuzzy AHP based performance assessment system for the strategic plan of Turkish Municipalities (2011) International Journal of Business and Management Studies, 3 (2), pp. 77-86; 
+Kilic, H.S., Cevikcan, E., Job selection based on fuzzy AHP: An investigation including the students of Istanbul Technical University Management Faculty (2011) International Journal of Business and Management Studies, 3 (1), pp. 173-182; 
+Kilic, H.S., Cevikcan, E., A hybrid weighting methodology for performance assessment in Turkish municipalities (2012) Communications in Computer and Information Science, 300, pp. 354-363; 
+Kilic, H.S., An integrated approach for supplier selection in multi-item/multi-supplier environment (2013) Applied Mathematical Modelling, 37 (1415), pp. 7752-7763; 
+Kilincci, O., Onal, S.A., Fuzzy AHP approach for supplier selection in a washing machine company (2011) Expert Systems with Applications, 38, pp. 9656-9664; 
+Liao, X., Li, Y., Lu, B., A model for selecting an ERP system based on linguistic information processing (2007) Information Systems, 32, pp. 1005-1017; 
+Lin, M.-C., Wang, C.-C., Chen, M.-S., Chang, C.A., Using AHP and TOPSIS approaches in customer-driven product design process (2008) Computers in Industry, 59 (1), pp. 17-31; 
+Maditinos, D., Chatzoudes, D., Tsairidis, C., Factors affecting ERP system implementation effectiveness (2011) Journal of Enterprise Information Management, 25 (1), pp. 60-78; 
+Maguire, S., Ojiako, U., Said, A., ERP implementation in Omantel: A case study (2010) Industrial Management & Data Systems, 110 (1), pp. 78-92; 
+Malhotra, R., Temponi, C., Critical decisions for ERP integration: Small business issues (2010) International Journal of Information Management, 30, pp. 28-37; 
+May, J., Dhillon, G., Caldeira, M., Defining value-based objectives for ERP systems planning (2013) Decision Support Systems, 55 (1), pp. 98-109; 
+Motwani, J., Subramanian, R., Gopalakrishna, P., Critical factors for successful ERP implementation: Exploratory findings from four case studies (2005) Computers in Industry, 56, pp. 529-544; 
+Olson, D.L., Evaluation of ERP outsourcing (2007) Computers & Operations Research, 34, pp. 3715-3724; 
+Paksoy, T., Pehlivan, N.Y., Kahraman, C., Organizational strategy development in distribution channel management using fuzzy AHP and hierarchical fuzzy TOPSIS (2012) Expert Systems with Applications, 39 (3), pp. 2822-2841; 
+Perçin, S., Using the ANP approach in selecting and benchmarking ERP systems (2008) Benchmarking: An International Journal, 15 (5), pp. 630-649; 
+Razmi, J., Sangari, M.S., Ghodsi, R., Developing a practical framework for ERP readiness assessment using fuzzy analytic network process (2009) Advances in Engineering Software, 40, pp. 1168-1178; 
+Saatçioʇlu Ö., Y., What determines user satisfaction in ERP projects: Benefits, barriers or risks? (2009) Journal of Enterprise Information Management, 22 (6), pp. 690-708; 
+Saaty, T., (1980) The Analytic Hierarchy Process, , McGraw-Hill New York; 
+Schlichter, B.R., Kraemmergaard, P., A comprehensive literature review of the ERP research fieldover a decade (2010) Journal of Enterprise Information Management, 23 (4), pp. 486-520; 
+Shafia, M.A., Mazdeh, M.M., Vahedi, M., Pournader, M., Applying fuzzy balanced scorecard for evaluating the CRM performance (2011) Industrial Management & Data Systems, 111 (7), pp. 1105-1135; 
+Sun, A.Y.T., Yazdani, A., Overend, J.D., Achievement assessment for enterprise resource planning (ERP) system implementations based on critical success factors (CSFs) (2005) International Journal of Production Economics, 98, pp. 189-203; 
+Şen, C.G., Baraçli, H., Şen, S., Başligil, H., An integrated decision support system dealing with qualitative and quantitative objectives for enterprise software selection (2009) Expert Systems with Applications, 36, pp. 5272-5283; 
+Şen, C.G., Baraçli, H., Fuzzy quality function deployment based methodology for acquiring enterprise software selection requirements (2010) Expert Systems with Applications, 37, pp. 3415-3426; 
+Tan, P.S., Lee, S.S.G., Goh, A.E.S., Multi-criteria decision techniques for context-aware B2B collaboration in supply chains (2012) Decision Support Systems, 52 (4), pp. 779-789; 
+Umble, E.J., Haft, R.R., Umble, M.M., Enterprise resource planning: Implementation procedures and critical success factors (2003) European Journal of Operational Research, 146, pp. 241-257; 
+Ünal, C., Güner, M.G., Selection of ERP suppliers using AHP tools in the clothing industry (2009) International Journal of Clothing Science and Technology, 21 (4), pp. 239-251; 
+Van Laarhoven, P.J.M., Pedrycz, W., A fuzzy extension of Saaty's priority theory (1983) Fuzzy Sets and Systems, 11, pp. 229-241; 
+Velcu, O., Exploring the effects of ERP systems on organizational performance: Evidence from Finnish companies (2007) Industrial Management & Data Systems, 107 (9), pp. 1316-1334; 
+Verville, J., Bernadas, C., Halingten, A., So you're thinking of buying an ERP? Ten critical factors for successful acquisitions (2005) Journal of Enterprise Information Management, 18 (6), pp. 665-677; 
+Wei, C.-C., Wang, M.-J.J., A comprehensive framework for selecting an ERP system (2004) International Journal of Project Management, 22, pp. 161-169; 
+Wei, C.-C., Chien, C.-F., Wang, M.-J.J., An AHP-based approach to ERP system selection (2005) International Journal of Production Economics, 96, pp. 47-62; 
+Wickramasinghe, V., Karunasekara, M., Impact of ERP systems on work and work-life (2012) Industrial Management & Data Systems, 112 (6), pp. 982-1004; 
+Wu, J.-H., Shin, S.-S., Heng, M.S.H., A methodology for ERP misfit analysis (2007) Information & Management, 44, pp. 666-680; 
+Yang, J.-B., Wu, C.-T., Tsai, C.-H., Selection of an ERP system for a construction firm in Taiwan: A case study (2007) Automation in Construction, 16, pp. 787-796; 
+Yazgan, H.R., Boran, S., Goztepe, K., An ERP software selection process with using artificial neural network based on analytic network process approach (2009) Expert Systems with Applications, 36, pp. 9214-9222; 
+Ziaee, M., Fathian, M., Sadjadi, S.J., A modular approach to ERP system selection: A case study (2006) Information Management & Computer Security, 14 (5), pp. 485-495; 
+Zadeh, L.A., Fuzzy sets (1965) Information and Control, 8 (3), pp. 338-353
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84908206662&partnerID=40&md5=a6b34a14d282d6e257e771e7e04755c8
+ER  - 
+
+TY  - JOUR
+TI  - ERP evaluation and selection using Fuzzy MCDM in Iranian manufactures
+T2  - Advances in Environmental Biology
+J2  - Adv. Environ. Biol.
+VL  - 7
+IS  - 8
+SP  - 1745
+EP  - 1752
+PY  - 2013
+SN  - 19950756 (ISSN) 
+AU  - VahidFattahi
+AU  - Askarizadeh, M.
+AU  - Zohrabi, A.
+AD  - Department of management, Shahid beheshti University, Tehran, Iran
+AD  - Department of engineering, University Technology Malaysia, Malaysia
+AD  - Payame Noor University, Department of Management, PO BOX 19395-3697, Tehran, Iran
+AB  - In the recent years ERP systems have received much attention. An enterprise resource planning system (ERP) is the information backbone of a company that integrates and automates all business operations. In spite of considerable changes that the implementation of such systems at all levels of the organization will bring about, lack precision in selecting appropriate ERP systems leads to irreparable damage for the organization. So, it is a critical issue to select the suitable ERP system which meets all the business strategies and the goals of the company. This paper has tried to introduce a method for selecting ERP system by using fuzzy theory and fuzzy multiple criteria decision making. The methodology was applied for Iranian manufacturing company.
+KW  - ERP
+KW  - Fuzzy AHP
+KW  - Fuzzy TOPSIS
+KW  - Mikhailov's method
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: VahidFattahi; Department of management, Shahid beheshti University, Tehran, Iran; email: vfatahi@gmail.com
+N1  - References: Austin, R.D., Cotteleer, M.J., Escalle, C.X., Enterprise Resource Planning: Technology Note (2003) Harvard Business School., 34, pp. 1-8; 
+Bellman, R.E., Zadeh, L.A., Decisionmaking in a fuzzy environment (1970) Management Science, 17 (4), pp. 141-164; 
+Belton, V., Gear, T., (1983) On a short-coming of Saaty's method of analytic hierarchies, Omega, 11, pp. 228-230; 
+Buckley, J.J., Fuzzy hierarchical analysis (1985) Fuzzy Sets and Systems, 17, pp. 233-247; 
+Butler, J., Risk management skills needed in a packaged software environment (1999) Information System Management., 16 (3), pp. 15-20; 
+Buyukozkan, G., Kahraman, C., Ruan, D., A fuzzy multi-criterial decision approach for software development strategy selection (2004) International Journal of General Systems, 33 (2-3), pp. 259-280; 
+Buyukozkan, G., Multi-criteria decision making for e-marketplace selection (2004) Internet Research-Electronic Networking Applications and Policy, 14 (2), pp. 139-154; 
+Chang, D.A., Application of the extent analysis method on fuzzy AHP (1996) European J. Oper. Res., 95, pp. 649-655; 
+Chen, C., Extensions of the TOPSIS for group decision-making under fuzzy environment (2000) Fuzzy Sets and Systems, 114, pp. 1-9; 
+Dubois, D., Prade, H., Operations on fuzzy numbers (1978) International Journal of System Sciences, 9 (6), pp. 613-626; 
+Herrera, F., Herrera-Viedma, E., Linguistic decision analysis: Steps for solving decision problems under linguistic information (2000) Fuzzy Sets and Systems, 115, pp. 67-82; 
+Hitt, L.M., Wu, D.J., Zhou, X., Investment in Enterprise Resource Planning: Business impact and productivity measures (2002) Industrial Marketing Management., 19 (1), pp. 71-98; 
+Hong, K.K., Kim, Y.G., The Critical Success Factors for ERP Implementation: An Organizational Fit Perspective (2002) Information & Management., 40, pp. 25-40; 
+Hsu, T.H., Public Transport system project evaluation using the analytic hierarchy process: A fuzzy Delphi approach (1999) Transportation Planning and Technol., 22, pp. 229-246; 
+(1991) Information Technology-Software Evaluation, , International Standard 9126, Quality Characteristics and Guidelines for their Use, ISO; 
+Jayaratna, E., Chang, A.L., Pervan, G., Research activities in the school systems at Curtin University of Technology (2003) International Journal of Information Management., 23, pp. 425-430; 
+Kwang, H.L., (2005) First Course on Fuzzy Theory and Applications, pp. 137-144. , Springer-Verlag, Berlin-Heidelberg/New York; 
+Mikhailov, L., Deriving priorities from fuzzy pairwise comparison judgemments (2002) J. Oper. Res. Soc., 51, pp. 341-349; 
+Nah, F., Lou, J., Kuang, J., Critical Factors for Successful Implementation of Enterprise Systems (2001) Business Process Management Journal., 7 (3), pp. 285-296; 
+Opricovic, S., Tzeng, G.H., Defuzzification within a fuzzy multicriteria decision model (2003) International journal of Uncertainty, Knowledge-based Systems, 11 (5), pp. 635-652; 
+Oliver, D., Romm, C., ERP systems: The route to adoption, Proceedings of Americas Conference on Information Systems (2000) AMCIS. Long-Beach. CA., 29 (2), pp. 1039-1044; 
+Saaty, T.L., (1988) Multicriteria Decision Making: The Analytic Hierarchy Process, , RWS Publications, Pittsburgh, PA; 
+Schniederjans, M.J., Wilson, R.L., (1991) Using the analytic hierarchy process and goal programming; 
+Scott, J.E., Kaindl, L., Enhancing functionality in an enterprise software package (2000) Information & Management., 37, pp. 111-123; 
+Umble, E., Haft, J., Umble, M., Enterprise Resource Planning: Implementation Procedures and Critical Success Factors (2003) European Journal of Operational Research, 146, pp. 241-257; 
+Van Laarhoven, P.J.M., Pedrycz, W., Fuzzy extension for Saaty's priority theory (1983) Fuzzy Sets and Systems, 11, pp. 229-241; 
+Wang, J., Lin, Y.I., (2003) A fuzzy multicriteria group decision making approach to select configuration items for software development; 
+Wei, C.C., Wang, M.J., A comprehensive framework for selecting an ERP system (2004) International Journal of Project Management., 22, pp. 161-169; 
+Yang, T., Multiple-attribute decision-making methods for plant layout design problem (2007) Robotics and Computer-integrated manufacturing, 23, pp. 126-137
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84885117831&partnerID=40&md5=253b67804a1f4a06751651a4306bfc70
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation model of business intelligence for enterprise systems using fuzzy TOPSIS
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 39
+IS  - 3
+SP  - 3764
+EP  - 3771
+PY  - 2012
+DO  - 10.1016/j.eswa.2011.09.074
+SN  - 09574174 (ISSN) 
+AU  - Rouhani, S.
+AU  - Ghazanfari, M.
+AU  - Jafari, M.
+AD  - Department of Industrial Engineering, Iran University of Science and Technology, Tehran, Iran
+AB  - Evaluation of business intelligence for enterprise systems before buying and deploying them is of vital importance to create decision support environment for managers in organizations. This study aims to propose a new model to provide a simple approach to assess enterprise systems in business intelligence aspects. This approach also helps the decision-maker to select the enterprise system which has suitable intelligence to support managers' decisional tasks. Using wide literature review, 34 criteria about business intelligence specifications are determined. A model that exploits fuzzy TOPSIS technique has been proposed in this research. Fuzzy weights of the criteria and fuzzy judgments about enterprise systems as alternatives are employed to compute evaluation scores and ranking. This application is realized to illustrate the utilization of the model for the evaluation problems of enterprise systems. On this basis, organizations will be able to select, assess and purchase enterprise systems which make possible better decision support environment in their work systems. © 2011 Elsevier Ltd. All rights reserved.
+KW  - Business intelligence
+KW  - Enterprise systems
+KW  - Evaluation model
+KW  - Fuzzy TOPSIS
+KW  - Decision makers
+KW  - Decision supports
+KW  - Enterprise system
+KW  - Evaluation models
+KW  - Evaluation problems
+KW  - Fuzzy judgment
+KW  - FUZZY TOPSIS
+KW  - Fuzzy weight
+KW  - Literature reviews
+KW  - New model
+KW  - Simple approach
+KW  - Work system
+KW  - Decision support systems
+KW  - Enterprise resource planning
+KW  - Managers
+KW  - Industry
+N1  - Cited By :41
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Rouhani, S.; Reyhani Pamchi Allay, Allameh Amini St, West Mobarez St, Tehran 17789-14361, Iran; email: SRouhani@iust.ac.ir
+N1  - References: Abo-Sinna, M.A., Amer, A.H., Extensions of TOPSIS for multi objective large-scale nonlinear programming problems (2005) Applied Mathematics and Computation, 162, pp. 243-256; 
+Alter, S., Work system view of DSS in its fourth decade (2004) Decision Support Systems, 38, pp. 319-327; 
+Amiri, M.P., Project selection for oil-.elds development by using the AHP and fuzzy TOPSIS methods (2010) Expert Systems with Applications, 37, pp. 6218-6224; 
+Anderson, J.L., Jolly, L.D., Fairhurst, A.E., Customer relationship management in retailing: A content analysis of retail trade journals (2007) Journal of Retailing and Consumer Services, 14 (6), pp. 394-399. , DOI 10.1016/j.jretconser.2007.02.009, PII S0969698907000161, Data Mining Applications in Retailing and Consumer Services; 
+Azadivar, F., Truong, T., Jiao, Y., A decision support system for fisheries management using operations research and systems science approach (2009) Expert Systems with Applications, 36, pp. 2971-2978; 
+Azoff, M., Charlesworth, I., (2004) The New Business Intelligence. A European Perspective, , Butler Group, White Paper; 
+Baars, H., Kemper, H., Management support with structured and unstructured data - An integrated business intelligence framework (2008) Information Systems Management, 25, pp. 132-148; 
+Berzal, F., Cubero, J., Jiménez, A., The design and use of the TMiner component-based data mining framework (2008) Expert Systems with Applications; 
+Bolloju, N., Khalifa, M., Turban, E., Integrating knowledge management into enterprise environments for the next generation decision support (2002) Decision Support Systems, 33 (2), pp. 163-176. , DOI 10.1016/S0167-9236(01)00142-7, PII S0167923601001427; 
+Bose, R., Advanced analytics: Opportunities and challenges (2009) Industrial Management & Data Systems, 109 (2), pp. 155-172; 
+Bui, T., Lee, J., Agent-based framework for building decision support systems (1999) Decision Support Systems, 25, pp. 225-237; 
+Büyükzkan, G., Feyzioglu, O., Nebol, E., Selection of the strategic alliance partner in logistics value chain (2008) International Journal of Production Economics, 113, pp. 148-158; 
+Chan, F.T.S., Kumar, N., Global supplier development considering risk factors using fuzzy extended AHP-based approach (2007) Omega, 35 (4), pp. 417-431. , DOI 10.1016/j.omega.2005.08.004, PII S030504830500112X; 
+Chang, Y.H., Chung, H.Y., Wang, S.Y., A survey and optimization-based evaluation of development strategies for the air cargo industry (2007) International Journal of Production Economics, 106, pp. 550-562; 
+Chang, Y.H., Yeh, C.H., A survey analysis of service quality for domestic airlines (2002) European Journal of Operational Research, 139, pp. 166-177; 
+Chen, T.Y., Tsao, C.Y., The interval-valued fuzzy TOPSIS methods and experimental analysis (2007) Fuzzy Sets and Systems; 
+Cheng, S., Chan, C.W., Huang, G.H., An integrated multi-criteria decision analysis and inexact mixed integer linear programming approach for solid waste management (2003) Engineering Applications of Artificial Intelligence, 16, pp. 543-554; 
+Cheng, H., Lu, Y., Sheu, C., An ontology-based business intelligence application in a financial knowledge management system (2009) Expert Systems with Applications, 36, pp. 3614-3622; 
+Courtney, J.F., Decision making and knowledge management in inquiring organizations: Toward a new decision-making paradigm for DSS (2001) Decision Support Systems, 31 (1), pp. 17-38. , DOI 10.1016/S0167-9236(00)00117-2, PII S0167923600001172; 
+Damart, S., Dias, L.C., Mousseau, V., Supporting groups in sorting decisions: Methodology and use of a multi-criteria aggregation/disaggregation DSS (2007) Decision Support Systems, 43 (4), pp. 1464-1475. , DOI 10.1016/j.dss.2006.06.002, PII S0167923606000820; 
+Delorme, X., Gandibleux, X., Rodríguez, J., Stability evaluation of a railway timetable at station level (2009) European Journal of Operational Research, 195, pp. 780-790; 
+Eckerson Wayne, W., (2005) Performance Dashboards: Measuring, Monitoring, and Managing Your Business, , Wiley; 
+Elbashir, M.Z., Collier, P.A., Davern, M.J., Measuring the effects of business intelligence systems: The relationship between business process and organizational performance (2008) International Journal of Accounting Information Systems, 9 (3), pp. 135-153; 
+Eom Sean, B., Decision support systems research: Current state and trends (1999) Industrial Management and Data Systems, 99 (5), pp. 213-220; 
+Evers, M., An analysis of the requirements for DSS on integrated river basin management (2008) Management of Environmental Quality: An International Journal, 19 (1), pp. 37-53; 
+Fazlollahi, B., Vahidov, R., Extending the effectiveness of simulation-based DSS through genetic algorithms (2001) Information and Management, 39 (1), pp. 53-65. , DOI 10.1016/S0378-7206(01)00079-9, PII S0378720601000799; 
+Feng, Y., Teng, T., Tan, A., Modelling situation awareness for context-aware decision support (2009) Expert Systems with Applications, 36, pp. 455-463; 
+Feng, C.M., Wang, R.T., Performance evaluation for airlines including the consideration of financial ratios (2000) Journal of Air Transport Management, 6, pp. 133-142; 
+Feng, C.M., Wang, R.T., Considering the financial ratios on the performance evaluation of highway bus industry (2001) Transport Reviews, 21, pp. 449-467; 
+Galasso, F., Thierry, C., Design of cooperative processes in a customer-supplier relationship: An approach based on simulation and decision theory (2008) Engineering Applications of Artificial Intelligence; 
+Gao, S., Xu, D., Conceptual modeling and development of an intelligent agent-assisted decision support system for anti-money laundering (2009) Expert Systems with Applications, 36, pp. 1493-1504; 
+Ghoshal, S., Kim, S.K., Building effective intelligence systems for competitive advantage (1986) Sloan Management Review, 28 (1), pp. 49-58; 
+Gonnet, S., Henning, G., Leone, H., A model for capturing and representing the engineering design process (2007) Expert Systems with Applications, 33 (4), pp. 881-902. , DOI 10.1016/j.eswa.2006.07.004, PII S095741740600220X; 
+González, J.R., Pelta, D.A., Masegosa, A.D., A framework for developing optimization-based decision support systems (2008) Expert Systems with Applications; 
+Goodhuea, D.L., Kleinb, B.D., March, S.T., User evaluations of IS as surrogates for objective performance (2000) Information & Management, 38, pp. 87-101; 
+Gottschalk, P., Expert systems at stage IV of the knowledge management technology stage model: The case of police investigations (2006) Expert Systems with Applications, 31 (3), pp. 617-628. , DOI 10.1016/j.eswa.2005.09.063, PII S0957417405002745; 
+Goul, M., Corral, K., Enterprise model management and next generation decision support (2007) Decision Support Systems, 43 (3), pp. 915-932. , DOI 10.1016/j.dss.2005.05.023, PII S0167923605000886, Integrated Decision Support; 
+Granebring, A., Re'Vay, P., Service-oriented architecture is a driver for daily decision support (2007) Kybernetes, 36 (5-6), pp. 622-635; 
+Gregg, D.G., Goul, M., Philippakis, A., Distributing decision support systems on the WWW: The verification of a DSS metadata model (2002) Decision Support Systems, 32 (3), pp. 233-245. , DOI 10.1016/S0167-9236(01)00095-1, PII S0167923601000951; 
+Güngör Sen, C., Barali, H., Sen, S., Basligil, H., An integrated decision support system dealing with qualitative and quantitative objectives for enterprise software selection (2008) Expert Systems with Applications; 
+Hedgebeth, D., Data-driven decision making for the enterprise: An overview of business intelligence applications (2007) The Journal of Information and Knowledge Management Systems, 37 (4), pp. 414-420; 
+Hemsley-Brown, J., Using research to support management decision making within the field of education (2005) Management Decision, 43 (5), pp. 691-705. , DOI 10.1108/00251740510597716; 
+Hewett, C., Quinn, P., Heathwaite, A.L., Doyle, A., Burke, S., Whitehead, P., A multi-scale framework for strategic management of diffuse pollution (2009) Environmental Modelling & Software, 24, pp. 74-85; 
+Hung, S.Y., Ku, Y.C., Liang, T.P., Lee, C.J., Regret avoidance as a measure of DSS success: An exploratory study (2007) Decision Support Systems, 42, pp. 2093-2106; 
+Hwang, C.L., Yoon, K., (1981) Multiple Attribute Decision Making: Methods and Applications, , Springer Berlin; 
+Jee, D.H., Kang, K.J., A method for optimal material selection aided with decision making theory (2000) Materials and Design, 21, pp. 199-206; 
+Kahraman, C., Beskese, A., Ruan, D., Measuring exibility of computer integrated manufacturing systems using fuzzy cash.ow analysis (2004) Information Sciences, 168, pp. 77-94; 
+Koo, L.Y., Adhitya, A., Srinivasan, R., Karimi, I.A., Decision support for integrated refinery supply chains part 2. Design and operation (2008) Computers and Chemical Engineering, 32, pp. 2787-2800; 
+Koutsoukis, N., Dominguez-Ballesteros, B., Lucas, C.A., Mitra, G., A prototype decision support system for strategic planning under uncertainty (2000) International Journal of Physical Distribution & Logistics Management, 30 (7-8), pp. 640-660; 
+Kulak, O., Durmusoglu, M.B., Kahraman, C., Fuzzy multi-attribute equipment selection based on information axiom (2005) Journal of Materials Processing Technology, 169 (3), pp. 337-345. , DOI 10.1016/j.jmatprotec.2005.03.030, PII S092401360500484X; 
+Kwon, O., Kim, K.-Y., Lee, K.C., MM-DSS: Integrating multimedia and decision-making knowledge in decision support systems (2007) Expert Systems with Applications, 32 (2), pp. 441-457. , DOI 10.1016/j.eswa.2005.12.009, PII S0957417405003556; 
+Lamptey, G., Labi, S., Li, Z., Decision support for optimal scheduling of highway pavement preventive maintenance within resurfacing cycle (2008) Decision Support Systems, 46, pp. 376-387; 
+Lau, H.C.W., Ning, A., Ip, W.H., Choy, K.L., A decision support system to facilitate resources allocation: An OLAP-based neural network approach (2004) Journal of Manufacturing Technology Management, 15 (8), pp. 771-778; 
+Lee, C.K.M., Lau, H.C.W., Hob, G.T.S., Ho, W., Design and development of agent-based procurement system to enhance business intelligence (2009) Expert Systems with Applications, 36, pp. 877-884; 
+Lee, J.H., Park, S.C., Intelligent profitable customers segmentation system based on business intelligence tools (2005) Expert Systems with Applications, 29 (1), pp. 145-152. , DOI 10.1016/j.eswa.2005.01.013, PII S095741740500014X; 
+Liao, H.C., Using PCR-TOPSIS to optimize Taguchi's multi-response problem (2003) The International Journal of Advanced Manufacturing Technology, 22, pp. 649-655; 
+Li, D., Lin, Y., Huang, Y., Constructing marketing decision support systems using data diffusion technology: A case study of gas station diversification (2009) Expert Systems with Applications, 36, pp. 2525-2533; 
+Lin, Y., Tsai, K., Shiang, W., Kuo, T., Tsai, C., Research on using ANP to establish a performance assessment model for business intelligence systems (2009) Expert Systems with Applications, 36, pp. 4135-4146; 
+Li, S., Shue, L., Lee, S., Business intelligence approach to supporting strategy-making of ISP service management (2008) Expert Systems with Applications, 35, pp. 739-754; 
+Loebbecke, C., Huyskens, C., Development of a model-based netsourcing decision support system using a five-stage methodology (2007) European Journal of Operational Research; 
+Lonnqvist, A., Pirttimaki, V., The measurement of business intelligence (2006) Information Systems Management, 23 (1), pp. 32-40. , DOI 10.1201/1078.10580530/45769.23.1.20061201/91770.4; 
+Makropoulos, C.K., Natsis, K., Liu, S., Mittas, K., Butler, D., Decision support for sustainable option selection in integrated urban water management (2008) Environmental Modelling & Software, 23, pp. 1448-1460; 
+March, S.T., Hevner, A.R., Integrated decision support systems: A data warehousing perspective (2007) Decision Support Systems, 43 (3), pp. 1031-1043. , DOI 10.1016/j.dss.2005.05.029, PII S0167923605000941, Integrated Decision Support; 
+Marinoni, O., Higgins, A., Hajkowicz, S., Collins, K., The multiple criteria analysis tool (MCAT): A new software tool to support environmental investment decision making (2009) Environmental Modelling & Software, 24, pp. 153-164; 
+Metaxiotis, K., Psarras, J., Samouilidis, E., Integrating fuzzy logic into decision support systems: Current research and future prospects (2003) Information Management & Computer Security, (11-12), pp. 53-59; 
+Nemati, H.R., Steiger, D.M., Iyer, L.S., Herschel, R.T., Knowledge warehouse: An architectural integration of knowledge management, decision support, artificial intelligence and data warehousing (2002) Decision Support Systems, 33 (2), pp. 143-161. , DOI 10.1016/S0167-9236(01)00141-5, PII S0167923601001415; 
+Manh Nguyen, T., Min Tjoa, A., Nemec, J., Windisch, M., An approach towards an event-fed solution for slowly changing dimensions in data warehouses with a detailed case study (2007) Data and Knowledge Engineering, 63 (1), pp. 26-43. , DOI 10.1016/j.datak.2006.10.004, PII S0169023X0600190X, Data Warehouse and Knowledge Discovery (DAWAK '05); 
+Nie, G., Zhang, L., Liu, Y., Zheng, X., Shi, Y., Decision analysis of data mining project based on Bayesian risk (2008) Expert Systems with Applications; 
+Noori, B., Salimi, M.H., Decision-support system for business-to-business marketing (2005) Journal of Business & Industrial Marketing, 20 (4-5), pp. 226-236; 
+Olson, D.L., Comparison of weights in TOPSIS models (2004) Mathematical and Computer Modelling, 40 (7-8), pp. 721-727. , DOI 10.1016/j.mcm.2004.10.003, PII S089571770400264X; 
+Onüt, S., Soner, S., Transshipment site selection using the AHP and TOPSIS approaches under fuzzy environment (2007) Waste Management, 28 (9), pp. 1552-1559; 
+Oppong, S.A., Yen, D.C., Merhout, J.W., A new strategy for harnessing knowledge management in e-commerce (2005) Technology in Society, 27 (3), pp. 413-435. , DOI 10.1016/j.techsoc.2005.04.009, PII S0160791X05000321; 
+Opricovic, S., Tzeng, G.H., Compromise solution by MCDM methods: A comparative analysis of VIKOR and TOPSIS (2004) European Journal of Operational Research, 156, pp. 445-455; 
+Özbayrak, M., Bell, R., A knowledge-based decision support system for the management of parts and tools in FMS (2003) Decision Support Systems, 35, pp. 487-515; 
+Phillips-Wren, G.E., Hahn, E.D., Forgionne, G.A., A multiple-criteria framework for evaluation of decision support systems (2004) Omega, 32 (4), pp. 323-332. , DOI 10.1016/j.omega.2004.01.003, PII S0305048304000064; 
+Phillips-Wren, G., Mora, M., Forgionne, G.A., Gupta, J.N.D., An integrative evaluation framework for intelligent decision support systems (2007) European Journal of Operational Research; 
+Pitty, S., Li, W., Adhitya, A., Srinivasan, R., Karimi, I.A., Decision support for integrated refinery supply chains part 1. Dynamic simulation (2008) Computers and Chemical Engineering, 32, pp. 2767-2786; 
+Du Plessis, T., Du Toit, A.S.A., Knowledge management and legal practice (2006) International Journal of Information Management, 26 (5), pp. 360-371. , DOI 10.1016/j.ijinfomgt.2006.06.003, PII S0268401206000636; 
+Power, D.J., Data-driven decision support systems (2008) Information Systems Management, 25 (2), pp. 149-154; 
+Power, D.J., Sharda, R., Model-driven decision support systems: Concepts and research directions (2007) Decision Support Systems, 43 (3), pp. 1044-1061. , DOI 10.1016/j.dss.2005.05.030, PII S0167923605000953, Integrated Decision Support; 
+Quinn, N.W.T., Environmental decision support system development for seasonal wetland salt management in a river basin subjected to water quality regulation (2009) Agricultural Water Management, 96, pp. 247-254; 
+Raggad, B.G., Decision support system: Use IT or skip IT (1997) Industrial Management and Data Systems, 97 (2), pp. 43-50; 
+Ranjan, J., Business justification with business intelligence (2008) The Journal of Information and Knowledge Management Systems, 38 (4), pp. 461-475; 
+Reich, Y., Kapeliuk, A., A framework for organizing the space of decision problems with application to solving subjective, context-dependent problems (2005) Decision Support Systems, 41 (1), pp. 1-19. , DOI 10.1016/j.dss.2004.05.001, PII S016792360400096X; 
+Rivest, S., Bedard, Y., Proulx, M.-J., Nadeau, M., Hubert, F., Pastor, J., SOLAP technology: Merging business intelligence with geospatial technology for interactive spatio-temporal exploration and analysis of data (2005) ISPRS Journal of Photogrammetry and Remote Sensing, 60 (1), pp. 17-33. , DOI 10.1016/j.isprsjprs.2005.10.002, PII S0924271605000614; 
+Ross, J.J., Dena, M.A., Mahfouf, M., A hybrid hierarchical decision support system for cardiac surgical intensive care patients. Part II. Clinical implementation and evaluation (2009) Artificial Intelligence in Medicine, 45 (1), pp. 53-62; 
+Santhanam, R., Guimaraes, T., Assessing the quality of institutional DSS (1995) European Journal of Information Systems, 4 (3); 
+Shang, J., Tadikamalla, P., Kirsch, L., Brown, L., A decision support system for managing inventory at GlaxoSmithKline (2008) Decision Support Systems; 
+Shi, Z., Huang, Y., He, Q., Xu, L., Liu, S., Qin, L., MSMiner - A developing platform for OLAP (2007) Decision Support Systems, 42, pp. 2016-2028; 
+Shim, J.P., Warkentin, M., Courtney, J.F., Power, D.J., Sharda, R., Carlsson, C., Past, present, and future of decision support technology (2002) Decision Support Systems, 33 (2), pp. 111-126. , DOI 10.1016/S0167-9236(01)00139-7, PII S0167923601001397; 
+Shyur, H.J., Shih, H.S., A hybrid MCDM model for strategic vendor selection (2006) Mathematical and Computer Modeling, 44, pp. 749-761; 
+Tanselic, Y., Yurdakul, M., Development of a decision support system for machining center selection (2009) Expert Systems with Applications, 36, pp. 3505-3513; 
+Tan, X., Yen, D.C., Fang, X., Web warehousing: Web technology meets data warehousing (2003) Technology in Society, 25 (1), pp. 131-148. , DOI 10.1016/S0160-791X(02)00061-1; 
+Tseng, F.S.C., Chou, A.Y.H., The concept of document warehousing for multi-dimensional modeling of textual-based business intelligence (2006) Decision Support Systems, 42 (2), pp. 727-744. , DOI 10.1016/j.dss.2005.02.011, PII S016792360500062X; 
+Tzeng, G.-H., Lin, C.-W., Opricovic, S., Multi-criteria analysis of alternative-fuel buses for public transportation (2005) Energy Policy, 33 (11), pp. 1373-1383. , DOI 10.1016/j.enpol.2003.12.014, PII S0301421503003811; 
+Wadhwa, S., Madaan, J., Chan, F.T.S., Flexible decision modeling of reverse logistics system: A value adding MCDM approach for alternative selection (2009) Robotics and Computer-Integrated Manufacturing, 25, pp. 460-469; 
+Wang, Y.-M., Elhag, T.M.S., Fuzzy TOPSIS method based on alpha level sets with an application to bridge risk assessment (2006) Expert Systems with Applications, 31 (2), pp. 309-319. , DOI 10.1016/j.eswa.2005.09.040, PII S0957417405002174; 
+Wen, W., Chen, Y.H., Pao, H.H., A mobile knowledge management decision support system for automatically conducting an electronic business (2008) Knowledge-Based Systems; 
+Xu, D., Wang, H., Multi-agent collaboration for B2B workflow monitoring (2002) Knowledge-Based Systems, 15 (8), pp. 485-491. , DOI 10.1016/S0950-7051(02)00033-3, PII S0950705102000333; 
+Yang, I.T., Decision support system for schedule optimization (2008) Decision Support Systems, 44, pp. 595-605; 
+Yu, L., Wang, S., Lai, K., An intelligent-agent-based fuzzy group decision making model for financial multicriteria decision support: The case of credit scoring (2009) European Journal of Operational Research, 195, pp. 942-959; 
+Zack, M.H., The role of decision support systems in an indeterminate world (2007) Decision Support Systems, 43 (4), pp. 1664-1674. , DOI 10.1016/j.dss.2006.09.003, PII S0167923606001308; 
+Zadeh, L.A., Fuzzy sets (1965) Information and Control, 8, pp. 338-353; 
+Zadeh, L.A., The concept of a linguistic variable and its application to approximate reasoning (1975) Information Sciences, 8. , 199-249(I), 301-357(II); 
+Zhang, X., Fu, Z., Cai, W., Tian, D., Zhang, J., Applying evolutionary prototyping model in developing FIDSS: An intelligent decision support system for fish disease/health management (2009) Expert Systems with Applications, 36, pp. 3901-3913; 
+Zhan, J., Loh, H.T., Liu, Y., Gather customer concerns from online product reviews - A text summarization approach (2009) Expert Systems with Applications, 36, pp. 2107-2115
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-80255138642&partnerID=40&md5=7873f669b7f4d07044812d9ace3964ff
+ER  - 
+
+TY  - JOUR
+TI  - ERP software selection using the rough set and TPOSIS methods under fuzzy environment
+T2  - Advances in Information Sciences and Service Sciences
+J2  - Adv. Inf. Sci. Serv. Sci.
+VL  - 4
+IS  - 3
+SP  - 111
+EP  - 118
+PY  - 2012
+DO  - 10.4156/AISS.vol4.issue3.15
+SN  - 19763700 (ISSN) 
+AU  - Huiqun, H.
+AU  - Guang, S.
+AD  - Information Management Department, Hunan University of Finance and Economics, No. 139, Fenglin 2nd Road, Changsha, 410205, China
+AB  - Improperly selected ERP software may have an impact on the time required, and the costs and market share of a company, selecting the best desirable ERP software has been the most critical problem for a long time. On the other hand, selecting ERP software is a multiple-criteria decision-making (MCDM) problem, and in the literature, many methods have been introduced to evaluate this kind of problem, which has been widely used in MCDM selection problems. In this paper, an integrated approach of ERP software selection analytic hierarchy process improved by rough sets theory (Rough-AHP) and fuzzy TOPSIS method is proposed to obtain final ranking.
+KW  - Enterprise resource planning
+KW  - Rough set
+KW  - Software selection
+KW  - TOPSIS
+KW  - Critical problems
+KW  - ERP software
+KW  - Fuzzy environments
+KW  - FUZZY TOPSIS
+KW  - Integrated approach
+KW  - Market share
+KW  - Multiple-criteria decision-making
+KW  - Rough set
+KW  - Rough Sets Theory
+KW  - Selection problems
+KW  - Software selection
+KW  - TOPSIS
+KW  - Competition
+KW  - Computer software selection and evaluation
+KW  - Rough set theory
+KW  - Enterprise resource planning
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Huiqun, H.; Information Management Department, Hunan University of Finance and Economics, No. 139, Fenglin 2nd Road, Changsha, 410205, China; email: simon5115@163.com
+N1  - References: Chung, C.T., Lin, Y., Improved extensions of the TOPSIS for group decision making under fuzzy environment (2002) Journal of Information and Optimization Sciences, 23 (2), pp. 273-286; 
+Greco, S., Matarazzo, B., Slowinski, R., Rough sets methodology for sorting problems in presence of multiple attributes and criteria (2002) European Journal of Operational Research, 138 (2), pp. 247-259; 
+Ling, H.L., Robert, S.Q.L., Weng, Y.T., Understanding the critical factors effect user satisfaction and impact of ERP through innovation of diffusion theory (2008) International Journal of Technology Management, 43 (13), pp. 30-47; 
+Huang, Y.F., Wu, W.W., Lee, Y.T., Simplifying essential competencies for Taiwan civil servants by using the rough set approach (2008) The Journal of the Operational Research Society, 59 (2), pp. 259-266; 
+Chin, W.O., Chou, S.Y., Chang, Y.H., Using a strategy-aligned fuzzy competitive analysis approach for market segment evaluation and selection (2009) Expert Systems With Applications, 36 (1), pp. 527-541; 
+Omkarprasad, S., Vaidya, S.K., Analytic hierarchy process: An overview of applications (2006) European Journal of Operational Research, 69 (1), pp. 1-29; 
+Omur, Y., Saatcioglu, What determines user satisfaction in ERP projects: Benefits, barriers or risks? (2007) Proceedings of European and Mediterranean Conference On Information Systems, pp. 24-26; 
+Zimmermann, H.J., (1991) Fuzzy Set Theory and Its Applications, , (2nd ed.)",Kluwer Academic Publishers
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84859310407&partnerID=40&md5=fb16516c539c690a8f3bc3cbb5a546b5
+ER  - 
+
+TY  - JOUR
+TI  - Fuzzy TOPSIS and GP application for evaluation and selection of a suitable ERP
+T2  - Australian Journal of Basic and Applied Sciences
+J2  - Aust. J. Basic Appl. Sci.
+VL  - 5
+IS  - 11
+SP  - 1358
+EP  - 1367
+PY  - 2011
+SN  - 19918178 (ISSN) 
+AU  - Nikjoo, M.A.
+AU  - Khah, M.M.
+AU  - Moghimi, A.
+AD  - Department of Computer, Islamic Azad University, Shahre ghods, Tehran, Iran
+AD  - Department of Chemistry, Islamic Azad University, East Tehran(Qiam Dasht) Branch, Tehran, Iran
+AB  - Benefits of integrated information systems such as ERP (Enterprise resource planning) without suitable infrastructures and successful implementation, is low. The first step For ERP successful implementation as one of the most important management tools and the most effective information systems is choosing it on the base of various quantitative and qualitative criteria. Multi criteria decision- making (MCDM) theory is a suitable method for solving problems that they have sometimes antonymous many factors and parameters. For this purpose, we intend to describe ERP selection criterion and introduce its best sellers perfectly to help managers who want to buy and implement this system. In this research we have tried to use of decision techniques and combine with goal programming to choose an opportune ERP, for TUGA company -the only manufacturer of gas turbines in Iran- a satellite company of Iran power plant projects management organization and present a model for selection process.
+KW  - AHP
+KW  - ERP
+KW  - Evaluation and selection
+KW  - Fuzzy TOPSIS
+KW  - Goal programming
+KW  - IT
+KW  - MCDM
+KW  - TUGA company
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Nikjoo, M. A.; Department of Computer, Islamic Azad University, Shahre ghods, Tehran, Iran; email: amir78nikjo@yahoo.com
+N1  - References: Alanbay, O., (2005) ISAHP 2005, , Honolulu, Hawaii; 
+Available on oana. velcu@hanken. fi Copyright 2004 Homer Computer Services Pty Ltdwww.healdt-infosys-dir.com, Available on, R2ISC Associates has no connection with any vendor, nor does it endorse any software packageWei, C.-C., Chien, C.F., Jiun, M., Wang, J., (2005) International Journal Production Economics,, 96, pp. 47-62; 
+Chun-Chin, W., Chien, C.F., Jiun, M., Wang, J., (2004) International Journal of Project Management, 22, pp. 161-169. , Development of iran Informatics; 
+Ghazanfari, M., Mohammad, S.K.A., Shahriari, H., Tadbir magazin, 13, p. 125. , 22-29 shahrivar1381; 
+Huin, S.F., Loung, L.H.S., Abhary, K., International Journal of Project Management (2004) Robotics and computer-Integrated manufacturing,, 19, pp. 511-517; 
+Jacques, V., Alannah, H., (2002) Industrial Marketing Management,, 32, pp. 585-594; 
+Kazerooni, M., Kazerooni, A., (2004) 4th International Industrial engineering conference; 
+Movaheddi, M., Nikjoo, A.M., 9-11 khordad 1385, the first seminar research method in engineer science and technic of Iran-TehranNikjoo, A.M., 19 esfand 1384, third command specialized engineer seminar Emam hosein university, Iran-TehranStefanou, C.J., (2001) European Journal of Information Systems,, 10, pp. 204-215. , (Operational Research Society Ltd); 
+Velcu, O., (2005) Electronic Journal Information Systems Evaluation,, 8 (3), pp. 229-238. , www.ejise.com, Available online at; 
+Yahaya yusuf, A.G., Abthorpe, M., (2004) International Journal of Production Economics,, 87, pp. 251-266; 
+Yiannis, E.S., Gregory, P.P., Poulymenakou, A., (2002) Information & Management,, 39, pp. 659-675
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84155185253&partnerID=40&md5=492674ecd4b81f27e3a333fb97156eff
+ER  - 
+
+TY  - JOUR
+TI  - An ERP model for supplier selection in electronics industry
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 38
+IS  - 3
+SP  - 1760
+EP  - 1765
+PY  - 2011
+DO  - 10.1016/j.eswa.2010.07.102
+SN  - 09574174 (ISSN) 
+AU  - Lin, C.-T.
+AU  - Chen, C.-B.
+AU  - Ting, Y.-C.
+AD  - Graduate School of Management, Ming Chuan University, 250 Chung Shan N. Rd.; Sec. 5, Taipei 11103, Taiwan
+AD  - Department of International Business, National Dong Hwa University, 1, Sec. 2, Da-Hsueh Rd., Shou-Feng, Hualien 97401, Taiwan
+AD  - President Office, Yuanpei University, No. 306, Yuan Pei Rd., Hsin Chu 30015, Taiwan
+AB  - Asus Tech. is the largest motherboard manufacturer in Taiwan. Hundreds of suppliers cooperate with the company in business. So that supplier selection is the most important function of a purchasing department in the enterprise. An enterprise resource planning (ERP) system in the process of supplier selection may result in the great savings in both costs and man hours. In the concept of push and pull, an ERP system acts as an efficient tool in the resource integration and profit creation for a company. Through ERP, a decision manager can clearly realize the strength and weakness of the purchasing operation. To establish a real-time purchasing environment, a methodology of analytic network process (ANP), technique for order preference by similarity to ideal solution (TOPSIS) and linear programming (LP) are effectively applied in the supplier selection process. ANP and TOPSIS are used to calculate the weight and give suppliers a ranking; LP effectively allocates order quantity to each vendor. As to the result, four PC board suppliers are given orders for 1200, 727, 1000 and 73 pieces. © 2010 Elsevier Ltd. All rights reserved.
+KW  - ANP
+KW  - ERP
+KW  - Linear programming
+KW  - Push and pull concept
+KW  - Supplier selection
+KW  - TOPSIS
+KW  - ANP
+KW  - ERP
+KW  - Push and pull concept
+KW  - Supplier selection
+KW  - TOPSIS
+KW  - Coiled tubing
+KW  - Computer software selection and evaluation
+KW  - Electronics industry
+KW  - Optimization
+KW  - Profitability
+KW  - Purchasing
+KW  - Resource allocation
+KW  - Sales
+KW  - Enterprise resource planning
+N1  - Cited By :38
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Lin, C.-T.; President Office, Yuanpei University, No. 306, Yuan Pei Rd., Hsin Chu 30015, Taiwan; email: ctlin@mail.mcu.edu.tw
+N1  - References: Bhutta, K.S., Huq, F., Supplier selection problem: A comparison of the total cost of ownership and analytic hierarchy process approaches (2002) Supply Chain Management: An International Journal, 7, pp. 126-135; 
+Chang, C.W., Horng, D.J., Lin, H.L., An IS quality measurement using gap and multicriteria decision making model: A case study for supply chain management system (2009) Journal of Testing and Evaluation, 37 (2), pp. 181-188; 
+Chang, C.W., Wu, C.R., Lin, C.T., Evaluating digital video recorder systems using analytic hierarchy and analytic network processes (2007) Information Sciences, 177 (16), pp. 3383-3396; 
+Chen, C.T., Lin, C.T., Huang, S.F., A fuzzy approach for supplier evaluation and selection in supply chain management (2006) International Journal of Production Economics, 102 (2), pp. 289-301; 
+Chou, S.Y., Chang, Y.H., A decision support system for supplier selection based on a strategy-aligned fuzzy smart approach (2008) Expert Systems with Applications, 34 (4), pp. 241-253; 
+Deng, H., Robert, J.W., Yeh, C.H., Inter-company comparison using modified TOPSIS with objective weight (2000) Computer & Operation Research, 27 (10), pp. 963-973; 
+Gao, Z., Tang, L., A multi-objective model for purchasing of bulk raw materials of a large-scale integrated steel plant (2003) International Journal of Production Economics, 83 (3), pp. 325-334; 
+Ghodsypour, S.H., O'Brien, C., A decision support system for supplier selection using an integrated analytic hierarchy process and linear programming (1998) International Journal of Production Economics, 5657, pp. 199-212; 
+Ghodsypour, S.H., O'Brien, C., The total cost of logistics in supplier selection, under conditions of multiple sourcing, multiple criteria and capacity constraint (2001) International Journal of Production Economics, 73 (1), pp. 15-27; 
+Hwang, C., Yoon, K., (1981) Multiple Attribute Decision Making: Methods and Application, , Springer Publications New York; 
+Lin, C.T., Tsai, M.C., Location choice for foreign direct investment new hospitals in China using ANP and TOPSIS (2009) Quality and Quantity; 
+Liu, F.H., Hai, H.L., The voting analytic hierarchy process method for selecting suppliers (2005) International Journal of Production Economics, 97 (3), pp. 308-317; 
+Onut, S., Kara, S.S., Isik, E., Long term supplier selection using a combined fuzzy MCDM approach: A case study for a telecommunication company (2008) Expert Systems with Applications, 36 (2), pp. 3887-3895; 
+Saaty, T.L., (1999) Foundation of the Analytic Network Process, , ISAHP Kobe, Japan; 
+Saen, R.F., A new mathematical approach for supplier selection accounting for non-homogeneity is important (2007) Applied Mathematics and Computation, 185 (1), pp. 84-95; 
+Satty, T.L., How to make a decision: The analytic hierarchy process (1990) European Journal of Operation Research, 48 (1), pp. 9-26; 
+Tarantilis, C.D., Kiranoudis, C.T., Theodorakopoulos, N.D., A web-based ERP system for business service and supply chain management: Application to real-world process scheduling (2008) European Journal of Operation Research, 187 (3), pp. 310-1326; 
+Wang, T.C., Chang, T.H., Application of TOSIS in evaluating initial training aircraft under a fuzzy environment (2007) Expert Systems with Applications, 33 (4), pp. 870-880; 
+Wu, C.R., Lin, C.T., Lin, Y.F., Selecting the preferable bancassurance alliance strategic by using expert group decision technique (2009) Expert Systems with Applications, 36 (2), pp. 3623-3629; 
+Wu, W.H., Lin, C.T., Peng, K.H., Determination of a hospital management policy using conjoint analysis in the analytic network process (2009) Quality and Quantity, 43 (1), pp. 145-154; 
+Xia, W., Wu, Z., Supplier selection with multiple criteria in volume discount environments (2007) Omega, 35 (5), pp. 494-504. , DOI 10.1016/j.omega.2005.09.002, PII S0305048305001180; 
+Yang, J.B., Wu, C.T., Tsai, C.H., Selection of an ERP system for a construction firm in Taiwan: A case study (2007) Automation in Construction, 16 (6), pp. 787-796; 
+Yurdakul, M., Ic, Y.T., Development of a performance measurement model for manufacturing companies using AHP and TOPSIS approaches (2005) International Journal of Production Research, 43 (21), pp. 4609-4641
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-78049530577&partnerID=40&md5=b66a351a31ee49b6bf8cf2535fe9bb32
+ER  - 
+
+TY  - JOUR
+TI  - Development of an indicator model and ranking of sustainable revitalization alternatives of derelict property: A Lithuanian case study
+T2  - Sustainable Development
+J2  - Sustainable Dev.
+VL  - 14
+IS  - 5
+SP  - 287
+EP  - 299
+PY  - 2006
+DO  - 10.1002/sd.285
+SN  - 09680802 (ISSN) 
+AU  - Zavadskas, E.K.
+AU  - Antucheviciene, J.
+AD  - Department of Construction Technology and Management, Vilnius Gediminas Technical University, Sauletekio al. 11, LT-10223 Vilnius-40, Lithuania
+AB  - The paper deals with the problem of the redevelopment of derelict buildings and abandoned sites as a complex issue that includes environmental, social and economic aspects. The objective of the research was to suggest a model for determining the rational revitalization of derelict immovable property from the perspective of sustainable development. The authors assume that a multi-criterion analysis is an appropriate technique to use to assure equilibrium among various domains of sustainability. When taking into account the uncertainty of a problem, calculations using the fuzzy version of the TOPSIS method were proposed. The development of a model for determining revitalization priorities of abandoned buildings was based on a case study of derelict rural buildings in Lithuania. A set of indicators was defined and used to perform the multi-criterion analysis of revitalization alternatives of the derelict buildings. Based on results from calculations, scientific recommendations for a rational revitalization of buildings and their sites were prepared. Copyright © 2006 John Wiley & Sons, Ltd and ERP Environment.
+KW  - Derelict immovable property
+KW  - Indicator
+KW  - Ranking of alternatives
+KW  - Sustainable development
+KW  - TOPSIS
+KW  - fuzzy mathematics
+KW  - multicriteria analysis
+KW  - sustainability
+KW  - sustainable development
+KW  - Baltic States
+KW  - Eurasia
+KW  - Europe
+KW  - Lithuania
+KW  - Northern Europe
+N1  - Cited By :48
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Antucheviciene, J.; Department of Construction Technology and Management, Vilnius Gediminas Technical University, Sauletekio al. 11, LT-10223 Vilnius-40, Lithuania; email: jurgita.antucheviciene@st.vtu.lt
+N1  - References: Aivazian, S.A., Mkhitarian, V.S., (1998) Applied Statistics and Essentials of Econometrics, , Junity: Moscow (in Russian); 
+Alker, S., McDonald, A., Incorporating sustainable development into redevelopment (2003) Sustainable Development, 11 (3), pp. 171-182; 
+Antucheviciene, J., Relations between socio-economic development and mismanagement of buildings in rural areas (2002) Geography (Geografija), 38 (2), pp. 74-80. , (in Lithuanian); 
+Antucheviciene, J., Territorial distribution peculiarities of derelict rural buildings in Lithuania according to the conception of the country's economic, social and ecological sustainable development (2002) Journal of Environmental Engineering and Landscape Management (Aplinkos Inzinerija), 10 (2), pp. 93-101. , (in Lithuanian); 
+Antucheviciene, J., Differential renovation of soviet agro-industrial rural landscape in the context of country sustainable development (2003) Technological and Economic Development of Economy (Ukio Technologinis Ir Ekonominis Vystymas), 9 (1), pp. 27-33. , (in Lithuanian); 
+Antucheviciene, J., Principles of revitalization of derelict rural buildings (2003) Journal of Civil Engineering and Management, 9 (4), pp. 225-233; 
+Azar, S., Hauglustaine, J.M., Multicriteria and multiple actors tool aiding to optimise building envelope at the architectural sketch design (2001) Informatica, 12 (1), pp. 3-24; 
+Bakkes, J.A., van den Born, G.J., Helder, J.C., Swart, R.J., Hope, C.W., Parker, J.D.E., (1994) An Overview of Environmental Indicators: State of the Art and Perspectives, , UNEP Environmental Assessment Sub-Programme: Nairobi; 
+Bossel, H., (1999) Indicators for Sustainable Development: Theory, Method, and Applications. A Report to the Balaton Group, , International Institute for Sustainable Development. Winnipeg, Manitoba, Canada; 
+Ciegis, R., (2002) Sustainable Development and Environment: The Economical Outlook, , International School of Management: Vilnius; (in Lithuanian); 
+(2002) Brownfields and Redevelopment of Urban Areas, , http://www.clarinet.at, Contaminated Land Rehabilitation Network for Environmental Technologies (CLARINET). [10 September 2004]; 
+Cornelissen, A.M.G., van den Berg, J., Koops, W.J., Grossman, M., Udo, H.M.J., Assessment of the contribution of sustainability indicators to sustainable development: A novel approach using fuzzy set theory (2001) Agriculture, Ecosystems and Environment, 86 (2), pp. 173-185; 
+Deakin, M., Curwell, S., Lombardi, P., BEQEST: The framework and directory of assessment methods (2001) International Journal of Life Cycle Assessment, 6, pp. 373-383; 
+Deakin, M., Huovila, P., Rao, S., Sunnika, M., Vreeker, R., The procurement and assessment of sustainable urban development: Mapping the application (2002) Building Research and Information, 30 (2), pp. 95-108; 
+Dunn, E.G., Keller, J.M., Marks, L.A., Integrated decision making for sustainability: A fuzzy MADM model for agriculture (1998) Multiple Objective Decision Making for Land, Water and Environmental Management, pp. 313-322. , In El-Swaify SA, Yakovitz D (eds). Lewis: Boca Raton, FL; 
+Greenberg, M., Lowrie, K., Mayer, H., Miller, K.T., Solitare, L., Brownfield redevelopment as a smart growth option in the United States (2001) The Environmentalist, 21 (2), pp. 129-143; 
+Hammilton, J.T., Viscusi, W.K., How costly is 'clean'? An analysis of the benefits and costs of Superfund site remediation (1999) Journal of Policy Analysis and Management, 18 (1), pp. 2-27; 
+Hammond, A., Adriaanse, A., Rodenburg, E., Bryant, D., Woodward, R., (1995) Environmental Indicators: A Systematic Approach to Measuring and Reporting on Environmental Policy Performance in the Context of Sustainable Development, , World Resources Institute: Washington, DC; 
+Harte, M.J., Lonergan, S.C., A multidimensional decision-support approach to sustainable development planning (1995) International Journal of Sustainable Development and World Ecology, 2, pp. 86-103; 
+Hwang, C.L., Yoon, K., (1981) Multiple Attribute Decision Making Methods and Applications, , Springer: Berlin; 
+Johnson, D.B., Chemical and microbiological characteristics of mineral spoils and drainage waters at abandoned coal and metal mines (2003) Water, Air and Soil Pollution: Focus, 3 (1), pp. 47-66; 
+Juknys, R., (2002) National Report on Sustainable Development from Rio to Johannesburg. The Republic of Lithuania, , Ministry of the Environment: Vilnius; 
+Juskevicius, P., The concept of the country's spatial development (1999) Town Planning and Architecture (Urbanistika Ir Architektura), 23 (2), pp. 49-55. , (in Lithuanian); 
+Li, H., Shen, Q., Supporting the decision-making process for sustainable housing (2002) Construction Management and Economics, 20 (5), pp. 387-390; 
+(1994) The Sustainability Indicators Research Project: Consultant's Report of the Pilot Phase, , Local Government Management Board. Local Government Management Board: London; 
+Lunkevicius, S., Ustinovicius, L., Zavadskas, E.K., Substantiation of financing approach for rural property (2001) Journal of Civil Engineering and Management (Statyba), 7 (2), pp. 148-157. , (in Lithuanian); 
+Lunkevicius, S., Ustinovicius, L., Zavadskas, E.K., Ranking efficiency of rural property investment projects using multi criteria decision methods (2001) Journal of Civil Engineering and Management (Statyba), 7 (3), pp. 238-246. , (in Lithuanian); 
+May, A.D., Mitchell, G., Krupiszewska, D., The development of the Leeds quantifiable city model (1998) Evaluation of Sustainability in the Built Environment, pp. 39-52. , In Brandon PS, Lombardi P, Bentivegna V (eds). Spon-Chapman and Hall: London; 
+Miranda, J.I., Multicriteria analysis applied to the sustainable agriculture problem (2001) International Journal of Sustainable Development and World Ecology, 8 (1), pp. 67-77; 
+Moldan, B., Billharz, S., Matravers, R., (1997) Sustainability Indicators: A Report on the Project on Indicators of Sustainable Development (SCOPE 58), , Wiley: Chichester; 
+Munda, G., Nijkamp, P., Rietveld, P., Qualitative multi criteria methods for fuzzy evaluation problems: An illustration of economic-ecological evaluation (1995) European Journal of Operational Research, 82 (1), pp. 79-97; 
+(1999) Our Common Journey: A Transition Towards Sustainability, , National Research Council Board on Sustainable Development, Policy Division. National Academy Press: Washington, DC; 
+Nijkamp, P., Macro-economic perspective (on SUD) (1998) BEQUEST Workshop, , http://www.surveying.salford.ac.uk/bqextra, Presented at the Milton-Keynes. [2 September 2004]; 
+(1994) Environmental Indicators, , Organisation for Economic Co-Operation and Development (OECD). OECD: Paris; 
+(2002) Frameworks to Measure Sustainable Development, , Organisation for Economic Co-Operation and Development (OECD). OECD: Paris; 
+Pakalnis, R., Sustainable development - A modern way without alternative (2001) Proceedings of the International Conference on Sustainable Development in the Information Society, pp. 10-13. , In Filho WL, Pakalnis R, Sakalauskas L (eds). Institute of Botany: Vilnius; 
+(2002) Indicators Into Action. A Practitioners Guide for Improving Their Use at the Local Level. A Product of Pastille for Local Authorities 2000-2002, , Pastille Consortium. EU Pastille Consortium: London; 
+Triantaphyllou, E., (2000) Multi-Criteria Decision Making Methods: A Comparative Study, , Kluwer: Dordrecht; 
+Triantaphyllou, E., Lin, C.T., Development and evaluation of five fuzzy multiattribute decision-making methods (1996) International Journal of Approximate Reasoning, 14, pp. 281-310; 
+Trzyna, T.C., (1995) A Sustainable World: Defining and Measuring Sustainable Development, , IUCN, The World Conservation Union, International Centre for Environment and Public Policy: Sacramento, CA; 
+Udachin, V., Williamson, B.J., Purvis, O.W., Spiro, B., Dubbin, W., Brooks, S., Coste, B., Mikhailova, I., Assessment of environmental impacts of active smelter operations and abandoned mines in Karabash, Ural Mountains of Russia (2003) Sustainable Development, 11 (3), pp. 133-142; 
+Ustinovicius, L., Jakucionis, S., Application of multi criteria decision methods in restoration of buildings in the old town (2000) Journal of Civil Engineering and Management (Statyba), 6 (4), pp. 227-236. , (in Lithuanian); 
+Ustinovicius, L., Stasiulionis, A., Multi criteria-based estimation of selection of commercial property construction site (2001) Journal of Civil Engineering and Management (Statyba), 7 (6), pp. 474-480. , (in Lithuanian); 
+Vatter, K., (1995) Reactivation of Unused Commercial, Industrial or Infrastructure Sites in Vienna, , http://www.clarinet.at, [10 September 2004]; 
+Weng, Q.H., Yang, S.H., An approach to evaluation of sustainability for Guangzhou's urban ecosystem (2003) International Journal of Sustainable Development and World Ecology, 10 (1), pp. 69-81; 
+(1995) Monitoring Environmental Progress, , World Bank. World Bank: Washington, DC; 
+Yount, K.R., Meyer, P.B., Project scale and private sector environmental decision-making: Factors affecting investments in small- and large-scale brownfield projects (1999) Urban Ecosystems, 3 (2), pp. 179-193; 
+Zavadskas, E.K., The method of ranking of construction-technological alternatives on the basis of the distance from the ideal solution (1986) New Construction Technology for Buildings and Structures, pp. 52-57. , Inter-university selected scientific papers. Engineering Institute of Construction: Leningrad; (in Russian); 
+Zavadskas, E.K., Antucheviciene, J., Evaluation of buildings' redevelopment alternatives with an emphasis on the multipartite sustainability (2004) International Journal of Strategic Property Management, 8 (2), pp. 121-127; 
+Zavadskas, E.K., Fiedler, K., Peldschus, F., (1986) Methoden Der Bautechnologischen Entscheidung, , Technische Hochschule Leipzig: Leipzig; 
+Zavadskas, E.K., Kaklauskas, A., Banaitiene, N., (2001) Multiple Criteria Analysis of a Building's Life Cycle, , Technika: Vilnius (in Lithuanian); 
+Zavadskas, E.K., Kaklauskas, A., Banaitis, A., Kvederyte, N., Housing credit access model: The case for Lithuania (2004) European Journal of Operational Research, 155 (2), pp. 335-352; 
+Zavadskas, E.K., Ustinovicius, L., Peldschus, F., Development of software for multiple criteria evaluation (2003) Informatica, 14 (2), pp. 259-272; 
+Zavadskas, E.K., Ustinovicius, L., Turskis, Z., Peldschus, F., Messing, D., LEVI 3.0 - Multiple criteria evaluation program for construction solutions (2002) Journal of Civil Engineering and Management, 8 (3), pp. 184-191; 
+Zimmermann, H.J., (1996) Fuzzy Set Theory and Applications, , 3rd edn. Kluwer: Norwell
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-33845806505&partnerID=40&md5=c5ac8ca621431d9df949e622b6e64dda
+ER  - 
+

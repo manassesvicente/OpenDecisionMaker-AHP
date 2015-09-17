@@ -1,0 +1,160 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Liao, Huchang
+   Xu, Zeshui
+TI Approaches to manage hesitant fuzzy linguistic information based on the
+   cosine distance and similarity measures for HFLTSs and their application
+   in qualitative decision making
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 12
+BP 5328
+EP 5336
+DI 10.1016/j.eswa.2015.02.017
+PD JUL 15 2015
+PY 2015
+AB Qualitative and hesitant information is common in practical decision
+   making process. In such complicated decision making problem, it is
+   flexible for experts to use comparative linguistic expressions to
+   express their opinions since the linguistic expressions are much closer
+   than single or simple linguistic term to human way of thinking and
+   cognition. The hesitant fuzzy linguistic term set (HFLTS) turns out to
+   be a powerful tool in representing and eliciting the comparative
+   linguistic expressions. In order to develop some approaches to decision
+   making with hesitant fuzzy linguistic information, in this paper, we
+   firstly introduce a family of novel distance and similarity measures for
+   HFLTSs, such as the cosine distance and similarity measures, the
+   weighted cosine distance and similarity measures, the order weighted
+   cosine distance and similarity measures, and the continuous cosine
+   distance and similarity measures. All these distance and similarity
+   measures are proposed from the geometric point of view while the
+   existing distance and similarity measures over HFLTSs are based on the
+   different forms of algebra distance measures. Afterwards, based on the
+   hesitant fuzzy linguistic cosine distance measures between hesitant
+   fuzzy linguistic elements, the cosine-distance-based HFL-TOPSIS method
+   and the cosine-distance-based HFL-VIKOR method are developed to dealing
+   with hesitant fuzzy linguistic multiple criteria decision making
+   problems. The step by step algorithms of these two methods are given for
+   the convenience of applications. Finally, a numerical example concerning
+   the selection of ERP systems is given to illustrate the validation and
+   efficiency of the proposed methods. (C) 2015 Elsevier Ltd. All rights
+   reserved.
+RI liao, huchang/F-9716-2015
+OI liao, huchang/0000-0001-8278-3384
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0957-4174
+EI 1873-6793
+UT WOS:000353746900024
+ER
+
+PT J
+AU Fu, Hsin-Pin
+   Chang, Tien-Hsiang
+   Ku, Cheng-Yuan
+   Chang, Tsung-Sheng
+   Huang, Cheng-Hsin
+TI The critical success factors affecting the adoption of
+   inter-organization systems by SMEs
+SO JOURNAL OF BUSINESS & INDUSTRIAL MARKETING
+VL 29
+IS 5
+BP 400
+EP 416
+DI 10.1108/JBIM-04-2012-0070
+PD 2014
+PY 2014
+AB Purpose - The purposes of this study were to formulate a hierarchical
+   table of factors that influence adoption of an inter-organization system
+   (IOS) by enterprises and to apply multi-criteria decision-making (MCDM)
+   tools to find the weights of these factors and to objectively identify
+   the critical success factors (CSFs) for the adoption of IOSs by
+   small-and medium-sized enterprises (SMEs).
+   Design/methodology/approach - This study first used a literature review
+   to collect the factors that affect an enterprise's adoption of an IOS
+   and then constructed a three-level hierarchical table of these factors,
+   based on a technology - organization - environment framework. Fuzzy
+   analytic hierarchy processing was used, based on the returned
+   questionnaires, to determine the weights of the factors. The concept of
+   VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR) acceptable
+   advantage was used to objectively identify the CSFs of SMEs that have
+   adopted an IOS.
+   Findings - This study identifies six CSFs of SMEs that have adopted an
+   IOS: industry knowledge and experience, the degree of application of
+   information technology within the industry, system safety, the
+   organizational infrastructure, customer relationships and ease of use.
+   In addition, four findings are proposed.
+   Practical implications - The work has studied, in depth, the factors
+   that influence the adoption of an IOS by SMEs and identified four
+   practice implications that provide a useful guideline for SMEs when they
+   plan to adopt an IOS.
+   Originality/value - The identification of CSFs is also an MCDM problem.
+   However, very few previous articles have used MCDM tools to identify the
+   CSFs. This study adopted MCDM tools to objectively identify these CSFs
+   and determine their appropriate weights. The results can help the
+   managers of SMEs allocate their resources, according to the weighting of
+   these CSFs, when they are making plans to adopt an IOS.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0885-8624
+EI 2052-1189
+UT WOS:000341888700005
+ER
+
+PT J
+AU Buyukozkan, Gulcin
+   Ruan, Da
+TI Evaluation of software development projects using a fuzzy multi-criteria
+   decision approach
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+VL 77
+IS 5-6
+BP 464
+EP 475
+DI 10.1016/j.matcom.2007.11.015
+PD MAY 1 2008
+PY 2008
+AB Software development is an inherently uncertain activity. To deal with
+   the uncertainty and vagueness from humans' subjective perception and
+   experience in decision process, this paper presents an evaluation model
+   based on the fuzzy multi-criteria decision-making (MCDM) method for
+   measuring the performance of software development projects. In an MCDM
+   problem, a decision maker (DM) has to choose the best alternative that
+   satisfies the evaluation criteria among a set of candidate solutions. It
+   is generally hard to find an alternative that meets all the criteria
+   simultaneously, so a good compromise solution is preferred. This problem
+   may become more complex when multiple DMs are involved, each having not
+   a common perception on the alternatives. Recently, a compromise ranking
+   method (known as the VIKOR method) has been proposed to identify such
+   compromise solutions, by providing a maximum group utility for the
+   majority and a minimum of an individual regret for the opponent. In its
+   actual setting, the method treats exact values for the assessment of the
+   alternatives, which can be quite restrictive with unquantifiable
+   criteria. This will be true especially if the evaluation is made by
+   means of linguistic terms. For this reason we extend the VIKOR method so
+   as to process such data and to provide a more comprehensive evaluation
+   in a fuzzy environment. To demonstrate the potential of the methodology,
+   the proposed extension is used for measuring the performance of
+   enterprise resource planning (ERP) software products. (C) 2007 IMACS.
+   Published by Elsevier B.V. All rights reserved.
+CT 2nd International Workshop on Sensory Evaluation and Intelligent
+   Techniques
+CY JUL 11-13, 2005
+CL Paris, FRANCE
+TC 42
+ZB 0
+Z8 0
+ZS 1
+Z9 43
+SN 0378-4754
+UT WOS:000255370300004
+ER
+
+EF

@@ -1,0 +1,84 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Prado de Moraes, Mayra Cristina
+   de Mello, Kaline
+   Toppa, Rogerio Hartung
+TI LANDSCAPE ANALYSIS OF A BUFFER ZONE TO PLANNING AND MANAGEMENT OF
+   PROTECTED AREAS
+SO REVISTA ARVORE
+VL 39
+IS 1
+BP 1
+EP 8
+DI 10.1590/0100-67622015000100001
+PD JAN-FEB 2015
+PY 2015
+AB The main objectives of this study were to diagnose the current
+   environmental scenery and a legal scenery for the Buffer Zone (BZ) of
+   the State Park of Porto Ferreira (SPPF), and propose a discussion of BZs
+   and their planning. We conducted a mapping of the land use and
+   occupation and calculated landscape metrics. The predominant class use
+   in the BZ was sugarcane, with 46.24%, and forest class was the third,
+   with the largest coverage, 12.7%. Landscape metrics indicated that the
+   natural vegetation of the BZ has 83.3% of fragments up to 10ha, and 50%
+   of them showed a very low connectivity. The PPA totalized 386ha, 39% of
+   it has natural vegetation. As for the legal scenery, with all the PPA
+   preserved, there would be an increase of 239ha of natural vegetation and
+   a reduction of fragments from 60 to 27, thus showing larger and more
+   connected fragments. The low percentage of forest, low connectivity
+   between fragments and the non-compliance with environmental legislation
+   in the BZ contribute to isolation of the conservation unit and the
+   increase of edge effects, generating impacts on the biodiversity of the
+   SPPF.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0100-6762
+UT WOS:000353160000001
+ER
+
+PT J
+AU Cemin, Gisele
+   Perico, Eduardo
+   Rempel, Claudete
+TI LANDSCAPE COMPOSITION AND CONFIGURATION OF JACARE STREAM SUB-BASIN,
+   TAQUARI VALLEY, RS, WITH EMPHASIS ON THE FOREST AREAS
+SO REVISTA ARVORE
+VL 33
+IS 4
+BP 705
+EP 711
+PD JUL-AUG 2009
+PY 2009
+AB The conversion of continuous forest coverage areas into forest fragments
+   has contributed to the decrease of the biological diversity due to the
+   micro-habitat loss, changes in dispersion and migration patterns,
+   habitats' isolation and soil erosion. The solution for those problems is
+   intimately linked to the planning and maintenance of hydrographic
+   basins. Jacare's stream sub-basin is located in Taquari Valley, RS, with
+   an area of 538,98 km(2), where nine municipal districts are partially or
+   totally inserted. This basin is in an ecotone area among the plant
+   formations Deciduous Seasonal Forest (DSF) and Mixed Ombrophila Forest -
+   Araucaria Forest (MOF). Information related to the structural
+   characteristics of the existent forest classes in the area (DSF, MOF and
+   secondary growth vegetation) was elaborated and analyzed using images
+   from the satellite Landsat 7 ETM(+), passage 04/02/2002 and Geographical
+   Information Systems (GIS) Idrisi 3.2 and Landscape Ecology Fragstats 3.3
+   software systems. The results indicate that the area presents
+   approximately 52% of native forests that are preserved or in
+   regeneration process, but in a highly fragmented way, with 87,82% of the
+   fragments smaller than 1ha. Considering a border effect of 50m, around
+   40% of the fragments still present a nuclear area.
+TC 6
+ZB 2
+Z8 0
+ZS 8
+Z9 9
+SN 0100-6762
+UT WOS:000275597400013
+ER
+
+EF

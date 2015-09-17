@@ -1,0 +1,2356 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Wang, Chih-Hsuan
+TI Using quality function deployment to conduct vendor assessment and
+   supplier recommendation for business-intelligence systems
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+VL 84
+SI SI
+BP 24
+EP 31
+DI 10.1016/j.cie.2014.10.005
+PD JUN 2015
+PY 2015
+AB Business intelligence (BI) has been recognized as an important
+   enterprise information system to help decision makers achieve
+   performance measurement and management. Generally, typical BI users
+   consist of financial analysts, marketing planners, and general managers.
+   However, most of them are not familiar with BI's core technologies. In
+   order to help corporate executives better assess BI vendors, evaluation
+   criteria are separated into marketing requirements (MRs) and technical
+   attributes (TM), respectively. In particular, a fuzzy MCDM
+   (multi-criteria decision making) based QFD (quality function deployment)
+   is proposed as follows: (1) fuzzy Delphi is used to aggregate the
+   performance scores of BI vendors, (2) fuzzy DEMATEL (decision making and
+   trial laboratory) is conducted to recognize the causalities between MRs
+   and TAs, and (3) fuzzy AHP (analytical hierarchy process) is employed to
+   recommend optimal BI systems. For better benchmarking, the strengths and
+   weaknesses of three competitive BI vendors (i.e. SAP, SAS, and
+   Microsoft) are concurrently visualized through displaying a line diagram
+   (in terms of TM) and a radar diagram (in terms of MRs). More
+   importantly, experimental results demonstrate that supplier assessment
+   and supplier recommendation have been successfully accomplished. (C)
+   2014 Elsevier Ltd. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0360-8352
+EI 1879-0550
+UT WOS:000355040100004
+ER
+
+PT J
+AU Chang, Betty
+   Kuo, Chin
+   Wu, Chih-Hung
+   Tzeng, Gwo-Hshiung
+TI Using Fuzzy Analytic Network Process to assess the risks in enterprise
+   resource planning system implementation
+SO APPLIED SOFT COMPUTING
+VL 28
+BP 196
+EP 207
+DI 10.1016/j.asoc.2014.11.025
+PD MAR 2015
+PY 2015
+AB The aim of this paper was to evaluate the risk level for both
+   intra-organizational cultures and for different industries in
+   implementing an enterprise resource planning (ERP) system. This study
+   adopts the Fuzzy Analytic Network Process (FANP) method to assess ERP
+   implementation risks, which were categorized into four dimensions:
+   management and execution, software system, users, and technology
+   planning. An empirical survey was conducted that utilized the collected
+   survey data of 20 ERP experts in Taiwan to assess, rank, and improve the
+   critical risks of ERP implementation via the FANP method. Based on the
+   results of the FANP method, a follow-up survey of ERP end-users in
+   different departments of three industries was conducted to assess how
+   intra-organizational cultures and cross-industries affect users'
+   perceived risks a real world scenario. Our research results demonstrated
+   that "lack of management support and assistance" is vital risk for a
+   successful ERP implementation. Top management support and involvement
+   are crucial and essential factors to the success of a firm's ERP
+   implementation. "Ineffective communication with users" was found to be
+   the second highest risk factor. The benefits of using the FANP method
+   for evaluating the risk factors come from the clear priority weights
+   between alternatives. Finally, this study provides suggestions to help
+   enterprises decrease ERP risks, and enhance the chances of success of
+   ERP implementations among intra-organizational cultures and
+   across-industries. (C) 2014 Elsevier B. V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1568-4946
+EI 1872-9681
+UT WOS:000348452500021
+ER
+
+PT J
+AU Yang, Xuan
+   Wang, Zhou-Jing
+TI Geometric Least Square Models for Deriving [0,1]-Valued Interval Weights
+   from Interval Fuzzy Preference Relations Based on Multiplicative
+   Transitivity
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+AR 180892
+DI 10.1155/2015/180892
+PD 2015
+PY 2015
+AB This paper presents a geometric least square framework for deriving [0,
+   1]-valued interval weights from interval fuzzy preference relations. By
+   analyzing the relationship among [0, 1]-valued interval weights,
+   multiplicatively consistent interval judgments, and planes, a geometric
+   least square model is developed to derive a normalized [0, 1]-valued
+   interval weight vector from an interval fuzzy preference relation. Based
+   on the difference ratio between two interval fuzzy preference relations,
+   a geometric average difference ratio between one interval fuzzy
+   preference relation and the others is defined and employed to determine
+   the relative importance weights for individual interval fuzzy preference
+   relations. A geometric least square based approach is further put
+   forward for solving group decision making problems. An individual
+   decision numerical example and a group decision making problem with the
+   selection of enterprise resource planning software products are
+   furnished to illustrate the effectiveness and applicability of the
+   proposed models.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1024-123X
+EI 1563-5147
+UT WOS:000358487800001
+ER
+
+PT J
+AU Oztaysi, Basar
+TI A Group Decision Making Approach Using Interval Type-2 Fuzzy AHP for
+   Enterprise Information Systems Project Selection
+SO JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING
+VL 24
+IS 5-6
+BP 475
+EP 500
+PD 2015
+PY 2015
+AB As a result of emerging computation technologies, information systems
+   are developed to support various processes of enterprises. ERP
+   (Enterprise Resource Planning) has been a leading EIS (Enterprise
+   Information Systems) application and companies are allocating resources
+   to such new projects. However, studies report that most of the projects
+   fail or cannot reach the desired outcomes selecting inappropriate
+   software is represented as one of the major sources for project
+   failures. This paper focuses on EIS selection problem which is a
+   multicriteria decision making (MCDM) problem since it contains various
+   and conflicting criteria. In this study, a group decision making
+   approach using Analytic Hierarchy Process (AHP) and Interval type-2
+   fuzzy sets is used on a real world ERP selection problem with six
+   criteria and four alternatives. The originality of the study comes from
+   using interval type-2 fuzzy sets in the decision problem. By using
+   interval type-2 fuzzy sets for handling fuzzy group decision-making
+   problems more flexible decisions can be given since interval type-2
+   fuzzy sets are more suitable to represent uncertainties than type-1
+   fuzzy set.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1542-3980
+EI 1542-3999
+UT WOS:000348969200005
+ER
+
+PT J
+AU Rouyendegh, Babak Daneshvar
+   Bac, Ugur
+   Erkan, Turan Erman
+TI SECTOR SELECTION FOR ERP IMPLEMENTATION TO ACHIEVE MOST IMPACT ON SUPPLY
+   CHAIN PERFORMANCE BY USING AHP-TOPSIS HYBRID METHOD
+SO TEHNICKI VJESNIK-TECHNICAL GAZETTE
+VL 21
+IS 5
+BP 933
+EP 937
+PD OCT 2014
+PY 2014
+AB Recently, studies about the Enterprise Resource Planning (ERP) have been
+   increased and this research area has attracted more attention.
+   Especially, in the global competition environment, enterprises have to
+   focus on their Information Systems ( IS) performance to have a
+   competitive advantage; implementing an ERP system and improving the
+   effectiveness of the system is the only way. However every sector reacts
+   to ERP implementation differently. Purpose of this study is to rank the
+   sectors according to their performance increments after successful ERP
+   implementations by using AHP-TOPSIS hybrid method. As a result, general
+   structure of Turkish companies will be pictured and the sectors which
+   have the most chance to improve their performance by utilizing an ERP
+   system will be defined. These findings will help the companies to plan
+   the implementation process more precisely and help the managers of these
+   companies to define their expectations more clearly. A numerical example
+   is given to clarify the main developed result in this paper.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1330-3651
+EI 1848-6339
+UT WOS:000344737100003
+ER
+
+PT J
+AU Saric, Tomislav
+   Simunovic, Katica
+   Pezer, Danijela
+   Simunovic, Goran
+TI INVENTORY CLASSIFICATION USING MULTI - CRITERIA ABC ANALYSIS, NEURAL
+   NETWORKS AND CLUSTER ANALYSIS
+SO TEHNICKI VJESNIK-TECHNICAL GAZETTE
+VL 21
+IS 5
+BP 1109
+EP 1115
+PD OCT 2014
+PY 2014
+AB The work presents a research on inventory ABC classification using
+   various multi-criteria methods (AHP method and cluster analysis) and
+   neural networks. For the real inventory sample data and previously
+   conducted traditional ABC analysis the applications of the mentioned
+   methods in inventory classification have also been investigated. The
+   applied methods' obtained results have been used to evaluate their usage
+   possibilities in real manufacturing environment. The investigations
+   carried out in the present work create real conditions for a better
+   inventory control and implementation of the results in the ERP system
+   inventory module.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1330-3651
+EI 1848-6339
+UT WOS:000344737100026
+ER
+
+PT J
+AU Kilic, Huseyin Selcuk
+   Zaim, Selim
+   Delen, Dursun
+TI Development of a hybrid methodology for ERP system selection: The case
+   of Turkish Airlines
+SO DECISION SUPPORT SYSTEMS
+VL 66
+BP 82
+EP 92
+DI 10.1016/j.dss.2014.06.011
+PD OCT 2014
+PY 2014
+AB Enterprise resource planning (ERP) systems that aim to integrate,
+   synchronize and centralize organizational data are generally regarded as
+   a vital tool for companies to be successful in the rapidly changing
+   global marketplace. Due to its high acquisition purchasing, installation
+   and implementation cost and the wide range of offerings, the selection
+   of ERP systems is a strategically important and difficult decision.
+   Since there is a wide range of tangible and intangible criteria to be
+   considered, it is often defined as a multi-criteria decision making
+   problem. To overcome the challenges imposed by the multifaceted nature
+   of the problem, herein a three-stage hybrid methodology is proposed. The
+   process starts with the identification of most prevailing criteria
+   through a series of brainstorming sessions that include people from
+   different organizational units. Then, due to the varying importance of
+   the criteria, a fuzzy Analytic Hierarchy Process, which handles the
+   vagueness inherent in the decision making process, is used to obtain the
+   relative importance/weights of the criteria. These weighted criteria are
+   then used as input to the Technique for Order Preference by Similarity
+   to Ideal Solution method to rank the decision alternatives. As a
+   real-world illustrative case, the proposed methodology is applied to the
+   ERP selection problem at Turkish Airlines. Because of the collaborative
+   and systematic nature of the methodology, the results obtained from the
+   process were found to be highly satisfactory and trustworthy by the
+   decision makers. (C) 2014 Elsevier B.V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0167-9236
+EI 1873-5797
+UT WOS:000344204800008
+ER
+
+PT J
+AU Parthasarathy, Sudhaman
+   Sharma, Srinarayan
+TI Determining ERP customization choices using nominal group technique and
+   analytical hierarchy process
+SO COMPUTERS IN INDUSTRY
+VL 65
+IS 6
+BP 1009
+EP 1017
+DI 10.1016/j.compind.2014.03.003
+PD AUG 2014
+PY 2014
+AB An enterprise resource planning (ERP) system is an information system
+   that supports and integrates many facets of a business. A critical issue
+   in ERP implementation is how to bridge the gap between the ERP system
+   and an organization's business processes by customizing either the
+   system, or the business processes of the organization, or both.
+   Literature review shows that customization is a major hindrance in most
+   of the ERP implementation projects. This research applies nominal group
+   technique (NGT) and analytical hierarchy process. (AMP) techniques to
+   Luo and Strong's framework to help organizations determine feasible
+   customization choices for their ERP implementation initiatives. A case
+   study is presented to illustrate its applicability in practice. The
+   study has theoretical and practical implications for our understanding
+   of ERP implementation process. (C) 2014 Elsevier B.V. All rights
+   reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0166-3615
+EI 1872-6194
+UT WOS:000338410200008
+ER
+
+PT J
+AU Mital, Monika
+   Pani, Ashis
+   Ramesh, Ram
+TI Determinants of choice of semantic web based Software as a Service: An
+   integrative framework in the context of e-procurement and ERP
+SO COMPUTERS IN INDUSTRY
+VL 65
+IS 5
+SI SI
+BP 821
+EP 827
+DI 10.1016/j.compind.2014.03.002
+PD JUN 2014
+PY 2014
+AB The ever increasing Internet bandwidth and the fast changing needs of
+   businesses for effectiveness with the partners in the procurement chain
+   and is leading organizations to adopt information systems
+   infrastructures that are cost effective as well as flexible. The
+   question seems to be: what is driving organizations to go in for
+   Software as a Service (SaaS) based e-procurement and ERP, rather than
+   the packaged model of software provisioning? Whereas there have been
+   studies reporting technology, cost, quality, network externalities and
+   process as the main variables in the utility function of the user, but
+   most of the studies have modelled either one or two in the their models.
+   The study is exploratory in nature and tries to identify, classify and
+   rank dimensions affecting SaaS sourcing decisions. In this study, we
+   developed an integrative framework to identify the determinants of
+   choice of SaaS in the specific context of SaaS based e-procurement and
+   ERP. The framework was then analyzed using the extended Analytic
+   Hierarchy Process (AHP) method suggested by Liberatore (1987) and the
+   relative importance and the weights of the criteria identified using
+   data collected on 8 users and 9 service providers of SaaS based
+   e-procurement and ERP. Although the analysis helped in identifying
+   quality and costs as the two most important determinants of choice of
+   SaaS based e-procurement and ERP, but the other criteria such as network
+   externality benefits, technology and process were also found to be
+   significant determinants of choice. (C) 2014 Elsevier B.V. All rights
+   reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0166-3615
+EI 1872-6194
+UT WOS:000337882000003
+ER
+
+PT J
+AU Méxas, Mirian Picinini Picinini
+   Costa, Helder Gomes
+   Quelhas, Osvaldo Luiz Gonçalves
+TI Avaliação da importância relativa dos critérios para a seleção de
+   Sistemas Integrados de Gestão (ERP) para uso em empresas da construção
+   civil
+X1 Evaluation of the importance of criteria for the selection of Integrated
+   Management Systems (ERP) for use in civil construction companies
+SO Gestão & Produção
+VL 20
+IS 2
+BP 337
+EP 356
+DI 10.1590/S0104-530X2013000200007
+PD 2013-06
+PY 2013
+AB The adoption of ERP (Enterprise Resource Planning) by companies has
+   introduced the need of evaluating and selecting such systems. This
+   discussion is embedded in a context of multiple perceptions or
+   evaluation criteria. In the present study, it a systematic literature
+   review was conducted on a set of papers published in journals indexed by
+   Scopus, ISI Web of Science, and Engineering Village databases focusing
+   on the multiple criteria evaluation of ERP systems. Based on this
+   literature review, criteria and sub-criteria was set, which was
+   submitted for validation by a group of professionals with strong ERP
+   System selection and implementation experience resulting in a tree
+   comprised of 45 sub-criteria grouped into five criteria. A survey of IT
+   and civil construction areas was conducted on a sample of 79 respondents
+   in order to investigate the relative importance of these criteria. The
+   survey demonstrated that the Financial, Business, and Software criteria
+   were considered by the respondents as the most important. 
+Y4 A adoção de Sistemas Integrados de Gestão, também denotados sistemas ERP
+   (Enterprise Resource Planning), introduziu a necessidade de se discutir
+   o processo de avaliação deste tipo de sistemas, o qual está inserido em
+   um contexto de múltiplas percepções ou critérios de avaliação. No
+   presente trabalho, efetua-se uma revisão bibliográfica sistematizada em
+   um conjunto de artigos publicados em periódicos indexados nas bases
+   Scopus, ISI Web of Science ou Engineering Village, os quais relatam a
+   construção/aplicação de modelos multicritério para avaliação de sistemas
+   ERP. Com base nesta revisão bibliográfica, foi construído um conjunto de
+   critérios e subcritérios, o qual foi submetido à validação por um
+   conjunto de especialistas com experiência na seleção e implantação de
+   ERP, resultando em uma árvore composta por 45 subcritérios agrupados em
+   cinco critérios. Posteriormente, foi desenvolvida uma pesquisa de campo,
+   da qual participaram 79 respondentes, principalmente das áreas de TI e
+   Construção Civil, para captar percepções quanto à importância relativa
+   destes critérios. A pesquisa revelou que os respondentes consideram os
+   critérios Financeiro, Negócio e Software os mais importantes. 
+RI Costa, Helder/C-5754-2008
+OI Costa, Helder/0000-0001-9945-0367
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1806-9649
+UT SCIELO:S0104-530X2013000200007
+ER
+
+PT J
+AU 김현영
+   Park, Hee-Sung
+TI Effect of ERP Implementation for Public Owner  - Based on Case Study
+Z1 공공발주기관의 ERP 적용효과 평가방안-사례연구중심으로
+SO Journal of the Korean Society of Civil Engineers
+S1 대한토목학회논문집(국문)
+VL 33
+IS 2
+BP 749
+EP 755
+DI 10.12652/Ksce.2013.33.2.749
+PD 2013
+PY 2013
+AB The public corporations have already implemented ERP to improve
+   productivity, quality, and cost saving. This paper presents the result
+   of business process improvement based on implementation of ERP.
+   Therefore, this paper performed case study of K corporation. Survey was
+   conducted to define the degree of improvement and evaluation method was
+   presented using AHP. The weights for each business area is assigned
+   based on AHP. Then ERP is evaluated in efficiency, work transparency,
+   information sharability, and easy of use. It is meaningful achievement
+   considering its short term implementation. The human resource management
+   shows a relatively larger improvement than other management processes.
+   However, information sharability shows relatively low improvement than
+   others. This quantified result of user-oriented subjective evaluation on
+   ERP implementation will contribute to evaluate the impact of ERP for
+   owner organizations.
+AK 기업의 생산성, 품질향상 및 원가절감 등을 위해 공공기업에서도 ERP시스템을 도입하여 활용중이다. 본 논문은 ERP 도입 후
+   업무프로세스 개선 정도를 분석하여 ERP 도입 성과를 제시하였다. 이를 위해 K사를 대상으로 업무프로세스 개선이 어느 정도 향상
+   되었는지 설문을 통하여 자료를 수집하고, AHP기법을 이용하여 평가 방안을 제시하고 분석하였다. 설문을 통해 각 업무 분야별
+   가중치를 결정하고, 업무개선정도를 평가하기 위해 업무효율성, 업무처리 투명성, 정보공유도 향상, 사용편의성에 대해 ERP 도입 후
+   효과를 평가하였다. K사가 ERP 도입 초기임을 감안하면 ERP도입의 성과가 발현되는 것으로 판단할 수 있다. 프로세스 개선효과가
+   가장 크게 나타난 분야는 인사관리로 직원들이 실질적으로활용 가능한 업무프로세스들이 포함되어 있어 가장 높은 평가를 받았다. 그러나
+   업무개선정도 지표인 정보공유도 향상은 상대적으로 낮은 평가를 받음으로써 추후 ERP시스템 보완이 필요한 것으로 판단된다. 이와
+   같이 본 연구에서는 사용자 중심의 주관적인 평가를 AHP기법을 이용하여 ERP 도입성과를 정량화하여 보여줌으로써 공공발주기관의
+   ERP 도입 성과를 측정· 평가하는데 도움을 줄 것으로 기대한다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1015-6348
+UT KJD:ART001757009
+ER
+
+PT J
+AU Hwang, Bang-Ning
+   Lu, Ta-Ping
+TI Key success factor analysis for e-SCM project implementation and a case
+   study in semiconductor manufacturers
+SO INTERNATIONAL JOURNAL OF PHYSICAL DISTRIBUTION & LOGISTICS MANAGEMENT
+VL 43
+IS 8
+BP 657
+EP 683
+DI 10.1108/IJPDLM-03-2012-0062
+PD 2013
+PY 2013
+AB Purpose - The semiconductor market exceeded US$250 billion worldwide in
+   2010 and has had a double-digit compound annual growth rate (CAGR) in
+   the last 20 years. As it is located far upstream of the electronic
+   product market, the semiconductor industry has suffered severely from
+   the "bullwhip" effect. Therefore, effective e-based supply chain
+   management (e-SCM) has become imperative for the efficient operation of
+   semiconductor manufacturing (SM) companies. The purpose of this research
+   is to define and analyze the key success factors (KSF) for e-SCM system
+   implementation in the semiconductor industry.
+   Design/methodology/approach - A hierarchy of KSFs is defined first by a
+   combination of a literature review and a focus group discussion with
+   experts who successfully implemented an inter-organizational e-SCM
+   project. Fuzzy analytic hierarchy process (FAHP) is then employed to
+   rank the importance of these identified KSFs. To confirm the research
+   result and further explore the managerial implications, a second
+   in-depth interview with the e-SCM project executives is conducted.
+   Findings - The KSF hierarchy is constructed with two levels: a top-level
+   consisting of four dimensions and a detailed-level consisting of 15
+   individual factors. The research shows that, in the top-level, strategy
+   is the most critically successful dimension followed by process,
+   organization, and technical; whereas in the detailed-level, the top
+   management commitment, clear project goal and business requirements, and
+   business process re-engineering are the top three critical successful
+   factors.
+   Research limitations/implications - Research surveys and interviews were
+   conducted with two leading companies: Taiwan Semiconductor Manufacturing
+   Company (TSMC) and ASE; they are the largest front-end and back-end SM
+   companies in the world, respectively. Although the data collected was
+   primarily based on the experience of one successful e-SCM project, the
+   significant roles of these two companies and compelling contribution
+   made by the e-SCM project leading to the research resulted in valuable
+   guidelines for the companies in the semiconductor industry and a useful
+   reference for companies in other manufacturing industries.
+   Originality/value - e-SCM system has a high failure rate and there is
+   little literature discussing the KSF of e-SCM implementation from a
+   holistic view for certain industries. This paper not only provides a
+   structured and comprehensive list of KSFs but also illustrates the
+   application of the most critical factors by examples. In addition to the
+   contributions made to industries, the research results can also serve as
+   a foundation for related academic research when comparing the KSFs of
+   implementing e-SCM by different industries.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0960-0035
+EI 1758-664X
+UT WOS:000324660600004
+ER
+
+PT J
+AU Razmi, Jafar
+   Sangari, Mohamad Sadegh
+TI A comprehensive decision support system for ERP pre-implementation phase
+SO EUROPEAN JOURNAL OF INDUSTRIAL ENGINEERING
+VL 7
+IS 4
+BP 475
+EP 496
+DI 10.1504/EJIE.2013.055020
+PD 2013
+PY 2013
+AB Given significant investments in enterprise resource planning (ERP)
+   systems, previous studies report unusually high failure rate and major
+   challenges in ERP projects. The activities prior to ERP implementation,
+   referred to as the pre-implementation phase, are very important because
+   they significantly affect the implementation success. In this paper, the
+   pre-implementation phase is focused in which necessary preparations
+   before embarking on the ERP initiative, required functions and features,
+   and the most appropriate ERP solution are decided. Such decisions are
+   risky, costly, and very time-consuming because they necessitate working
+   with a vast amount of information and require appropriate analytical
+   capabilities as well as decision making methods and structures. In this
+   paper, a comprehensive decision support system (DSS) is developed
+   helping organisations to make the targeted decisions both efficiently
+   and effectively. The proposed framework is applied in a real case study
+   to illustrate its effectiveness and practicality.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1751-5254
+UT WOS:000321615900005
+ER
+
+PT J
+AU Mexas, Mirian Picinini
+   Goncalves Quelhas, Osvaldo Luiz
+   Costa, Helder Gomes
+TI Prioritization criteria for enterprise resource planning systems
+   selection for civil construction companies: a multicriteria approach
+SO CANADIAN JOURNAL OF CIVIL ENGINEERING
+VL 39
+IS 8
+BP 855
+EP 866
+DI 10.1139/L2012-071
+PD AUG 2012
+PY 2012
+AB In this study, as a first step, a set of criteria and subcriteria was
+   proposed for enterprise resource planning (ERP) systems selection for
+   companies in the civil construction industry that is based on a review
+   of the literature concerning the application of multicriteria models for
+   evaluating ERP systems. Subsequently, after validation of these criteria
+   by a group of information technology specialists, a field survey was
+   developed based on the administration of a questionnaire and the use of
+   the analytic hierarchy process. This survey enabled us to perform an
+   analysis of the judgment consistency of the 11 respondents who
+   participated in this study and to capture their perceptions of criteria
+   importance. The survey revealed that respondents considered the software
+   criterion to be the most important and showed the importance of
+   subcriteria within groups of criteria, which greatly contributed to the
+   decision-making process in ERP systems selection.
+RI Costa, Helder/C-5754-2008
+OI Costa, Helder/0000-0001-9945-0367
+TC 0
+ZB 0
+Z8 0
+ZS 1
+Z9 1
+SN 0315-1468
+UT WOS:000307233600001
+ER
+
+PT J
+AU Chang, Tsung-Han
+   Hsu, Shu-Chen
+   Wang, Tien-Chin
+   Wu, Chao-Yen
+TI Measuring the success possibility of implementing ERP by utilizing the
+   Incomplete Linguistic Preference Relations
+SO APPLIED SOFT COMPUTING
+VL 12
+IS 5
+BP 1582
+EP 1591
+DI 10.1016/j.asoc.2011.12.008
+PD MAY 2012
+PY 2012
+AB This paper applies an analytic hierarchical prediction model based on
+   the Multi-Criteria Decision Making with Incomplete Linguistic Preference
+   Relations (InLinPreRa) to help the organizations become aware of the
+   essential factors affecting the Enterprise Resource Planning (ERP), as
+   well as identify the actions necessary before implementing ERP. The
+   subjectivity and vagueness in the prediction procedures are dealt with
+   linguistic variables quantified in an interval [-t, t]. Then predicted
+   success/failure values are obtained to enable organizations to decide
+   whether to initiate ERP, inhibit adoption or take remedial actions to
+   increase the success possibility of ERP. Pairwise comparisons are used
+   to determine the priority weights of influential factors, and the
+   possible occurrence ratings of success or failure outcome amongst
+   decision makers. There are not any inconsistency occurred in this
+   procedures because this proposed approach allows every decision expert
+   to choose an explicit criterion or alternative for the without
+   restriction. When there are n criteria in a decision matrix, only n - 1
+   times of pairwise comparisons are taken. This approach not only improves
+   the efficiency of pairwise comparison compared with the traditional AHP,
+   but also avoids the checking the consistency of linguistic preference
+   relation when the decision makers undertake the pairwise comparison
+   processes. (C) 2011 Elsevier B. V. All rights reserved.
+TC 10
+ZB 0
+Z8 0
+ZS 0
+Z9 10
+SN 1568-4946
+UT WOS:000301351100014
+ER
+
+PT J
+AU Sarfaraz, Ahmad
+   Jenab, Kouroush
+   D'Souza, Amanda C.
+TI Evaluating ERP implementation choices on the basis of customisation
+   using fuzzy AHP
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 50
+IS 23
+BP 7057
+EP 7067
+DI 10.1080/00207543.2012.654409
+PD 2012
+PY 2012
+AB An enterprise resource planning (ERP) system is a software solution that
+   puts together a package that allows information flow through various
+   levels and departments of an organisation. Manufacturing enterprises
+   have understood the importance of information systems within their
+   organisations and have begun using them extensively. To achieve the
+   right fit of the ERP system to the business organisation, customisation
+   may be needed. However, customisation is seen as an issue in the
+   application of an ERP. There are many attributes that can be considered
+   for the selection of an ERP system. In this paper, we have applied fuzzy
+   analytical hierarchy process (FAHP) to a framework to evaluate an ERP
+   for implementation purposes. The framework provides different methods
+   for customisation of ERP. With the use of FAHP, obtained results provide
+   a better match in terms of understanding the problem and giving options
+   that are a closer fit to the requirements rather than providing the
+   'correct' decision to be taken. This paper is aimed at helping managers
+   to understand and select among the various customisation options
+   available. The application of FAHP to the framework is demonstrated with
+   opinions gathered from managers in various companies. These opinions are
+   translated into numerical values and are compared to the problem as a
+   whole.
+TC 2
+ZB 0
+Z8 0
+ZS 0
+Z9 2
+SN 0020-7543
+UT WOS:000310597000026
+ER
+
+PT J
+AU 김기홍
+   강경식
+TI A study on the factor analysis of  ERP system construction for small and
+   medium enterprise using AHP  -third logistic small and mediun partner
+   company approach-
+Z1 AHP를 통한 중소기업 ERP 구축을 위한 인지도에 관한 분석 -3자 중소물류협력사 중심으로-
+SO Journal of Korea Safety Management & Science
+S1 대한안전경영과학회지
+VL 14
+IS 1
+BP 147
+EP 154
+PD 2012
+PY 2012
+AB The medium and small logistic companies that have an outsourcing
+   contract from the large corporation are encountered with a problem to
+   introduce the ERP system to their current business environment due to
+   following risk of change in current business environment, high cost
+   involved in investment, and lack of understanding of business
+   requirement of ERP. Instead of build their own ERP system, the small and
+   medium logistic companies are using the large corporation's ERP system
+   and get the benefit of efficiency in management and control process.
+   Therefore, it is more like the organization hierarchy, not collaboration
+   between the medium and small companies with the large corporation. In
+   this study, the survey method to find out how the medium and small
+   logistic companies understand the importance of ERP system on continuous
+   growth of business by AHP. as result, they are recognized. The benefit
+   of the ERP system as having much effect on business competitiveness.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-6783
+UT KJD:ART001648082
+ER
+
+PT J
+AU 목혜민
+   Lee, Young-Chan
+TI Selection of ERP Software for Small-Medium Enterprises in China Using
+   the Analytic Hierarchy Process
+SO The Journal of Internet Electronic Commerce Research
+S1 인터넷전자상거래연구
+VL 12
+IS 1
+BP 193
+EP 208
+PD 2012
+PY 2012
+AB With the development of information technology, Enterprise Resource
+   Planning (ERP) software has become a necessity for an enterprise.
+   Numerous enterprises have gained huge benefits from implementing them.
+   However, there still large amount of enterprises failed in using ERP.
+   The reasons of failure are variable and one of the most significant and
+   frequently appear reason is that the enterprise has not chosen the
+   proper software according to its own condition and features. This paper
+   aims at helping Chinese Small and Medium Enterprises (SMEs) select
+   appropriate ERP software using the Analytic Hierarchy Process (AHP). In
+   the initial stage, eight ERP vendors within and abroad China are
+   selected. But according to the special situation of SMEs in China, only
+   three Chinese ERP vendors are left. Their ERP product designed for SMEs
+   are alternatives of the benefit and cost hierarchies. B/C ratios of the
+   three alternatives are calculated.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-1983
+UT KJD:ART001649680
+ER
+
+PT J
+AU Benlian, Alexander
+   Hess, Thomas
+TI Comparing the relative importance of evaluation criteria in proprietary
+   and open-source enterprise application software selection - a conjoint
+   study of ERP and Office systems
+SO INFORMATION SYSTEMS JOURNAL
+VL 21
+IS 6
+BP 503
+EP 525
+DI 10.1111/j.1365-2575.2010.00357.x
+PD NOV 2011
+PY 2011
+AB Until recently, organizations willing to acquire application systems
+   have had no choice but to adopt proprietary software. With the advent of
+   open-source software (OSS), a new model for developing and distributing
+   software has entered the stage. OSS has evolved from a generally
+   horizontal infrastructure towards more highly visible applications in
+   vertical domains, giving information systems (IS) managers more degrees
+   of freedom in their selection of enterprise application software (EAS).
+   Although a large body of research exists on the relative importance of
+   evaluation criteria for proprietary EAS, the role of OSS in the EAS
+   evaluation process has received little attention so far. To address this
+   research gap, this study represents the first empirical investigation to
+   compare the relative importance of evaluation criteria in proprietary
+   and open-source EAS selection. Through an online survey, we evaluated
+   the responses of IS managers of 358 organizations to a conjoint study
+   spawning 8592 trade-off pair comparisons and 3580 purchase evaluations
+   on proprietary and open-source enterprise resource planning (ERP) and
+   Office software packages. The results show that the relative importance
+   of evaluation criteria significantly varies between proprietary and
+   open-source ERP systems. Implementation factors such as ease of
+   implementation and support are much more crucial in the evaluation of
+   open-source than of proprietary ERP systems, which is generally due to
+   IS managers' risk mitigation behaviour. Interestingly, there are no
+   major differences in the ranking of evaluation criteria between
+   proprietary and open-source Office systems. We conclude our paper with a
+   detailed discussion of our findings and their implications for
+   researchers, companies, EAS vendors and open-source communities.
+RI Benlian, Alexander/E-1075-2014
+OI Benlian, Alexander/0000-0002-7294-3097
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 1350-1917
+EI 1365-2575
+UT WOS:000296066200003
+ER
+
+PT J
+AU Chang, She-I
+   Yen, David C.
+   Ng, Celeste See-Pui
+   Chang, I-Cheng
+   Yu, Sheng-Yu
+TI An ERP system performance assessment model development based on the
+   balanced scorecard approach
+SO INFORMATION SYSTEMS FRONTIERS
+VL 13
+IS 3
+BP 429
+EP 450
+DI 10.1007/s10796-009-9225-5
+PD JUL 2011
+PY 2011
+AB Previously completed research has not been significant when regarding
+   the aspect of deriving a model for measuring the performance of an
+   Enterprise Resource Planning (ERP) system. Therefore, this research
+   attempts to present an objective and quantitative assessment model based
+   on the Balance Scorecard approach for the purpose of appraising the
+   performance of the ERP system. The methodology used in this research
+   involves the Grounded Theory, Expert Questionnaire, the Analytic
+   Hierarchy Process, and the Fuzzy Theory to filter out and develop the
+   KPIs for the ERP system performance assessment model. It is expected
+   that such a model may be used by enterprises to assess the efficiency of
+   the ERP system during the various stages of management and support
+   within the system. Finally, this assessment model is verified in a case
+   company through the examination of its unbiased and quantifiable
+   assessment approach. This result allows us to further understand
+   authentic efficiency, and explore if enterprises have fulfilled their
+   proposed objectives after the introduction of the ERP system.
+TC 3
+ZB 0
+Z8 0
+ZS 0
+Z9 3
+SN 1387-3326
+UT WOS:000292286200011
+ER
+
+PT J
+AU Lee, Chang Won
+   Kwak, N. K.
+TI Strategic Enterprise Resource Planning in a Health-Care System Using a
+   Multicriteria Decision-Making Model
+SO JOURNAL OF MEDICAL SYSTEMS
+VL 35
+IS 2
+BP 265
+EP 275
+DI 10.1007/s10916-009-9362-x
+PD APR 2011
+PY 2011
+AB This paper deals with strategic enterprise resource planning (ERP) in a
+   health-care system using a multicriteria decision-making (MCDM) model.
+   The model is developed and analyzed on the basis of the data obtained
+   from a leading patient-oriented provider of health-care services in
+   Korea. Goal criteria and priorities are identified and established via
+   the analytic hierarchy process (AHP). Goal programming (GP) is utilized
+   to derive satisfying solutions for designing, evaluating, and
+   implementing an ERP. The model results are evaluated and sensitivity
+   analyses are conducted in an effort to enhance the model applicability.
+   The case study provides management with valuable insights for planning
+   and controlling health-care activities and services.
+TC 8
+ZB 1
+Z8 0
+ZS 0
+Z9 8
+SN 0148-5598
+UT WOS:000288513500012
+PM 20703564
+ER
+
+PT J
+AU Lin, Chin-Tsai
+   Chen, Chie-Bein
+   Ting, Ying-Chan
+TI An ERP model for supplier selection in electronics industry
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 38
+IS 3
+BP 1760
+EP 1765
+DI 10.1016/j.eswa.2010.07.102
+PD MAR 2011
+PY 2011
+AB Asus Tech, is the largest motherboard manufacturer in Taiwan. Hundreds
+   of suppliers cooperate with the company in business. So that supplier
+   selection is the most important function of a purchasing department in
+   the enterprise. An enterprise resource planning (ERP) system in the
+   process of supplier selection may result in the great savings in both
+   costs and man hours. In the concept of push and pull, an ERP system acts
+   as an efficient tool in the resource integration and profit creation for
+   a company. Through ERP, a decision manager can clearly realize the
+   strength and weakness of the purchasing operation. To establish a
+   real-time purchasing environment, a methodology of analytic network
+   process (ANP), technique for order preference by similarity to ideal
+   solution (TOPSIS) and linear programming (LP) are effectively applied in
+   the supplier selection process. ANP and TOPSIS are used to calculate the
+   weight and give suppliers a ranking; LP effectively allocates order
+   quantity to each vendor. As to the result, four PC board suppliers are
+   given orders for 1200, 727, 1000 and 73 pieces. (C) 2010 Elsevier Ltd.
+   All rights reserved.
+TC 25
+ZB 1
+Z8 1
+ZS 2
+Z9 28
+SN 0957-4174
+UT WOS:000284863200053
+ER
+
+PT J
+AU De Carli, Paulo Cesar
+   Delamaro, Maurício César
+   Salomon, Valério Antonio Pamplona
+TI Identificação e priorização dos fatores críticos de sucesso na
+   implantação de fábrica digital
+X1 Identification and prioritization of critical success factors in a
+   digital factory implementation
+SO Production
+VL 20
+IS 4
+BP 0
+EP 0
+PD 2010-12
+PY 2010
+AB A Digital Factory is a concept which improves the collaboration among
+   product development processes. Despite the benefits brought by this
+   concept, failures may occur in its implementation. This paper aims to
+   present the Critical Success Factors in the implementation of a Digital
+   Factory project in a Brazilian company. These factors were identified by
+   an exploratory survey on the implementation of Enterprise Resource
+   Planning and Product Lifecycle Management among other systems. Following
+   this identification, the factors were prioritized using the Delphi
+   Method and the Analytic Hierarchy Process; this evaluation was carried
+   out by professionals from enterprises which implement Digital Factory
+   projects, in Brazil and abroad. Nine factors were identified. The five
+   main priorities were: Continuous Support and Commitment from Top
+   Management; Comprehensive Business Reengineering; Skilled and
+   Experienced Partners; Participation and Commitment , of Users; and
+   Appropriate Role of the Project Manager. 
+Y4 Fábrica digital é um conceito que melhora a colaboração entre os
+   processos de desenvolvimento do produto. Apesar dos benefícios trazidos
+   por esse conceito, falhas podem ocorrer na sua implantação. Este artigo
+   tem por objetivo apresentar os fatores críticos de sucesso na
+   implantação de um projeto de fábrica digital em uma empresa brasileira.
+   Esses fatores foram identificados por meio de uma pesquisa exploratória
+   em implantações de sistemas como o Enterprise Resource Planning e
+   Product Lifecycle Management, entre outros. Depois disso, os fatores
+   foram priorizados, utilizando-se os métodos Delphi e Analytic Hierarchy
+   Process, por profissionais de empresas que implantam projetos de fábrica
+   digital, no Brasil e exterior. Foram identificados nove fatores, sendo
+   os cinco de maior prioridade: apoio e comprometimento contínuo da alta
+   gerência; abrangente reengenharia do negócio; parceiros com conhecimento
+   e experiência; participação e comprometimento do usuário; e adequado
+   papel do líder do projeto. 
+RI Salomon, Valerio/G-1600-2012
+OI Salomon, Valerio/0000-0002-5619-5076
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1980-5411
+UT SCIELO:S0103-65132010000400005
+ER
+
+PT J
+AU Salmeron, Jose L.
+   Lopez, Cristina
+TI A multicriteria approach for risks assessment in ERP maintenance
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+VL 83
+IS 10
+BP 1941
+EP 1953
+DI 10.1016/j.jss.2010.05.073
+PD OCT 2010
+PY 2010
+AB Enterprise resource planning (ERP) systems cannot remain static after
+   their implementation, they need maintenance. ERP maintenance is a key
+   process required by the rapidly changing business environment and the
+   usual software maintenance needs. However, these projects are highly
+   complex and risky. So, the risks management associated with ERP
+   maintenance projects is crucial to attain a satisfactory performance.
+   Unfortunately, ERP maintenance risks have not been studied in depth. For
+   this reason, this paper presents a general risks taxonomy. It gathers
+   together the risks affecting the performance of ERP maintenance.
+   Moreover, the authors use the analytic hierarchy process (AHP)
+   methodology to analyze the risks factors identified. It helps managers,
+   vendors, consultants, auditors, users and IT staff to manage ERP
+   maintenance better. Results suggest that the most critical stage in ERP
+   maintenance is the first phase, which receives, identifies, classifies
+   and ranks the software modification. The most important hazards in ERP
+   maintenance are the cooperation and commitment of ERP users and
+   managers. Crown Copyright (c) 2010 Published by Elsevier Inc. All rights
+   reserved.
+RI Salmeron, Jose/E-9729-2010
+TC 19
+ZB 2
+Z8 1
+ZS 0
+Z9 20
+SN 0164-1212
+UT WOS:000282117900026
+ER
+
+PT J
+AU Agrawal, Aditya
+   Finnie, Gavin
+   Krishnan, Padmanabhan
+TI A General Framework to Measure Organizational Risk during Information
+   Systems Evolution and its Customization
+SO JOURNAL OF RESEARCH AND PRACTICE IN INFORMATION TECHNOLOGY
+VL 42
+IS 1
+BP 37
+EP 60
+PD FEB 2010
+PY 2010
+AB Information systems change initiatives often represent the single
+   largest investment (and therefore risk) for large corporations yet there
+   exist few management frameworks in the literature to help decision
+   makers measure risk during this organization-wide change process. The
+   Organization Risk Evaluation (ORE) framework has been developed based on
+   the design science paradigm as a multi-criteria, relative risk,
+   condition consequence, management decision framework enabling executive
+   decision makers to calculate and compare risk evolution at fixed points
+   of the change cycle and make structured and balanced risk mitigation
+   decisions.
+   Enterprise Resource Planning systems evolution initiatives in
+   distribution companies are a model example of the defined problem. The
+   ORE framework is customized into the ERP-ORE framework to demonstrate
+   its application. The ERP-ORE framework emphasizes the political and
+   process dimensions of systems evolution and utilizes the Analytic
+   Hierarchy Process to enable management to make disciplined risk
+   mitigation decisions. The ERP-ORE framework is illustrated through a
+   case study description of a medical supplies distributor implementing an
+   ERP system. The focus is on the ERP system's role as an information
+   manager within the supply chain.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1443-458X
+UT WOS:000279511600005
+ER
+
+PT J
+AU Mehrjerdi, Yahia Zare
+TI Applications and extensions of quality function deployment
+SO ASSEMBLY AUTOMATION
+VL 30
+IS 4
+BP 388
+EP 403
+DI 10.1108/01445151011075843
+PD 2010
+PY 2010
+AB Purpose - The paper aims to review the fundamental concept of quality
+   function deployment (QFD) and discusses the fact that a road to success
+   for a new product development is the identification of customers
+   requirements and their conversion into engineering design requirements
+   Thereafter it seeks to review the subject and to study four new cases on
+   the topic of QFD
+   Design/methodology/approach - The paper discusses key elements of QFD
+   and the fact that the vision for the development of a comprehensive
+   quality system can be built upon the principles of QFD taking customer
+   requirements into consideration and relating that to the design
+   requirements
+   Findings - To make product development task successful and bringing
+   competitive advantages to the core business management must be committed
+   to the needs of the customers through marketing surveys and implementing
+   that into the process of product development by converting them into
+   engineering design requirements
+   Practical implications - The method has been used successfully in
+   practice in areas such as facility locations marketing strategies robot
+   selection ERP selection software development and sports
+   Originality/value - The paper reviews QFDs and its extensions such as
+   fuzzy QFD analytic hierarchy process analytic network process and QFD
+   statistically extended QFD dynamic QFD and other extensions of that In
+   addition to that cases covering topics of ship of quality cost design
+   parameter modeling enhanced version of the quality function development
+   financial factors and uncertainties in the product design process with
+   fuzzy formulation and a model for prioritizing and designing rule
+   changes for the game of soccer are also reviewed
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0144-5154
+UT WOS:000284184200012
+ER
+
+PT J
+AU Stemberger, Mojca Indihar
+   Bosilj-Vuksic, Vesna
+   Jaklic, Jurij
+TI BUSINESS PROCESS MANAGEMENT SOFTWARE SELECTION - TWO CASE STUDIES
+SO EKONOMSKA ISTRAZIVANJA-ECONOMIC RESEARCH
+VL 22
+IS 4
+BP 84
+EP 99
+PD 2010
+PY 2010
+AB The interest in business processes management (BPM) is intense among
+   practitioners and scholars and is still growing Manly business process
+   management software (BPMS) tools that arc, used to serve a variety of
+   applications in BPM arc, on the market and it is quite difficult to
+   select the appropriate one The paper presents a flexible method for BPMS
+   selection, which can be applied in different companies and for various
+   project types because the selection criteria are connected, to project
+   goals and critical success factors The method has been developed on the
+   basis of relevant literature and practical experience in BPM projects It
+   is based on Analytic Hierarchy Process (AHP) method The applicability of
+   proposed method is demonstrated with two case studies that are also used
+   to analyse and discuss it
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1331-677X
+UT WOS:000275038800007
+ER
+
+PT J
+AU Kahraman, Cengiz
+   Beskese, Ahmet
+   Kaya, Ihsan
+TI Selection among ERP outsourcing alternatives using a fuzzy
+   multi-criteria decision making methodology
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 48
+IS 2
+BP 547
+EP 566
+DI 10.1080/00207540903175095
+PD 2010
+PY 2010
+AB Outsourcing can be seen as a strategic way to align technology
+   initiatives and business goals, as a strategy for managing technology
+   operations in today's difficult business environment, and as a way to
+   reduce operating costs. Often, companies begin the process by
+   outsourcing non-core business operations, which may include
+   applications, assets, people and other resources. The outsourcing
+   decision is important since the correct selection can dramatically
+   increase a firm's performance. When companies outsource a significant
+   part of their business and become more dependent on outsourcers, the
+   consequences of poor decision making becomes more severe. Since
+   enterprise resource planning (ERP) is one of the vital systems, if not
+   the one, that integrates all functions including planning,
+   manufacturing, distribution, and accounting into a single system, its
+   outsourcing is a very important multi-attribute decision problem for the
+   firms. In the literature, outsourcing decisions are often based on
+   multi-criteria approaches. In this paper, a fuzzy multi-criteria
+   decision making methodology is suggested for the selection among ERP
+   outsourcing alternatives. The methodology is based on the analytic
+   hierarchy process (AHP) under fuzziness. It allows decision-makers to
+   express their evaluations in linguistic expressions, crisp or fuzzy
+   numbers. In the application of the proposed methodology, an automotive
+   firm selects the best alternative among three ERP outsourcing firms.
+TC 19
+ZB 1
+Z8 0
+ZS 0
+Z9 19
+SN 0020-7543
+UT WOS:000272987900012
+ER
+
+PT J
+AU Onut, Semih
+   Efendigil, Tugba
+TI A theorical model design for ERP software selection process under the
+   constraints of cost and quality: A fuzzy approach
+SO JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+VL 21
+IS 6
+BP 365
+EP 378
+DI 10.3233/IFS-2010-0457
+PD 2010
+PY 2010
+AB Enterprise Resource Planning (ERP) software selection is one of the most
+   important decision making issues covering both qualitative and
+   quantitative factors for organizations. Multiple criteria decision
+   making (MCDM) has been found to be a useful approach to analyze these
+   conflicting factors. Qualitative criteria are often accompanied by
+   ambiguities and vagueness. This makes fuzzy logic a more natural
+   approach to this kind of problems. This study presents a beneficial
+   structure to the managers for use in ERP software vendor selection
+   process. In order to evaluate ERP vendors methodologically, a
+   hierarchical framework is also proposed. As a MCDM tool, we used
+   analytic hierarchy process (AHP) and its fuzzy extension to obtain more
+   decisive judgments by prioritizing criteria and assigning weights to the
+   alternatives. The objective of this paper is to select the most
+   appropriate alternative that meets the customer's requirements with
+   respect to cost and quality constraints. In the end of this study, a
+   real-world case study from Turkey is also presented to illustrate
+   efficiency of the methodology and its applicability in practice.
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 1064-1246
+UT WOS:000283777300001
+ER
+
+PT J
+AU Cebeci, Ufuk
+TI Fuzzy AHP-based decision support system for selecting ERP systems in
+   textile industry by using balanced scorecard
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 36
+IS 5
+BP 8900
+EP 8909
+DI 10.1016/j.eswa.2008.11.046
+PD JUL 2009
+PY 2009
+AB An enterprise resource planning system (ERP) is the information backbone
+   of a company that integrates and automates all business operations. It
+   is a critical issue to select the suitable ERP system which meets all
+   the business strategies and the goals of the company. This study
+   presents all approach to select a Suitable ERP system for textile
+   industry. Textile companies have solve difficulties to implement ERP
+   systems such as variant structure of products, production variety and
+   unqualified human resources. At first, the vision and the strategies of
+   the organization arc checked by using balanced scorecard. According to
+   the company's vision. strategies and KPIs, we call prepare a request for
+   proposal. Then ERP packages that do not meet the requirements of the
+   company are eliminated. After strategic management phase, the proposed
+   methodology gives advice before ERP selection. The criteria were
+   determined and then compared according to their importance. The rest ERP
+   system solutions were selected to evaluate. An external evaluation team
+   consisting of ERP consultants was assigned to select one of these
+   Solutions according to the predetermined criteria. In this study, the
+   fuzzy analytic hierarchy process, a fuzzy extension of the
+   multi-criteria decision-making technique AHP, was used to compare these
+   ERP system solutions. The methodology was applied for a textile
+   manufacturing company. (c) 2008 Elsevier Ltd. All rights reserved.
+TC 73
+ZB 3
+Z8 2
+ZS 0
+Z9 75
+SN 0957-4174
+UT WOS:000264782800020
+ER
+
+PT J
+AU Yazgan, Harun Resit
+   Boran, Semra
+   Goztepe, Kerim
+TI An ERP software selection process with using artificial neural network
+   based on analytic network process approach
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 36
+IS 5
+BP 9214
+EP 9222
+DI 10.1016/j.eswa.2008.12.022
+PD JUL 2009
+PY 2009
+AB An enterprise resource planning (ERP) software selection is known to be
+   multi attribute decision making (MADM) problem. This problem has been
+   modeled according with analytic network process (ANP) method due to Tact
+   that it considers criteria and sub criteria relations and interrelations
+   in selecting the software.
+   Opinions of many experts are obtained while building ANP model for the
+   selection ERP then opinions arc reduced to one single value by methods
+   like geometric means so as to get desired results. To use ANP model for
+   the selection of ERP for a new organization, a new group of expert's
+   opinions are needed. In this case the same problem will be in counter.
+   In the proposed model, when ANP and ANN models are setup, an ERP
+   software selection can be made easily by the opinions of one single
+   expert. In that case calculation of geometric mean of answers that
+   obtained from many experts will be unnecessary. Additionally the effect
+   of subjective opinion of one single decision maker will be avoided. In
+   terms of difficulty, ANP has some difficulties due to eigenvalue and
+   their limit value calculation.
+   An ANN model has been designed and trained with using ANP results in
+   order to calculate ERP software priority. The artificial neural network
+   (ANN) model is trained by results obtained from ANP. It seems that there
+   is no any major difficulty in order to predict software priorities with
+   trained ANN model. By this results ANN model has been come suitable for
+   using in the selection of ERP for another new decision. (C) 2008
+   Elsevier Ltd. All rights reserved.
+RI yazgan, harun/B-2579-2013; yazgan, harun resit/; Norton, Andrew/D-4749-2012
+OI yazgan, harun resit/0000-0002-8791-0458; Norton,
+   Andrew/0000-0003-4899-1686
+TC 25
+ZB 0
+Z8 1
+ZS 1
+Z9 27
+SN 0957-4174
+UT WOS:000264782800054
+ER
+
+PT J
+AU Karaarslan, Nevin
+   Gundogar, Emin
+TI An application for modular capability-based ERP software selection using
+   AHP method
+SO INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+VL 42
+IS 9-10
+BP 1025
+EP 1033
+DI 10.1007/s00170-008-1522-5
+PD JUN 2009
+PY 2009
+AB Enterprise resource planning (ERP) system selection is very important
+   for a company as it completely affects production and service
+   methodology of enterprises. Moreover, ERP selection is getting
+   increasingly difficult because of a large variety of ERP software
+   solutions available. The current study aims to select the most
+   appropriate software between two elected candidates after some analysis
+   for the final decision by using a technique with analytic hierarchy
+   process (AHP) support in a factory which is planning to use ERP software
+   that fits its functions.
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 0268-3768
+UT WOS:000266488000016
+ER
+
+PT J
+AU Sen, Ceyda Guengoer
+   Barach, Hayri
+   Sen, Selcuk
+   Basligil, Hueseyin
+TI An integrated decision support system dealing with qualitative and
+   quantitative objectives for enterprise software selection
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 36
+IS 3
+BP 5272
+EP 5283
+DI 10.1016/j.eswa.2008.06.070
+PD APR 2009
+PY 2009
+AB Previous methods for enterprise software selection generally take into
+   account the attributes that are restricted to some financial factors,
+   such as costs and benefits. However, the literature lacks studies on
+   considering the evaluation of both functional and non-functional
+   suitability of software alternatives versus various requirements. This
+   study presents a new decision support system for combining these two
+   kinds of evaluation to select suitable enterprise software. A
+   hierarchical objective structure that contains both qualitative and
+   quantitative objectives is proposed to evaluate software products
+   systematically. This approach uses a heuristic algorithm, a fuzzy
+   multi-criteria decision making procedure and a multi-objective
+   programming model to make final selection decision. All the phases of
+   presented method are applied in an electronic company's ERP software
+   selection project to validate it with a real application. The
+   satisfactory results are obtained during this project. The company can
+   select the right software to fit its business processes instead of
+   adapting its business processes to fit the software. (C) 2008 Elsevier
+   Ltd. All rights reserved.
+TC 23
+ZB 1
+Z8 1
+ZS 1
+Z9 25
+SN 0957-4174
+UT WOS:000263584100135
+ER
+
+PT J
+AU Unal, Can
+   Guner, Mucella G.
+TI Selection of ERP suppliers using AHP tools in the clothing industry
+SO INTERNATIONAL JOURNAL OF CLOTHING SCIENCE AND TECHNOLOGY
+VL 21
+IS 4
+BP 215
+EP 227
+DI 10.1101/09556220910959990
+PD 2009
+PY 2009
+AB Purpose - The purpose of this paper is to explore selection of the best
+   ERP suppliers in the clothing industry by using analytic hierarchy
+   process (AHP).
+   Design/methodology/approach - AHP is used in order to achieve the
+   paper's purpose; selection criteria are determined by managers and
+   experts.
+   Findings - Three different enterprise resource planning (ERP) suppliers
+   are investigated and best alternative is selected by using AHP. After
+   the best alternative is selected, cost benefit analysis is calculated in
+   order to define decisive result. All calculations are verified by
+   performing the consistency test.
+   Research limitations/implications - Selection criteria and their
+   evaluations can be changed depending on size of the clothing
+   manufacturer and product type.
+   Originality/value - The results of the study will be helpful to clothing
+   manufacturers which plan to implement an ERP system in their
+   organizations. Furthermore, they can use AHP in other decision problems
+   as well.
+RI Schuster, Gerd/F-3660-2011
+TC 2
+ZB 0
+Z8 0
+ZS 0
+Z9 2
+SN 0955-6222
+UT WOS:000269335500005
+ER
+
+PT J
+AU Erol, Ismail
+   Cakar, Nigar
+   Erel, Derya
+   Sari, Ramazan
+TI Sustainability in the Turkish Retailing Industry
+SO SUSTAINABLE DEVELOPMENT
+VL 17
+IS 1
+BP 49
+EP 67
+DI 10.1002/sd.369
+PD JAN-FEB 2009
+PY 2009
+AB Retailing is a diverse and dynamic industry offering a wide range of
+   goods and services to consumers. There is also an increasing recognition
+   that this corporate retail power is the driving force for the whole of
+   the supply chain. Due to these facts, it is argued that retailing
+   companies have a huge potential to impact on sustainability performance
+   of national economies. In order to materialize this potential,
+   performance in sustainability should be assessed, and evaluating
+   sustainability performance of an industry requires developing a system
+   of performance evaluation framework. In the context of sustainable
+   development, selecting proper sustainability indicators are one of the
+   most crucial steps to fulfill performance evaluations. Since there has
+   been no attempt to develop proper sustainability indicators in retailing
+   industry, this paper aims to select appropriate indicators for future
+   evaluation of industrial sustainability performance for grocery
+   retailing in terms of three sustainability aspects: social,
+   environmental and economic. To this end, (1 a comprehensive analysis of
+   the existing literature was done, (2) and Analytic Hierarchy
+   Process/Weighted Additive model-based table was developed to rank the
+   indicators for each aspect, (3) the input for the tables was obtained
+   from rapidly growing grocery retailing industry in Turkey by conducting
+   surveys, and (4) using the average values of the tables, sustainability
+   indicators for each aspect were ranked and the most appropriate ones
+   were selected. Copyright (C) 2008 John Wiley & Sons, Ltd and ERP
+   Environment.
+RI SARI, Ramazan/A-5472-2010
+OI SARI, Ramazan/0000-0002-8276-7648
+TC 9
+ZB 2
+Z8 0
+ZS 0
+Z9 9
+SN 0968-0802
+UT WOS:000263434400004
+ER
+
+PT J
+AU Buyukozkan, Gulcin
+   Ruan, Da
+TI Evaluation of software development projects using a fuzzy multi-criteria
+   decision approach
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+VL 77
+IS 5-6
+BP 464
+EP 475
+DI 10.1016/j.matcom.2007.11.015
+PD MAY 1 2008
+PY 2008
+AB Software development is an inherently uncertain activity. To deal with
+   the uncertainty and vagueness from humans' subjective perception and
+   experience in decision process, this paper presents an evaluation model
+   based on the fuzzy multi-criteria decision-making (MCDM) method for
+   measuring the performance of software development projects. In an MCDM
+   problem, a decision maker (DM) has to choose the best alternative that
+   satisfies the evaluation criteria among a set of candidate solutions. It
+   is generally hard to find an alternative that meets all the criteria
+   simultaneously, so a good compromise solution is preferred. This problem
+   may become more complex when multiple DMs are involved, each having not
+   a common perception on the alternatives. Recently, a compromise ranking
+   method (known as the VIKOR method) has been proposed to identify such
+   compromise solutions, by providing a maximum group utility for the
+   majority and a minimum of an individual regret for the opponent. In its
+   actual setting, the method treats exact values for the assessment of the
+   alternatives, which can be quite restrictive with unquantifiable
+   criteria. This will be true especially if the evaluation is made by
+   means of linguistic terms. For this reason we extend the VIKOR method so
+   as to process such data and to provide a more comprehensive evaluation
+   in a fuzzy environment. To demonstrate the potential of the methodology,
+   the proposed extension is used for measuring the performance of
+   enterprise resource planning (ERP) software products. (C) 2007 IMACS.
+   Published by Elsevier B.V. All rights reserved.
+CT 2nd International Workshop on Sensory Evaluation and Intelligent
+   Techniques
+CY JUL 11-13, 2005
+CL Paris, FRANCE
+TC 42
+ZB 0
+Z8 0
+ZS 1
+Z9 43
+SN 0378-4754
+UT WOS:000255370300004
+ER
+
+PT J
+AU Ahn, B. S.
+   Choi, S. H.
+TI ERP system selection using a simulation-based AHP approach: a case of
+   Korean homeshopping company
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+VL 59
+IS 3
+BP 322
+EP 330
+DI 10.1057/palgrave.jors.2602365
+PD MAR 2008
+PY 2008
+AB An enterprise resource planning (ERP) system is a critical investment
+   that can significantly affect future competitiveness and performance of
+   a company. The analytic hierarchy process (AHP) method is often applied
+   to select an ERP system since it is well suited to multiple criteria
+   decision-making problems. This study presents a simulation-based AHP
+   (SiAHP) method for group decision making and is applied to the
+   real-world problem of selecting a suitable ERP system for a Korean
+   homeshopping company. To enhance the fitness of a group AHP method and
+   to facilitate the ERP system selection process, this paper proposes a
+   simulation-based approach for building a group consensus instead of
+   forming point estimates that are aggregated from individual preference
+   judgments. To be specific, the proposed method is based on observations
+   from empirically observed frequency distributions and does not use
+   aggregation procedures, compared to typical group AHP for obtaining a
+   group solution. This approach, reflecting the diversification of group
+   members' opinions as they are, is conceived to be useful as a tool for
+   obtaining insights into agreements and disagreements with respect to the
+   alternatives among the individuals of a group. The real-world example
+   demonstrates the feasibility of our proposed approach.
+RI Ahn, Byeong Seok/D-3699-2013
+TC 8
+ZB 0
+Z8 0
+ZS 0
+Z9 8
+SN 0160-5682
+UT WOS:000254299100006
+ER
+
+PT J
+AU 김영태
+   Yoo, Hanjoo
+   Song, Gwangsuk
+TI A Study on Operational Efficiency Measurement Using DEA in Small and
+   Medium Companies Utilizing the ERP System: Focused on the Automobile
+   Parts Industries
+Z1 DEA를 활용한 ERP시스템 도입 중소기업의 운영효율성 측정에 관한 연구: 자동차 부품 산업을 중심으로
+SO Journal of the Korean Production and Operations Management Society
+S1 한국생산관리학회지
+VL 19
+IS 4
+BP 155
+EP 179
+PD 2008
+PY 2008
+AB Many companies have introduced information systems and the ERP system in
+   order to strengthen their competitiveness. According to a recent paper,
+   companies that introduced the ERP system have improved productivity by
+   integrating and managing company resources. As a result, it is important
+   to measure the operational efficiency of companies utilizing the ERP
+   system.  The purpose of this paper is to analyze the operational
+   efficiency of small and medium companies using Data Envelopment Analysis
+   (DEA). We used CCR, BCC, Super-efficiency and Slack based measure (SBM)
+   model in terms of the DEA model to measure the operational efficiency of
+   nine Automobile parts companies.  Since the traditional method based on
+   a measurement model(CCR, BCC) has some problems in not taking account of
+   the existence of slack inputs and outputs in several efficient units, we
+   attempted to measure the exact amount of efficiency and inefficiency of
+   the companies and to do a rank analysis of many efficient units through
+   the slacks-based measure model (SBM).
+AK 국내 많은 기업들은 기업의 경쟁력을 강화하기 위해 ERP 시스템을 도입하여 왔다. 최근 많은 연구들에 의하면 ERP시스템을 도입한
+   기업체들은 기업의 자원을 통합하여 관리함으로써 기업체의 생산성을 향상시켜 왔다. 따라서, ERP 시스템을 사용하고 있는 기업체의
+   운용효율성을 측정하는 것은 정보시스템의 생산성 측면에서 매우 중요하다고 할 수 있다. 본 연구의 목적은 자료포락분석(DEA)
+   기법을 사용하여 중소기업의 운용 효율성을 분석 한 연구로 DEA 모델 중 CCR/BCC모델, 초효율성모델과
+   여분기반가중치분석모델(weighted SBM)을 사용하여 9개 자동차부품 업체의 운용효율성을 측정하고 비교하였다. 전통적인 효율성
+   측정방법인 CCR모델 및 BCC모델의 경우 투입 및 산출물의 여분을 고려하지 않는 문제점이 있지만 본 논문에서는
+   여분기반가중치분석모델(weighted SBM)을 이용하여 효율 및 비효율의 정확한 양을 측정하여 효율적인 기업들의 순위를
+   분석하였다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-831X
+UT KJD:ART001311120
+ER
+
+PT J
+AU Ayag, Z.
+   Oezdemir, R. G.
+TI An intelligent approach to ERP software selection through fuzzy ANP
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 45
+IS 10
+BP 2169
+EP 2194
+DI 10.1080/00207540600724849
+PD 2007
+PY 2007
+AB During the implementations of enterprise resource planning (ERP)
+   systems, most companies have experienced some problems, one of which is
+   how to determine the best ERP software satisfying their needs and
+   expectations. Because improperly selected ERP software may have an
+   impact on the time required, and the costs and market share of a
+   company, selecting the best desirable ERP software has been the most
+   critical problem for a long time. On the other hand, selecting ERP
+   software is a multiple-criteria decision-making (MCDM) problem, and in
+   the literature, many methods have been introduced to evaluate this kind
+   of problem, one of which is the analytic hierarchy process (AHP), which
+   has been widely used in MCDM selection problems. However, in this paper,
+   we use a fuzzy extension of an analytic network process (ANP), a more
+   general form of AHP, which uses uncertain human preferences as input
+   information in the decision-making process, because the AHP cannot
+   accommodate the variety of interactions, dependencies, and feedback
+   between higher- and lower-level elements. Instead of using the classical
+   eigenvector prioritization method in the AHP, only employed in the
+   prioritization stage of ANP, a fuzzy-logic method providing more
+   accuracy on judgements is applied. The resulting fuzzy ANP enhances the
+   potential of the conventional ANP for dealing with imprecise and
+   uncertain human comparison judgements. In short, in this paper, an
+   intelligent approach to ERP software selection through a fuzzy ANP is
+   proposed by taking into consideration quantitative and qualitative
+   elements to evaluate ERP software alternatives.
+RI Ayag, Zeki/E-9143-2013
+OI Ayag, Zeki/0000-0003-4078-2804
+TC 43
+ZB 2
+Z8 0
+ZS 1
+Z9 44
+SN 0020-7543
+UT WOS:000246549300001
+ER
+
+PT J
+AU 고중언
+TI A Study on the Determining Factors of Building the System Management
+   Structure for Risk Management of Growing Venture Businesses : Focused on
+   using the information system
+Z1 성장기 벤처기업의 위험관리를 위한시스템경영체제 구축 결정요인에 관한 연구 :정보시스템 활용을 중심으로
+SO Journal of Entrepreneurship and Venture Studies
+S1 기업가정신과 벤처연구
+VL 10
+IS 3
+BP 41
+EP 61
+PD 2007
+PY 2007
+AB This study aims to come up with an alternative preventing ‘growing
+   pains’, the risks caused by rapid growth of growing venture businesses.
+   For this, literature study and empirical study were combined under the
+   assumption that the system management structure using the concept of
+   system will be built up as an alternative.As for empirical analysis, the
+   AHP method was adopted. The empirical test results are summarized as
+   follows.The activities to build up growing venture business system
+   management structure consequently involve “the establishment of ERP
+   intending the process organized under the direction of the management at
+   the early growing stage if possible. This may be done by adjusting
+   existing work to package type ERP at the MRP level, or by accompanying
+   some customizing, with in mind that it should be completed within a
+   short time using outside experts.” This study present provisions for
+   venture business to prepare for the risks of rapid growth and consistent
+   growth. Futhermore, it is expected that this also will play efficient
+   governmental policies supporting venture business and a positive role in
+   sound development of the venture ecosystem.
+AK 본 연구는 성장기 벤처기업들이 겪게 되는 급성장 위험인 성장통을 사전에 예방하는 대안을 모색하는데 있어 시스템경영체제를 구축하는
+   것이 하나의 해법이 될 수 있다는 전제하에 이의 결정요인을 도출하는데 그 목적이 있다. 연구의 방법은 벤처기업론, 기업성장주기,
+   기업위험, 시스템경영, 통합정보시스템(ERP)에 관한 이론적 고찰을 통하여 연구모형을 도출하였고, 이를 검증하기 위하여 AHP
+   방법에 의해 벤처캐피탈리스트, 교수, 벤처기업종사자, 정부지원기관 근무자, 정보화컨설턴트로 구성된 전문가 23명을 대상으로
+   설문조사를 실시하였다. 실증분석 결과 성장기 벤처기업의 시스템경영체제를 구축하는 활동은 “가급적 초기 성장기에 경영진의 주도하에
+   프로세스조직을 지향하여 통합정보시스템(ERP)의 구축활동을 전개한다. 이는 MRP 수준의 패키지형 ERP에 기존업무를 맞추든가
+   또는 일부 커스터마이징을 수반하는 것으로 하되, 일부 외부전문가를 활용하여 단기간 내에 구축을 완료 한다”로 결론을 내릴 수
+   있었다. 이 연구결과는 성장기에 진입하려는 벤처기업들에게 급성장위험에 대한 대비책을 제시함으로서 계속적인 성장에 도움을 줄 뿐
+   아니라, 벤처기업을 지원하는 정부 정책의 효율화 및 벤처생태계의 건전한 발전에 긍정적인 역할을 할 것으로 기대할 수 있다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1738-2599
+UT KJD:ART001201015
+ER
+
+PT J
+AU Liu, Wen Hong
+   Ou, Ching Hsiewn
+TI A comparative analysis of sustainable fishery development indicator
+   systems in Australia and Canada
+SO SUSTAINABLE DEVELOPMENT
+VL 15
+IS 1
+BP 28
+EP 40
+DI 10.1002/sd.291
+PD JAN-FEB 2007
+PY 2007
+AB This paper comparatively analyzes the systems in Australia and Canada
+   from the perspective of the United Nations Food and Agriculture
+   Organisation's Technical Guidelines for Responsible Fisheries No. 8. The
+   results show that the key factors in the success of the Australian
+   system are public participation, selecting an indicator with its
+   objectives and improving management performance by the evaluation of the
+   system. Further, the boundaries of the SFDIS should be the same as the
+   boundaries of the management units and fisheries should be examined
+   independently. The framework chosen by the Canadian system is more
+   all-round, and can be combined with the PSR framework to maximize the
+   management effects. Finally, techniques and specialist software such as
+   fuzzy AHP etc. are 'well-suited to measuring weights and have the
+   potential to be applied elsewhere'. Visual presentation is the best way
+   to promote communication with the public. The United Nations Food and
+   Agriculture Organisation's kite diagram and the Sustainable Development
+   Committee's dashboard of sustainability are two excellent
+   visualizations. Copyright (c) 2006 John Wiley & Sons, Ltd and ERP
+   Environment.
+TC 8
+ZB 4
+Z8 0
+ZS 0
+Z9 8
+SN 0968-0802
+UT WOS:000244442600003
+ER
+
+PT J
+AU YOUNG, OH SANG
+TI Calculation of Hotel R's Investment Effects of ERP System Implementation
+Z1 R호텔의 ERP시스템 구축에 대한 투자 효과의 예측
+SO The Journal of the Korea Contents Association
+S1 한국콘텐츠학회 논문지
+VL 7
+IS 5
+BP 174
+EP 183
+PD 2007
+PY 2007
+AB Recently, the Korean Hotel market has expanded to Asia rapidly including
+   China. However Korean hotels' competitiveness has weaken with Korean
+   won's appreciation and increasing real estate cost. To cope with these
+   problems, Korean hotels are varying and differentiating their services
+   and adopting advanced information system such as ERP(Enterprise Resource
+   Planning) System. ERP Systems requires large amount of cost and time,
+   otherwise successful implementation is not guaranteed. Thus, It is
+   necessary to analyze critical success factors and calculate effect
+   before investment on the ERP system implementation. In this study, I
+   surveyed a Five-star ranked Hotel, named R. To find a method of
+   investment effect calculation. This research is conducted on the basis
+   of previous studies and AHP(analytic hierarchical process), which is
+   suggested by Saaty. Finally, This study presents a significant method of
+   analysis and calculation on investment effect of Hotel's ERP system
+   based on the Hotel R's case.
+AK 최근 국내 호텔산업은 중국시장을 포함하여 아시아 시장으로 급속히 확대되고 있다. 그러나 원화가치의 상승, 부동산비용의 증가로
+   경쟁력이 떨어지고 있다. 이런 상황을 극복하기위해서 호텔상품을 차별화하고, ERP시스템의 도입을 통해 경쟁력을 강화하고자 노력하고
+   있다. 그러나 ERP시스템은 도입 비용이 크고, 성공률이 낮아 위험도가 매우 높다. 따라서 투자 이전에 성공 요인의 분석과 효과
+   예측이 필수적이다. 따라서 본 연구에서는 호텔 기업의 ERP시스템 구축에 대한 투자 효과의 예측 방법과 사례를 통한 이해를 돕고자
+   하였다. 연구 기반 이론은 ERP시스템의 투자 효과를 측정할 수 있는 사전 연구와 Saaty가 제시한 AHP기법의 이론이다.
+   연구의 사례는 특급 호텔인 R호텔을 기준으로 분석하였다. 본 연구의 중요성은 호텔 기업이 ERP시스템을 도입함에 있어 효과를
+   예측하는 방법론을 제시한 것이다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-4877
+UT KJD:ART001069580
+ER
+
+PT J
+AU Sarkis, J
+   Sundarraj, RP
+TI Evaluation of enterprise information technologies: A decision model for
+   high-level consideration of strategic and operational issues
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND
+   REVIEWS
+VL 36
+IS 2
+BP 260
+EP 273
+DI 10.1109/TSMCC.2004.843245
+PD MAR 2006
+PY 2006
+AB Despite the possibility of short-term financial losses and concerns by
+   executive management of potential failure, enterprise information
+   technologies (EITs) are being implemented by a growing number of Fortune
+   100 and midsize corporations in the hope of acquiring long-term
+   benefits. EITs, expensive and risky information technology assets, must
+   be evaluated on the basis of both their productivity gains and their
+   support for corporate reengineering through integration of business
+   processes. In this paper, we propose a two-stage methodology (involving
+   a combination of the analytical network process and integer programming)
+   to conduct a high-level evaluation of an interdependent set of tangible,
+   intangible, strategic and operational factors that should be considered
+   in EIT evaluation. We perform sensitivity analyses and conduct tests
+   with real-world data to show the robustness of our methodology and the
+   resulting managerial implications.
+RI Sarkis, Joseph/F-4508-2014
+OI Sarkis, Joseph/0000-0003-0143-804X
+TC 16
+ZB 0
+Z8 0
+ZS 0
+Z9 16
+SN 1094-6977
+UT WOS:000237197600015
+ER
+
+PT J
+AU CASTRO, NATALIA
+   BORGES, ANA MARÍA
+   BAQUERO, NANCY
+   RODRÍGUEZ, SIMÓN
+TI Modelo para la selección de software ERP: el caso de Venezuela
+SO Revista de la Facultad de Ingeniería Universidad Central de Venezuela
+VL 21
+IS 1
+BP 125
+EP 137
+PD 2006-03
+PY 2006
+AB Enterprise Resource Planning Systems (ERP) have become critical elements
+   in the manufacturing field. An ERP system consists of a set of
+   managerial tools that support the decision-making process, generate full
+   integration among the functional areas of the company, produce high
+   levels of productivity in the supply chain and reduce the company costs
+   and inventories, among many other benefits. However, the ERP software
+   selection process is not an easy task and needs special attention. In
+   order to make this process as effective and efficient as possible, a
+   model is proposed in this article. This model allows companies to find
+   the alternative most suitable for the organization requirements,
+   considering the experience of other companies that have already used ERP
+   systems in order to obtain efficiency in the selection process as well
+   as in the system implementation and operation. The model takes into
+   account the expertise from venezuelan companies, that have previously
+   implemented ERP software and allow the organization to incorporate their
+   specific needs and particular criteria, as input variables. The model
+   was developed based on the article: «Factors for the selection of ERP
+   software in large manufacturing companies: the venezuelan case» [Castro,
+   2004], applying the Analytic Hierarchy Process (AHP) and using
+   statistical tools as cluster analysis. 
+X4 Los sistemas para la planificación de los recursos empresariales ERP se
+   han convertido en un elemento indispensable para las empresas de
+   manufactura. Estos sistemas comprenden una serie de herramientas
+   gerenciales que soportan el proceso de toma de decisiones, facilitan una
+   completa integración de las diferentes áreas de negocio de la compañía,
+   contribuyen a generar alta productividad en las cadenas de suministro y
+   reducción de costos e inventarios, entre otros muchos beneficios. Por lo
+   anterior, la selección del software que soporta los sistemas ERP es un
+   paso que necesita gran atención. Con el fin de mejorar la eficiencia y
+   efectividad de este proceso de selección, se propone en este trabajo, un
+   modelo que permite encontrar la alternativa más adecuada para cada
+   organización y lograr la eficiencia en este proceso. El modelo toma en
+   cuenta la experiencia de algunas empresas de manufactura en Venezuela,
+   que han implantado este tipo de software y permite que cada organización
+   incorpore sus necesidades específicas y criterios particulares, como
+   variables de entrada. Se utilizaron los factores de selección
+   presentados en el artículo «Factors for the selection of ERP software in
+   large manufacturing companies: the venezuelan case» [Castro, 2004] y se
+   empleó la metodología del proceso de jerarquía analítica utilizando la
+   herramienta estadística del clustering jerárquico. 
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0798-4065
+UT SCIELO:S0798-40652006000100012
+ER
+
+PT J
+AU 정희연
+   Lee, John Hearn
+TI A Study on Model for Evaluating ERP Project from Customer and Consulting
+   Firm Perspectives using AHP
+Z1 AHP를 활용한 고객사와 컨설팅사의 ERP 프로젝트 평가모형 연구
+SO Information Systems Review
+VL 8
+IS 1
+BP 241
+EP 263
+PD 2006
+PY 2006
+AB Since 1995 many enterprises have introduced ERP to strengthen
+   competitive power. However, enterprises that have introduced ERP for the
+   first time have experienced various types of problems integrating them;
+   to this day, there are only a few enterprises that have implemented ERP
+   successfully. The main reason for the failures of successful ERP
+   implementing is that enterprises frequently ignore and/or don’t know how
+   to systematically evaluate the construction process of ERP and busy
+   finishing a phase without resolving problems before going on to the next
+   phase. This research focused on the implementation process of ERP
+   project to evaluate the process of ERP at each phase. As a result, we
+   propose an evaluation model of ERP project as a tool to find critical
+   problems at each phase and improve on how to resolve the problems found
+   at each phase. This evaluation model makes it possible to introduce ERP
+   successfully by presenting the basis of assessment which will be used by
+   enterprises to minimize the trial and error of construction process of
+   ERP.
+AK 1995년 이래 많은 기업들이 기업의 경쟁력 확보를 위해 ERP를 도입해 왔다. 그러나 ERP를 도입하려는 기업마다 다른 기업에서
+   발생되었던 문제점들을 여전히 경험하고 있으며, 성공적으로 ERP를 도입한 기업은 많지 않다. 이렇게 성공적인 ERP 시스템 구축에
+   어려움을 겪는 주요 원인은 체계적인 ERP 구축과정 평가 없이 발생되는 문제점을 간과한 채 다음 단계로 넘어가기 때문이다. 본
+   연구에서는 ERP 프로젝트의 결과보다는 구축과정에 초점을 맞추어 ERP 프로젝트 각 단계별 수행과정을 평가하고, 그 결과 발견된
+   문제점들을 개선할 수 있는 도구로서 ERP 프로젝트 평가모형을 개발하였다. 이 연구모형은 ERP를 도입하는 기업들에게 구축과정의
+   시행착오를 최소화 시킬 수 있는 가이드라인과 단계별 완성도를 높일 수 있는 평가기준을 제시함으로써 성공적인 ERP 도입을 가능하게
+   해줄 것이다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-5078
+UT KJD:ART001156466
+ER
+
+PT J
+AU hun, Lim se
+TI An Application of Case-Based Reasoning in Forecasting a Successful
+   Implementation of Enterprise Resource Planning Systems : Focus on Small
+   and Medium sized     Enterprises Implementing ERP
+Z1 성공적인 ERP 시스템 구축 예측을 위한 사례기반추론 응용：ERP 시스템을 구현한 중소기업을 중심으로
+SO Journal of Information Technology Applications & Management
+VL 13
+IS 1
+BP 77
+EP 94
+PD 2006
+PY 2006
+AB Case-based Reasoning (CBR) is widely used in business and industry
+   prediction. It is suitable to solve complex and unstructured business
+   problems. Recently, the prediction accuracy of CBR has been enhanced by
+   not only various machine learning algorithms such as genetic algorithms,
+   relative weighting of Artificial Neural Network (ANN) input variable but
+   also data mining technique such as feature selection, feature weighting,
+   feature transformation, and instance selection As a result, CBR is even
+   more widely used today in business area. In this study, we investigated
+   the usefulness of the CBR method in forecasting success in implementing
+   ERP systems. We used a CBR method based on the feature weighting
+   technique to compare the performance of three different models：MDA
+   (Multiple Discriminant Analysis), GECBR (GEneral CBR), FWCBR (CBR with
+   Feature Weighting supported by Analytic Hierarchy Process). The study
+   suggests that the FWCBR approach is a promising method for forecasting
+   of successful ERP implementation in Small and Medium sized Enterprises.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-6284
+UT KJD:ART001142960
+ER
+
+PT J
+AU Wei, CC
+   Chien, CF
+   Wang, MJJ
+TI An AHP-based approach to ERP system selection
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+VL 96
+IS 1
+BP 47
+EP 62
+DI 10.1016/j.ijpe.2004.03.004
+PD APR 18 2005
+PY 2005
+AB An Enterprise Resource Planning (ERP) system is a critical investment
+   that can significantly affect future competitiveness and performance of
+   a company. This Study presents a comprehensive framework for selecting a
+   Suitable ERP system. The framework can systematically construct the
+   objectives of ERP selection to support the business goals and strategies
+   of an enterprise, identify the appropriate attributes, and set up a
+   consistent evaluation standard for facilitating a group decision
+   process. A real-world example demonstrates the feasibility of the
+   proposed framework. (c) 2004 Elsevier B.V. All rights reserved.
+TC 151
+ZB 2
+Z8 2
+ZS 2
+Z9 155
+SN 0925-5273
+UT WOS:000228233900004
+ER
+
+PT J
+AU KimJinSoo
+   임세헌
+TI Developing A Performance Measurement Model for Implementation Process of
+   Enterprise Resource Planning Systems on Small and Medium sized
+   Enterprises
+Z1 중소기업을 위한 포괄적 ERP 시스템 구축과정 성과측정 모델 개발
+SO Korea Research Academy of Distribution and Management Review
+S1 유통경영학회지
+VL 8
+IS 2
+BP 125
+EP 150
+PD 2005
+PY 2005
+AB Recently Enterprise Resource Planning (ERP) is a key enabler to change
+   enterprise more competitive advantage in the Small and Medium sized
+   Enterprises (SMEs). However, because of various difficulty during ERP
+   system implementation, a successful implementation and operation of ERP
+   system is rare. In this study, We suggest a developing model of
+   performance measurement on ERP systems implementation process. Firstly,
+   We surveyed Critical Success Factors (CSF) of ERP system on prior study.
+   Secondly, We make performance measurement model of ERP system using
+   Structure Equation Model (SEM) and Analytic Hierarchy Process (AHP) in
+   the ERP planning, ERP implementation, Change Management (CM), ERP
+   operation and practice respectably. The result suggest a guideline for a
+   successful implementation of ERP systems on SMEs
+AK 최근 들어 ERP(Enterprise Resource Planning) 시스템은 기업의 경쟁력 강화를 위한 핵심 성과창출 도구로
+   인식되고 있다. 그러나 ERP 시스템 구현에 따르는 다양한 문제로 인해 기업에서 ERP 시스템에 대한 효율적인 활용이 이루어지지
+   못하고 있는 실정이며, 더불어 도입 실패도 나타나고 있는 실정이다. 그러므로 성공적인 ERP 시스템 도입을 위해서는 체계적인
+   구축과정에 대한 통제와 성과측정을 통한 체계적인 ERP 시스템 구축은 매우 중요하다. 따라서 본 연구에서는 중소기업을 위한 포괄적
+   ERP 시스템 구축과정 성과측정 모델을 개발하였다. 이를 위해 첫째, ERP 시스템 관련 선행연구 분석을 통해 ERP 시스템
+   성공적 구축을 위한 영향 요인을 도출하고, 심층인터뷰를 통해 ERP 계획, ERP 구축, 변화관리, 운영 및 활용에 따르는
+   주요성공요인을 도출하였다. 둘째, 주요성공요인을 토대로 구조방정식 모형과 AHP(Analytical Hierarchy
+   Process) 분석 결과를 응용해 ERP 시스템 성과측정 모델을 개발하였다. 본 연구에서 제시한 중소기업을 위한 포괄적 차원의
+   ERP 시스템 구축과정 성과측정 모델은 향후 중소기업의 성공적인 ERP 시스템 구현에 가이드라인을 제시해 줄 것이다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-012x
+UT KJD:ART001176108
+ER
+
+PT J
+AU Huang, SM
+   Chang, IC
+   Li, SH
+   Lin, MT
+TI Assessing risk in ERP projects: identify and prioritize the factors
+SO INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+VL 104
+IS 8-9
+BP 681
+EP 688
+DI 10.1108/02635570410561672
+PD 2004
+PY 2004
+AB Various figures have stated that ERP (enterprise resource planning)
+   systems have become one of the largest IT investments in recent years.
+   The implementation of ERP system, however, is not an easy task. Previous
+   research reports unusually high failure in ERP projects, sometimes
+   jeopardizing the core operation of the implementing organization. The
+   most famous case is FoxMeyer filed for Chapter 11 bankruptcy protection.
+   Further, ERP systems appear to present unique ongoing risks due to its
+   uniqueness. In this study, we used a Delphi method to identify potential
+   ERP projects risk factors, and constructed an AHP-based framework to
+   analyze and then prioritized the ERP projects risk factors. The result
+   reveals that some important risk factors deserve more attention during
+   the implementation of ERP projects.
+RI Caposaldo, Marica/I-8659-2014
+TC 53
+ZB 0
+Z8 0
+ZS 0
+Z9 53
+SN 0263-5577
+UT WOS:000225812500007
+ER
+
+PT J
+AU Sarkis, J
+   Sundarraj, RP
+TI Evaluating componentized enterprise information technologies: A
+   multiattribute modeling approach
+SO INFORMATION SYSTEMS FRONTIERS
+VL 5
+IS 3
+BP 303
+EP 319
+DI 10.1023/A:1025605529006
+PD SEP 2003
+PY 2003
+AB Corporations are increasingly implementing enterprise information
+   technologies (EITs), because of the costs of maintaining legacy systems
+   and the lack of fit of such systems for organization-wide information
+   sharing. A new type of EIT that is being introduced in major
+   corporations (such as Dell Computers), is based on the idea of component
+   systems, which are stand-alone software programs that can integrate with
+   other such components with relative ease. Given the financial outlay for
+   EITs, the evaluation and adoption of these systems is not something that
+   can be completed haphazardly. This requirement is complicated by the
+   relative infancy of models for the evaluation of componentized EITs. To
+   this end, in this paper, we introduce a managerial multistage
+   multiattribute decision model, consisting of the Analytical Hierarchy
+   Process (AHP) model and the Supermatrix approach (also defined as the
+   Analytical Network Processes (ANP) approach). This combination of models
+   builds on earlier work that validates the Supermatrix approach for
+   evaluating traditional EITs at a Fortune 100 organization. The
+   aggregation of these benefits is then measured against the costs of
+   systems, thereby arriving at a ranking of alternatives for each
+   functional area. We illustrate the model with an example and draw
+   managerial implications.
+RI Sarkis, Joseph/F-4508-2014
+OI Sarkis, Joseph/0000-0003-0143-804X
+TC 14
+ZB 0
+Z8 4
+ZS 1
+Z9 19
+SN 1387-3326
+UT WOS:000185138200006
+ER
+
+PT J
+AU Laurindo, Fernando José Barbin
+   Carvalho, Marly Monteiro de
+   Pessôa, Marcelo Schneck de Paula
+   Shimizu, Tamio
+TI Selecionando uma aplicação de Tecnologia da Informação com enfoque na
+   eficácia: um estudo de caso de um sistema para PCP
+X1 Selecting an Information Technology application through an effectiveness
+   approach: a production planning system case study
+SO Gestão & Produção
+VL 9
+IS 3
+BP 377
+EP 396
+DI 10.1590/S0104-530X2002000300011
+PD 2002-12
+PY 2002
+AB Along the years, Information Technology (IT) is growing its support role
+   to production activities. At first, the activities performed by IT were
+   very simple, but nowadays, it supports almost all the production
+   activities, including processes and products development. Production
+   Planning and Control is a specific area where IT can effectively bring
+   significant impacts, opening horizons for new operating strategies and
+   even business strategies. Examples of how IT can help the operational
+   environment are the use of MRP, MRP II and ERP systems. On the other
+   hand, it still remains the doubts about the results obtained with the IT
+   investments. In order to evaluate IT impacts on the organization
+   operations, it is necessary an approach comparing the results of the IT
+   applications related to the objectives, goals and requirements of
+   production and of the entire organization, in other words, considering
+   the effectiveness of IT applications. This paper reports a case study
+   related to the selection of a new IT application in production planning
+   in an industry. This research was developed in a large manufacturing
+   company and it is discussed IT impacts in the operations management and
+   in the organization business. AHP (Analytic Hierarchy Process) was the
+   tool used for the decision-making process. 
+Y4 Ao longo dos anos, a Tecnologia da Informação (TI) vem de maneira
+   crescente apoiando as atividades mais diretamente ligadas à produção.
+   Sendo inicialmente suporte de tarefas mais simples, a TI passa a estar
+   presente em todas as etapas do processo produtivo, abrangendo o
+   desenvolvimento de produtos e processos. O Planejamento e Controle da
+   Produção (PCP) desponta como uma área na qual a TI pode trazer
+   significativo impacto nos resultados obtidos, possibilitando novas
+   alternativas de estratégias de operações e mesmo de negócios. Os
+   sistemas MRP, MRP II e ERP são exemplos de como a TI pode apoiar o PCP.
+   Por outro lado, persistem as dúvidas quanto aos resultados obtidos com
+   os investimentos em TI. Para avaliar os impactos de tais aplicações nas
+   operações, é necessário abordar os resultados obtidos em relação aos
+   objetivos, metas e requisitos da área de produção e da empresa como um
+   todo, isto é, considerando a eficácia destas aplicações de TI. Este
+   estudo apresenta um processo de seleção de alternativas de fornecimento
+   de uma nova aplicação de TI voltada ao PCP de uma indústria. A pesquisa
+   foi desenvolvida por meio de um estudo de caso em uma indústria de
+   grande porte, no qual são discutidos os impactos da TI na gestão da
+   operação e do negócio da empresa, bem como o uso do AHP (Analytic
+   Hierarchy Process) como ferramenta de apoio à decisão. 
+RI Laurindo, Fernando/K-1201-2012
+TC 0
+ZB 0
+Z8 0
+ZS 3
+Z9 3
+SN 1806-9649
+UT SCIELO:S0104-530X2002000300011
+ER
+
+PT J
+AU Shin, J
+TI A unifying theory on the relationship between spike trains, EEG, and ERP
+   based on the noise shaping/predictive neural coding hypothesis
+SO BIOSYSTEMS
+VL 67
+IS 1-3
+BP 245
+EP 257
+AR PII S0303-2647(02)00101-6
+DI 10.1016/S0303-2647(02)00101-6
+PD OCT-DEC 2002
+PY 2002
+AB Cracking the neural code has long been a central issue in neuroscience.
+   However, it has been proved difficult because there logically exist an
+   infinite number of other models and interpretations that could account
+   for the same data and phenomena (i.e. the problem of
+   underdetermination). Therefore, I suggest that applying biologically
+   realistic multiple constraints from ion-channel level to system level
+   (e.g. cognitive neuroscience and human brain disorders) can only solve
+   the problem of underdetermination. Here I have explored whether the
+   noise shaping/predictive neural coding hypothesis can provide a unified
+   view on following realistic multiple constraints: (1) cortical gain
+   control mechanisms in vivo; (2) the relationships between acetylcholine,
+   nicotine, dopamine, calcium-activated potassium ion-channel, and
+   cognitive functions; (3) oscillations and synchrony; (4) why should
+   spontaneous activity be irregular; (5) whether the cortical neurons in
+   vivo are coincidence detectors or integrators; and (6) the causal
+   relationship between theta oscillation, gamma band fluctuation, and P3
+   (or P300) ERP responses. Finally, recent experimental results supporting
+   the unified view shall be discussed. (C) 2002 Elsevier Science Ireland
+   Ltd. All rights reserved.
+CT International Workshop on Neuronal Coding
+CY SEP 09-14, 2001
+CL PLYMOUTH, ENGLAND
+TC 4
+ZB 3
+Z8 0
+ZS 0
+Z9 4
+SN 0303-2647
+UT WOS:000179954700028
+PM 12459305
+ER
+
+PT J
+AU Sarkis, J
+   Sundarraj, RP
+TI A decision model for strategic evaluation of enterprise information
+   technologies
+SO INFORMATION SYSTEMS MANAGEMENT
+VL 18
+IS 3
+BP 62
+EP 72
+DI 10.1201/1078/43196.18.3.20010601/31292.9
+PD SUM 2001
+PY 2001
+AB Enterprise information technologies (EITs), which are strategic systems
+   seeking to integrate the processes and databases of the entire
+   organization and beyond, require a significant investment of money and
+   human resources in return for the promise of a global business model and
+   its associated far-reaching benefits. Their evaluation/justification
+   must be completed with organizational goals and requirements included in
+   the decision, or the organization could lose financially and
+   competitively. Besides traditional financial models, e.g,, ROI (return
+   on investment), that are primarily meant for short-term financial
+   justification purposes, there is a paucity of methods for the
+   evaluationof the strategic and intangible costs and benefits that EITs
+   afford organizations as a whole. This article introduces the use of a
+   robust quantitative technique called the analytical hierarchy process
+   (AHP) that can integrate a diverse range of (strategic and operational,
+   and tangible end intangible) into one model. The approach can be easily
+   understood by managers and analysts and has a history of application to
+   other types of strategic justification decisions.
+RI Sarkis, Joseph/F-4508-2014
+OI Sarkis, Joseph/0000-0003-0143-804X
+TC 6
+ZB 1
+Z8 0
+ZS 1
+Z9 7
+SN 1058-0530
+UT WOS:000169039600010
+ER
+
+PT J
+AU Teltumbde, A
+TI A framework for evaluating ERP projects
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 38
+IS 17
+BP 4507
+EP 4520
+DI 10.1080/00207540050205262
+PD NOV 2000
+PY 2000
+AB The objective of this paper is to propose a methodological framework for
+   dealing with the complex problem of evaluating Enterprise Resource
+   Planning (ERP) projects. The competitive pressure unleashed by the
+   process of globalization is driving implementation of ERP projects in
+   increasingly large numbers. They occupy a dominant space in today's
+   rapidly increasing IT investments. Paradoxically, researchers have noted
+   a deteriorating trend of evaluation of these investments. Considering
+   huge organizational stakes coupled with a high risk of failure
+   associated with the ERP projects, it is imperative that they are
+   properly evaluated. Conventional methodology, which reckoned cost
+   displacement as the only benefit, has proved inadequate for modern IT
+   projects that have decreasing scope for cost displacement and an
+   increasing focus on effectiveness objectives. Effectiveness is a
+   multi-dimensional attribute and is not amenable to easy quantification.
+   ERP projects need multi-dimensional evaluation criteria and a
+   methodology that extends into the implementation phase as their profile
+   really shapes up in the latter. A solution, in the form of a process
+   framework that incorporates participatory learning and decision-making
+   processes based on Nominal Group Technique (NGT) and the evaluation
+   methodology adopting the Analytical Hierarchy Process (AHP), is
+   proposed. A case example is given to illustrate its applicability in
+   practice.
+CT 15th International Conference of Production Research(ICPR-15)
+CY AUG, 1999
+CL UNIV LIMERICK, LIMERICK, IRELAND
+HO UNIV LIMERICK
+TC 80
+ZB 0
+Z8 0
+ZS 3
+Z9 83
+SN 0020-7543
+UT WOS:000165846400041
+ER
+
+EF

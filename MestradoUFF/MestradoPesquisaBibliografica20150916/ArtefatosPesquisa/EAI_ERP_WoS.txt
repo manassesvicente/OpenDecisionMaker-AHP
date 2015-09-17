@@ -1,0 +1,1104 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Themistocleous, Marinos
+   Basias, Nikolaos
+   Morabito, Vincenzo
+TI A Framework for Service-oriented Architecture Adoption in e-Banking: the
+   Case of Banks from a Transition and a Developed Economy
+SO INFORMATION TECHNOLOGY FOR DEVELOPMENT
+VL 21
+IS 3
+SI SI
+BP 460
+EP 479
+DI 10.1080/02681102.2014.939605
+PD JUL 3 2015
+PY 2015
+AB In addressing integration issues, service-oriented architecture (SOA)
+   has emerged and been adopted by banks, but many of them have failed to
+   achieve significant SOA benefits. An important reason for this failure
+   is attributed to the absence of a methodological framework that explains
+   factors influencing SOA adoption in e-banking. In addition to this, the
+   normative literature reports that differences may exist between
+   organizations from developed and transition economies when they adopt
+   integration technologies. Thus, the aim of this paper is to (a) propose
+   a methodological framework for SOA adoption, (b) test it through case
+   studies conducted in a developed and a transition economy, and (c)
+   investigate differences and similarities among these two types of
+   economies. The findings verify our framework and suggest some additions
+   to it as there are new factors that were observed during the case
+   studies like SOA governance. Our study also reveals similarities and
+   differences, like the level of attention between case organizations from
+   a developed and transition economy. This paper extends the body of
+   knowledge and allows us to better understand the adoption practices of
+   the organizations from developed and transition economies. The paper
+   also provides new insights related to factors affecting SOA adoption in
+   e-banking.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0268-1102
+EI 1554-0170
+UT WOS:000354868600008
+ER
+
+PT J
+AU Roztocki, Narcyz
+   Weistroffer, Heinz Roland
+TI Investments in enterprise integration technology: An event study
+SO INFORMATION SYSTEMS FRONTIERS
+VL 17
+IS 3
+BP 659
+EP 672
+DI 10.1007/s10796-013-9451-8
+PD JUN 2015
+PY 2015
+AB This study examines stock market reactions to investments in enterprise
+   resource planning and enterprise application integration technologies,
+   using signaling theory concepts as explaining theory. The empirical
+   results presented in this paper indicate that financial markets
+   differentiate among technologies that companies invest in to integrate
+   their information systems. In addition, this study confirms that
+   technology maturity, financial health of the investing company, and
+   stock market conditions are important factors influencing the stock
+   market reaction.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1387-3326
+EI 1572-9419
+UT WOS:000354378300013
+ER
+
+PT J
+AU Kamal, Muhammad Mustafa
+   Bigdeli, Ali Ziaee
+   Themistocleous, Marinos
+   Morabito, Vincenzo
+TI Investigating factors influencing local government decision makers while
+   adopting integration technologies (IntTech)
+SO INFORMATION & MANAGEMENT
+VL 52
+IS 2
+BP 135
+EP 150
+DI 10.1016/j.im.2014.06.007
+PD MAR 2015
+PY 2015
+AB The emergence of innovative and revolutionary Integration Technologies
+   (IntTech) has highly influenced the local government authorities (LGAs)
+   in their decision-making process. LGAs that plan to adopt such IntTech
+   may consider this as a serious investment. Advocates, however, claim
+   that such IntTech have emerged to overcome the integration problems at
+   all levels (e.g. data, object and process). With the emergence of
+   electronic government (e-Government), LGAs have turned to IntTech to
+   fully automate and offer their services on-line and integrate their IT
+   infrastructures. While earlier research on the adoption of IntTech has
+   considered several factors (e.g. pressure, technological, support, and
+   financial), inadequate attention and resources have been applied in
+   systematically investigating the individual, decision and organisational
+   context factors, influencing top management's decisions for adopting
+   IntTech in LGAs. It is a highly considered phenomenon that the success
+   of an organisation's operations relies heavily on understanding an
+   individual's attitudes and behaviours, the surrounding context and the
+   type of decisions taken. Based on empirical evidence gathered through
+   two intensive case studies, this paper attempts to investigate the
+   factors that influence decision makers while adopting IntTech. The
+   findings illustrate two different doctrines one inclined and receptive
+   towards taking risky decisions, the other disinclined. Several
+   underlying rationales can be attributed to such mind-sets in LGAs. The
+   authors aim to contribute to the body of knowledge by exploring the
+   factors influencing top management's decision-making process while
+   adopting IntTech vital for facilitating LGAs' operational reforms. (C)
+   2014 Elsevier B.V. All rights reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0378-7206
+EI 1872-7530
+UT WOS:000350181800001
+ER
+
+PT J
+AU Ehikhamenor, Fabian A.
+   Bamitale, Adebayo A.
+   Owens-Ibie, Osamudiamen
+TI Demand and support for enterprise applications integration in Nigeria
+SO INFORMATION DEVELOPMENT
+VL 30
+IS 1
+BP 80
+EP 94
+DI 10.1177/0266666913480976
+PD FEB 2014
+PY 2014
+AB The demand and support for enterprise applications integration (EAI) in
+   Nigeria was investigated. The findings show that the demand and support
+   for EAI are driven by a number of factors, including concern for
+   data/information integration, a common interface for all enterprise
+   applications, improved communication and faster data transfer, real-time
+   data capture and access to information across various networks, as well
+   as data and information integrity across various systems. The IT
+   companies in Nigeria are following the progress of technology and are
+   poised to respond to it in their approaches to EAI solutions. Their
+   future approaches will be influenced to the greatest extent by progress
+   in Graphical User Interface (GUI) and then by developments in Enterprise
+   Resource Planning (ERP), Operating Systems, Software as a Service
+   (SaaS), Parameterization of applications for easy customization,
+   Applications Service Provision, and Open Source Systems in that order.
+   They believe that Nigeria has the greatest capacity in Software as a
+   Service (SaaS) and Software as Secured Service (SaSS). A growing number
+   of companies are using open source tools in developing and implementing
+   EAI solutions, and this is an indication of a market that is taking on
+   its own character but also a subscription to the democratization of
+   software access. The popularity of SQL Server and its varieties, closely
+   followed by Oracle and Java/Javascript, as EAI tools in Nigeria is
+   probably a reflection of their prominence on the international scene.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0266-6669
+EI 1741-6469
+UT WOS:000331196500009
+ER
+
+PT J
+AU Haq, Shah Md Atiqul
+TI Nexus between Perception, Environment and Fertility: A Study on
+   Indigenous People in Bangladesh
+SO SUSTAINABLE DEVELOPMENT
+VL 21
+IS 6
+BP 372
+EP 384
+DI 10.1002/sd.515
+PD NOV 2013
+PY 2013
+AB Population growth and the environment is now a major discussion issue.
+   Most cases of excessive preference for a larger family size are involved
+   with environmental degradation in developing countries. Moreover, rural
+   or indigenous people living in forest areas have a regular interaction
+   with the environment. They usually depend on environmental resources for
+   subsistence. The main objective of this study is to analyze indigenous
+   people's perception of the relationship between environment and
+   fertility. Out of the seven Khasia villages, the village called
+   Lawachora Punji, with 23 households, was included in the field survey.
+   The research findings reveal that environmental awareness is higher
+   among women and the overall index is relatively low in the indigenous
+   people regarding the environmental and demographic aspects. The overall
+   environmental awareness index (EAI) indicates that people living in
+   Lawachora National Park do not have a strong understanding of the impact
+   of large family size on the environment. Grassroots level participation
+   and gradual change of perception of large family size and dependence on
+   forest resources are important to environmental sustainability in
+   developing countries. Copyright (c) 2011 John Wiley & Sons, Ltd and ERP
+   Environment.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0968-0802
+EI 1099-1719
+UT WOS:000333520500002
+ER
+
+PT J
+AU Li, Shing-Han
+   Huang, Shi-Ming
+   Yen, David C.
+   Shih, Dong-Her
+   Hsueh, Hsiang-Yuan
+TI Business-to-government application integration framework: A case study
+   of the high technology industry in Taiwan
+SO COMPUTER STANDARDS & INTERFACES
+VL 35
+IS 6
+BP 582
+EP 595
+DI 10.1016/j.csi.2013.04.005
+PD NOV 2013
+PY 2013
+AB Business-to-government integration (B2Gi) requires the development of a
+   unique, inter-organizational integration framework to meet the dynamic
+   requirements of various business entities and government organizations.
+   The authors proposed a conceptual framework for the inter-organizational
+   integration service provider (IISP) as a philosophical and strategic
+   guideline for developing inter-organizational integration. A real-world
+   case study was discussed, with the presentation of a cost-benefit model
+   to assess the possibility for adopting such a business model. With the
+   assistance of the guideline for B2Gi, it is anticipated that the
+   proposed integration model will take advantage of the trade-off between
+   the flexibility and controllability issues. (C) 2013 Elsevier B.V. All
+   rights reserved.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0920-5489
+UT WOS:000321993600002
+ER
+
+PT J
+AU Tan, Suo
+   Zeng, Yong
+   Chen, Bo
+   Milhim, Hamzeh K. Bani
+   Schiffauerova, Andrea
+TI Environment Based Design Approach to Integrating Enterprise Applications
+SO JOURNAL OF COMPUTING AND INFORMATION SCIENCE IN ENGINEERING
+VL 12
+IS 3
+AR 031003
+DI 10.1115/1.4007171
+PD SEP 2012
+PY 2012
+AB Enterprises tend to depend on various legacy applications in supporting
+   their business strategies and in achieving their goals. In order for an
+   enterprise to be efficient and cost-effective, their legacy applications
+   should be seamlessly integrated within and beyond the enterprise. Some
+   research work in enterprise applications integrations (EAI) analyzed the
+   problem, while others proposed solution models for the syntactic and
+   semantic integration of business processes. In this paper, the EAI is
+   considered as a design problem and is analyzed from design point of
+   view. Environment based design (EBD) methodology is applied to handle
+   the integration problem by analyzing and clarifying the design
+   requirements to generate appropriate solutions. A framework is proposed
+   for EAI problems based on the EBD approach. A case study is also
+   provided to show how the approach can be applied within a company to
+   generate satisfactory EAI solutions with low cost, high efficiency, and
+   enhanced scalability. [DOI: 10.1115/1.4007171]
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1530-9827
+UT WOS:000314763500003
+ER
+
+PT J
+AU Bidan, Marc
+   Rowe, Frantz
+   Truex, Duane
+TI An empirical study of IS architectures in French SMEs: integration
+   approaches
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+VL 21
+IS 3
+BP 287
+EP 302
+DI 10.1057/ejis.2012.12
+PD MAY 2012
+PY 2012
+AB This paper, based on a cross-sectional empirical study of information
+   system (IS) architectures within 143 small to medium enterprises (SMEs)
+   in France, reports findings on how SMEs architect to achieve IS
+   integration and interoperability. This research provides an empirically
+   derived taxonomy of enterprise architectural variants of the types often
+   described in the literature for large firms. This study finds
+   indications that for SMEs the immediate goal of interoperability
+   prevailed over fuller and more formal system integration. The most
+   common means for approaching enterprise architecture and any form of
+   integration is via the construction of software bridges and interfaces.
+   Partially standardized architectures based on Enterprise Systems (ERP)
+   are the next most common type. Hybrid architectures mixed Enterprise
+   Applications Integration and ERP are the third most common. The
+   contribution of this paper lies not in the identification of the three
+   types but resides (1) in the description of their distribution in SMEs;
+   (2) in the absence of other integration/interoperability types in this
+   population; and (3) most importantly in the interpretation of the
+   organizational and historical rationale explaining the emergence of
+   these types in this organizational context. European Journal of
+   Information Systems (2012) 21, 287-302. doi: 10.1057/ejis.2012.12;
+   published online 27 March 2012; corrected online 27 March 2012
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 0960-085X
+UT WOS:000303845200006
+ER
+
+PT J
+AU 김종현
+   정성아
+   Park, Sang-Min
+   Nam, Ho-Ki
+TI The Implementation of Enterprise Application Integration System in ERP
+   Environment
+Z1 ERP 환경에서 EAI시스템 실증적 적용 사례 연구
+SO Journal of Korea Safety Management & Science
+S1 대한안전경영과학회지
+VL 12
+IS 3
+BP 197
+EP 205
+PD 2010
+PY 2010
+AB The company protects the information of legacy system to satisfy all
+   member in company. Integrating between applications is increasing
+   recently because of e-Business activation. The e-Business activation
+   also make between extra companies and intra companies integrated. This
+   paper suggest on implementing the ERP using Phased Approach Method and
+   the EAI(Enterprise Application Integration) with legacy system. This
+   paper also suggest the standard method which would be used in
+   implementing the EAI in another company and reduce the mistake during
+   the EAI project. Therefore, it would be the one system between
+   complicated systems through application integration, it would be also
+   make shop floors visualized. This research would help users and service
+   suppliers getting more advantages of e-Business system.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-6783
+UT KJD:ART001488451
+ER
+
+PT J
+AU Li, Eldon Y.
+   Yen, H. J. Rebecca
+   Cheng, C. Y. John
+TI A fit-gap analysis of e-business curricula and job demand in Taiwan and
+   the US
+SO COMPUTERS & EDUCATION
+VL 51
+IS 3
+BP 969
+EP 987
+DI 10.1016/j.compedu.2007.09.013
+PD NOV 2008
+PY 2008
+AB During the past decade, many enterprises have been re-directing their
+   resources into critical business areas to keep up with economic and
+   market changes. They have adopted electronic business (EB) systems, such
+   as supply chain management, enterprise resource planning (ERP), and
+   enterprise application integration (EAI), to ensure seamless integration
+   with internal processes as well as suppliers and customers. This
+   phenomenon indicates that EB systems are playing an important role in
+   attaining the effectiveness of enterprise operations. However, there is
+   a constant complaint from recruiters that EB professionals with the
+   right skills are hard to come by. To gauge the rapid changes in EB
+   education and industry demand, EB curricula from top universities and
+   job announcements from popular career Web sites in both the US and
+   Taiwan are collected. We analyze the data and compare the results
+   between the two countries to recommend remedial actions for narrowing
+   the gap between industry and academia. (c) 2007 Elsevier Ltd. All rights
+   reserved.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 0360-1315
+UT WOS:000258024000001
+ER
+
+PT J
+AU Umapathy, Karthikeyan
+   Purao, Sandeep
+   Barton, Russell R.
+TI Designing enterprise integration solutions: effectively
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+VL 17
+IS 5
+BP 518
+EP 527
+DI 10.1057/ejis.2008.39
+PD OCT 2008
+PY 2008
+AB The design of large and complex enterprise integration solutions is a
+   difficult task. It can require solutions that are unique because of
+   constraints from the current set of legacy applications. Design
+   knowledge for enterprise integration solutions is, therefore, difficult
+   to articulate and reuse. In particular, the nature and form of knowledge
+   for conceptual design of integration solutions is difficult to pin down.
+   In this paper, we investigate whether design knowledge for enterprise
+   integration in the form of patterns can be reused to develop systems
+   integration solutions, and whether such reuse leads to more effective
+   design outcomes. The research follows design science guidelines in which
+   we describe a research artifact, and evaluate it to assess whether it
+   meets the intended goals. The results indicate that approaches to
+   facilitate reuse of conceptual design knowledge are feasible in the
+   domain of enterprise integration, and that such reuse does, in fact,
+   lead to more effective design solutions.
+RI Umapathy, Karthikeyan/A-8200-2009
+TC 13
+ZB 0
+Z8 0
+ZS 0
+Z9 13
+SN 0960-085X
+UT WOS:000261196200008
+ER
+
+PT J
+AU 문석재
+   정계동
+   강석중
+   Choi, Young-Keun
+TI XMDR Hub Framework for Business Process Interoperability based on
+   Store-Procedure
+Z1 저장-프로시저 기반의 비즈니스 프로세스 상호운용을 위한 XMDR Hub 프레임워크
+SO Journal of the Korea Institute Of Information and Communication
+   Engineering
+S1 한국정보통신학회논문지
+VL 12
+IS 12
+BP 2207
+EP 2218
+PD 2008
+PY 2008
+AB Various kind of business process exists within enterprise. These
+   business processes achieve business purposes while operate and control
+   using eAI solution. However legacy systems-ERP, PDM are able to many
+   cooperations and interoperability. Generally real data is becoming
+   interoperability using query based on store-procedure  on legacy system
+   for business process transaction. Also, It may occur some problems among
+   schema conversion, matching, mapping and other heterogeneous between
+   data interoperability in process. We propose business process
+   interoperability framework based on XMDR Hub that can guarantee
+   interoperability between legacy systems using process that is consisted
+   of SQL query based on store-procedure. It is easy to process data
+   interoperability between legacy systems when business process execute
+AK 기업 내에는 여러 가지의 비즈니스 프로세스가 존재한다. 이러한 비즈니스 프로세스들은 eAI 솔루션을 이용하여 구동되고, 조정되면서
+   비즈니스 목적을 달성하게 된다. 그러나 ERP, PDM과 같은 기존에 구축된 레거시 시스템들과 협업하여 상호운용해야 하는 경우가
+   많다. 일반적으로 비즈니스 프로세스를 처리하는데 있어서 내부적으로 레거시 시스템상의 데이터베이스에 SQL질의 기반의
+   저장-프로시저를 이용하여 실제 데이터가 상호운용되고 있다. 하지만 프로세스 내의 데이터를 상호운용하는데 스키마 변환, 매칭,
+   매핑과 같은 이질성 문제가 발생한다. 따라서 본 논문에서는 SQL 질의 기반인 저장-프로시저 레포지토리를 이용하여 비즈니스
+   프로세스 상호운용이 가능한 XMDR 허브 기반의 프레임워크를 제시한다. 이를 이용함으로써, 비즈니스 프로세스를 수행할 때 레거시
+   시스템간의 데이터 상호운용이 용이해진다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2234-4772
+UT KJD:ART001307432
+ER
+
+PT J
+AU Hough, J. R.
+   Haines, R.
+   Giacomo, S.
+TI Contextual factors affecting the integration of enterprise systems in
+   post-merger oil and gas companies
+SO ENTERPRISE INFORMATION SYSTEMS
+VL 1
+IS 4
+BP 421
+EP 441
+DI 10.1080/17517570701630404
+PD 2007
+PY 2007
+AB This study examines the contextual factors of the external business
+   environment, organization, information systems, and enterprise system
+   software as they affect integration of enterprise resource planning
+   (ERP) systems after a merger or acquisition in the oil and gas industry.
+   A multiple case study method using primary and secondary data revealed:
+   ERPs are operational necessities rather than strategic differentiators;
+   best practice adoption is a viable alternative that supports successful
+   integration of cultures and knowledge from two experienced
+   organizations; schedules are extended when best practices from both
+   companies are consolidated into a single instance; consolidation
+   facilitates Sarbanes-Oxley compliance and lowers the cost of ownership;
+   imposing acquirer systems on targets facilitates timely decision-making
+   and shorter schedules.
+TC 5
+ZB 0
+Z8 0
+ZS 0
+Z9 5
+SN 1751-7575
+UT WOS:000207470700003
+ER
+
+PT J
+AU Stender, M
+   Ritz, T
+TI Modeling of B2B Mobile Commerce processes
+SO INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS
+VL 101
+IS 1
+BP 128
+EP 139
+DI 10.1016/j.ijpe.2005.05.017
+PD MAY 2006
+PY 2006
+AB Wireless network technologies, e.g. Bluetooth, enable the direct data
+   exchange between mobile devices. When used in business-to-business
+   processes, a new form of inter-organizational application integration
+   becomes possible, which occurs ad hoc in mobile contexts, contrary to
+   the presently dominating approaches, e.g. such as EDI, which connects
+   centralized servers. Possible applications of this "ad hoc application
+   integration" include fully digitized sales processes of goods, where all
+   business documents are exchanged electronically at the point-of-sales
+   via wireless data transmission technologies. This paper presents the
+   technical aspects of ad hoc application integration and a notation for
+   modeling and identifying ad hoc integration scenarios. (c) 2005
+   Published by Elsevier B.V.
+CT 17th International Conference on Production Research
+CY AUG, 2003
+CL Virginia Polytech Inst & State Univ, Blacksburg, VA
+HO Virginia Polytech Inst & State Univ
+TC 6
+ZB 0
+Z8 0
+ZS 0
+Z9 6
+SN 0925-5273
+UT WOS:000234645400010
+ER
+
+PT J
+AU Shin, I
+TI Adoption of enterprise application software and firm performance
+SO SMALL BUSINESS ECONOMICS
+VL 26
+IS 3
+BP 241
+EP 256
+DI 10.1007/s11187-005-0215-9
+PD APR 2006
+PY 2006
+AB Due to the rapidly changing business and IT environments, firm-level
+   adoption of IT shifted from in-house development to purchasing EA
+   software. This paper analyzes the effects of EA (Enterprise Application)
+   software - ERP, CRM, SCM, Groupware, KM, EAI - on SMEs' productivity.
+   The distinct feature of this paper is that I use a formal econometric
+   approach with combined data of SMEs' accounting and IT usage aspects,
+   while case studies have been mostly used in the previous works. The
+   empirical results show that Groupware and SCM significantly raise the
+   SMEs' productivity, and the manufacturing sector has stronger effects
+   than the service sector. From these results, the following implications
+   are derived. First, the adoption rate and the real benefits of EA
+   software are not closely related domestically. Second, in SMEs, EA
+   software facilitating the inter-firm relationship is more effective than
+   EA software focusing on the internal efficiency. Third,
+   easy-to-understand, and relatively long-experienced enterprise
+   applications are more effective than hard-to-understand and brand-new
+   applications. Finally, the government IT policy on SMEs should focus on
+   the process coordination and standardization of the manufacturing sector
+   with upstream and downstream firms.
+TC 24
+ZB 0
+Z8 0
+ZS 0
+Z9 24
+SN 0921-898X
+UT WOS:000235487000004
+ER
+
+PT J
+AU YoonCheolho
+   최해성
+TI A Case Study on EAI Implementation for Enterprise Process
+   Integration:Focusing on EAI Project in Deakyo Co.
+Z1 기업 프로세스 통합을 위한 EAI 구축사례:대교(주)의 EAI 프로젝트를 중심으로
+SO Journal of Information Technology Services
+S1 한국IT서비스학회지
+VL 5
+IS 3
+BP 109
+EP 120
+PD 2006
+PY 2006
+AB The company cannot optimize its computing environment just with
+   individual solutions such as ERP(enterprise resource planning),
+   SCM(supply chain management), CRM(customer relationship management), and
+   KM(knowledge management). EAI(enterprise application integration) has
+   emerged as an alternative that can optimize computing environment of the
+   company through integrating such solutions and systems of distributed
+   computing and mainframe environment. This paper reports the case study
+   of Deakyo Co. in successfully implementing EAI. It describes  project
+   goal, project organization, project plan, the implemented EAI
+   configuration and  its features, the EAI effectiveness to the firm, and
+   the critical success factors of the EAI project.  This case study is
+   thought to be useful as a practical guideline in carrying out EAI
+   project of the company and to provide significant basis for constructing
+   the theoretical framework of EAI project methodology.
+AK *국립목포대학교 경영학과
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1975-4256
+UT KJD:ART001036224
+ER
+
+PT J
+AU Lam, W
+TI An enterprise application integration (EAI) case-study: Seamless
+   mortgage processing at Harmond Bank
+SO JOURNAL OF COMPUTER INFORMATION SYSTEMS
+VL 46
+IS 1
+BP 35
+EP 43
+PD FAL 2005
+PY 2005
+AB Many organizations manage and maintain a diverse portfolio of
+   information system (IS) applications. The integration of these
+   applications is often necessary to support broader enterprise-wide
+   business solutions such as e-business, automated supply chain management
+   (SCM), customer relationship management (CRM) and enterprise resource
+   planning (ERP). Enterprise application integration (EAI) is one approach
+   to IS application integration. The paper presents a case study of an
+   integration project at Harmond Bank where an EAI approach was used to
+   integrate the IS applications in its home loans division. The case-study
+   highlights many of the management and architectural decisions that are
+   pertinent to IS application integration projects, and lessons learned
+   from the case are discussed.
+TC 5
+ZB 1
+Z8 0
+ZS 0
+Z9 5
+SN 0887-4417
+UT WOS:000232379000005
+ER
+
+PT J
+AU Sharif, AM
+   Irani, Z
+   Love, PED
+TI Integrating ERP using EAI: a model for post hoc evaluation
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+VL 14
+IS 2
+BP 162
+EP 174
+DI 10.1057/palgrave.ejis.3000533
+PD JUN 2005
+PY 2005
+AB In recent years there has been an increased focus on improving the
+   capability and flexibility of organisational information systems through
+   improving, and where necessary, re-engineering inter- and
+   intra-organisational information flows. In doing so, many firms have
+   realised that the cornerstone of their information systems capability is
+   dependent upon core systems such as Enterprise Resource Planning (ERP).
+   In realising this, it has forced businesses to acknowledge the need to
+   integrate ERP systems with existing disparate legacy systems. Technology
+   solutions such as Enterprise Application Integration (EAI) have been
+   seen as a panacea to facilitate integration through the use of
+   technologies that allow corporate IS subsystems to communicate with one
+   another. In the context of using enterprise technologies to integrate
+   ERP with other organisational business systems, this paper analyses and
+   extends previously published work through presenting the failure of an
+   industrial automation business to integrate its ERP system with legacy
+   processes when using an EAI approach. In doing so, the authors present a
+   post hoc evaluation model that can be used by others as a frame of
+   reference; a tool for reflection. The presented model seeks to provide
+   further insight to the failed approach to ERP integration, within the
+   given case study organisation. This proposed model, is constructed in
+   terms of Technical, Organisational and Tailorability components. It is
+   anticipated that this will be a useful tool for both practitioners and
+   academics, who wish to gain a deeper understanding of ERP/EAI
+   implementation approaches, as well as providing insights into how the
+   componentisation and extension of ERP functionalities can be achieved,
+   towards so-called ERPII.
+RI Irani, Zahir/; Sharif, Amir/
+OI Irani, Zahir/0000-0002-6332-6118; Sharif, Amir/0000-0003-4293-7929
+TC 25
+ZB 0
+Z8 0
+ZS 0
+Z9 25
+SN 0960-085X
+UT WOS:000230304800006
+ER
+
+PT J
+AU Lam, W
+TI Investigating success factors in enterprise application integration: a
+   case-driven analysis
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+VL 14
+IS 2
+BP 175
+EP 187
+DI 10.1057/palgrave.ejis.3000530
+PD JUN 2005
+PY 2005
+AB This paper investigates Critical Success Factors (CSFs) in Enterprise
+   Application Integration (EAI). An initial set of CSFs for EAI projects
+   was created based on a review and synthesis of the literature in the
+   general area of integration, including Enterprise Resource Planning
+   (ERP) projects. A case analysis, involving a large financial services
+   provider integrating its consumer banking systems, was used to validate
+   the CSFs. The findings resulted in a more structured and holistic CSF
+   model which identifies three broad groups of CSFs, namely ( 1) top
+   management support, ( 2) overall integration strategy, and ( 3) EAI
+   project planning and execution. Although EAI projects share many of the
+   same CSFs as ERP projects and other information systems projects, issues
+   related to the selection of the right EAI tool and emphasis on
+   technology planning and enterprise architecture are distinguishing
+   features of EAI projects. Some of practical implications of the research
+   are that EAI projects require personnel with specific skills and
+   expertise, business integration should precede technology integration,
+   that availability of adapters is an important criteria in EAI tool
+   selection and that some custom adapter development may be unavoidable if
+   custom applications need to be integrated.
+TC 37
+ZB 0
+Z8 1
+ZS 0
+Z9 38
+SN 0960-085X
+UT WOS:000230304800007
+ER
+
+PT J
+AU Wang, M
+   Zhang, S
+TI Integrating EDI with an e-SCM system using EAI technology
+SO INFORMATION SYSTEMS MANAGEMENT
+VL 22
+IS 3
+BP 31
+EP 36
+DI 10.1201/1078/45317.22.3.20050601/88743.5
+PD SUM 2005
+PY 2005
+AB Based on a real-world E-supply chain management system, this article
+   describes an architecture design, logical model, and physical model to
+   connect legacy EDI systems used by suppliers to the XML-based ERP
+   applications of a buyer using EAI technology. The general benefits in
+   system functionality and business outcomes are also presented. This
+   basic primer can be used to inform business practitioners and academic
+   audiences about this type of enterprise integration solution.
+TC 5
+ZB 0
+Z8 0
+ZS 1
+Z9 6
+SN 1058-0530
+UT WOS:000229823100005
+ER
+
+PT J
+AU Helo, P
+   Szekely, B
+TI Logistics information systems - An analysis of software solutions for
+   supply chain co-ordination
+SO INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+VL 105
+IS 1-2
+BP 5
+EP 18
+DI 10.1108/02635570510575153
+PD 2005
+PY 2005
+AB Purpose - To review the development of software applications and their
+   functionalities/benefits in relation to supply chain management and
+   present scenarios on future development.
+   Design/methodology/approach - A range of recently published academic and
+   non-academic pieces of work that can be classified as pertinent to the
+   area in question. These sources employ both theoretical and practical
+   views on the topic of supply chain co-ordination software and related
+   functionalities and resulted benefits.
+   Findings - There is a significant overlap regarding the functionalities
+   of software applications and the trend of convergence is about to
+   intensify. At the same time the need for real time information will
+   become crucial, putting emphasis on flexible IT-systems that can deal
+   with large amounts of data and are easy to interconnect. In turn this
+   will lead to the growing importance of system integration software and
+   the process of creating standards.
+   Research limitations/implications - As a result of continuous
+   development and convergence of IT-solutions and turbulent business
+   environment more applied research will be needed in the area of product
+   configuration, RFID-technology, standards in relation to
+   interoperability of software applications (EAI technologies). This
+   scrutiny is based only on written resources and no consultants or
+   manager interviews were employed. Therefore the views of companies are
+   not presented on the issues covered.
+   Practical implications - The selection of the appropriate software
+   solutions for a company will need more time, expertise and money and the
+   role of suppliers of software packages will become more significant.
+   Originality/value - This scrutiny stipulates the way the functionalities
+   of software applications evolve with overlap one another and thus helps
+   both researchers and companies to gain a clearer view on the development
+   of supply chain software applications.
+RI Helo, Petri/F-8077-2015
+OI Helo, Petri/0000-0002-0501-2727
+TC 53
+ZB 0
+Z8 1
+ZS 1
+Z9 55
+SN 0263-5577
+UT WOS:000228733000001
+ER
+
+PT J
+AU Lee, Soon-Chul
+   오부연
+   정병헌
+   이영희
+TI The Future Directions for Systems Integration
+Z1 시스템 통합의 발전 방향
+SO Journal of Information Technology Applications & Management
+VL 12
+IS 1
+BP 1
+EP 20
+PD 2005
+PY 2005
+AB Economy of scale would be one of the most important issues among
+   organizations pursuing system integration projects. Cerntainly there are
+   other benefits than cost reduction for achieving system integration.
+   However, these benefits could not be achieved automatically, if system
+   integration projects were undertaken without thoughtful planning.In this
+   paper, we propose a framework for an effective system integration by (1)
+   defining the objects(user interface, database, application, and server)
+   and (2) considering the level of integration(physical integration and
+   rational integration). Therefore, 6 types of integration can be
+   considered. Five case studies of domestic organizaions were reviewed to
+   suggest various issues and solutions. Based on our case studies, we
+   discovered that five integration types - EIP, EAI, ERP, BPM and System
+   Reconsolidation - were most widely used.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-6284
+UT KJD:ART000953286
+ER
+
+PT J
+AU Kim, Jongdae
+TI Distribution Channel Integration Strategy by Web-service System:
+   Case-based Exploratory Study
+Z1 웹기반을 통한 유통망 통합 전략: 사례에 근거한 탐색적 연구
+SO Korean Journal of Logistics
+S1 로지스틱스연구
+VL 13
+IS 2
+BP 85
+EP 100
+PD 2005
+PY 2005
+AB Many of previous works proposed a revolution map of supply chain
+   integration through information systems integration of supply chain
+   members. Followed by implementation of Enterprise Resource Planning(ERP)
+   systems, more recently, firms are trying to integrate various and
+   separate information systems of their supply chain members. In this
+   regards, inter-organization system(IOS) development and Enterprise
+   Application Integration(EAI) have received more attentions from academic
+   and industry area. In this study, we chose a company, which implemented
+   web-based service to integrate their distribution channel; and, analyzed
+   in order to validate previous works.   From an exploratory case
+   analysis, we came up with validations for determinant set, critical
+   success factors in IOS and post-implementation effects of IOS.
+AK 다수의 연구들이 공급사슬 참여자의 상이한 정보시스템 통합을 통합 공급사슬통합의 발전단계를 제시하고 있다. 90년도 초를 기점으로,
+   대부분의 선진 기업들이 내부의 관련 업무를 통합하기위하여 전사적자원관리시스템을 도입 한 바 있다. 이 기업들의 궁극적인 목적은
+   해당 공급사슬에 참여하는 기업들 간의 정보시스템 통합을 통하여 공급사슬의 경쟁력을 제고 하는데 있다. 기업 간의 시스템 통합에
+   관하여는 많은 연구들이 진행되어 있다. 본 연구는 웹기반의 정보시스템을 통하여 유통망의 통합을 구축한 기업을 선정하여, 탐색적
+   연구를 바탕으로 기존에 제시되었던 기업 간 정보시스템의 구축방법 선정 요인, 주요성공요인, 그리고 시스템 도입 후의 효과에 관한
+   기존의 이론들을 검증하였다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-3539
+UT KJD:ART001177076
+ER
+
+PT J
+AU Lee, J
+   Siau, K
+   Hong, S
+TI Enterprise integration with ERP and EAI
+SO COMMUNICATIONS OF THE ACM
+VL 46
+IS 2
+BP 54
+EP 60
+DI 10.1145/606272.606273
+PD FEB 2003
+PY 2003
+TC 101
+ZB 2
+Z8 5
+ZS 4
+Z9 109
+SN 0001-0782
+UT WOS:000180684800018
+ER
+
+PT S
+AU Quirchmayr, G
+   Tjoa, AM
+BE Bauknecht, K
+   Tjoa, AM
+   Quirchmayr, G
+TI Enterprise application integration - Future revisited?
+SO E-COMMERCE AND WEB TECHNOLOGIES, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 2738
+BP 445
+EP 450
+PD 2003
+PY 2003
+AB In this paper we reflect on enterprise application integration and try
+   to give appreciation of its benefits for the development of future work
+   environments, especially mobile applications. We look at requirements
+   for and opportunities provided by integration concepts and draw
+   conclusions about what integrated environments and enterprise resource
+   planning systems can contribute in terms of serving as a sound and
+   future proof basis for mobile and ubiquitous use of technology. Some of
+   the research issues identified are, not astonishing at all, pointing
+   back to open questions already encountered in database and artificial
+   intelligence projects in past decades. Thanks to the advances of
+   information technology some answers can now be given.
+CT 4th International Conference on E-Commerce and Web technologies (EC-Web
+   2003)
+CY SEP 02-05, 2003
+CL PRAGUE, CZECH REPUBLIC
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0302-9743
+BN 3-540-40808-8
+UT WOS:000185936600043
+ER
+
+PT J
+AU Lim, GG
+   Lee, JK
+TI Buyer-carts for B2B EC: The b-cart approach
+SO JOURNAL OF ORGANIZATIONAL COMPUTING AND ELECTRONIC COMMERCE
+VL 13
+IS 3-4
+BP 289
+EP 308
+PD 2003
+PY 2003
+AB To support the purchasing process in the B2B EC platform, we analyzed
+   various architectures of buyer-carts. The desired features in
+   buyer-carts are collection, recording, trashing, tracking,
+   identification, ordering, payment, purchasing decision support, and
+   transmission of records to e-procurement systems. A buyer-cart can be
+   categorized as s-cart, i-cart, and b-cart depending upon its residing
+   sites: seller, intermediary, and buyer. To design the architectures of
+   B2B e-marketplaces considering the role of buyer-carts, we analyzed the
+   feasible combinations of marketplace operators, pricing mechanisms, and
+   types of buyer-carts. Seventeen elementary types of B2B EC architectures
+   turned out meaningful in this regard, thus their pros and cons are
+   evaluated. Based on this framework, we designed a composite architecture
+   MyCart, which allows the buyer to use b-cart along with s-cart and
+   i-cart. By using the b-cart, a buyer can visit multiple sites collecting
+   information in his or her own cart. This will allow the tight
+   integration of b-cart with the e-procurement system. We demonstrate that
+   the b-cart approach can be an effective framework of integrating the
+   e-marketplaces with e-procurement systems and ERP systems. The b-cart
+   can be very effectively applied to the desktop purchasing environment
+   which uses external e-marketplaces.
+CT Meeting of the International Conference on Electronic Commerce 2000
+   (ICEC 2000)
+CY AUG 21-24, 2000
+CL SEOUL, SOUTH KOREA
+RI Lee, Jae Kyu/C-1910-2011
+TC 1
+ZB 0
+Z8 0
+ZS 0
+Z9 1
+SN 1091-9392
+UT WOS:000184991600008
+ER
+
+PT J
+AU Niemann, H
+   Hasselbring, W
+   Wendt, T
+   Winter, A
+   Meierhofer, M
+TI Strategies for coupling enterprise application systems in hospitals
+SO WIRTSCHAFTSINFORMATIK
+VL 44
+IS 5
+BP 425
+EP 434
+PD OCT 2002
+PY 2002
+AB The realization of specific coupling strategies and integration
+   techniques is discussed exemplarily for a university hospital, the
+   Universitatsklinikum Leipzig (UKL) in Germany. The integration of the
+   central patient management system serving the administrative department
+   with the clinical workplace systems serving hospital wards is presented.
+   We analyze the integration with respect to the underlying theoretical
+   conceptions and discuss information management issues for deployment and
+   maintenance of the overall IT infrastructure. This paper presents the
+   pros and cons of synchronous and asynchronous patient data replication,
+   the practical experience with the deployment of a communication server,
+   and the experience with using an RFC interface, a proprietary interface
+   to the enterprise resource planning system SAP R/3. Both, organizational
+   and technical issues are addressed in this context.
+RI Hasselbring, Wilhelm/G-4794-2011
+OI Hasselbring, Wilhelm/0000-0001-6625-4335
+TC 2
+ZB 1
+Z8 0
+ZS 0
+Z9 2
+SN 0937-6429
+UT WOS:000178864200003
+ER
+
+PT J
+AU 장민수
+   손주찬
+   백종명
+TI ERP Application Development Using Business Data Dictionary
+Z1 데이터사전을 이용한 ERP애플리케이션 개발
+SO The Journal of Society for e-Business Studies
+S1 한국전자거래학회지
+VL 7
+IS 1
+PD 2002
+PY 2002
+AB Data dictionary is a collection of meta-data, which describes data
+   produced and consumed while performing business processes. Data
+   dictionary is an essential element for business process standardization
+   and automation, and has a fundamental role in ERP application management
+   and customization. Also, data dictionary facilitates B2B processes by
+   enabling painless integration of business processes between various
+   enterprises. We implemented data dictionary support in SEA+, a
+   component-based scalable ERP system developed in ETRI, and found out
+   that its a plausible feature of business information system. We
+   discovered that data dictionary promotes semantic, not syntactic, data
+   management, which can make it possible to leverage viability of the tool
+   in the coming age of more meta-data oriented computing world. We
+   envision that business data dictionary is a firm foundation of adapting
+   business knowledge, applications and processes into the semantic web
+   based enterprise infra-structure.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2288-3908
+UT KJD:ART000894613
+ER
+
+EF

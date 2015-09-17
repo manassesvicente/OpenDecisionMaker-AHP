@@ -1,0 +1,57 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Grado, Stephen C.
+   Grebner, Donald L.
+   Barlow, Rebecca J.
+   Drier, Rebecca O.
+TI Valuing habitat regime models for the red-cockaded woodpecker in
+   Mississippi
+SO JOURNAL OF FOREST ECONOMICS
+VL 15
+IS 4
+BP 277
+EP 295
+DI 10.1016/j.jfe.2009.03.001
+PD 2009
+PY 2009
+AB Managing Mississippi's forest lands to produce both quality wildlife
+   habitat as well as merchantable timber can be a daunting challenge for
+   forest managers and a source of great concern for the public. In some
+   cases, producing both the quantity and quality of habitat needed and the
+   timber desired is all but impossible. In other cases, a delicate balance
+   that achieves both objectives can be struck. The objective of this study
+   was to quantitatively estimate monetary gains and losses and changes in
+   timber inventories relative to the timber growing stock when producing
+   more or less habitat for the red-cockaded woodpecker (RCW) (Picoides
+   borealis). USDA Forest Service vegetation data, habitat ratings, and
+   economic variables were compiled for those regions of Mississippi best
+   suited for RCWs. Data was then analyzed with Spectrum, the USDA Forest
+   Service-based forest planning software. Models maximizing such
+   objectives as net present value (NPV) alone as well as five different
+   levels of RCW habitat quality over a 50-year rotation were developed.
+   Revenue foregone, acres and volumes harvested, land expectation value
+   (LEV), and equivalent annual income (EAI) were compared for all
+   objectives for the South Central Hills and Pine Belt regions of
+   Mississippi (1,036,208 acres) for three ownership types. As expected,
+   when maximizing for any quality level of RCW habitat, revenue forgone
+   was higher ($0.11-$49/acre/year) than for NPV alone. Volume harvested
+   for high-quality habitat ranged from 152,296 to 10,237,649 cunits, while
+   harvests from low-quality habitat ranged from 637,491 to 116,357,673
+   cunits. Lower levels of habitat management allowed for an increased
+   emphasis on timber harvesting. In general, we determined that increases
+   in habitat quality resulted in lower timber harvest levels and increased
+   revenue forgone than regimes maximizing NPVs. While this result may be
+   expected, of greater importance are the relative differences between
+   regimes and the ability to use these values for policy decisions. (C)
+   2009 Elsevier GmbH. All rights reserved.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1104-6899
+UT WOS:000272409200004
+ER
+
+EF

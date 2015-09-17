@@ -1,0 +1,128 @@
+TY  - JOUR
+TI  - SEVALERPS a new EX-ANTE multi-criteria method for ERP selection
+T2  - International Review on Computers and Software
+J2  - Int. Rev. Comput. Softw.
+VL  - 8
+IS  - 10
+SP  - 2477
+EP  - 2485
+PY  - 2013
+SN  - 18286003 (ISSN) 
+AU  - Khaled, A.
+AU  - Janati-Idrissi, M.A.
+AD  - TIME Research Team, ENSIAS/UM5, Souissi University, Rabat, Morocco
+AB  - Selecting the right ERP system is one of the most risky, tedious and complex decision making activity for any organization. This paper develops a new multi-criteria method for ERP systems evaluation and selection, which addresses some of the most important shortcomings relating to the methods found in the literature. The proposed method serves mainly twofold objectives; firstly it introduces a new systematic evaluation process that considers ERP tailoring and mismatch handling as the corner stone of the evaluation activity. Secondly, it presents a semi-structured evaluation model that helps the selection team to voice out its preferences. The evaluation model relies on many mathematical techniques to handle the various aspects of the evaluation: 0-1 linear programming systems to define the anticipated functional coverage of ERP candidates, MACBETH cardinal scales to represent, in an interactive way, the selection team's preferences, and the Choquet integral to address interdependencies among evaluation criteria. © 2013 Praise Worthy Prize S.r.l. - All rights reserved.
+KW  - ERP
+KW  - Evaluation
+KW  - Multi-criteria
+KW  - Selection
+KW  - SEVALERPS
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: TIME Research Team, ENSIAS/UM5, Souissi University, Rabat, Morocco
+N1  - References: Holsapple, C.W., Sena, M.P., The Decision-Support Characteristics of ERP Systems (2003) International Journal of Human-Computer Interaction, 16 (1), pp. 101-123; 
+Kakanakov, N., Shopov, M., Stankov, I., Spasov, G., Web Services and Data Integration in Distributed Automation and Information Systems in Internet Environment (2006) International Review on Computers and Software (IRECOS), 1 (3), pp. 194-201; 
+Shiang-Yen, T., Idrus, R., Yusof, U., Misfits of Enterprise Resource planning (ERP) System and Business Strategies: Framework for Identiying and Classiying ERP Misfit (2010) International Conference of Business and Economic Research, , (Year of Publication:); 
+Wu, J.-H., Tai, W.-C., Tsai, R.J., Lu, I.-Y., Using Multiple Variables Decision-Making Analysis for ERP Selection (2009) International Journal of Manufacturing Technology and Management, 18 (2), pp. 228-241; 
+Verville, J., Halingten, A., A Six-Stage Model of the Buying Process for ERP Software (2003) Industrial Marketing Management, 32 (7), pp. 585-594; 
+Triantaphyllou, E., Multi-criteria Decision Making Methods: A Comparative Study (2000) Netherlands: Kluwer Academic Publishers; 
+Mollaghasemi, M., Pet-Edwards, J., (1997) Technical Briefing: Making Multiple-Objective Decisions, , IEEE computer society press Los Alamitos, CA; 
+Sen, C.G., Baraçli, H., Sen, S., A Literature Review and Classification of Enterprise Software Selection Approaches (2009) International Journal of Information Technology and Decision Making, 8 (2), pp. 217-238; 
+Stefanou, C.J., The Selection Process of Enterprise Resource planning (ERP) Systems (2000) AMCIS 2000 Proceedings, p. 418. , (Year of Publication); 
+Sistach, F., Pastor, J., Methodological Acquisition of ERP Solutions with SHERPA (2000) First World Class IT Service Management Guide, , (Ed. J. van Bon), tenHagenStam; 
+Maiden, N., Rugg, G., ACRE: Selecting Methods for Requirements Acquisition (1996) Software Engineering Journal, 11 (3), pp. 183-192; 
+Software Engineering-Product Quality-Part I: Quality model (2001) ISO International Standards Organisation, , ISO9126, ISO/IEC 9126-1; 
+Alves, C., Franch, X., Carvallo, J.P., Finkelstein, A., Using Goals and Quality Models to Support the Matching Analysis During COTS Selection (2005) COTS-Based Software Systems, pp. 146-156. , Springer; 
+Brehm, L., Heinzl, A., Markus, M.L., Tailoring ERP Systems: A Spectrum of Choices and Their Implications (2001) System Sciences, 2001. Proceedings of the 34th Annual Hawaii International Conference, p. 9. , IEEE,(Year of Publication:); 
+Bana, C.A., De Corte, J.-M., Vansnick, J.-C., On the Mathematical Foundation of MACBETH (2005) Multiple Criteria Decision Analysis: State of The Art Surveys, pp. 409-437. , Springer; 
+Grabisch, M., The Choquet Integral as a linear interpolator (2004) 10th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU 2004), p. 373. , (Year of Publication); 
+Choquet, G., Theory of Capacities (1953) Annales de l'institut Fourier, 5 (131-295), p. 87; 
+Ines, H.H., Ammar, F.B., ELECTRE II multi-criteria decision making for optimum design of modular multilevel inverter building bloc (2010) International Review of Electrical Engineering (IREE), 5 (3), pp. 870-879
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84891532111&partnerID=40&md5=7c529f2d8b2248d12908e7ac15da5fe7
+ER  - 
+
+TY  - JOUR
+TI  - A hybrid MCDM methodology for ERP selection problem with interacting criteria
+T2  - Decision Support Systems
+J2  - Decis Support Syst
+VL  - 54
+IS  - 1
+SP  - 206
+EP  - 214
+PY  - 2012
+DO  - 10.1016/j.dss.2012.05.006
+SN  - 01679236 (ISSN) 
+AU  - Gürbüz, T.
+AU  - Alptekin, S.E.
+AU  - Işiklar Alptekin, G.
+AD  - Department of Industrial Engineering, Galatasaray University, ÇIraǧan Cad. No:36, 34357 Ortaköy, Istanbul, Turkey
+AD  - Department of Computer Engineering, Galatasaray University, ÇIraǧan Cad. No:36, 34357 Ortaköy, Istanbul, Turkey
+AB  - An enterprise resource planning (ERP) system is an information system to plan and integrate all of an enterprise's subsystems including purchase, production, sales and finance. Adopting such a comprehensive framework may result in the great savings in both costs and man hours. This research explores the application of a hybrid multicriteria decision making (MCDM) procedure for the evaluation of various ERP alternatives. The proposed evaluation framework integrates three methodologies: Analytic Network Process (ANP), Choquet integral (CI) and Measuring Attractiveness by a Categorical Based Evaluation Technique (MACBETH). ANP produces the priorities of alternatives with respect to the interdependent evaluation criteria. The conjunctive or disjunctive behaviors between criteria are determined using MACBETH and CI. Numerical application of the proposed methodology is implemented on the decision making problem of a firm that faces with four ERP projects. The final ranking is compared to the one obtained by ignoring the interactions among criteria. The results demonstrate that the ignorance of the interactions may lead to erroneous decisions. © 2012 Elsevier B.V. All rights reserved.
+KW  - ANP
+KW  - Choquet integral
+KW  - ERP
+KW  - MCDM
+KW  - Supplier selection
+KW  - Analytic network process
+KW  - ANP
+KW  - Choquet integral
+KW  - Decision-making problem
+KW  - Enterprise resource planning systems
+KW  - ERP selection
+KW  - Evaluation criteria
+KW  - Evaluation framework
+KW  - MACBETH
+KW  - Man hours
+KW  - MCDM
+KW  - Multi-criteria decision making
+KW  - Numerical applications
+KW  - Supplier selection
+KW  - Decision making
+KW  - Industry
+KW  - Integral equations
+KW  - Enterprise resource planning
+N1  - Cited By :10
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: DSSYD
+LA  - English
+N1  - Correspondence Address: Işiklar Alptekin, G.; Department of Computer Engineering, Galatasaray University, ÇIraǧan Cad. No:36, 34357 Ortaköy, Istanbul, Turkey; email: gisiklar@gsu.edu.tr
+N1  - References: Baki, B., Cakar, K., Determining the ERP package-selecting criteria: The case of Turkish manufacturing companies (2005) Business Process Management Journal, 11 (1), pp. 75-86. , DOI 10.1108/14637150510578746; 
+Bana, C.A., Costa, E., (1992) Structuration, Construction et Exploitation d'Un Modèle À Multi-critère d'Aide À la Décision, , PhD Thesis, Technical University of Lisbon, Lisbon; 
+Bana Costa, E.C.A., Chagas, M.P., A career choice problem: An example of how to use MACBETH to build a quantitative value model based on qualitative value judgments (2004) European Journal of Operational Research, 153, pp. 323-331; 
+Bana Costa, E.C.A., De Corte, J.M., Vansnick, J.C., On the mathematical foundations of MACBETH (2004) Working Paper LSEOR, 3, p. 56. , London School of Economics and Political Science; 
+Bana Costa, E.C.A., Oliveira, C.S., Vieira, V., Prioritization of bridges and tunnels in earthquake risk mitigation using multicriteria decision analysis: Application to Lisbon (2008) Omega, 36, pp. 442-450; 
+Berrah, L., Mauris, G., Montmain, J., Monitoring the improvement of an overall industrial performance based on a Choquet integral aggregation (2008) Omega, 36, pp. 340-351; 
+Brewer, G., On the road to successful ERP (2000) Instrumentation & Control Systems, 73 (5), pp. 49-58; 
+Campanella, G., Ribeiro, R.A., A framework for dynamic multiple-criteria decision making (2011) Decision Support Systems, 52, pp. 52-60; 
+Cebeci, U., Fuzzy AHP-based decision support system for selecting ERP systems in textile industry by using balanced scorecard (2009) Expert Systems with Applications, 36, pp. 8900-8909; 
+Cheng, E.W.L., Li, H., Yu, L., The Analytic Network Process (ANP) approach to location selection: A shopping mall illustration (2004) Construction Innovation, 5, pp. 83-97; 
+Choquet, G., Theory of capacities (1953) Annales de l'Institut Fourier, 5, pp. 131-295; 
+Cliville, V., Berrah, L., Mauris, G., Quantitative expression and aggregation of performance measurements based on the MACBETH multi-criteria method (2007) International Journal of Production Economics, 105 (1), pp. 171-189. , DOI 10.1016/j.ijpe.2006.03.002, PII S0925527306000739; 
+Davenport, T.H., Putting the enterprise into the enterprise system (1998) Harvard Business Review, 76 (4), pp. 121-131; 
+Erensal, Y.C., Albayrak, E., Successful adoption of macroergonomics in manufacturing: Using a multicriteria decision-making methodology-analytic hierarchy process (2005) Human Factors and Ergonomics in Manufacturing, 14 (4), pp. 353-377; 
+Grabisch, M., K-order additive fuzzy measures, 6th International Conference on Information Progressing and Management of Uncertainty (1997) Fuzziness and Knowledge Based Systems, 5, pp. 587-607; 
+Gürbüz, T., Multiple criteria human performance evaluation using Choquet integral (2010) International Journal of Computational Intelligence Systems, 3 (3), pp. 290-300; 
+Gürbüz, T., (2010) Multicriteria Decision Making Approach to Human Resources Performance Evaluation, , Ph.D. Thesis, Galatasaray University, Turkey; 
+Hecht, B., Choose the right ERP software (1997) Datamation, 43 (3), pp. 56-58; 
+Holsapple, C.W., Sena, M.P., ERP plans and decision-support benefits (2005) Decision Support Systems, 38, pp. 575-590; 
+Işiklar Alptekin, G., Büyüközkan, G., An integrated case-based reasoning and MCDM system for web based tourism destination planning (2011) Expert Systems with Applications, 38 (3), pp. 2125-2132; 
+Jung, U., Seo, D.W., An ANP approach for R&D project evaluation based on interdependencies between research objectives and evaluation criteria (2010) Decision Support Systems, 49, pp. 335-342; 
+Karsak, E.E., Ozogul, C.O., An integrated decision making approach for ERP system selection (2009) Expert Systems with Applications, 36, pp. 660-667; 
+Labreuche, C., Grabisch, M., The Choquet integral for the aggregation of interval scales in multicriteria decision making (2003) Fuzzy Sets and Systems, 137 (1), pp. 11-26; 
+Montignac, F., Noirot, I., Chaudourne, S., Multi-criteria evaluation of on-board hydrogen storage technologies using the MACBETH approach (2009) International Journal of Hydrogen Energy, 34 (10), pp. 4561-4568; 
+Murofushi, T., Sugeno, M., An interpretation of fuzzy measure and the Choquet integral as an integral with respect to a fuzzy measure (1989) Fuzzy Sets Systems, 29, pp. 201-227; 
+Pomerol, J.C., Barba Romero, S., (2000) Multicriterion Decision in Management: Principles and Practice, , 1st edition Kluwer Academic Publishers Norwell; 
+Roubens, M., Rusinowska, A., De Swart, H., Using MACBETH to determine utilities of governments to parties in coalition formation (2006) European Journal of Operational Research, 172 (2), pp. 588-603. , DOI 10.1016/j.ejor.2004.10.017, PII S0377221704008240; 
+Saad, I., Hammadi, S., Benrejeb, M., Borne, P., Choquet integral for criteria aggregation in the flexible job-shop scheduling problems (2008) Mathematics and Computers in Simulation, 76 (5-6), pp. 447-462. , DOI 10.1016/j.matcom.2007.04.010, PII S0378475407001905, Mathematical Aspects of Modelling and Control; 
+Saaty, T.L., (1980) The Analytic Hierarchy Process, , McGraw-Hill New York; 
+Saaty, T.L., (1996) Decision Making with Dependence and Feedback: The Analytic Network Process, , RWS Publications Pittsburgh; 
+Saaty, R.W., (2003) Decision Making in Complex Environments, , Creative Decisions Foundation Pittsburgh; 
+Verdecho, M.J., Alfaro-Saiz, J.J., Rodriguez-Rodriguez, R., Prioritization and management of inter-enterprise collaborative performance (2012) Decision Support Systems, 53 (1), pp. 142-153; 
+Wei, C.C., Chien, C.F., Wang, M.J.J., An AHP-based approach to ERP system selection (2005) International Journal of Production Economics, 96, pp. 47-62; 
+Yazgan, H.R., Boran, S., Göztepe, K., An ERP software selection process with using artificial neural network based on Analytic Network Process approach (2009) Expert Systems with Applications, 36, pp. 9214-9222
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84868662525&partnerID=40&md5=b0848f87320f001f0ae6f909e4ecd2c7
+ER  - 
+

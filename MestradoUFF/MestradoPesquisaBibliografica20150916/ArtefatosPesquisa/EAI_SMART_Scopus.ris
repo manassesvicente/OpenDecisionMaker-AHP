@@ -1,0 +1,198 @@
+TY  - JOUR
+TI  - The future-oriented grid-smart grid
+T2  - Journal of Computers
+J2  - J. Comput.
+VL  - 6
+IS  - 1
+SP  - 98
+EP  - 105
+PY  - 2011
+DO  - 10.4304/jcp.6.1.98-105
+SN  - 1796203X (ISSN) 
+AU  - Li, Q.
+AU  - Zhou, M.
+AD  - Power System Department, Sichuan Electric Power Test and Research Institute, Chengdu, China
+AD  - School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China
+AB  - Since its emergence, smart grid has been given increasingly widespread attentions. Basically, smart grid combines a various modern technologies like network communication, information processing and distributed control to provide a more secure, reliable and intelligent grid, thus meeting the requirements of future social and economic development. As a new paradigm in the power grid, smart grid undoubtedly represents the mainstream trend of future electric industry. As a result, it also brings some new technical challenges to researchers and engineering practioners. To support researchers and engineering practioners constructing a modern and intelligent grid, research in the field of smart grid has proliferated. In this paper, we look deeper into some key issues of smart grid, such as distributed cooperation and control, data and application integration, and knowledgebased comprehensive decision. Still, we give some solutions to resolve these challenges. In addition, we also introduce the concept of smart grid and define its key characteristics. Finally, we outline future directions of research and conclude the paper. © 2011 ACADEMY PUBLISHER.
+KW  - Agent
+KW  - Automation
+KW  - BPEL
+KW  - Data mining
+KW  - Data warehouse
+KW  - Digitalization
+KW  - Distributed cooperation and control
+KW  - EAI
+KW  - Informationization
+KW  - Interaction
+KW  - Knowledge-based comprehensive decision
+KW  - Message bus
+KW  - Middleware
+KW  - Multi-agent
+KW  - OLAP
+KW  - Smart grid
+KW  - SOA
+KW  - SOAP
+KW  - SOM
+KW  - Web services
+KW  - WSDL
+KW  - XML
+KW  - BPEL
+KW  - Digitalization
+KW  - Distributed cooperation
+KW  - EAI
+KW  - Informationization
+KW  - Interaction
+KW  - Knowledge-based comprehensive decision
+KW  - Message bus
+KW  - Multi-Agent
+KW  - OLAP
+KW  - Smart grid
+KW  - SOA
+KW  - SOAP
+KW  - SOM
+KW  - WSDL
+KW  - Data mining
+KW  - Data processing
+KW  - Data warehouses
+KW  - Electric industry
+KW  - Engineering research
+KW  - Knowledge based systems
+KW  - Middleware
+KW  - Power generation
+KW  - XML
+KW  - Web services
+N1  - Cited By :11
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Li, Q.; Power System Department, Sichuan Electric Power Test and Research Institute, Chengdu, China; email: li_qi_lin@163.com
+N1  - References: Understanding the Smart Grid, , Research Reports International, RRI00026; 
+(2007) Modern Grid Benefits, , The National Energy Technology Laboratory, Pitt sburgh, PA, USA: NETL; 
+Jin, Z., Rui-Min, Z., Wei-Hong, Y., Felix, W., Construction of Smart Grid at Information Age (2009) Power System Technology, 33 (13), pp. 12-18. , (in Chinese); 
+Yi, T., Pipattanasomporn, M., Sheng-Nan, S., Hao-Ming, L., Rahman, S., Comparative Study on Smart Grid Related R&D in China, the United States and the European Union (2009) Power System Technology, 33 (15), pp. 7-15; 
+Singh, U., Standards Based Intelligent Approach for Smart Grid Integration (2009) Power System Technology, 33 (15), pp. 30-36; 
+Smart Grid: Enabler of the New Energy Economy, , The Electricity Advisory Committee, [EB/OL], 2008-12- 01[2009-04-20]; 
+Shijie, X., Consideration of technology for constructing Chinese smart grid (2009) Automation of Electric Power Systems, 33 (9), pp. 1-4. , (in Chinese); 
+Ping, J., Jian-Bo, G., Bo, Z., Fei, Z., Zhi-Bing, W., Applications of Power Electronic Technologies in Smart Grid (2009) Power System Technology, 33 (15), pp. 1-6. , (in, Chinese); 
+Kang, C., Feng, X., Wei, D.Y., Review on the Basic Characteristics and its Technical Progress of Smart Grid in China (2009) Automation of Electric Power Systems, 33 (17), pp. 10-15. , (in Chinese); 
+Wooldridge, M., Jenings, N.R., Intelligent agents: Theory and practice (1995) The Knowledge Engineering Review, 10 (2), pp. 115-152; 
+Jennings, N.R., Sycara, K., Wooldridge, M., A roadmap of agent research and development (1998) Int Journal of Autonomous Agents and Multi-Agent Systems, 1 (1), pp. 275-306; 
+Nwana, H., Software agent: An overview (1996) Knowledge Engineering Review, 11 (3), pp. 205-244; 
+Capra, L., Emmerich, W., Mascolo, C., Middleware for Mobile Computing (2001), UCL Research Note, RN/30/01, Submitted for publication, JulyLi, Q., Zhou, M., (2010) The State of the Art in Middleware, , International Forum on Information, Technology and Applications(IFITA 2010) Kunmin, China, Accepted for publication, July; 
+Issarny, V., Caporuscio, M., Georgantas, N., A Perspective On the Future of Middleware-based Software Engineering (2007) Future of Software Engineering, , 2007, L. Briand and A. Wolf edition, IEEE-CS Press; 
+Papazoglou, M., Georgakopoulos, D., Special section: Service-oriented computing (2003) Commun. ACM, 46 (10); 
+Papazoglou, M.P., Georgakapoulos, G., Service- Oriented Computing (2003) CACM, 46 (10). , October; 
+Weerawarana, S., Curbera, F., Leymann, F., Storey, T., Ferguson, D.F., (2005) Web Services Platform Architecture, , Prentice, Hall; 
+Karastoyanova, D., Buchmann, A., Components, Middleware and Web Services (2003) Proc. IADIS International, Conference WWW/Internet 2003 (ICWI2003), , Algarve, Portugal; 
+Blair, G.S., Coulson, G., Robin, P., Papathomas, M., An Architecture for Next Generation Middleware (1998) Proceedings of the IFIP International Conference on Distributed Systems Platforms and Open Distributed Processing (Middleware'98), pp. 191-206. , The Lake District, UK, 15-18 September; 
+Wen-Liang, Z., Zhuang-Zh, L., Ming-Jun, W., Xu-Sheng, Y., Research Status and Development Trend of Smart Grid (2009) Power System Technology, 33 (13), pp. 1-11. , (in Chinese)
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-79251588399&partnerID=40&md5=d036d31b07cefe3fc0706fc72eee2933
+ER  - 
+
+TY  - JOUR
+TI  - Potential of Webservices to enable smart business networks
+T2  - Journal of Information Technology
+J2  - J. Inf. Technol.
+VL  - 19
+IS  - 4
+SP  - 281
+EP  - 287
+PY  - 2004
+DO  - 10.1057/palgrave.jit.2000027
+SN  - 02683962 (ISSN) 
+AU  - Van Hillegersberg, J.
+AU  - Boeke, R.
+AU  - Van Heuvel, W.-J.D.
+AD  - Bedrijfskunde, Rotterdam School of Management, Erasmus University, Rotterdam, Netherlands
+AD  - Sitechno, Netherlands
+AD  - InfoLab., Tilburg University, Netherlands
+AD  - Bedrijfskunde, Rotterdam School of Management, Erasmus University, F1-27, PO Box 1738, 3000 DR Rotterdam, Netherlands
+AB  - Webservices (WSs) are believed to be among the key technologies to enable the transformation of current static supply chains into dynamic virtual networks of enterprises. Others have said that these technologies are not yet ready for large-scale applications to supply chains and propose 'traditional' cross-enterprise integration methods. However, there is currently little research available that objectively evaluates the usefulness of WSs to enable smart business networks. In this study, this question is addressed through developing a typical scenario in which we transform a static supply chain into a 'loosely coupled' business network. We implement the scenario using state-of-the-art 'enterprise application integration' and WSs orchestration technology. The comparison of these alternative approaches reveals that WSs technology has some clear advantages above enterprise integration technology currently in use. However, there are also some limitations and research issues which are presented as a future research agenda for WSs technology.
+KW  - Orchestration
+KW  - Smart business networks
+KW  - Supply chain management
+KW  - Webservices
+KW  - Electronic commerce
+KW  - Evaluation
+KW  - Information technology
+KW  - Intelligent agents
+KW  - Interoperability
+KW  - Network protocols
+KW  - XML
+KW  - Orchestration
+KW  - Smart business networks
+KW  - Supply chain management (SCM)
+KW  - Webservices
+KW  - World Wide Web
+N1  - Cited By :7
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Van Hillegersberg, J.; Bedrijfskunde, Rotterdam School of Management, Erasmus University, F1-27, PO Box 1738, 3000 DR Rotterdam, Netherlands; email: jhillegersberg@fbk.eur.nl
+N1  - References: (2003) BEA Systems, IBM. Microsoft, SAP AG, Siebel Systems, Specification: Business Process Execution Language for Web Services Version 1.1, , http://www-106.ibm.com/developerworks/library/ws-bpel/, [WWW document], (accessed July 2004); 
+Burbeck, S., (2000) The Evolution of Web Applications into Service-oriented Components with Webservices, , http://www-106.ibm.com/developerworks/WSs/library/ws-tao, [WWW document] (accessed July 2004); 
+Curbera, F., Khalaf, R., Mukhi, N., Tal, S., Weerawarana, S., The next step in webservices (2003) Communications of the ACM 2003, 46 (10), pp. 29-34; 
+(2001) EbXML Business Process Specification Schema, Version 1.01, , http://www.ebxml.org/specs/ebBPSS.pdf, [WWW document] (accessed July 2004); 
+(2003) UDDI V 3.0.1, , http://uddi.org/pubs/uddi-v3.0.1-20031014.htm, [WWW document] (accessed July 2004); 
+Papazoglou, M.P., Georgakopoulos, D., Service oriented computing: Introduction M (2003) Communications of the ACM, 46 (10), pp. 24-28; 
+Peltz, C., Webservices orchestration and choreography (2003) IEEE Computer, 36 (10), pp. 46-52; 
+(2000) Simple Object Access Protocol (SOAP) 1.1, , http://www.w3.org/TR/2000/NOTE-SOAP-20000508/, W3C note 08 May 2000, [WWW document] (accessed July 2004); 
+WSs description language (WSDL) 11 (2001) W3C Technical Report, , http://www.w3.org/TR/wsdl, March 2001, [WWW document]; 
+(2004) Supply Chain Management Use Cases, , http://www.ws-i.org/, [WWW document](accessed July 2004)
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-11044231548&partnerID=40&md5=614bc679a35cfc0d33c64b3cc1947440
+ER  - 
+
+TY  - JOUR
+TI  - Integrating information and knowledge with software agents
+T2  - Fujitsu Scientific and Technical Journal
+J2  - Fujitsu Sci Tech J
+VL  - 36
+IS  - 2
+SP  - 162
+EP  - 174
+PY  - 2000
+SN  - 00162523 (ISSN) 
+AU  - Kitajima, H.
+AU  - Masuoka, R.
+AU  - Maruyama, F.
+AB  - This paper describes research and development activities for integrating distributed information and knowledge with software agent technology. First, we give an overview of our software agent architecture. Then, we describe the application of our software agent technology in a system that integrates distributed databases and in a document-oriented information integration system which integrates search engines. Our agent-based approach is suitable for dynamic information sources.
+KW  - Computer architecture
+KW  - Distributed database systems
+KW  - Information management
+KW  - Information technology
+KW  - Knowledge engineering
+KW  - Search engines
+KW  - Distributed information
+KW  - Enterprise application integration
+KW  - Enterprise information portals
+KW  - Knowledge management
+KW  - Smart agent environment
+KW  - Supply chain management
+KW  - Software agents
+PB  - Fujitsu Ltd
+CY  - Kawasaki, Japan
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: FUSTA
+LA  - English
+N1  - Correspondence Address: Kitajima, Hironobu; Fujitsu Lab Ltd, Kawasaki, Japan
+N1  - References: Weiss, G., (1999) Multiagent Systems - A Modern Approach to Distributed Artificial Intelligence, , The MIT Press: Cambridge, MA; 
+Masuoka, R., Sugasaka, T., Sato, A., Kitajima, H., Maruyama, F., SAGE and Its Application to Inter-company EC (1998) Proceedings of PAAM98, pp. 123-135; 
+Sugasaka, T., Tanaka, K., Masuoka, R., Sato, A., Kitajima, H., Maruyama, F., A conversational agent system and its application to electronic commerce (2000) Proceedings of the Fourth & Fifth World Conference on Integrated Design and Process Technology, , IDPT 2000, June; 
+INTERSTAGE AGENTPRO Datasheet, , http://www.interstage.com.images/AgentProDataSheet.pdf; 
+Dynamic Advertising - the Key to Intelligent Data Retrieval, , http://www.interstage.com/images/AGENTPRO%20Whitepaper1.pdf; 
+Specification of the KQML Agent Communication Language, 1994/2/9, , http://logic.stanford.edu/papers/kqml.ps; 
+Knowledge Interchange Format (KIF), NCITS. T2/98-004, , http://logic.stanford.edu/kif/dpans.html; 
+http://www.fipa.org/INTERSTAGE, , http://www.interstage.com/; 
+Kitajima, H., Kawamura, A., Yoshino, T., Maruyama, F., SAGE: Anthony (2000) Computer Software, 17 (1), pp. 32-44; 
+Cutkosky, M.R., PACT: An Experiment in Integrating Concurrent Engineering Systems (1993) IEEE Computer, pp. 28-38. , January; 
+Domino Extended Search, , http://www.lotus.com/home.nsf/welcome/domsearch; 
+Arens, Y., Chee, Y., Chin, H., Chun-Nan, Knoblock, Craig, A., Retrieving and Integrating Data from Multiple Information Sources (1993) International Journal of Intelligent and Cooperative Information Systems, 2 (2), pp. 127-158; 
+Garcia-Molina, H., Hammer, J., Ireland, K., Papakonstantinou, Y., Ullman, J., Widom, J., Integrating and Accessing Heterogeneous Information Sources in TSIMMIS (1995) Proceedings of the AAAI Symposium on Information Gathering, pp. 61-64. , Stanford, California, March; 
+Levy, A.Y., Rajaraman, A., Ordille, J.J., Querying Heterogeneous Information Sources Using Source Descriptions (1996) Proceedings of the 22nd International Conference on Very Large Databases, , VLDB-96, Bombay, India, September; 
+FIPA-related Software Developed by Members and Non-members, , http://www.fipa.org/fipa9706.pdf; 
+JADE (Java Agent DEvelopment Framework), , http://sharon.cselt.it/projects/jade/
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0034458937&partnerID=40&md5=df8c39cf2e32e253fed71e7b596043b9
+ER  - 
+

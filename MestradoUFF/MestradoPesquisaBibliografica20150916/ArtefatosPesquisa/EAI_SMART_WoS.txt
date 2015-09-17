@@ -1,0 +1,45 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU van Hillegersberg, J
+   Boeke, R
+   van den Heuvel, WJ
+TI Potential of webservices to enable smart business networks
+SO JOURNAL OF INFORMATION TECHNOLOGY
+VL 19
+IS 4
+BP 281
+EP 287
+DI 10.1057/palgrave.jit.2000027
+PD DEC 2004
+PY 2004
+AB Webservices (WSs) are believed to be among the key technologies to
+   enable the transformation of current static supply chains into dynamic
+   virtual networks of enterprises. Others have said that these
+   technologies are not yet ready for large-scale applications to supply
+   chains and propose 'traditional' cross-enterprise integration methods.
+   However, there is currently little research available that objectively
+   evaluates the usefulness of WSs to enable smart business networks. In
+   this study, this question is addressed through developing a typical
+   scenario in which we transform a static supply chain into a 'loosely
+   coupled' business network. We implement the scenario using
+   state-of-the-art ` enterprise application integration' and WSs
+   orchestration technology. The comparison of these alternative approaches
+   reveals that WSs technology has some clear advantages above enterprise
+   integration technology currently in use. However, there are also some
+   limitations and research issues which are presented as a future research
+   agenda for WSs technology.
+CT Seminar on Smart Business Networks
+CY MAY 26-28, 2004
+CL Putten, NETHERLANDS
+RI van Hillegersberg, Jos/B-8201-2011
+TC 3
+ZB 0
+Z8 0
+ZS 0
+Z9 3
+SN 0268-3962
+UT WOS:000225706300008
+ER
+
+EF

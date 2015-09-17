@@ -1,0 +1,42 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Kumari, S.
+   Behera, M. D.
+   Tewari, H. R.
+TI Identification of potential ecotourism sites in West District, Sikkim
+   using geospatial tools
+SO TROPICAL ECOLOGY
+VL 51
+IS 1
+BP 75
+EP 85
+PD SUM 2010
+PY 2010
+AB We integrated five indicator indices viz., wildlife. distribution index
+   (WDI), ecological value index (EVI), ecotourism attractivity index
+   (EAI), environmental resiliency index (ERI), ecotourism diversity index
+   (EDI) to identify and prioritize the potential ecotourism sites in West
+   District of Sikkim state in India. The primary variables used for
+   generating various indices were landform, elevation, land use/forest
+   cover, vegetation diversity, density and endemism, wildlife (mainly
+   birds and butterflies), tourism attraction features and the
+   infrastructure facilities. Data and information from remote sensing and
+   other sources were used. The analytical hierarchical process and
+   geographic information system were effectively used for identification
+   of the potential ecotourism sites (PES).
+CT Session on Remote Sensing of Tropical Ecosystems held at the Tropical
+   Ecology Gongress
+CY DEC 02-05, 2007
+CL Dehradun, INDIA
+SP Indian Space Res Org; Int Soc Trop Ecol; HNB Garhwal Univ
+TC 10
+ZB 3
+Z8 1
+ZS 1
+Z9 12
+SN 0564-3295
+UT WOS:000273290100009
+ER
+
+EF

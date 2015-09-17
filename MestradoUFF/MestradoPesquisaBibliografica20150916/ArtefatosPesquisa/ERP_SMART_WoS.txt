@@ -1,0 +1,720 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Ahmad, Naim
+   Mehmood, Rashid
+TI Enterprise systems: are we ready for future sustainable cities
+SO SUPPLY CHAIN MANAGEMENT-AN INTERNATIONAL JOURNAL
+VL 20
+IS 3
+SI SI
+BP 264
+EP 283
+DI 10.1108/SCM-11-2014-0370
+PD 2015
+PY 2015
+AB Purpose - This paper aims to revisit the adoption reasons of enterprise
+   systems (ES) and supply chain management systems (SCMS) and to explore
+   the new dimensions of sustainability required to be added in the whole
+   process of adoption of these systems. Moreover, it aims to explore the
+   benefits of ES to organizations and to relate these benefits to the ES
+   adoption in future sustainable city settings. Future cities will have
+   micro-industries requiring dynamic interactions and will be dependent on
+   efficient supply chains. The recent developments in information and
+   communications technology (ICT) such as cloud computing through its
+   dynamic, on-demand and service-based delivery are making it possible to
+   achieve those goals for supply chains. The ES in general and more
+   specifically SCMS have integrated organizations into one seamless mesh.
+   Design/methodology/approach - This paper presents a framework for
+   adoption of sustainable ES in a smart city setting. The framework,
+   firstly, is presented at a macro-level, particularly incorporating the
+   relative significance of motivational factors for sustainable ES
+   adoption. Subsequently, The authors study the benefits of ES as
+   perceived by large and small and medium enterprise (SME) organizations
+   using 100 case studies and discuss how these benefits can be realized
+   for smart cities by projecting the ES benefits onto the proposed
+   framework. The benefits are estimated with the Shang and Seddon's (2002)
+   framework.
+   Findings - The adoption of ES initiated with environmental factors and
+   mediated with business and technical factors will bring benefits in all
+   the dimensions of triple bottom line in addition to the firm's
+   performance. ES will have pivotal role in future smart city settings and
+   will be able to offer social, environmental and economic sustainability
+   in addition to traditional organizational performance indicators.
+   Originality/value - The proposed framework for ES adoption will bring ES
+   packages (particularly, the required relative significance of adoption
+   reasons) into the perspective of sustainable development. Moreover, the
+   study of its benefits in relation to the proposed sustainable ES
+   adoption framework presented in this paper will help in motivating
+   organizations to incorporate social, economic and environmental
+   sustainability into their core business objectives.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1359-8546
+EI 1758-6852
+UT WOS:000355987500003
+ER
+
+PT J
+AU Abbasi, R.
+   Othman, M. Abou Bakr
+   Allen, C.
+   Beard, L.
+   Belz, J.
+   Besson, D.
+   Byrne, M.
+   Farhang-Boroujeny, B.
+   Gardner, A.
+   Gillman, W. H.
+   Hanlon, W.
+   Hanson, J.
+   Jayanthmurthy, C.
+   Kunwar, S.
+   Larson, S. L.
+   Myers, I.
+   Prohira, S.
+   Ratzlaff, K.
+   Sokolsky, P.
+   Takai, H.
+   Thomson, G. B.
+   Von Maluski, D.
+TI Telescope Array Radar (TARA) observatory for Ultra-High Energy Cosmic
+   Rays
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+VL 767
+BP 322
+EP 338
+DI 10.1010/j.nima.2014.08.015
+PD DEC 11 2014
+PY 2014
+AB Construction was completed during summer 2013 on the Telescope Array
+   RAdar (TARA) bi-static radar observatory for Ultra-High Energy Cosmic
+   Rays (UHECR). TARA is co-located with the Telescope Array, the largest
+   "conventional" cosmic ray detector in the Northern Hemisphere, in
+   radio-quiet Western Utah. TARA employs an 8 MW Effective Radiated Power
+   (ERP) VHF transmitter and smart receiver system based on a 250 MS/s data
+   acquisition system in an effort to detect the scatter of sounding
+   radiation by UHECR-induced atmospheric ionization. TARA seeks to
+   demonstrate bi-static radar as a useful new remote sensing technique for
+   UHECRs. In this report, we describe the design and performance of the
+   TARA transmitter and receiver systems. (C) 2014 Elsevier B.V. All rights
+   reserved.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 0168-9002
+EI 1872-9576
+UT WOS:000344994600043
+ER
+
+PT J
+AU Jordan, Nino David
+   Lemken, Thomas
+   Liedtke, Christa
+TI Barriers to Resource Efficiency Innovations and Opportunities for Smart
+   Regulations - the Case of Germany
+SO ENVIRONMENTAL POLICY AND GOVERNANCE
+VL 24
+IS 5
+BP 307
+EP 323
+DI 10.1002/eet.1632
+PD SEP-OCT 2014
+PY 2014
+AB There are a variety of economic and ecological benefits to increased
+   resource efficiency. Social, institutional and technical innovations can
+   all contribute towards efficiency increases. Companies face different
+   hurdles in fostering such innovation. Small and medium-sized companies
+   are subject to specific constraints that may prevent them from
+   benefiting from innovation-induced resource efficiency improvements.
+   Qualitative interviews were conducted among German small and
+   medium-sized enterprises (SMEs) and intermediaries to identify barriers
+   for resource efficiency innovations and to elaborate a policy mix at the
+   federal level that could help SMEs to overcome these. We found five
+   major barriers to resource efficiency innovations in German SMEs,
+   comprising deficits in innovation culture, inter-firm cooperation along
+   the value chain, finance, awareness and take-up of government funds. We
+   propose a distinct policy mix as a response to this situation. The
+   policy mix comprises the interlocking and synergistic elements of
+   government funding schemes, innovation agents and innovation
+   laboratories. Copyright (c) 2014 John Wiley & Sons, Ltd and ERP
+   Environment.
+RI Jordan, Nino David/
+OI Jordan, Nino David/0000-0002-1430-2785
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1756-932X
+EI 1756-9338
+UT WOS:000344336800001
+ER
+
+PT J
+AU Motes, Michael A.
+   Gamino, Jacquelyn F.
+   Chapman, Sandra B.
+   Rao, Neena K.
+   Maguire, Mandy J.
+   Brier, Matthew R.
+   Kraut, Michael A.
+   Hart, John, Jr.
+TI Inhibitory control gains from higher-order cognitive strategy training
+SO BRAIN AND COGNITION
+VL 84
+IS 1
+BP 44
+EP 62
+DI 10.1016/j.bandc.2013.10.007
+PD FEB 2014
+PY 2014
+AB The present study examined the transfer of higher-order cognitive
+   strategy training to inhibitory control. Middle school students enrolled
+   in a comprehension- and reasoning-focused cognitive strategy training
+   program and passive controls participated. The training program taught
+   students a set of steps for inferring essential gist or themes from
+   materials. Both before and after training or a comparable duration in
+   the case of the passive controls, participants completed a semantically
+   cued Go/No-Go task that was designed to assess the effects of depth of
+   semantic processing on response inhibition and components of
+   event-related potentials (ERP) related to response inhibition. Depth of
+   semantic processing was manipulated by varying the level of semantic
+   categorization required for response selection and inhibition. The
+   SMART-trained group showed inhibitory control gains and changes in
+   fronto-central P3 ERP amplitudes on inhibition trials; whereas, the
+   control group did not. The results provide evidence of the transfer of
+   higher-order cognitive strategy training to inhibitory control and
+   modulation of ERPs associated with semantically cued inhibitory control.
+   The findings are discussed in terms of implications for cognitive
+   strategy training, models of cognitive abilities, and education.
+   Published by Elsevier Inc.
+TC 2
+ZB 1
+Z8 0
+ZS 0
+Z9 2
+SN 0278-2626
+EI 1090-2147
+UT WOS:000330089000005
+PM 24286804
+ER
+
+PT J
+AU 조현준
+   박진수
+   이동기
+   Kim, Dong Hyun
+TI Diligence/Indolence Management Scheme Using WiFi Access Points
+Z1 와이파이 무선접근점을 이용한 근태관리 기법
+SO Journal of the Korea Institute Of Information and Communication
+   Engineering
+S1 한국정보통신학회논문지
+VL 18
+IS 6
+BP 1395
+EP 1400
+DI 10.6109/jkiice.2014.18.6.1395
+PD 2014
+PY 2014
+AB Diligence/Indolence records are the key data for a human resource
+   management and the basic data to measure thesalaries of the employees.
+   However, existing mechanical or electro-magnetic diligence/indolence
+   managementsystems have the problems that the systems are often incorrect
+   or require much cost to build them. In this paper, wedesign and
+   implement the diligence/indolence management system using a smart device
+   of an employee. To measurethe data of the diligence/indolence, the
+   implemented system acquires the location data of the employee using the
+   MACaddresses of both a smart device and access points of the WiFi and
+   transfers the data of punching-in/out based on theacquired location to a
+   server. The benefit of the proposed system is that it is easy for small
+   business to use the proposedD/I management system with low cost because
+   the system exploits smart devices and WiFi access points
+   installedpreviously.
+AK 근태관리 기록은 인사관리의 핵심적인 데이터로서 피고용인의 임금을 계산하기 위한 기초 데이터이다. 그러나 기존의 기계식 또는 전자식
+   근태관리 시스템은 부정확하고 초기 도입 비용이 매우 크다는 단점이 있다. 이 논문에서는피고용인의 스마트기기를 이용한 근태관리
+   시스템을 설계하고 구현한다. 피고용인의 근태 자료를 기록하기 위하여스마트기기의 맥 주소와 와이파이 무선접근점의 맥 주소를 이용하여
+   피고용인의 위치 정보를 획득하고 획득된 위치정보를 이용하여 피고용인의 출/퇴근 자료를 서버에 전송한다. 기존의 소유하고 있는
+   스마트기기와 와이파이 무선접근점을 사용하기 때문에 초기도입 비용이 낮아서 소규모업자들도 쉽게 자동화된 근태관리 시스템을 사용할 수
+   있는 장점이 있다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2234-4772
+UT KJD:ART001887225
+ER
+
+PT J
+AU 윤경배
+   박종열
+   박대우
+TI Study of Mobile App GUI Interface for SAP
+Z1 SAP에 대한 모바일앱 GUI 인터페이스 연구
+SO Journal of Digital Convergence
+S1 디지털융복합연구
+VL 11
+IS 9
+BP 201
+EP 207
+PD 2013
+PY 2013
+AB Recently, the interest in a Mobile Office is increasing dramatically and
+   the Smart Phone App Service begin in earnest to be requested in an area
+   of applying SAP system to PC. This study aims to research the system
+   which can be easily implemented with the configuration and Mobile App
+   which cause difficulties in embodying SAP system-based Apps suitable for
+   a mobile environment. First, by realizing SAP system interface that can
+   operate in mobile devices in the form of GUI, assisting the connecting
+   parts of SAP for the users-friendly set-up, providing the communication
+   method of Client, Application, and SAP Service in the form of web
+   service through TCP/IP, and finally showing cases of implementing the
+   method of delivering the data request and result value of Server and
+   Client in the form of XML suggest more effective and new method, the
+   research suggests a new way of making the linkage of SAP more efficient.
+AK 최근 모바일오피스에 대한 관심이 급증하고 있으며 PC에 SAP 시스템을 적용한 곳에서는 스마트폰 앱 서비스에 대한 사항이 본격화
+   되고 있다. 본 연구에서는 SAP 시스템을 모바일 환경에 맞는 앱을 구현함에 있어 어려움이 발생하고 있는 환경설정과 모바일 앱으로
+   쉽게 구현할 수 있는 시스템을 연구한다. 모바일 기기에서 구동이 가능한 SAP 시스템의 인터페이스를 GUI 형태로 구현하여
+   SAP의 연동 부분을 사용자가 쉽게 설정할 수 있게 지원하며, Client Application과 SAP Service의 통신
+   방법은 TCP/IP를 통하여 웹 서비스의 형태로 제공하며 Server와 Client의 데이터 요청 및 결과 값은 XML형태로
+   전달하는 방법을 직접 구현 한 사례를 보여줌으로써 SAP의 연동을 보다 효율적으로 할 수 있는 새로운 방법을 구현한다.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1738-1916
+UT KJD:ART001808325
+ER
+
+PT J
+AU Wang, Xiwei
+   Dang, Qi
+   Guo, Jinglin
+   Ge, Hongbin
+TI RFID Application of Smart Grid for Asset Management
+SO INTERNATIONAL JOURNAL OF ANTENNAS AND PROPAGATION
+AR 264671
+DI 10.1155/2013/264671
+PD 2013
+PY 2013
+AB RFID technology research has resolved practical application issues of
+   the power industry such as assets management, working environment
+   control, and vehicle networking. Also it provides technical reserves for
+   the convergence of ERP and CPS. With the development of RFID and
+   location-based services technology, RFID is converging with a variety of
+   sensing, communication, and information technologies. Indoor positioning
+   applications are under rapid development. Micromanagement environment of
+   the assets is a useful practice for the RFID and positioning. In this
+   paper, the model for RFID applications has been analyzed in the
+   microenvironment management of the data center and electric vehicle
+   batteries, and the optimization scheme of enterprise asset management is
+   also proposed.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1687-5869
+EI 1687-5877
+UT WOS:000327275100001
+ER
+
+PT J
+AU Amin, Mohammed A.
+   El-Bagoury, Nader
+   Omar, Adel A.
+   Megahed, Adel S.
+TI Influence of Rhenium as an Alloying Element on the Pitting Corrosion
+   Behaviour of Cast TiNiRe Shape Memory Alloys - I
+SO INTERNATIONAL JOURNAL OF ELECTROCHEMICAL SCIENCE
+VL 7
+IS 3
+BP 2643
+EP 2653
+PD MAR 2012
+PY 2012
+AB In recent years, there has been growing interest in the use of TiNi
+   shape memory alloys (SMAs) as functional/smart materials for a variety
+   of applications. In this study, (Ti51Ni49-xRex) shape memory alloy has
+   been modified by adding various amounts of rhenium (Re) (x = 0, 0.1 and
+   0.3 %) at the expense of Ni. As a first step towards studying the effect
+   of Re (as an alloying element) on the microstructure, phase
+   transformation, mechanical properties and uniform and pitting corrosion
+   processes of the three tested (Ti51Ni49-xRex) shape memory alloys, we
+   have reported the results of cyclic polarization measurements on
+   passivity breakdown and initiation and propagation of pits on the
+   surfaces of the three tested alloys in aerated neutral 0.05 M KBr
+   solution. The potentiodynamic anodic polarization curves of the three
+   tested alloys exhibited no active dissolution region due to spontaneous
+   passivation. The passive region is followed by pitting corrosion as a
+   result of breakdown of the passive film induced by Br- anions. Cyclic
+   polarization measurements allow the pitting potential (E-pit) and the
+   repassivation potential ((Erp)) to be determined. E-pit increased with
+   increase in Re content in the tested samples. Pitting morphology studies
+   showed that the severity of pitting attack suppressed upon alloying
+   Ti51Ni49 shape memory alloy with Re. These findings demonstrated that
+   the presence of Re enhanced the pitting corrosion resistance of the
+   tested alloys to an extent depending on the Re content. ICP-AES
+   (inductively coupled plasma atomic emission spectrometry) was also
+   employed as an independent method of chemical analysis to confirm
+   results obtained from cyclic polarizations measurements.
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 1452-3981
+UT WOS:000302730300073
+ER
+
+PT J
+AU 박동균
+   Jung, Eun Young
+   Jeong, Byung Hui
+   Moon, Byung Chan
+   Kang, Hyung Wook
+   차한
+   Han, Gi Seong
+   Cheng, Woo Sung
+   이영호
+TI Smart Information System for Gachon University Gil Hospital
+SO Healthcare Informatics Research
+VL 18
+IS 1
+BP 74
+EP 83
+PD 2012
+PY 2012
+AB Objectives: In this research, the hospital information system of Gachon
+   University Gil hospital is introduced and a future strategy for hospital
+   information systems is proposed. Methods: This research introduces the
+   development conditions of hospital information system at Gachon
+   University Gil hospital, information about the development of the
+   enterprise resource planning (ERP), a medical service process
+   improvement system, and the personal health record (PHR) system.
+   Results: The medical service process and work efficiency were improved
+   through the medical service process improvement system, which is the
+   most common hospital information system at Gachon University Gil
+   hospital and which includes an emergency medical service system, an
+   online evaluation system and a round support system. Conclusions: Gachon
+   University Gil hospital developed medical service improvement systems to
+   increase work efficiency of medical team and optimized the systems to
+   prove the availability of high-quality medical services for patients and
+   their families. The PHR-based personalized health care solution is under
+   development and will provide higher quality medical service for more
+   patients in the future.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2093-3681
+UT KJD:ART001646563
+ER
+
+PT J
+AU Olson, David L.
+   Wu, Desheng Dash
+TI MULTIPLE CRITERIA ANALYSIS FOR EVALUATION OF INFORMATION SYSTEM RISK
+SO ASIA-PACIFIC JOURNAL OF OPERATIONAL RESEARCH
+VL 28
+IS 1
+BP 25
+EP 39
+DI 10.1142/S021759591100303X
+PD FEB 2011
+PY 2011
+AB Information technology (IT) involve a wide set of risks. Enterprise
+   information systems are a major developing form of information
+   technology involving their own set of risks, thus creating potential
+   blind spots. This paper describes risk management issues involved in
+   enterprise resource planning systems (ERP) which have high impact on
+   organizations due to their high cost, and their pervasive impact on
+   organizational operations. Alternative means of acquiring ERP systems,
+   to include outsourcing to application service providers (ASPs) are
+   available. But outsourcing ERP involves many risks that are often
+   overlooked. After identification of typical risks involved with
+   representative alternative forms of ERP, multiple criteria analysis is
+   proposed as a useful tool for tradeoff analysis in this selection
+   decision. SMART is compared with popular approaches such as DEA and
+   PCA-based DEA. A demonstration of how multiple criteria analysis can be
+   applied in the international ERP alternative selection decision is given
+   by including outsourcing to China and South Korea.
+RI Wu, Desheng/I-6230-2012
+OI Wu, Desheng/0000-0001-6201-9047
+TC 2
+ZB 0
+Z8 0
+ZS 0
+Z9 2
+SN 0217-5959
+UT WOS:000287666600003
+ER
+
+PT J
+AU Gruninger, Michael
+   Shapiro, Steven
+   Fox, Mark S.
+   Weppner, Harald
+TI Combining RFID with ontologies to create smart objects
+SO INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH
+VL 48
+IS 9
+BP 2633
+EP 2654
+DI 10.1080/00207540903564975
+PD 2010
+PY 2010
+AB Radio frequency identification (RFID) technology has long been known for
+   its ability to uniquely identify objects. Recent years have witnessed a
+   significant increase in storage capacity on the tag, which is giving
+   rise to a new set of application scenarios. As the tag itself can carry
+   relevant context information, processes can be managed locally rather
+   than relying on a centralised system infrastructure. This in turn
+   results in a massive interoperability challenge. We propose to solve
+   this problem by combining RFID technology with ontologies to create
+   smart objects in the context of manufacturing process control. The idea
+   is to store information originating from an SAP ERP system using the PSL
+   Ontology (ISO 18629) for representing processes and time directly on the
+   RFID tags. As an item flows through a manufacturing process, information
+   about the item can be stored on its tag. This information, along with
+   the PSL axioms, can be used to make inferences about the manufacturing
+   process and the item in particular. In this paper, we discuss our
+   formalisation of an ontology for the SAP data model and show an example
+   of translating data from an SAP ERP system into PSL axioms, and
+   answering queries about a manufacturing process.
+RI Shapiro, Steven/G-1735-2011
+TC 4
+ZB 0
+Z8 0
+ZS 0
+Z9 4
+SN 0020-7543
+UT WOS:000276470400008
+ER
+
+PT J
+AU 박정훈
+   임정아
+   Kwon, Soon-Wook
+TI A Study on the FrameWork Construction of Mobile ERP System  based on
+   Smart-Phone
+Z1 스마트폰 기반의 모바일 ERP 시스템 프레임워크 구축에 관한 연구
+SO Journal of the Architectural Institute of Korea Structure & Construction
+S1 대한건축학회논문집 구조계
+VL 26
+IS 10
+BP 123
+EP 130
+PD 2010
+PY 2010
+AB The purpose of this study is to overcome the problem of ERP system. So
+   we analysed ERP introduction and applications both internal and
+   external. And it suggests solution of application on new technology,
+   through process of drawing construction direction. In this study it is
+   defined mobile ERP system and methodology for application of the system
+   in construction process. And it analysed ERP introduction and
+   applications both internal and external. As a result, it the
+   introduction of system, it is found out the needs for mobile
+   technology-based ERP system which can solve the current operational
+   problems. In particular,mobile office with technology-based ERP system
+   is also important. In this research, the result shows the potential of
+   the framework which can overcome the current problems of ERP system and
+   suggest potential solution of mobile technology.
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1226-9107
+UT KJD:ART001491433
+ER
+
+PT J
+AU Larsen, Christoph H.
+TI The fragile environments of inexpensive CD4+T-cell enumeration in the
+   least developed countries: Strategies for accessible support
+SO CYTOMETRY PART B-CLINICAL CYTOMETRY
+VL 74B
+BP S107
+EP S116
+DI 10.1002/cyto.b.20386
+SU 1
+PD 2008
+PY 2008
+AB With the advent of affordable antiretroviral treatment (ART), flow
+   cytometry has ventured out of the exclusive realms of First World
+   research to the resource-strapped clinical environment of developing
+   countries (DCs). Flow cytometric instrumentation for ART has become more
+   cost-efficient, thanks to simplified, yet accurate protocols and smart
+   technologies. These positive developments have, however, not taken shape
+   without problems, as health care in DCs remains weak due to chronic
+   underfunding of their primary health systems. In addition, the
+   multiplicity of donors has created parallel infrastructures that are
+   difficult to manage and may undermine the responsibilities of public
+   services. Hence, there is a prevailing lack of attention to maintenance,
+   support, and human resource development. Not uncommonly, the procurement
+   of high-value equipment is guided by nontechnical interests with mixed
+   results. As conventional service contracts are unpopular, the
+   sustainability of equipment is under serious threat after warranty
+   periods, with environmental factors such as dust and unreliable power
+   supplies being well-known culprits. Reagent supplies and servicing
+   constitute further challenges, where a combination of short reagent
+   shelf life, cold-box shipping, huge distances across poor
+   infrastructures, rigid accounting procedures, and erratic customs
+   requirements cause significant delays and extra costs. Although
+   excellent, highly trained or trainable local staff is available, it is
+   frequently diverted by brain drain from the government sector to
+   privately funded hospitals, research facilities, and overseas postings.
+   Despite these challenges, corporate service management has commonly
+   remained loyal to its roots in the developed world. A number of
+   propositions address the current situation: "Reagent-rental" agreements
+   represent an attractive alternative to service contracts, while smart
+   instrument design has started to make inroads into more robust device
+   concepts. To avoid logistical bottlenecks, reagents call for
+   lyophilization and increased heat stability. Newly designed remote
+   diagnostic tools are expected to save costs on service visits.
+   Furthermore, web-based customer-relationship management and enterprise
+   resource planning software is expected to ease the existing complex
+   communication- and logistics issues. In addition, a public-private
+   partnership is proposed that involves government, manufacturers, and
+   local distributors with field application specialists. The latter
+   operate crossbrand as independent subcontractors to manufacturers under
+   a nationally endorsed cost-capping and quality assurance agreement to
+   service all cytometric devices common in the region. These locally run
+   networks may serve as "templates" for improved laboratory services in
+   general, in collaboration with CD4 counting, haematology and infectious
+   disease diagnostics. (C) 2008 Clinical Cytometry Society.
+RI Bollas, Helena Maria/I-1567-2012
+TC 9
+ZB 6
+Z8 0
+ZS 0
+Z9 9
+SN 1552-4949
+EI 1552-4957
+UT WOS:000254725100014
+PM 18228565
+ER
+
+PT J
+AU Olson, David L.
+TI Evaluation of ERP outsourcing
+SO COMPUTERS & OPERATIONS RESEARCH
+VL 34
+IS 12
+BP 3715
+EP 3724
+DI 10.1016/j.cor.2006.01.010
+PD DEC 2007
+PY 2007
+AB Outsourcing has evolved as a viable means to attain cost savings in
+   organizational information technology. This option, however, involves
+   significant risks. This paper discusses why formal cost evaluation
+   models are difficult to apply in this decision, and demonstrates how
+   multi-criteria methods can be used to support this critical decision.
+   (c) 2006 Elsevier Ltd. All rights reserved.
+TC 31
+ZB 0
+Z8 1
+ZS 0
+Z9 32
+SN 0305-0548
+UT WOS:000247025400016
+ER
+
+PT J
+AU Liu, BH
+   Hu, JL
+TI The application of temperature-sensitive hydrogels to textiles: A review
+   of chinese and Japanese investigations
+SO FIBRES & TEXTILES IN EASTERN EUROPE
+VL 13
+IS 6
+BP 45
+EP 49
+PD JAN-DEC 2005
+PY 2005
+AB Scientists have made many attempts to develop smart textiles by grafting
+   the copolymerisation of environment-responsive polymers (ERP) onto the
+   surface of fabrics. Among the ERPs used for this purpose,
+   poly(N-isopropyl acrylamide) (PNIPAAm) has attracted considerable
+   attention due to its well-defined lower critical solution temperature
+   (LCST) in an aqueous medium of temperature about 32-34 degrees C, which
+   is close to body temperature. This article summarises recent advances in
+   the application of PNIPAAm and its copolymer hydrogels to
+   temperature-sensitive hygroscopic fabrics, environment-sensitive
+   deodorant fibres and stimuli-sensitive nutrient delivery fabrics.
+   Another temperature sensitive poly(2-ethoxyethyl vinyl
+   ether)/poly(hydroxyethyl vinyl ether) copolymer (EOVE200-HOVE40) is also
+   briefly introduced, with regard to its application in
+   thermally-controlled Vitamin E release.
+RI Hu, Jinlian /D-7488-2014
+OI Hu, Jinlian /0000-0001-8914-5473
+TC 22
+ZB 3
+Z8 1
+ZS 0
+Z9 23
+SN 1230-3666
+UT WOS:000235978900010
+ER
+
+PT J
+AU Dumond, EJ
+TI Understanding and using the capabilities of finite scheduling
+SO INDUSTRIAL MANAGEMENT & DATA SYSTEMS
+VL 105
+IS 3-4
+BP 506
+EP 526
+DI 10.1108/02635570510592398
+PD 2005
+PY 2005
+AB Purpose - Presents a microcomputer-based finite scheduling approach to
+   effective planning and execution of make-to-order production. Going
+   beyond the traditional application of scheduling algorithms to
+   prioritize jobs through work centers, the finite scheduling approach can
+   be used to establish "smart" promise dates, manage the jobs through the
+   work centers and enable supervisors to meet these due dates in the
+   dynamic MTO environment.
+   Design/methodology/approach - Using data from an operational jobshop and
+   a simulation-based finite scheduling algorithm linked to pre- and
+   post-processing capabilities developed in Access, this research provides
+   specific examples of establishing smart due dates and managing resources
+   to meet those dates. We provide some what-ifs in order to more fully
+   explore the benefits of a finite scheduling system.
+   Findings - Through use of actual jobshop data, the paper demonstrates
+   that finite scheduling can be effectively performed on standard
+   computing equipment. It also provides an understanding of finite
+   scheduling and demonstrates that such a system can be of significant
+   value in a MTO environment
+   Research limitations/implications - Future research could review/compare
+   various ERP packages and their scheduling components to provide guidance
+   on selection and implementation.
+   Practical implications - The paper clearly indicates that managers, even
+   of smaller companies, should be considering the use of finite
+   scheduling.
+   Originality/value - The paper provides a new approach to finite
+   scheduling using a combination of simulation and Microsoft Access on a
+   personal computer. Additionally, it provides a very useful presentation
+   for practitioners who want an understanding of finite scheduling and why
+   they need to implement it.
+TC 5
+ZB 0
+Z8 0
+ZS 1
+Z9 6
+SN 0263-5577
+UT WOS:000230228100015
+ER
+
+EF

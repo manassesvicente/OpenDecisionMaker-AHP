@@ -1,0 +1,44 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Gurbuz, Tuncay
+   Alptekin, S. Emre
+   Alptekin, Gulfem Isiklar
+TI A hybrid MCDM methodology for ERP selection problem with interacting
+   criteria
+SO DECISION SUPPORT SYSTEMS
+VL 54
+IS 1
+BP 206
+EP 214
+DI 10.1016/j.dss.2012.05.006
+PD DEC 2012
+PY 2012
+AB An enterprise resource planning (ERP) system is an information system to
+   plan and integrate all of an enterprise's subsystems including purchase,
+   production, sales and finance. Adopting such a comprehensive framework
+   may result in the great savings in both costs and man hours. This
+   research explores the application of a hybrid multicriteria decision
+   making (MCDM) procedure for the evaluation of various ERP alternatives.
+   The proposed evaluation framework integrates three methodologies:
+   Analytic Network Process (ANP), Choquet integral (Cl) and Measuring
+   Attractiveness by a Categorical Based Evaluation Technique (MACBETH).
+   ANP produces the priorities of alternatives with respect to the
+   interdependent evaluation criteria. The conjunctive or disjunctive
+   behaviors between criteria are determined using MACBETH and Cl.
+   Numerical application of the proposed methodology is implemented on the
+   decision making problem of a firm that faces with four ERP projects. The
+   final ranking is compared to the one obtained by ignoring the
+   interactions among criteria. The results demonstrate that the ignorance
+   of the interactions may lead to erroneous decisions. (C) 2012 Elsevier
+   B.V. All rights reserved.
+TC 5
+ZB 0
+Z8 0
+ZS 0
+Z9 5
+SN 0167-9236
+UT WOS:000313152200019
+ER
+
+EF

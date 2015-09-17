@@ -1,0 +1,2258 @@
+TY  - JOUR
+TI  - Quantitative vulnerability assessment of cyber security for distribution automation systems
+T2  - Energies
+J2  - Energies
+VL  - 8
+IS  - 6
+SP  - 5266
+EP  - 5286
+PY  - 2015
+DO  - 10.3390/en8065266
+SN  - 19961073 (ISSN) 
+AU  - Ye, X.
+AU  - Zhao, J.
+AU  - Zhang, Y.
+AU  - Wen, F.
+AD  - College of Electrical Engineering, Zhejiang University, Hangzhou, China
+AD  - School of Electrical Engineering and Computer Science, the University of Newcastle, Newcastle, NSW, Australia
+AD  - Department of Electrical and Electronic Engineering, Institut Teknologi Brunei, Bandar Seri Begawan, Brunei Darussalam
+AB  - The distribution automation system (DAS) is vulnerable to cyber-attacks due to the widespread use of terminal devices and standard communication protocols. On account of the cost of defense, it is impossible to ensure the security of every device in the DAS. Given this background, a novel quantitative vulnerability assessment model of cyber security for DAS is developed in this paper. In the assessment model, the potential physical consequences of cyber-attacks are analyzed from two levels: terminal device level and control center server level. Then, the attack process is modeled based on game theory and the relationships among different vulnerabilities are analyzed by introducing a vulnerability adjacency matrix. Finally, the application process of the proposed methodology is illustrated through a case study based on bus 2 of the Roy Billinton Test System (RBTS). The results demonstrate the reasonability and effectiveness of the proposed methodology. © 2015 by the authors; licensee MDPI, Basel, Switzerland.
+KW  - Cyber security
+KW  - Distribution automation system
+KW  - Smart grid
+KW  - Vulnerability assessment
+KW  - Automation
+KW  - Channel capacity
+KW  - Computer crime
+KW  - Crime
+KW  - Enterprise resource planning
+KW  - Game theory
+KW  - Mobile security
+KW  - Adjacency matrices
+KW  - Application process
+KW  - Assessment models
+KW  - Cyber security
+KW  - Distribution automation system
+KW  - Smart grid
+KW  - Terminal devices
+KW  - Vulnerability assessments
+KW  - Security of data
+PB  - MDPI AG
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Zhao, J.; College of Electrical Engineering, Zhejiang UniversityChina
+N1  - Funding Details: 51177145, NSFC, National Natural Science Foundation of China
+N1  - Funding Details: 51361130152, NSFC, National Natural Science Foundation of China
+N1  - References: Ilic, M.D., Xie, L., Khan, U.A., Moura, J.M.F., Modeling of future cyber-physical energy systems for distributed sensing and control (2010) IEEE Trans. Syst. Man Cybern. Part A Syst. Humans, 40, pp. 825-838; 
+Ericsson, G., Cyber security and power system communication-Essential parts of a smart grid infrastructure (2010) IEEE Trans. Power Del, 25, pp. 1501-1507; 
+Lim, I.H., Sidhu, T.S., Choi, M.S., Lee, S.J., Hong, S., Lim, S.I., Lee, S.W., Design and implementation of multiagent-based distributed restoration system in DAS (2013) IEEE Trans. Power Del, 28, pp. 585-593; 
+Bou-Harb, E., Fachkha, C., Pourzandi, M., Debbabi, M., Assi, C., Communication security for smart grid distribution networks (2013) IEEE Commun. Mag, 51, pp. 42-49; 
+Ericsson, G., Information security for electric power utilities (EPUs)-CIGRE developments on frameworks, risk assessment, and technology (2009) IEEE Trans. Power Del, 24, pp. 1174-1181; 
+Zio, E., Sansavini, G., Vulnerability of smart grids with variable generation and consumption: a system of systems perspective (2013) IEEE Trans. Syst. Man Cybern. Syst, 43, pp. 477-487; 
+Guidelines for smart grid cyber security, , http://www.nist.gov/smartgrid/upload/nistir-7628_total.pdf, (accessed on 10 January 2015); 
+Stouffer, K., Falco, J., Scarfone, K., (2011) Guide to Industrial Control Systems (ICS) Security, , NIST SP 800-82; National Institute of Standards and Technology: Gaithersburg, MD, USA; 
+Liu, N., Zhang, J., Zhang, H., Liu, W., Security assessment for communication networks of power control systems using attack graph and MCDM (2010) IEEE Trans. Power Del, 25, pp. 1492-1500; 
+Backhous, S., Bent, R., Bono, J., Lee, R., Tracey, B., Wolpert, D., Xie, D., Yildiz, Y., Cyber-physical security: A game theory model of human interacting over control systems (2013) IEEE Trans. Smart Grid, 4, pp. 2320-2327; 
+Ten, C.W., Liu, C.C., Maninaran, G., Vulnerability assessment of cyber security for SCADA systems (2008) IEEE Trans. Power Syst, 23, pp. 1836-1846; 
+Srivastava, A., Morris, T., Ernster, T., Vellaithurai, C., Pan, S., Adhikari, U., Modeling cyber-physical vulnerability of the smart grid with incomplete information (2013) IEEE Trans. Smart Grid, 4, pp. 235-244; 
+Zonouz, S., Davis, C.M., Davis, K.R., Berthier, R., Bobab, R.B., Sanders, W.H., SOCCA: A security-oriented cyber-physical contingency analysis in power infrastructures (2014) IEEE Trans. Smart Grid, 5, pp. 3-13; 
+Chen, T.M., Sanchez-Aarnoutse, J.C., Buford, J., Petri net modeling of cyber-physical attacks on smart grid (2011) IEEE Trans. Smart Grid, 2, pp. 741-749; 
+Lim, I.H., Hong, S., Chou, M.S., Lee, S.J., Kim, T.W., Lee, S.W., Security protocols against cyber attacks in the distribution automation system (2010) IEEE Trans. Power Del, 25, pp. 448-455; 
+Sridhar, S., Hahn, A., Govindarasu, M., Cyber-physical systems security for the electric power grid (2012) Proc. IEEE, 100, pp. 210-224; 
+Han, G., Xu, B., Suonan, J., IEC 61850-based feeder terminal unit modeling and mapping to IEC 60870-5-104 (2012) IEEE Trans. Power Del, 25, pp. 2046-2053; 
+Mo, Y., Kim, T.H., Brancik, K., Dickinson, D., Lee, H., Perrig, A., Sinopoli, B., Cyber-physical security of a smart grid infrastructure (2012) Proc. IEEE, 100, pp. 195-209; 
+Mell, P., Scarfone, K., Romanosky, S., Common vulnerability scoring system (2006) IEEE Secur. Priv, 4, pp. 85-89; 
+(2011) Information Technology-Security Techniques-Information Security Risk Management, , ISO/IEC 27005; International Organization for Standardization/International Electrotechnical Commission (ISO/IEC): Geneva, Switzerland; 
+Falahati, B., Fu, Y., Wu, L., Reliability assessment of smart grid considering direct cyber-power interdependencies (2012) IEEE Trans. Smart Grid, 3, pp. 1515-1524; 
+Ismail, Z., Leneutre, J., Bateman, D., Chen, L., A game theoretical analysis of data confidentiality attacks on smart-grid AMI (2014) IEEE J. Sel. Areas Commun, 32, pp. 1486-1499; 
+Gamage, T., Roth, T., McMillin, B., Crom, M., Mitigating event based confidentiality violations in smart grids: An information flow security-based approach (2013) IEEE Trans. Smart Grid, 4, pp. 1227-1234; 
+Ko, Y., Kang, T., Park, H., Kim, H., Nam, H., The FRTU-based fault-zone isolation method in the distribution systems (2010) IEEE Trans. Power Del, 25, pp. 1001-1009; 
+Zidan, A., El-Saadany, E., A cooperative multiagent framework for self-healing mechanisms in distribution systems (2012) IEEE Trans. Smart Grid, 3, pp. 1525-1539; 
+Shang, J., Sheng, X., Zhang, J., Zhao, W., The optimized allocation of mobile emergency generator based on the loads importance (2009) Proceedings of the Asia-Pacific Power and Energy Engineering Conference, pp. 1-4. , New York, NY, USA, 28-31 March; 
+Dzung, D., Naedele, M., Von Hoff, T., Crevatin, M., Security for industrial communication systems (2005) Proc. IEEE, 93, pp. 1152-1177; 
+Tsang, P.P., Smith, S.W., YASIR: A low-latency, high-integrity security retrofit for legacy SCADA systems (2008) Proceedings of the IFIP TC 11 23rd International Information Security Conference, pp. 445-459. , Milano, Italy, 7-10 September; 
+Kurose, J.F., Ross, K.W., (2005) Computer Networking: A Top-Down Approach, 5th ed, , Addison Wesley: Boston, MA, USA; 
+Osborne, M.J., (2005) An Introduction to Game Theory, , Shanghai University of Finance & Economics Press: Shanghai, China; 
+Allan, R., Billinton, R., Sjatief, I., Goel, L., So, K., A reliability test system for educational purposes-Basic distribution system data and results (1991) IEEE Trans. Power Syst, 6, pp. 813-820; 
+Jiang, W., Fang, B., Zhang, H., Tian, Z., Song, X., Optimal network security strengthening using attack-defense game model (2009) Proceedings of the Sixth International Conference on Information Technology: New Generations, pp. 475-480. , Las Vegas, NV, USA, 27-29 April
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84933558372&partnerID=40&md5=cfdaee638b36c8426283da34044e792d
+ER  - 
+
+TY  - JOUR
+TI  - Telescope Array Radar (TARA) observatory for Ultra-High Energy Cosmic Rays
+T2  - Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+J2  - Nucl Instrum Methods Phys Res Sect A
+VL  - 767
+SP  - 322
+EP  - 338
+PY  - 2014
+DO  - 10.1016/j.nima.2014.08.015
+SN  - 01689002 (ISSN) 
+AU  - Abbasi, R.
+AU  - Othman, M.A.B.
+AU  - Allen, C.
+AU  - Beard, L.
+AU  - Belz, J.
+AU  - Besson, D.
+AU  - Byrne, M.
+AU  - Farhang-Boroujeny, B.
+AU  - Gardner, A.
+AU  - Gillman, W.H.
+AU  - Hanlon, W.
+AU  - Hanson, J.
+AU  - Jayanthmurthy, C.
+AU  - Kunwar, S.
+AU  - Larson, S.L.
+AU  - Myers, I.
+AU  - Prohira, S.
+AU  - Ratzlaff, K.
+AU  - Sokolsky, P.
+AU  - Takai, H.
+AU  - Thomson, G.B.
+AU  - Von Maluski, D.
+AD  - University of Utah, 115 S 1400 E #201 JFB, Salt Lake City, UT, United States
+AD  - University of Kansas, Lawrence, KS, United States
+AD  - Purdue University, West Lafayette, IN, United States
+AD  - Gillman and Associates, Salt Lake City, UT, United States
+AD  - Utah State University, Logan, UT, United States
+AD  - Brookhaven National Laboratory, Upton, NY, United States
+AD  - Moscow Engineering and Physics Institute, 31 Kashirskaya Shosse, Moscow, Russian Federation
+AB  - Construction was completed during summer 2013 on the Telescope Array RAdar (TARA) bi-static radar observatory for Ultra-High Energy Cosmic Rays (UHECR). TARA is co-located with the Telescope Array, the largest "conventional" cosmic ray detector in the Northern Hemisphere, in radio-quiet Western Utah. TARA employs an 8 MW Effective Radiated Power (ERP) VHF transmitter and smart receiver system based on a 250 MS/s data acquisition system in an effort to detect the scatter of sounding radiation by UHECR-induced atmospheric ionization. TARA seeks to demonstrate bi-static radar as a useful new remote sensing technique for UHECRs. In this report, we describe the design and performance of the TARA transmitter and receiver systems. © 2014 Elsevier B.V.
+KW  - Chirp
+KW  - Cosmic ray
+KW  - Digital signal processing
+KW  - FPGA
+KW  - Radar
+KW  - Digital signal processing
+KW  - Field programmable gate arrays (FPGA)
+KW  - Radar
+KW  - Chirp
+KW  - Telescope arrays
+KW  - Ultra high-energy cosmic rays
+KW  - Cosmic rays
+PB  - Elsevier
+N1  - Cited By :2
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: NIMAE
+LA  - English
+N1  - Correspondence Address: Myers, I.; University of Utah, 115 S 1400 E #201 JFB, United States
+N1  - References: Auger, P., (1939) Reviews of Modern Physics, 11, p. 288; 
+Abu-Zayyad, T., (2012) Nuclear Instruments and Methods in Physics Research Section A, 689, p. 87; 
+Allekotte, I., (2008) Nuclear Instruments and Methods in Physics Research Section A, 586, p. 409; 
+Tokuno, H., (2013) Nuclear Instruments and Methods in Physics Research Section A, 676, p. 54; 
+Abraham, J., (2010) Nuclear Instruments and Methods in Physics Research Section A, 620, p. 227; 
+Budnev, N.M., (2005) International Journal of Modern Physics A, 20; 
+Askaryan, G., (1962) Soviet Journal of Experimental and Theoretical Physics, 14; 
+Kahn, F.D., Lerche, I., (1966) Proceedings of the Royal Society of London A, 289; 
+Blackett, P.M.S., (1941) Proceedings of Royal Society A, 177, p. 183; 
+Wahl, D., The search for vertical extended air shower signals at the Jicamarca Radio Observatory (2008) Proceedings of the 30th ICRC, 5, pp. 957-960; 
+Terasawa, T., Search for radio echoes from EAS with the MU Radar, Shigaraki, Japan (2009) Proceedings of the 31st ICRC; 
+Bugallo, M.F., MARIACHI: A multidisciplinary effort to bring science and engineering to the classroom (2008) IEEE International Conference on Acoustics, Speech, Signal Processing, pp. 2661-2664; 
+Bugallo, M.F., Hands-on engineering and science: Discovering cosmic rays using radar-based techniques and mobile technology (2009) IEEE International Conference on Acoustics, Speech, Signal Processing, pp. 2321-2324; 
+Underwood, D.G., Large Doppler shift in RADAR detection of ultra-high energy cosmic rays (2008) Radar Conference, RADAR 08. IEEE, pp. 1-5; 
+Bakunov, M.I., (2010) Astroparticle Physics, 33, p. 335; 
+Willis, N.J., (1995) Bistatic Radar, , Scitech Publishing Raleigh, NC; 
+Gorham, P., (2001) Astroparticle Physics, 15; 
+Vidmar, R.J., (2002) IEEE Transactions on Plasma Science, 18; 
+Itakawa, Y., (1971) Planetary and Space Science, 19, p. 993; 
+Itakawa, Y., (1973) Physics of Fluids, 16, p. 831; 
+Crispin, J.W., Maffett, A.L., (1965) Proceedings of IEEE, 53, p. 833; 
+Gaisser, T.K., Hillas, A.M., (1977) Proceedings of the 15th ICRC, 8, p. 353; 
+Takai, H., Forward scattering radar for ultra high energy cosmic rays (2011) Proceedings of the 32nd International Cosmic Ray Conference; 
+Zech, A., (2004) A Measurement of the Ultra-high Energy Cosmic Ray Flux with the HIRES FADC Detector, , (Ph.D. thesis), Rutgers University; 
+Burke, G., NEC - Numerical Electromagnetics Code for antennas and scattering (1979) Antennas and Propagation Society International Symposium, 17; 
+Abbasi, R.U., (2010) Physical Review Letters, 104; 
+Kraus, J., Marhefka, R., (2003) Antennas for All Applications, , 3rd ed. MgGraw-Hill New York, NY; 
+Cane, H.V., (1979) Monthly Notices of the Royal Astronomical Society, 189; 
+Dulk, G.A., (2001) Astronomy & Astrophysics, 365, p. 294; 
+Othman, M., On radar detection of chirp signals with nondeterministic parameters in challenging noise background (2013) Radar Conference (RADAR), 2013 IEEE, pp. 1-6; 
+Smith, J.D., GPSY2: A programmable hardware module for precise absolute time event generation and measurement (2008) Proceedings of the 30th ICRC, 5, pp. 997-1000; 
+Besson, D.Z., Design, modeling and testing of the Askaryan radio array south pole autonomous renewable power stations Instrum. Meth. A. 763, , http://dx.doi.org/10.1016/j.nima.2014.06.005, press
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84907525351&partnerID=40&md5=8b23fbb7e32e6228804709b45b65d232
+ER  - 
+
+TY  - JOUR
+TI  - The Internet of Things: Connecting the unconnected
+T2  - Engineering and Technology
+J2  - Eng. Technol.
+VL  - 9
+IS  - 11
+SP  - 64
+EP  - 70
+PY  - 2014
+DO  - 10.1049/et.2014.1109
+SN  - 17509637 (ISSN) 
+AU  - Pye, A.
+AB  - The Internet of Things, otherwise known as IoT, IPv6 or Industr y 4.0 is going to become wider, linking 25 billion smart devices and intelligent systems in operation around the world. Ethernet-based networks, such as EtherCAT, allow every part of an automation system, from sensors to robots, to exchange information at high speeds. This gives the controller instant access to every detail of production information. Once this controller is also connected to the enterprise-level Enterprise Resource Planning (ERP), Manufacturing Resource Planning (MRP) or Manufacturing Execution Systems (MES). End-user IT departments will have to work more closely with engineering to allow shop-floor equipment to have direct access to enterprise-level systems without the use of middleware. The latest controllers, such as Omron's Sysmac NJ series, combine the reliability and rugged design of a traditional PLC, but use an open hardware architecture combined with software ?engines' within a single CPU, rather than multiple CPUs, to manage their different functions. Ricoh plans to use similar instant communication with an enterprise-level database to scan codes on used toner cartridges sent to its Telford site for recycling. In this case, an NJ controller will allow data, including the number of previous refills, to be checked. This will in turn enable the system to determine whether any given cartridge should be refilled again, while also updating the database. The FAG SmartCheck from Schaeffler FAG recognises and reports the first vibrations of a system long before any noise is generated. That means there is substantially longer time to react before the machine fails.
+KW  - Automation
+KW  - Controllers
+KW  - Intelligent systems
+KW  - Internet
+KW  - Internet of things
+KW  - Manufacture
+KW  - Middleware
+KW  - Program processors
+KW  - Projectiles
+KW  - Resource allocation
+KW  - Software reliability
+KW  - Automation systems
+KW  - Enterprise resource planning (ERP)
+KW  - Ethernet-based networks
+KW  - Manufacturing Execution System
+KW  - Manufacturing resource planning
+KW  - Open hardware
+KW  - Smart devices
+KW  - Toner cartridge
+KW  - Enterprise resource planning
+PB  - Institution of Engineering and Technology
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84929085295&partnerID=40&md5=2e11d08c4c808fe43764ac3c469cbd30
+ER  - 
+
+TY  - JOUR
+TI  - Measurement and analysis for power quality using compressed sensing
+T2  - Journal of Applied Science and Engineering
+J2  - J. Appl. Sci. Eng.
+VL  - 17
+IS  - 3
+SP  - 305
+EP  - 318
+PY  - 2014
+DO  - 10.6180/jase.2014.17.3.11
+SN  - 15606686 (ISSN) 
+AU  - Zhong, Y.
+AU  - Chen, C.
+AU  - Su, H.
+AD  - School of Information Engineering, Wuhan University of Technology, Wuhan, China
+AD  - Key Lab. of Fiber Optic Sensing Technology and Information Processing, Ministry of Education, Wuhan University of Technology, Wuhan, China
+AB  - Advanced metering system (AMI) is a new advanced metering system for the two-way measurement and interaction operation in Smart Grid, single-phase power quality parameters measurement has become one of the most attractive research topics in recent years. A CS approach based on two-dimensional image compression for power quality analysis is proposed. Since the sampling information of power quality (PQ) has outstanding frequency-domain sparse characteristics; it can be applied into the analysis of theoretical model with two-dimensional image compression algorithm using compressed sensing (CS). According to the single-phase power quality measurement using compressed sensing, a two-dimensional sparse measurement model on voltage, current and power signals is established. Only a few amount of points of electrical state power signal is sampled. Using these samples, power signal is recovered in order to effectively detect the operating status of the power quality parameters involving harmonic, instantaneous power disturbance, etc. The performance of the proposed approach and other different schemes are compared through numerical experiments and analysis of compression sampling ratio (CSR), signal to noise ratio (SNR), mean squared error (MSE), energy recovery percentage (ERP). Numerical results have shown that CS based power quality analysis approach behaves extremely well in practice.
+KW  - Compressed Sensing (CS)
+KW  - Power Quality (PQ)
+KW  - Sparse Measurement
+KW  - Two-Dimensional Sampling
+KW  - Advanced metering infrastructures
+KW  - Compressed sensing
+KW  - Frequency domain analysis
+KW  - Image compression
+KW  - Signal reconstruction
+KW  - Signal to noise ratio
+KW  - Smart power grids
+KW  - Compressive sensing
+KW  - Measurement and analysis
+KW  - Numerical experiments
+KW  - Power quality parameters
+KW  - Power-quality analysis
+KW  - Sampling information
+KW  - Theoretical modeling
+KW  - Two-dimensional images
+KW  - Quality control
+PB  - Journal of Applied Science and Engineering
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Zhong, Y.; School of Information Engineering, Wuhan University of TechnologyChina
+N1  - Funding Details: 61201246, NSFC, National Natural Science Foundation of China
+N1  - References: Li, F.J., Luo, B., Liu, P., Secure information aggregation for smart grids using homomorphic encryption (2010) Smart Grid Communications (SmartGrid-Comm), 2010 First, pp. 327-332. , IEEE International Conference; 
+Chen, S.Y., Song, S.F., Li, L.X., Shen, J., Survey on smart grid technology (2009) Power System Technology, 33 (10), pp. 1-7; 
+Farhangi, H., The path of the smart grid (2010) IEEE Power Energy Mag., 8 (1), pp. 18-28; 
+Bollen, M.H.J., Understanding power quality problems (2000) New York: IEEE Press Series on Power Engineering, 1 (5), pp. 25-26; 
+Colet-Subirachs, A., Ruiz-Alvarez, A., Gomis-Bellmunt, O., Alvarez-Cuevas-Figuerola, F., Sudria-Andreu, A., Centralized and distributed active and reactive power control of a utility connected microgrid using iec61850 (2012) IEEE Systems Journal, 6 (1), pp. 58-67; 
+Florkowski, M., Exploitation stresses and challenges in diagnostics of electrical industrial equipment, " industrial electronics (isie) (2011) IEEE International Symposium, 10 (6), pp. 15-25; 
+Ribeiro, M.V., Romano, J.M.T., Duque, C.A., An improved method for signal processing and compression in power quality evaluation (2004) Power Delivery IEEE Transactions on, 19 (2), pp. 464-471; 
+Panda, G., Dash, P.K., Pradhan, A.K., Meher, S.K., Data compression of power quality events using the slantlet transform (2002) IEEE Trans. Power Delivery, 17 (3), pp. 662-667; 
+Anis Ibrahim, W.R., Morcos, M.M., Artificial intelligence and advanced mathematical tools for power quality applications: A survey (2002) Power Delivery IEEE Transactions on, 17 (2), pp. 668-673; 
+Dash, P.K., Panigrahi, B.K., Sahoo, D.K., Panda, G., Power quality disturbance data compression, detection, and classification using integrated spline wavelet and s-transform (2003) Power Delivery IEEE Transactions on, 18 (2), pp. 595-600; 
+Li, P., Fei, L.Q., Qian, J., Chen, J., Li, X.C., Based on the improved hht and its application in the power quality detection of microgrid (2011) Electrical Machines and Systems, 19 (5), pp. 1-23; 
+Chen, P., Xu, B.Y., Ge, Y.Z., Liu, H.L., Discrete wavelet transfrom and its application to compression of signal of fault induced transient travelling waves on transmission lines (2009) Automation OfElectic Power Systems, 4 (3), pp. 31-35; 
+Ju, G.F., Luo, A., DWT application to real-time compression of power quality disturbance data (2002) Automation of Electic Power Systems, 19 (8), pp. 61-63; 
+Guo, B.B., Huang, C., Power quality disturbance data compression based on wavelet packet transform (2005) Electic Power Automation Equipment, 25 (11), pp. 34-37; 
+Gao, P.S., Chen, X.J., Wu, W.L., Song, B.M., Compression of 2-d representation of power quality event data (2008) Journal of Zhejiang University, 42 (4), pp. 686-690; 
+Candies, M.J., Romberg, J.K., Tao, T., Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information (2006) IEEE Transactions on Information Theory, 52 (9), pp. 489-509; 
+Donoho, D.L., Compressed sensing (2006) IEEE Transactions on Information Theory, 52 (18), pp. 1289-1306; 
+Baraniuk, R., A simple proof of the restricted isometry property for (2008) Constructive Approximation, 28 (3), pp. 123-152. , Random Matrices; 
+Candes, E.J., The restricted isometry property and its implications for compressed sensing (2008) Applied & Computational Mathematics, 346, pp. 9-10; 
+Chen, S., Donoho, D.L., Sauders, M.A., Atomic decomposition by basis pursuit (2001) SIAM Review, 43 (1), pp. 129-159; 
+Lustig, M., Donoho, D., Pauly, J.M., Sparse mri: The application of compressed sensing for rapid mr imaging (2007) Magnetic Resonance in Medicine, 58 (6), pp. 1182-1195; 
+Dai, Q., Sha, W., (2009) The Physics of Compressive Sensing and the Gradient-Based Recovery Algorithms, , http://arxiv.org/abs/0906.1487, The University of Hong Kong Research report; 
+Dugan, R.C., Megranghan, M.F., Benty, H.W., (1996) Electrical Power Systems Quality, , New York: MC-Graw-Hill; 
+Becker, S., Bobin, J., Candès, E.J., NESTA: A fast and accurate first-order method for sparse recovery (2011) SIAM Journal on Imaging Sciences, 4 (1), pp. 1-39; 
+Schmidt, M., Fung, G., Rosales, R., Fast optimization methods for l1 regularization: A comparative study and two new approaches (2007) Machine Learning Springer Berlin Heidelberg, pp. 286-297; 
+Tropp, J.A., Gilbert, A.C., Signal recovery from partial information via orthogonal matching pursuit (2007) IEEE Transactions on Information Theory, 53 (5), pp. 4655-4666; 
+Wang, X., Wang, L., Miao, G., An approach for compressive sampling and reconstruction of transient and short-time power quality disturbance signals (2012) Power System Technology, pp. 42-51
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84908555683&partnerID=40&md5=3aebccaaa1e26c1523b8eb970cb0940c
+ER  - 
+
+TY  - JOUR
+TI  - Barriers to Resource Efficiency Innovations and Opportunities for Smart Regulations-the Case of Germany
+T2  - Environmental Policy and Governance
+J2  - Environ. Policy Gov.
+VL  - 24
+IS  - 5
+SP  - 307
+EP  - 323
+PY  - 2014
+DO  - 10.1002/eet.1632
+SN  - 1756932X (ISSN) 
+AU  - Jordan, N.D.
+AU  - Lemken, T.
+AU  - Liedtke, C.
+AD  - Institute for Sustainable Resources, University College London, United Kingdom
+AD  - KlimaDiskurs NRW, Düsseldorf, Germany
+AD  - Research Group on Sustainable Production and Consumption, Wuppertal Institute for Climate, Environment and Energy, Germany
+AB  - There are a variety of economic and ecological benefits to increased resource efficiency. Social, institutional and technical innovations can all contribute towards efficiency increases. Companies face different hurdles in fostering such innovation. Small and medium-sized companies are subject to specific constraints that may prevent them from benefiting from innovation-induced resource efficiency improvements. Qualitative interviews were conducted among German small and medium-sized enterprises (SMEs) and intermediaries to identify barriers for resource efficiency innovations and to elaborate a policy mix at the federal level that could help SMEs to overcome these. We found five major barriers to resource efficiency innovations in German SMEs, comprising deficits in innovation culture, inter-firm cooperation along the value chain, finance, awareness and take-up of government funds. We propose a distinct policy mix as a response to this situation. The policy mix comprises the interlocking and synergistic elements of government funding schemes, innovation agents and innovation laboratories. Copyright © 2014 John Wiley & Sons, Ltd and ERP Environment. © 2014 John Wiley & Sons, Ltd and ERP Environment.
+KW  - Business angels
+KW  - Ecoinnovation
+KW  - Germany
+KW  - Innovation agents
+KW  - Innovation laboratories
+KW  - Resource efficiency
+PB  - John Wiley and Sons Ltd
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Liedtke, C.; Wuppertal Institute for Climate, Environment and Energy, Sustainable Production and Consumption Department, Doeppersberg 19, Germany
+N1  - References: Ayres, R., Warr, B., (2009) The Economic Growth Engine. How Energy and Work Drive Material Prosperity, , Edward Elgar: Cheltenham; 
+Baron, R., Alberti, K., Gerber, J., Jochem, E., Bradke, H., Dreher, C., Ott, V., Villar, A., (2005), Studie zur Konzeption eines Programms für die Steigerung der Materialeffizienz in mittelständischen Unternehmen. Abschlussbericht. Arthur D. Little/Fraunhofer-Institut für System- und Innovationsforschung/Wuppertal Institut für Klima, Umwelt, EnergieBinswanger, M., Technological progress and sustainable development: what about the rebound effect? (2001) Ecological Economics, 36 (1), pp. 119-132; 
+Bleischwitz, R., International economics of resource productivity-relevance, measurement, empirical trends, innovation, resource policies (2010) International Economics and Economic Policy, 7 (2-3), pp. 227-244; 
+Bleischwitz, R., Bahn-Walkowiak, B., Bringezu, S., Lucas, R., Steger, S., Outline of a resource policy and its economic dimension (2009) Sustainable Resource Management: Global Trends, Visions and Policies, pp. 216-296. , In, Bringezu S, Bleischwitz R (eds). Greenleaf Publishing: Sheffield; -; 
+Bleischwitz, R., Giljum, S., Kuhndt, M., Schmidt-Bleek, F., (2009), Eco-Innovation - Putting the EU on the Path to a Resource and Energy Efficient Economy. Wuppertal Institute for Climate, Environment and Energy: WuppertalBleischwitz, R., Welfens, P.J.J., Zhang, Z., (2009) Sustainable Growth and Resource Productivity: Economic and Global Policy Issues, , Greenleaf: Sheffield; 
+Bogner, A., Menz, W., The theory-generating expert interview: epistemological interest, forms of knowledge, interaction (2009) Interviewing Experts, pp. 43-80. , In, Bogner A, Littig B, Menz W (eds). Palgrave Macmillan: Houndsmill, Basingstoke; -; 
+Bornemann, H., (2001), Evaluierung der ERP-Förderprogramme: Endbericht. Untersuchung im Auftrag des Bundesministeriums für Wirtschaft und Technologie. Bundesministerium für Wirtschaft und Technologie: BerlinBos-Bouwers, H., (2010) Sustainable innovation processes within small and medium-sized enterprises, , Dissertation, Vrije Universiteit: Amsterdam; 
+Boyns, N., Cox, M., Spires, R., Hughes, A., (2003), Research into the Enterprise Investment Scheme And Venture Capital Trusts: A Report Prepared For Inland Revenue. PACEC: CambridgeBringezu, S., Bleischwitz, R., (2009) Sustainable Resource Management: Global Trends, Visions and Policies, , Greenleaf: Sheffield; 
+Bruijn, T.D., Norberg-Bohm, V., (2005) Industrial Transformation: Environmental Policy Innovation in the United States and Europe, , MIT Press: Cambridge, MA; 
+Busch, T., Beucker, S., Müller, A., Computer aided resource efficiency accounting (2005) Material Flow Management: Improving Cost Efficiency and Environmental Performance, pp. 21-55. , In, Wagner B (ed). Physica-Verlag: Heidelberg; -; 
+Busch, T., Liedtke, C., Beucker, S., The concept of corporate resource efficiency accounting. A case study in the electronic industry (2006) Sustainability Accounting and Reporting, pp. 109-128. , In, Schaltegger S, eds). Springer Verlag: Dordrecht; -; 
+Clausen, H., Trettin, L., (2003) Förderung von Demonstrationsvorhaben im Umweltbereich Mitnahmeeffekte und Finanzierungsoptionen, , RWI: Essen; 
+Coombs, R., Saviotti, P., Walsh, V., (1987) Economics and Technological Change, , Rowman and Littlefield Publishing Group: Totowa NJ; 
+Costanza, R., Folke, C., Valuing ecosystem services with efficiency, fairness, and sustainability as goals (1997) Nature's Services. Societal Dependence on Natural Ecosystems, pp. 49-70. , In, Daily C (ed). Island Press: Washington, DC; -; 
+Daly, H., (2004) Ecological Economics: Principles and Applications, , Island Press: Washington; 
+Dosi, G., Sources, procedures, and microeconomic effects of innovation (1988) Journal of Economic Literature, 26 (3), pp. 1120-1171; 
+(2011) Environmental Tax Reform (ETR). A policy for Green Growth, , Ekins P, Speck S (eds) Oxford University Press: Oxford; 
+(2008) COM/2008/0397 final: On the sustainable consumption and production and sustainable industrial policy action plan; 
+(2009) Bridging the Valley of Death: Public Support for Commercialisation of Eco-Innovation; 
+(2009) SEC(2009)501 Final: Design as a Driver of User-Centred Innovation. Commission Staff Working Document; 
+(2010) Critical Raw Materials for the EU. Report of the Ad-Hoc Working Group on Defining Critical Raw Materials; 
+Commission, E., (2011) COM(2011) 571 final: Roadmap to a resource efficient Europe; 
+Evers, M., (2010), Brüderle eröffnet Rohstoffagentur. Manager Magazin, 4/10/2010Fier, A., Heger, D., Hussinger, K., (2009), ftp://ftp.zew.de/pub/zew-docs/dp/dp0509.pdf, Die Wirkungsanalyse staatlicher Förderprogramme durch den Einsatz von Matching- und Selektionsmodellen am Beispiel der Fertigungstechnik. ZEW Discussion Paper No. 05-09Fischer, K., Schot, J., (1993) Environmental Strategies for Industry: International Perspectives on Research Needs and Policy Implications, , Island Press: Washington, DC; 
+Foxon, T., Pearson, P., Overcoming barriers to innovation and diffusion of cleaner technologies: some features of a sustainable innovation policy regime (2008) Journal of Cleaner Production, 16 (1), pp. 148-161; 
+Freel, M.S., Patterns of innovation and skills in small firms (2005) Technovation, 25 (2), pp. 123-134; 
+Fryges, H., Gottschalk, S., Licht, G., Müller, K., (2007) Hightech-Gründungen und Business Angels: Endbericht für das Bundesministerium für Wirtschaft und Technologie, , Zentrum für Europäische Wirtschaftsforschung: Mannheim; 
+(2008) Strategie Ressourceneffizienz: Impulse für den ökologischen und ökonomischen Umbau der Industriegesellschaft; 
+(2008), Ökologische Industriepolitik: nachhaltige Politik für Innovation. Wachstum und Beschäftigung. German Federal Environment Ministry: Berlin(2002) Bericht der Bundesregierung über die Perspektiven für Deutschland; 
+(2012) Nachhaltige Entwicklung in Deutschland - Indikatorenbericht 2012; 
+Giljum, S., Burger, E., Hinterberger, F., Lutter, S., Bruckner, M., A comprehensive set of resource use indicators from the micro to the macro level (2011) Resources, Conservation and Recycling, 55, pp. 300-308; 
+Görlach, S., Lemken, T., Liedtke, C., Onischka, M., Schmidt, M., Viere, T., (2009), Arbeitspapier zu Arbeitspaket 4 des Projekts 'Materialeffizienz und Ressourcenschonung' (MaRess). Wuppertal Institute for Climate, Environment and Energy: WuppertalGörlach, S., Zvezdov, D., (2010), Arbeitspapier zu Arbeitspaket 4 des Projekts 'Materialeffizienz und Ressourcenschonung' (MaRess). Wuppertal Institute for Climate, Environment and Energy: WuppertalGrübler, A., Nakicenovic, N., Nordhaus, W.D., (2002) Technological Change and the Environment, , Resources for the Future: Washington, DC; 
+Hahn, T., Figge, F., Barkemeyer, R., Liesen, A., (2009) Sustainable Value in Automobile Manufacturing. An Analysis of the Sustainability Performance of Automobile Manufacturers Worldwide, , Sustainable Value Research Ltd: Belfast; 
+Hauff, V., Scharpf, F.W., (1975) Modernisierung der Volkswirtschaft: Technologiepolitik als Strukturpolitik, , Europäische Verlagsanstalt: Frankfurt am Main; 
+Hemmelskamp, J., Rennings, K., Leone, F., (2000) Innovation-Oriented Environmental Regulation: Theoretical Approaches and Empirical Analysis, , Physica Verlag: Heidelberg; 
+Herstatt, C., (2007) Innovationshemmnisse in KMU der Metropolregion Hamburg: Ergebnisse einer empirischen Untersuchung in ausgewählten Branchen; Projekt Regionale Innovationsstrategien (RIS) Hamburg, , Technical University Hamburg-Harburg, Institute for Technology and Innovation Management: Hamburg; 
+Herstatt, C., Lettl, C., Management of 'technology push' development projects (2004) International Journal of Technology Management, 27 (2-3), pp. 155-175; 
+Hertin, J., Jacob, K., Kahlenborn, W., (2008) Umwelt und Innovation. Eine Evaluation von EU-Strategien und Politiken. Forschungsprojekt im Auftrag des Umweltbundesamtes, , Umweltbundesamt: Dessau-Roßlau; 
+Hertwich, E.G., Pease, W.S., Koshland, C.P., Evaluating the environmental impact of products and production processes: a comparison of six methods (1997) Science of the Total Environment, 196 (1), pp. 13-29; 
+Horbach, J., Huber, J., Schulz, T., (2003) Nachhaltigkeit und Innovation: Rahmenbedingungen für Umweltinnovationen, , Ökom: München; 
+Jackson, T., (2009) Prosperity without growth: economics for a finite planet, , Earthscan Publications: London; 
+(2008) HR und Innovationsfähigkeit 2008, , KM Consultants Kienbaum Management Consultants: Düsseldorf; 
+Jänicke, M., Lindemann, S., Governing environmental innovations (2010) Environmental Politics, 19 (1), pp. 127-141; 
+Jenkins, H., A 'business opportunity' model of corporate social responsibility for small- and medium-sized enterprises (2009) Business Ethics: a European Review, 18 (1), pp. 21-36; 
+Schaffen innovative Gründungen mehr Arbeitsplätze? Beiträge zur Mittelstands- und Strukturpolitik Nr. 37, Sonderband Innovationen im Mittelstand. KfW Banking Group: Frankfurt am Main. (2006)(2007) KfW-Mittelstandspanel 2007. Mittelstand im Konjunkturhoch - Defizite bei Innovationen. Jährliche Analyse zur Struktur und Entwicklung des Mittelstands in Deutschland, , KfW Banking Group KfW Banking Group: Frankfurt am Main; 
+Klemmer, P., Lehr, U., Löbbe, K., (1999) Environmental Innovation: Incentives and Barriers, , Analytica: Berlin; 
+Koskinen, K.U., Vanharanta, H., The role of tacit knowledge in innovation processes of small technology companies (2002) International Journal of Production Economics, 80 (1), pp. 57-64; 
+Kriegesmann, B., Kerka, F., (2007) Innovationskulturen für den Aufbruch zu Neuem: Missverständnisse, praktische Erfahrungen, Handlungsfelder des Innovationsmanagements, , Deutscher Universitätsverlag: Wiesbaden; 
+Lettenmeier, M., Rohn, H., Liedtke, C., Schmidt-Bleek, F., (2009), Resource Productivity in 7 Steps. How to Develop Eco-Innovative Products and Services and Improve Their Material Footprint. Wuppertal Spezial 41. Wuppertal Institute for Climate, Environment and Energy: WuppertalLicht, G., Rammer, C., Sellenthin, M.O., (2009), Indikatoren zur Innovationskraft Deutschlands im internationalen Vergleich und aktuelle Entwicklungen der Innovationspolitik. Abschlussbericht. Centre for European Economic Research: MannheimLiedtke, C., (2005) Materialeffizienz: Potenziale bewerten, Innovationen fördern, Beschäftigung sichern, , Ökom: München; 
+Machiba, T., Eco-innovation for enabling resource efficiency and green growth: development of an analytical framework and preliminary analysis of industry and policy practices (2010) International Economics and Economic Policy, 7 (2-3), pp. 357-370; 
+Maillat, D., SMEs, innovation, and territorial development (1990) The Spatial Context of Technology Development, pp. 331-351. , In, Cappellin R, Nijkamp P (eds). Avebury-Gower: Aldershot; -; 
+Meyer, B., (2009) Costing the Earth?: perspectives on sustainable development, , Haus: London; 
+Mihm, A., (2010), Deutsche Industrie warnt vor Rohstoffmangel. Frankfurter allgemeine Zeitung, 26/10/2010Murphy, L., Edwards, P., (2003) Bridging the Valley of Death: Transitioning from Public to Private Sector Financing, , National Renewable Energy Laboratory: Golden, CO; 
+Onischka, M., Liedtke, C., Jordan, N.D., How to sensitize the financial industry to resource efficiency considerations and climate change related risks (2012) Journal of Environmental Assessment Policy and Management, 14 (3). , 1250017-1-1250017-26; 
+Orbach, T., Liedtke, C., Resource-efficiency accounting (2002) Environmental Management Accounting: Informational and Institutional Developments, pp. 83-90. , In, Bennett M (ed). Kluwer Publishers: Dordrecht; -; 
+Palmon, O., Huey-Lian, S., Tang, A.P., Layoff announcements: stock market impact and financial performance (1997) Financial Management, 26 (3), pp. 54-68; 
+Pfadenhauer, M., At eye level: the expert interview-a talk between expert and quasi-expert (2009) Interviewing Experts, pp. 81-97. , In, Bogner A, Littig B, Menz W (eds). Palgrave Macmillan: Houndsmill, Basingstoke; -; 
+Pfriem, R., Antes, R., Fichter, K., Müller, M., Paech, N., Seuring, S., (2006) Innovationen für eine nachhaltige Entwicklung-Wirtschaftswissenschaft, , Deutscher Universitätsverlag: Wiesbaden; 
+Polimeni, J., (2009) The Myth of Resource Efficiency: The Jevons Paradox, , Earthscan: London; 
+Rammer, C., Weißenfeld, B., (2008) Innovationsverhalten der Unternehmen in Deutschland 2006. Aktuelle Entwicklungen und ein internationaler Vergleich, , Zentrum für Europäische Wirtschaftsforschung: Mannheim; 
+Reid, A., Miedzinski, M., (2008), Eco-innovation. Final report for Sectoral Innovation WatchRennings, K., (1999) Towards a Theory and Policy of Eco-Innovation-Neoclassical and (co-) Evolutionary Perspectives. ZEW Discussion Paper, , Zentrum für Europäische Wirtschaftsforschung: Mannheim; 
+Rennings, K., Redefining innovation-eco-innovation research and the contribution from ecological economics (2000) Ecological Economics, 32 (2), pp. 319-332; 
+Rennings, K., Rammer, C., Oberndorfer, U., Jacob, K., (2008) Instrumente zur Förderung von Umweltinnovationen. Umwelt, Innovation, Beschäftigung, , Umweltbundesamt: Berlin; 
+Rhomberg, W., Steindl, C., Weber, M., (2006) Neue Entwicklungen im Bereich der Wirkungsanalyse und -abschätzung FTI-politischer Maßnahmen. Endbericht, , Austrian Research Centers: Vienna; 
+Ritthoff, M., Rohn, H., Liedtke, C., (2002) Calculating MIPS: Resource Productivity of Products and Services, , Wuppertal Institute for Climate, Environment and Energy: Wuppertal; 
+Rockström, J., Planetary boundaries (2010) New Perspectives Quarterly, 27 (1), pp. 72-74; 
+Rohn, H., Bliesner, A., Dreuw, K., Klinke, S., Schmitt, M., Resource culture - Analysis of resource efficiency innovations and cultures of trust: how to advance innovation for sustainable development in SMEs (2010) Knowledge collaboration and learning for sustainable innovation: ERSCP-EMSU conference, Delft, The Netherlands, 25-29 October 2010, , In . Delft University of Technology: Delft; 
+Schmidt-Bleek, F., (1993) The Fossil Makers, , Birkhäuser Verlag: Basel; 
+Schmidt-Bleek, F., (2009) The Earth: Natural Resources and Human Intervention, , Haus: London; 
+Schwegler, R., Schmidt, M., Ressourceneffizienz in Unternehmen: Erfolgsfaktoren und Hemmnisse (2008) Ressourceneffizienz im Kontext der Nachhaltigkeitsdebatte I, pp. 161-182. , In, Hartard S, Schaffer A, Giegrich J (eds). Nomos: Baden-Baden; -; 
+Seliger, G., (2007) Nachhaltige industrielle Wertschöpfungsnetze, , http://www.natwiss.de/inc/Seliger_Wertschoepfungsnetze.pdf, TU Berlin; 
+Seiler-Hausmann, J., Liedtke, C., Weizsäcker, E.U.V., (2004) Eco-efficiency and beyond: towards the sustainable enterprise, , Greenleaf Publishing: Sheffield; 
+Sheik, S., Radauer, A., (2002), Zwischenevaluierung der Initiative TIM - Technologie- und Innovationsmanagement. Studie im Auftrag des Landes Oberösterreich und der Wirtschaftskammer Oberösterreich. ViennaSiderius, P.J.S., Nakagami, H., A MEPS is a MEPS is a MEPS: Comparing ecodesign and top runner schemes for setting product efficiency standards (2013) Energy Efficiency, 6 (1), pp. 1-19; 
+Simon, H., Bounded rationality and organizational learning (1991) Organization Science, 2 (1), pp. 125-134; 
+Spangenberg, J.H., Hinterberger, F., Moll, S., Schutz, H., Material flow analysis, TMR and the MIPS concept: a contribution to the development of indicators for measuring changes in consumption and production patterns (1999) International Journal of Sustainable Development, 2 (4), pp. 491-505; 
+Steinberger, J.K., Krausmann, F., Material and energy productivity (2011) Environmental Science and Technology, 45 (4), pp. 1169-1176; 
+Trinczek, R., How to interview managers? methodical and methodological aspects of expert interviews as a qualitative method in empirical social research (2009) Interviewing Experts, pp. 203-216. , In, Bogner A, Littig B, Menz W (eds). Palgrave Macmillan: Houndsmill, Basingstoke; -; 
+(2011) Towards a Green Economy: Pathways to Sustainable Development and Poverty Eradication, , UN Environmental Program UN Environmental Program: Nairobi; 
+Decoupling Natural Resource Use and Environmental Impacts from Economic Growth. A Report of the Working Group on Decoupling to the International Resource Panel (2011), UN Environmental Program: NairobiWeizsäcker, E.U.V., Lovins, A., Lovins, H., (1997) Factor Four: Doubling Wealth - Halving Resource Use, , Earthscan Publications: London; 
+Wied, T., Brüggemann, A., Material- und Rohstoffeffizienz in Unternehmen (2009) Perspektive Zukunftsfähigkeit - Steigerung der Rohstoff- und Materialeffizienz, pp. 33-52. , In, KfW-Research (ed.). KfW Banking Group: Frankfurt am Main; -
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84911962956&partnerID=40&md5=7788464012801d6237b50449f344a26b
+ER  - 
+
+TY  - JOUR
+TI  - Inhibitory control gains from higher-order cognitive strategy training
+T2  - Brain and Cognition
+J2  - Brain Cogn.
+VL  - 84
+IS  - 1
+SP  - 44
+EP  - 62
+PY  - 2014
+DO  - 10.1016/j.bandc.2013.10.007
+SN  - 02782626 (ISSN) 
+AU  - Motes, M.A.
+AU  - Gamino, J.F.
+AU  - Chapman, S.B.
+AU  - Rao, N.K.
+AU  - Maguire, M.J.
+AU  - Brier, M.R.
+AU  - Kraut, M.A.
+AU  - Hart, J.
+AD  - Center for BrainHealth, School of Behavioral and Brain Sciences, University of Texas at Dallas, United States
+AD  - Callier Center for Communication Disorders, School of Behavioral and Brain Sciences, University of Texas at Dallas, United States
+AD  - Department of Neurology, University of Texas Southwestern Medical Center at Dallas, United States
+AD  - Medical Scientist Training Program and Program in Neuroscience, Washington University in St. Louis, United States
+AD  - Department of Radiology, Johns Hopkins University School of Medicine, United States
+AB  - The present study examined the transfer of higher-order cognitive strategy training to inhibitory control. Middle school students enrolled in a comprehension- and reasoning-focused cognitive strategy training program and passive controls participated. The training program taught students a set of steps for inferring essential gist or themes from materials. Both before and after training or a comparable duration in the case of the passive controls, participants completed a semantically cued Go/No-Go task that was designed to assess the effects of depth of semantic processing on response inhibition and components of event-related potentials (ERP) related to response inhibition. Depth of semantic processing was manipulated by varying the level of semantic categorization required for response selection and inhibition. The SMART-trained group showed inhibitory control gains and changes in fronto-central P3 ERP amplitudes on inhibition trials; whereas, the control group did not. The results provide evidence of the transfer of higher-order cognitive strategy training to inhibitory control and modulation of ERPs associated with semantically cued inhibitory control. The findings are discussed in terms of implications for cognitive strategy training, models of cognitive abilities, and education. © 2013.
+KW  - Cognitive control
+KW  - Cognitive strategy training
+KW  - Comprehension
+KW  - Executive function
+KW  - Inhibition
+KW  - Inhibitory control
+KW  - Reasoning
+KW  - Transfer
+KW  - adolescent
+KW  - article
+KW  - association
+KW  - brain region
+KW  - child
+KW  - cognition
+KW  - controlled study
+KW  - electroencephalogram
+KW  - event related potential
+KW  - female
+KW  - human
+KW  - human experiment
+KW  - inhibition (psychology)
+KW  - male
+KW  - mental task
+KW  - neuromodulation
+KW  - normal human
+KW  - priority journal
+KW  - school child
+KW  - scoring system
+KW  - semantics
+KW  - signal detection
+KW  - task performance
+KW  - brain
+KW  - cognition
+KW  - electroencephalography
+KW  - evoked response
+KW  - inhibition (psychology)
+KW  - learning
+KW  - physiology
+KW  - Adolescent
+KW  - Brain
+KW  - Cognition
+KW  - Cues
+KW  - Electroencephalography
+KW  - Evoked Potentials
+KW  - Female
+KW  - Humans
+KW  - Inhibition (Psychology)
+KW  - Male
+KW  - Practice (Psychology)
+KW  - Semantics
+PB  - Academic Press Inc.
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: BRCOE
+C2  - 24286804
+LA  - English
+N1  - Correspondence Address: Motes, M.A.; Center for BrainHealth, School of Behavioral and Brain Sciences, University of Texas at Dallas, 2200 W. Mockingbird Lane, Dallas, TX 75235, United States; email: michael.motes@utd.edu
+N1  - References: Anand, R., Chapman, S.B., Rackley, A., Keebler, M., Zientz, J., Hart, J., Gist reasoning training in cognitively normal seniors (2011) International Journal of Geriatric Psychiatry, 26, pp. 961-968; 
+Banquet, J.P., Renault, B., Lesevre, N., Effect of task and stimulus probability on evoked potentials (1981) Biological Psychology, 13, pp. 203-214; 
+Barkley, R.A., Behavioral inhibition, sustained attention, and executive functions: Constructing a unifying theory of ADHD (1997) Psychological Bulletin, 121, pp. 65-94; 
+Basak, C., Boot, W.R., Voss, M.W., Kramer, A.F., Can training in a real-time strategy video game attenuate cognitive decline in older adults? (2008) Psychology and Aging, 23, pp. 765-777; 
+Bedard, A.C., Nichols, S., Barbosa, J.A., Schachar, R., Logan, G.D., Tannock, R., The development of selective inhibitory control across the life span (2002) Developmental Neuropsychology, 21, pp. 93-111; 
+Bokura, H., Yamaguchi, S., Kobayashi, S., Electrophysiological correlates for response inhibition in a Go/NoGo task (2001) Clinical Neurophysiology, 112, pp. 2224-2232; 
+Brier, M.R., Ferree, T.C., Maguire, M.J., Moore, P., Spence, J., Tillman, G.D., Frontal theta and alpha power and coherence changes are modulated by semantic complexity in Go/NoGo tasks (2010) International Journal of Psychophysiology, 78, pp. 215-224; 
+Brocki, K.C., Bohlin, G., Executive functions in children aged 6 to 13: A dimensional and developmental study (2004) Developmental Neuropsychology, 26, pp. 571-593; 
+Brown, A.L., Day, J.D., Macrorules for summarizing texts: The development of expertise (1983) Journal of Verbal Learning and Verbal Behavior, 22, pp. 1-14; 
+Bruin, K.J., Wijers, A.A., Inhibition, response mode, and stimulus probability: A comparative event-related potential study (2002) Clinical Neurophysiology, 113, pp. 1172-1182; 
+Bruin, K.J., Wijers, A.A., van Staveren, A.S.J., Response priming in a go/nogo task: Do we have to explain the go/nogo N2 effect in terms of response activation instead of inhibition? (2001) Clinical Neurophysiology, 112, pp. 1660-1671; 
+Bull, R., Scerif, G., Executive functioning as a predictor of children's mathematics ability: Inhibition, switching, and working memory (2001) Developmental Neuropsychology, 19, pp. 273-293; 
+Cain, K., Individual differences in children's memory and reading comprehension: An investigation of semantic and inhibitory deficits (2006) Memory, 14, pp. 553-569; 
+Campbell, D., Stanley, J., (1966) Experimental and quasi-experimental designs for research, , Houghton Mifflin Company, Boston; 
+Chapman, S.B., Gamino, J.F., (2008) Strategic memory and reasoning training (SMART), , Center for BrainHealth, Dallas, TX; 
+Chiappe, P., Siegel, L., Hasher, L., Working memory, inhibitory control, and reading disability (2000) Memory & Cognition, 28, pp. 8-17; 
+Collins, A.M., Quillian, M.R., Retrieval time from semantic memory (1969) Journal of Verbal Learning and Verbal Behavior, 8. , 240-&; 
+Conley, M., Cognitive strategy instruction for adolescents: What we know about the promise, what we don't know about the potential (2008) Harvard Educational Review, 78, pp. 84-106; 
+Craik, F.I.M., Winocur, G., Palmer, H., Binns, M.A., Edwards, M., Bridges, K., Cognitive rehabilitation in the elderly: Effects on memory (2007) Journal of the International Neuropsychological Society, 13, pp. 132-142; 
+Dansereau, D.F., Learning strategy research (1985) Thinking and learning skills: Relating instruction to research, 1, pp. 209-239. , Erlbaum, Hillsdale, NJ; 
+De Beni, R., Palladino, P., Intrusion errors in working memory tasks: Are they related to reading comprehension ability? (2000) Learning and Individual Differences, 12, pp. 131-143; 
+De Neys, W., Everaerts, D., Developmental trends in everyday conditional reasoning: The retrieval and inhibition interplay (2008) Journal of Experimental Child Psychology, 100, pp. 252-263; 
+De Neys, W., Schaeken, W., d'Ydewalle, G., Working memory and everyday conditional reasoning: Retrieval and inhibition of stored counterexamples (2005) Thinking & Reasoning, 11, pp. 349-381; 
+Dempster, F.N., Inhibitory processes: A neglected dimension of intelligence (1991) Intelligence, 15, pp. 157-173; 
+Dempster, F.N., Corkill, A., Interference and inhibition in cognition and behavior: Unifying themes for educational psychology (1999) Educational Psychology Review, 11, pp. 1-88; 
+Donkers, F.C.L., van Boxtel, G.J.M., The N2 in go/no-go tasks reflects conflict monitoring not response inhibition (2004) Brain and Cognition, 56, pp. 165-176; 
+Duncan-Johnson, C.C., Donchin, E., On quantifying surprise: The variation of event-related potentials with subjective probability (1977) Psychophysiology, 14, pp. 456-467; 
+Duncan, C.C., Barry, R.J., Connolly, J.F., Fischer, C., Michie, P.T., Näätänen, R., Event-related potentials in clinical research: Guidelines for eliciting, recording, and quantifying mismatch negativity, P300, and N400 (2009) Clinical Neurophysiology, 120, pp. 1883-1908; 
+Eagle, D., Bari, A., Robbins, T., The neuropsychopharmacology of action inhibition: Cross-species translation of the stop-signal and go/no-go tasks (2008) Psychopharmacology, 199, pp. 439-456; 
+Eimer, M., Effects of attention and stimulus probability on ERPs in a Go/Nogo task (1993) Biological Psychology, 35, pp. 123-138; 
+Falkenstein, M., Hoormann, J., Hohnsbein, J., ERP components in Go/Nogo tasks and their relation to inhibition (1999) Acta Psychologica, 101, pp. 267-291; 
+Ferree, T., Spherical splines and average referencing in scalp electroencephalography (2006) Brain Topography, 19, pp. 43-52; 
+Friedman, N.P., Miyake, A., The relations among inhibition and interference control functions: A latent-variable analysis (2004) Journal of Experimental Psychology: General, 133, pp. 101-135; 
+Friedman, N.P., Miyake, A., Corley, R.P., Young, S.E., DeFries, J.C., Hewitt, J.K., Not all executive functions are related to intelligence (2006) Psychological Science, 17, pp. 172-179; 
+Friedman, N.P., Miyake, A., Young, S.E., DeFries, J.C., Corley, R.P., Hewitt, J.K., Individual differences in executive functions are almost entirely genetic in origin (2008) Journal of Experimental Psychology: General, 137, pp. 201-225; 
+Gamino, J.F., Chapman, S.B., Hull, E.L., Lyon, R., Effects of higher-order cognitive strategy training on gist reasoning and fact learning in adolescents (2010) Frontiers in Psychology, 1, p. 188; 
+Gemba, H., Changes in cortical field potentials during learning processes of go/no-go reaction time hand movement with tone discrimination in the monkey (1993) Neuroscience Letters, 159, pp. 21-24; 
+Gemba, H., Sasaki, K., Potential related to no-go reaction in go/no-go hand movement with discrimination between tone stimuli of different frequencies in the monkey (1990) Brain Research, 537, pp. 340-344; 
+Gernsbacher, M.A., Faust, M.E., The mechanism of suppression: A component of general comprehension skill (1991) Journal of Experimental Psychology: Learning Memory and Cognition, 17, pp. 245-262; 
+Gernsbacher, M.A., Robertson, R.R.W., Reading skill and suppression revisited (1995) Psychological Science, 6, pp. 165-169; 
+Gilbert, S.J., Burgess, P.W., Executive function (2008) Current Biology, 18, pp. R110-R114; 
+Green, K.E., Kluever, R.C., Structural properties of Raven's Coloured Progressive Matrices for a sample of gifted children (1991) Perceptual and Motor Skills, 72, pp. 59-64; 
+Handley, S.J., Capon, A., Beveriddge, M., Dennis, I., Evans, J.S.B.T., Working memory, inhibitory control and the development of children's reasoning (2004) Thinking & Reasoning, 10, pp. 175-195; 
+Hillman, C.H., Pontifex, M.B., Motl, R.W., O'Leary, K.C., Johnson, C.R., Scudder, M.R., From ERPs to academics (2012) Developmental Cognitive Neuroscience, 2 (1 SUPPL.), pp. S90-S98; 
+Houdé, O., Inhibition and cognitive development: Object, number, categorization, and reasoning (2000) Cognitive Development, 15, pp. 63-73; 
+Houdé, O., Zago, L., Mellet, E., Moutier, S., Pineau, A., Mazoyer, B., Shifting from the perceptual brain to the logical brain: The neural impact of cognitive inhibition training (2000) Journal of Cognitive Neuroscience, 12, pp. 721-728; 
+Johnstone, S.J., Dimoska, A., Smith, J.L., Barry, R.J., Pleffer, C.B., Chiswick, D., The development of stop-signal and Go/Nogo response inhibition in children aged 7-12years: Performance and event-related potential indices (2007) International Journal of Psychophysiology, 63, pp. 25-38; 
+Junghöfer, M., Elbert, T., Tucker, D.M., Braun, C., The polar average reference effect: A bias in estimating the head surface integral in EEG recording (1999) Clinical Neurophysiology, 110, pp. 1149-1155; 
+Just, M.A., Carpenter, P.A., A capacity theory of comprehension: Individual differences in working memory (1992) Psychological Review, 99, pp. 122-149; 
+Kintsch, W., van Dijk, T.A., Toward a model of text comprehension and production (1978) Psychological Review, 85, pp. 363-394; 
+Klauer, K.J., Phye, G.D., Inductive reasoning: A training approach (2008) Review of Educational Research, 78, pp. 85-123; 
+Klauer, K.J., Willmes, K., Phye, G.D., Inducing inductive reasoning: Does it transfer to fluid intelligence? (2002) Contemporary Educational Psychology, 27, pp. 1-25; 
+Kopp, B., Mattler, U., Goertz, R., Rist, F., N2, P3 and the lateralized readiness potential in a nogo task involving selective response priming (1996) Electroencephalography and Clinical Neurophysiology, 99, pp. 19-27; 
+Kramer, A.F., Hahn, S., Gopher, D., Task coordination and aging: Explorations of executive control processes in the task switching paradigm (1999) Acta Psychologica, 101, pp. 339-378; 
+Kramer, A.F., Humphrey, D.G., Larish, J.F., Logan, G.D., Strayer, D.L., Aging and inhibition: Beyond a unitary view of inhibitory processing in attention (1994) Psychology and Aging, 9, pp. 491-512; 
+Luria, A.R., The directive function of speech in development and dissolution (1959) Word, 15, pp. 314-464; 
+Maguire, M.J., Brier, M.R., Moore, P.S., Ferree, T.C., Ray, D., Mostofsky, S., The influence of perceptual and semantic categorization on inhibitory processing as measured by the N2-P3 response (2009) Brain and Cognition, 71, pp. 196-203; 
+Maguire, M.J., White, J., Brier, M.R., How semantic categorization influences inhibitory processing in middle-childhood: An event related potentials study (2011) Brain and Cognition, 76, pp. 77-86; 
+Miyake, A., Friedman, N.P., Emerson, M.J., Witzki, A.H., Howerter, A., Wager, T.D., The unity and diversity of executive functions and their contributions to complex "Frontal Lobe" tasks: A latent variable analysis (2000) Cognitive Psychology, 41, pp. 49-100; 
+Morrison, A., Chein, J., Does working memory training work? The promise and challenges of enhancing cognition by training working memory (2011) Psychonomic Bulletin & Review, 18, pp. 46-60; 
+Moutier, S., Angeard, N., Houde, O., Deductive reasoning and matching-bias inhibition training: Evidence from a debiasing paradigm (2002) Thinking & Reasoning, 8, pp. 205-224; 
+Moutier, S., Houdé, O., Judgement under uncertainty and conjunction fallacy inhibition training (2003) Thinking & Reasoning, 9, pp. 185-201; 
+Nakata, H., Inui, K., Nishihira, Y., Hatta, A., Sakamoto, M., Kida, T., Effects of a go/nogo task on event-related potentials following somatosensory stimulation (2004) Clinical Neurophysiology, 115, pp. 361-368; 
+Nakata, H., Sakamoto, K., Kakigi, R., Characteristics of No-go-P300 component during somatosensory Go/No-go paradigms (2010) Neuroscience Letters, 478, pp. 124-127; 
+Pellegrino, J.W., Glaser, R., Components of inductive reasoning (1979) Aptitude, learning, and instruction: Cognitive process analyses of aptitude, pp. 177-218. , Erlbaum, Hillsdale, NJ, R.E. Snow, P.A. Federico, W.E. Montague (Eds.); 
+Perner, J., Lang, B., Kloo, D., Theory of mind and self-control: More than a common problem of inhibition (2002) Child Development, 73, pp. 752-767; 
+Perrin, F., Pernier, J., Bertrand, O., Echallier, J.F., Spherical splines for scalp potential and current density mapping (1989) Electroencephalography and Clinical Neurophysiology, 72, pp. 184-187; 
+Pfefferbaum, A., Ford, J.M., ERPs to stimuli requiring response production and inhibition: Effects of age, probability and visual noise (1988) Electroencephalography and Clinical Neurophysiology, 71, pp. 55-63; 
+Pimperton, H., Nation, K., Suppressing irrelevant information from working memory: Evidence for domain-specific deficits in poor comprehenders (2010) Journal of Memory and Language, 62, pp. 380-391; 
+Polich, J., Bondurant, T., P300 sequence effects, probability, and interstimulus interval (1997) Physiology & Behavior, 61, pp. 843-849; 
+Polich, J., Ellerson, P.C., Cohen, J., P300, stimulus intensity, modality, and probability (1996) International Journal of Psychophysiology, 23, pp. 55-62; 
+Poulton, E.C., Perceptual anticipation and reaction time (1950) Quarterly Journal of Experimental Psychology, 2, pp. 99-112; 
+Pressley, M., Woloshyn, V., Lysynchuk, L., Martin, V., Wood, E., Willoughby, T., A primer of research on cognitive strategy instruction: The important issues and how to address them (1990) Educational Psychology Review, 2, pp. 1-58; 
+Randall, W.M., Smith, J.L., Conflict and inhibition in the cued-Go/NoGo task (2011) Clinical Neurophysiology, 122, pp. 2400-2407; 
+Robin, N., Holyoak, K.J., Relational complexity and the function of prefrontal cortex (1995) The cognitive neurosciences, pp. 987-997. , MIT Press, Cambridge, M.S. Gazzaniga (Ed.); 
+Rosch, E., Mervis, C.B., Gray, W.D., Johnson, D.M., Boyesbraem, P., Basic objects in natural categories (1976) Cognitive Psychology, 8, pp. 382-439; 
+Rosenshine, B., Meister, C., The use of scaffolds for teaching higher-level cognitive strategies (1992) Educational Leadership, 49, pp. 26-33; 
+Rubia, K., Russell, T., Overmeyer, S., Brammer, M.J., Bullmore, E.T., Sharma, T., Mapping motor inhibition: Conjunctive brain activations across different versions of go/no-go and stop tasks (2001) NeuroImage, 13, pp. 250-261; 
+Ryan, M., Martin, R., Denckla, M.B., Mostofsky, S.H., Mahone, E.M., Interstimulus jitter facilitates response control in children with ADHD (2010) Journal of the International Neuropsychological Society, 16, pp. 388-393; 
+Salthouse, T.A., Atkinson, T.M., Berish, D.E., Executive functioning as a potential mediator of age-related cognitive decline in normal adults (2003) Journal of Experimental Psychology: General, 132, pp. 566-594; 
+Sasaki, K., Gemba, H., Nambu, A., Matsuzaki, R., No-go activity in the frontal association cortex of human subjects (1993) Neuroscience Research, 18, pp. 249-252; 
+Sasaki, K., Gemba, H., Tsujimoto, T., Suppression of visually initiated hand movement by stimulation of the prefrontal cortex in the monkey (1989) Brain Research, 495, pp. 100-107; 
+Schachar, R., Logan, G., Robaey, P., Chen, S., Ickowicz, A., Barr, C., Restraint and cancellation: Multiple inhibition deficits in attention deficit hyperactivity disorder (2007) Journal of Abnormal Child Psychology, 35, pp. 229-238; 
+Segalowitz, N., Frenkiel-Fishman, S., Attention control and ability level in a complex cognitive skill: Attention shifting and second-language proficiency (2005) Memory & Cognition, 33, pp. 644-653; 
+Shilling, V.M., Chetwynd, A., Rabbitt, P.M., Individual inconsistency across measures of inhibition: An investigation of the construct validity of inhibition in older adults (2002) Neuropsychologia, 40, pp. 605-619; 
+Simpson, A., Riggs, K.J., Conditions under which children experience inhibitory difficulty with a "button-press" go/no-go task (2006) Journal of Experimental Child Psychology, 94, pp. 18-26; 
+Simson, R., Vaughan, H.G., Ritter, W., The scalp topography of potentials in auditory and visual Go/NoGo tasks (1977) Electroencephalography and Clinical Neurophysiology, 43, pp. 864-875; 
+Smith, J.L., To Go or not to Go, that is the question: Do the N2 and P3 reflect stimulus- or response-related conflict? (2011) International Journal of Psychophysiology, 82, pp. 143-152; 
+Smith, J.L., Johnstone, S.J., Barry, R.J., Response priming in the Go/NoGo task: The N2 reflects neither inhibition nor conflict (2007) Clinical Neurophysiology, 118, pp. 343-355; 
+Snodgrass, J.G., Vanderwart, M., A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity (1980) Journal of Experimental Psychology: Human Learning and Memory, 6, pp. 174-215; 
+Stanislaw, H., Todorov, N., Calculation of signal detection theory measures (1999) Behavior Research Methods, 31, pp. 137-149; 
+Starr, A., Sandroni, P., Michalewski, H.J., Readiness to respond in a target detection task: Pre- and post-stimulus event-related potentials in normal subjects (1995) Electroencephalography and Clinical Neurophysiology/Evoked Potentials Section, 96, pp. 76-92; 
+Sternberg, R.J., Gardner, M.K., Unities in inductive reasoning (1983) Journal of Experimental Psychology: General, 112, pp. 80-116; 
+van der Ven, A.H.G.S., Ellis, J.L., A Rasch analysis of Raven's standard progressive matrices (2000) Personality and Individual Differences, 29, pp. 45-64; 
+van Dijk, T.A., Pragmatic macro-structures in discourse and cognition (1977) CC 77 international workshop on the cognitive viewpoint, , University of Ghent, Ghent, M. de Mey, R. Pinxten, M. Poriau, R. Vandamme (Eds.); 
+Varma, S., McCandliss, B.D., Schwartz, D., Scientific and pragmatic challenges for bridging education and neuroscience (2008) Educational Researcher, 37, pp. 140-152; 
+Vas, A.K., Chapman, S.B., Cook, L.G., Elliott, A.C., Keebler, M., Higher-order reasoning training years after traumatic brain injury in adults (2011) Journal of Head Trauma Rehabilitation, 26, pp. 224-239; 
+Verbruggen, F., Logan, G.D., Response inhibition in the stop-signal paradigm (2008) Trends in Cognitive Science, 12, pp. 418-424; 
+Verbruggen, F., Logan, G.D., Models of response inhibition in the stop-signal and stop-change paradigms (2009) Neuroscience & Biobehavioral Reviews, 33, pp. 647-661; 
+Viskontas, I.V., Morrison, R.G., Holyoak, K.J., Hummel, J.E., Knowlton, B.J., Relational integration, inhibition, and analogical reasoning in older adults (2004) Psychology and Aging, 19, pp. 581-591; 
+Wagenmakers, E.J., Brown, S., On the linear relation between the mean and the standard deviation of a response time distribution (2007) Psychological Review, 114, pp. 830-841; 
+Wechsler, D., (1999) Wechsler Abbreviated Scale of Intelligence (WASI), , Pearson/PsychCorp, San Antonio, TX; 
+Weinstein, C.E., Mayer, R.E., The teaching of learning strategies (1986) Handbook of research on teaching, pp. 315-327. , Macmillian Publishing Company, NY, M.C. Wittrock (Ed.); 
+Weinstein, C.E., Meyer, D.K., Cognitive learning strategies and college teaching (1991) New Directions for Teaching and Learning, 1991, pp. 15-26; 
+Weinstein, C.E., Ridley, D.S., Dahl, T., Weber, E.S., Helping students develop strategies for effective learning (1989) Educational Leadership, 46, pp. 17-19; 
+Williams, B.R., Ponesse, J.S., Schachar, R.J., Logan, G.D., Tannock, R., Development of inhibitory control across the life span (1999) Developmental Psychology, 35, pp. 205-213; 
+Wodka, E.L., Simmonds, D.J., Mahone, E.M., Mostofsky, S.H., Moderate variability in stimulus presentation improves motor response control (2009) Journal of Clinical Experimental Neuropsychology, 31, pp. 483-488; 
+Woodman, G.F., A brief introduction to the use of event-related potentials in studies of perception and attention (2010) Attention, Perception, & Psychophysics, 72, pp. 2031-2046
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84888355802&partnerID=40&md5=aa8bfdd3ed03236cc4f4d799bfacd423
+ER  - 
+
+TY  - JOUR
+TI  - RFID application of smart grid for asset management
+T2  - International Journal of Antennas and Propagation
+J2  - Int. J. Antennas Propag.
+VL  - 2013
+PY  - 2013
+DO  - 10.1155/2013/264671
+SN  - 16875869 (ISSN) 
+AU  - Wang, X.
+AU  - Dang, Q.
+AU  - Guo, J.
+AU  - Ge, H.
+AD  - Beijing China Power Information Technology Co., Ltd., State Grid Electric Power Research Institute, Haidian District, Beijing 100192, China
+AD  - Beijing University of Posts and Telecommunications, Haidian District, Beijing 100876, China
+AB  - RFID technology research has resolved practical application issues of the power industry such as assets management, working environment control, and vehicle networking. Also it provides technical reserves for the convergence of ERP and CPS. With the development of RFID and location-based services technology, RFID is converging with a variety of sensing, communication, and information technologies. Indoor positioning applications are under rapid development. Micromanagement environment of the assets is a useful practice for the RFID and positioning. In this paper, the model for RFID applications has been analyzed in the microenvironment management of the data center and electric vehicle batteries, and the optimization scheme of enterprise asset management is also proposed. © 2013 Xiwei Wang et al.
+KW  - Assets management
+KW  - Electric vehicle batteries
+KW  - Enterprise asset managements
+KW  - Indoor positioning
+KW  - Microenvironments
+KW  - Optimization scheme
+KW  - Vehicle networkings
+KW  - Working environment
+KW  - Information technology
+KW  - Location based services
+KW  - Asset management
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+C7  - 264671
+LA  - English
+N1  - Correspondence Address: Dang, Q.; Beijing China Power Information Technology Co., Ltd., State Grid Electric Power Research Institute, Haidian District, Beijing 100192, China; email: dangqi@sgepri.sgcc.com.cn
+N1  - References: Milgram, S., The small world problem (1967) Psychology Today, 2 (1), pp. 60-67; 
+Cohen, R., Havlin, S., Scale-free networks are ultrasmall (2003) Physical Review Letters, 90 (5), p. 4. , 058701 2-s2.0-0037423295; 
+Albert, R., Jeong, H., Barabasi, A.-L., Error and attack tolerance of complex networks (2000) Nature, 406 (6794), pp. 378-382. , DOI 10.1038/35019019; 
+Watts, D.J., Strogatz, S.H., Collective dynamics of "small-world" networks (1998) Nature, 393 (6684), pp. 440-442. , 2-s2.0-0032482432; 
+Kleinberg, J.M., Navigation in a small world (2000) Nature, 406 (6798), p. 845. , DOI 10.1038/35022643; 
+Hey, A.J.G., (2009) The Fourth Paradigm: Data-Intensive Scientific Discovery; 
+Howe, D., Costanzo, M., Fey, P., Gojobori, T., Hannick, L., Hide, W., Hill, D.P., Yon Rhee, S., Big data: The future of biocuration (2008) Nature, 455 (7209), pp. 47-50. , 2-s2.0-51349115095 10.1038/455047a; 
+Dean, J., Ghemawat, S., MapReduce: Simplified data processing on large clusters (2008) Communications of the ACM, 51 (1), pp. 107-113. , 2-s2.0-37549003336 10.1145/1327452.1327492; 
+Anderson, C., The End of Theory: The Data Deluge Makes the Scientific Method Obsolete, , Wired, 2008; 
+Ghemawat, S., Gobioff, H., Leung, S.-T., The google file system (2003) Operating Systems Review (ACM), 37 (5), pp. 29-43. , SOSP'03: Proceedings of the 19th ACM Symposium on Operating Systems Principles; 
+Guojie, L., Xueqi, C., Research status and scientific thinking of big data (2012) Strategy and Policy Decision Research, 6, pp. 647-657; 
+Lee, E.A., Cyber physical systems: Design challenges Proceedings of the 11th IEEE Symposium on Object-Oriented Real-Time Distributed Computing (ISORC '08), pp. 363-369. , May 2008 Orlando, Fla, USA 2-s2.0-49649119406 10.1109/ISORC.2008.25; 
+Tan, Y., Vuran, M.C., Goddard, S., Spatio-temporal event model for cyber-physical systems (2009) Proceedings of the 29th IEEE International Conference on Distributed Computing Systems Workshops (ICDCSW '09), pp. 44-50. , 10.1109/ICDCSW.2009.82; 
+Kim, J.E., Mosse, D., Generic framework for design, modeling and simulation of cyber physical systems (2008) ACM SIGBED Review, 5 (1), pp. 1-2; 
+Rajkumar, R.R., Lee, I., Sha, L., Stankovic, J., Cyber-physical systems: The next computing revolution Proceedings of the 47th Design Automation Conference (DAC '10), pp. 731-736. , June 2010 ACM 2-s2.0-77956217277 10.1145/1837274.1837461; 
+Ahmadi, H., Abdelzaher, T.F., Gupta, I., Congestion control for spatio-temporal data in cyber-physical systems Proceedings of the 1st ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS '10), pp. 89-98. , April 2010 ACM 2-s2.0-77954574999 10.1145/1795194.1795207
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84890058904&partnerID=40&md5=76675e17d76ebde21c98dbb976092587
+ER  - 
+
+TY  - JOUR
+TI  - Agent-based Gateway Operating System for RFID-enabled ubiquitous manufacturing enterprise
+T2  - Robotics and Computer-Integrated Manufacturing
+J2  - Rob Comput Integr Manuf
+VL  - 29
+IS  - 4
+SP  - 222
+EP  - 231
+PY  - 2013
+DO  - 10.1016/j.rcim.2013.01.001
+SN  - 07365845 (ISSN) 
+AU  - Fang, J.
+AU  - Qu, T.
+AU  - Li, Z.
+AU  - Xu, G.
+AU  - Huang, G.Q.
+AD  - HKU-ZIRI Lab for Physical Internet, Department of Industrial and Manufacturing Systems Engineering, University of Hong Kong, Hong Kong, Hong Kong
+AB  - Capturing and processing of real-time manufacturing shop floor field data is essential in improving the performance of shop floor planning, execution and control. Radio Frequency IDentification (RFID) has enabled real-time information visibility and realized ubiquitous manufacturing enterprises with proper functionalities of Enterprise Information Systems (EISs). This paper presents a flexible, modularized and re-configurable framework for the new generation RFID middleware system, named Gateway Operating System (GOS). It is an overall software solution designed and proposed not only to address basic functions of RFID middleware system, but also to overcome the particular challenges and requirements for real-life manufacturing scenarios. GOS aims to provide an easy-to-deploy, simple-to-use and affordable RFID middleware solution for manufacturing applications. A multi-agent based model, named gateway smart agent manager, is designed to enable the heterogeneous RFID devices in a "Plug and Play" fashion and to cope with the changes from these connected hardware devices. To guarantee the versatility and scalability of GOS, an XML (eXtensible Markup Language) based message exchanging protocol is designed to fulfill the communication and interactions between applications and devices. Based on this protocol, an easy-to-deploy and simple-to-use application manager is built to manage, configure and use the connected devices as well as deployed applications. The proposed GOS will provide a new referenced framework for the development of lightweight RFID middleware system for manufacturing environment. © 2013 Elsevier Ltd. All rights reserved.
+KW  - Gateway service
+KW  - Middleware
+KW  - Real-time data capturing
+KW  - RFID/Auto-ID
+KW  - Software agent
+KW  - Communication and interaction
+KW  - Enterprise information system
+KW  - Gateway services
+KW  - Manufacturing applications
+KW  - Multi-agent based modeling
+KW  - Real-time data
+KW  - RFID/auto-ID
+KW  - XML (extensible markup language)
+KW  - Enterprise resource planning
+KW  - Information systems
+KW  - Managers
+KW  - Manufacture
+KW  - Manufacturing data processing
+KW  - Middleware
+KW  - Radio frequency identification (RFID)
+KW  - Software agents
+KW  - XML
+KW  - Gateways (computer networks)
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: RCIME
+LA  - English
+N1  - Correspondence Address: Huang, G.Q.; HKU-ZIRI Lab for Physical Internet, Department of Industrial and Manufacturing Systems Engineering, University of Hong Kong, Hong Kong, Hong Kong; email: gqhuang@hku.hk
+N1  - References: Huang, G.Q., Wright, P.K., Newman, S.T., Wireless manufacturing: A literature review, recent developments, and case studies (2009) International Journal of Computer Integrated Manufacturing, 22 (7), pp. 579-594; 
+Ngai, E.W.T., Moon, K.K.L., Riggins, F.J., Yi, C.Y., RFID research: An academic literature review (1995-2005) and future research directions International Journal of Production Economics 2008, 112 (2), pp. 510-520; 
+Gunasekaran, A., Ngai, E.W.T., McGaughey, R.E., Information technology and systems justification: A review for research and applications (2006) European Journal of Operational Research, 173 (3), pp. 957-983. , DOI 10.1016/j.ejor.2005.06.002, PII S0377221705004716; 
+Zhang, Y., Qu, T., Oscar, H., Huang, Q., Real-time work-in-progress management for smart object-enabled ubiquitous shop-floor environment (2011) International Journal of Computer Integrated Manufacturing, 24 (5), pp. 431-445; 
+Ji, F., Huang, Q., Li, Z., Event-driven multi-agent ubiquitous manufacturing execution platform for shop floor work-in-progress management (2012) International Journal of Production Research, p. 693644. , http://dx.doi:10.1080/00207543.2012; 
+Zhang, Y.F., Huang, G.Q., Qu, T., Ho, O., Agent-based workflow management for RFID-enabled real-time reconfigurable manufacturing (2010) International Journal of Computer Integrated Manufacturing, 23 (2), pp. 101-112; 
+Zhang, Y.F., Qu, T., Ho, K., Huang, G.Q., Agent-based smart gateway for RFID- enabled real-time wireless manufacturing (2011) International Journal of Production Research, 49 (5), pp. 1337-1352; 
+Zhang, Y., Huang, Q., Qu, T., Oscar, H., Sun, S., Agent-based smart objects management system for real-time ubiquitous manufacturing (2011) Robotics and Computer-Integrated Manufacturing, 27 (3), pp. 538-549; 
+Alexander, K., Gilliam, T., Gramling, K., Kindy, M., Moogimane, D., Schultz, M., (2002) Focus on the Supply Chain: Applying Auto-ID Within the Distribution Center, , Auto-ID Center, Cambridge, MA. Tech. Rep. IBM-AUTOID-BC-002;; 
+(2007) BizTalk Server 2006 Developer Productivity Study, , http://www.microsoft.com/biztalk/en/us/default.aspx, A Crimson Consulting Group. [accessed 23.02.12]; 
+(2008) The Increasing Importance of Choosing the Right RFID Middleware, , http://www.sybase.com/files/White_Papers/TheRightRFIDMiddleware.pdf, [accessed 23.02.12]; 
+Oracle fusion middleware and microsoft interoperability: Addressing enter prise wide needs (2006) An Oracle White Paper, , http://www.oracle.com/technetwork/middleware/fusion-middleware-microsoft- interop-1-131446.pdf, [accessed 23.02.12]; 
+Liu, Y., (2006) Integrate Your Enterprise Application with IBM WebSphere RFID Middleware, , http://www.ibm.com/developerworks/websphere/library/techarticles/ 0607_liu/0607_liu.html, [accessed 23.02.12]; 
+Floerkemeier, C., Roduner, C., Lampe, M., RFID application development with the accada middleware platform (2007) IEEE Systems Journal 1932-8184, 1 (2), pp. 82-94; 
+(2007) WINRFID RFID Middleware System, , http://www.winmec.ucla.edu/rfid/, UCLA WinMEC RFID Laboratory. [accessed 24.02.12]; 
+(2009) The Application Level Events (ALE) Specification. EPCglobal Ratified Standard with Fixed Errata, , EPCglobal. Version 1.1.1; 
+Glover, B., Bhatt, H., (2006) RFID Essentials, , O'Reilly; 
+(2002) Technical Report MIT-AUTOID-TM-003 Auto-ID Center, , Oat Systems and MIT Auto-ID Center. The savant version 0.1; 
+Floerkemeier, C., Lampe, M., RFID middleware design: Addressing application requirements and RFID constraints (2005) Proceedings of the 2005 Conference on Smart Objects and Ambiten Intelligence, pp. 219-224; 
+Wang, F., Complex RFID event processing (2009) VLDB Journal, 18 (4), pp. 913-931; 
+Wu, E., Diao, Y., Rizvi, S., High-performance complex event processing over streams (2006) Proceedings of the ACM SIGMOD International Conference on Management of Data, pp. 407-418. , DOI 10.1145/1142473.1142520, SIGMOD 2006 - Proceedings of the ACM SIGMOD International Conference on Management of Data; 
+Dong, L., Dong, W., Sheng, H., Design of RFID middleware based on complex event processing (2006) Proceedings of the IEEE Conference on Cybernetics and Intelligent Systems; 
+(2004) FIPA Agent Management Specification, , http://www.fipa.org, Document Number SC00023K. Dated 2004/18/03
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84886775916&partnerID=40&md5=ea19cc1243b6488f7cbc380486c698b8
+ER  - 
+
+TY  - JOUR
+TI  - Improve your operation with ERP
+T2  - Assembly
+J2  - Assembly
+VL  - 56
+IS  - 2
+PY  - 2013
+SN  - 10508171 (ISSN) 
+AU  - Nowak, G.
+AD  - IQMS, Pasa Robles, CA, United States
+AB  - Enterprise resource planning (ERP) software gathers and disseminates critical management information across your entire organization. Assembly-specific ERP software can ensure consistent quality and greater traceability within the processes. It can enhance tracking of routing structures and help you identify product availability and costs at each stage of production. It can increase inventory control, including better forecasting, tracking and material planning for improved purchasing decisions and just-in-time assembly. Key features include integration, scalability, ease of use, mobile interfacing, real-time data access, and industry-specific functions. To give manufacturers a complete picture of their business, ERP software must be fully integrated with any other software that shares the same data. The ERP system should be able to grow within company in terms of both modules and number of users. A good ERP system should have apps to take advantage of smart phones, scanners and other electronic devices.
+KW  - Consistent quality
+KW  - Electronic device
+KW  - Enterprise resource planning (ERP)
+KW  - Fully integrated
+KW  - Management information
+KW  - Product availability
+KW  - Purchasing decisions
+KW  - Routing structures
+KW  - Information management
+KW  - Enterprise resource planning
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ASMYE
+LA  - English
+N1  - Correspondence Address: Nowak, G.; IQMS, Pasa Robles, CA, United States; email: gnowak@iqms.com
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84875016187&partnerID=40&md5=303d4ce0d0229ff38e890c0a135cdee2
+ER  - 
+
+TY  - JOUR
+TI  - Controlling a rehabilitation robot with brain-machine interface: An approach based on independent component analysis and multiple kernel learning
+T2  - International Journal of Automation and Smart Technology
+J2  - Int. J. Autom. Amart Technol.
+VL  - 3
+IS  - 1
+SP  - 67
+EP  - 75
+PY  - 2013
+DO  - 10.5875/ausmt.v3i1.175
+SN  - 22239766 (ISSN) 
+AU  - Liu, Y.-H.
+AU  - Huang, H.-P.
+AU  - Huang, T.-H.
+AU  - Kang, Z.-H.
+AU  - Teng, J.-T.
+AD  - Department of Mechanical Engineering, Chung Yuan Christian University, Taiwan
+AD  - Department of Mechanical Engineering, National Taiwan University, Taiwan
+AB  - Patients suffering from severe motor disabilities are usually dependent on assistance from other people to engage in rehabilitation exercises, making the rehabilitation process time-consuming and inconvenient. We propose an automatic feature extraction method for a brain-machine interface that allows patients to control a robot using their own brain waves. A brain-machine interface (BMI) based on the P300 event-related potential (ERP), called the Brain Controlled Rehabilitation System (BCRS), was developed to detect patient intentions. Using the BCRS, patients can communicate with the robot through their brain waves. However, obtaining an automatically extracted, useful EEG signal is a difficult and important problem for BMI research. In this paper, Independent Component Analysis - Multiple Kernel Learning (ICA-MKL) is used to directly extract a useful signal and build the classification mode for BCRS. The results reveal that this method is useful for automatically extracting the P300 signal and improves on the accuracy of MKL. In addition, the same method can be extended to any motor imagery area. The ICA-MKL approach for brain imagery data also effectively removes eye-blink artifacts. © 2013 International Journal of Automation and Smart Technology.
+KW  - Brain wave
+KW  - Brain-machine interface
+KW  - Event-related potential
+KW  - ICA
+KW  - MKL
+PB  - Chinese Institute of Automation Engineers
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Liu, Y.-H.; Department of Mechanical Engineering, Chung Yuan Christian UniversityTaiwan; email: jlyh@cycu.edu.tw
+N1  - References: Neistadt, M.E., Crepeau, E.B., (1998) Willard and spackman's occupational therapy., , 9th ed. Philadelphia: Lippincott Williams & Wilkins; 
+James, C.J., Gibson, O.J., 'Temporally constrained ica: An application to artifact rejection in electromagnetic brain signal analysis' (2003) IEEE Transactions on Biomedical Engineering, 50 (9), pp. 1108-1116. , doi: 10.1109/TBME.2003.816076; 
+Zhou, W., Zhou, J., Zhao, H., Ju, L., 'Removing eye movement and power line artifacts from the eeg based on ica' (2005) 27th Annual International Conference of the Engineering in Medicine and Biology Society, pp. 6017-6020. , doi: 10.1109/IEMBS.2005.1615863; 
+Akhtar, M.T., James, C.J., Mitsuhashi, W., 'Modifying the spatially-constrained ica for efficient removal of artifacts from eeg data' (2010) 4th International Conference on Bioinformatics and Biomedical Engineering (iCBBE), pp. 1-4. , doi: 10.1109/ICBBE.2010.5515306; 
+Azzerboni, B., Carpentieri, M., La Foresta, F., Morabito, F.C., 'Neural-ICA and wavelet transform for artifacts removal in surface EMG' (2004) IEEE International Joint Conference on Neural Networks, 4, pp. 3223-3228. , doi: 10.1109/IJCNN.2004.1381194; 
+Kachenoura, A., Albera, L., Senhadji, L., Comon, P., 'Ica: A potential tool for bci systems' (2008) IEEE Signal Processing Magazine, 25 (1), pp. 57-68. , doi:10.1109/MSP.2008.4408442; 
+Hyvärinen, J.K., Oja, E., (2001) 'Independent component analysis', , John Wiley & Sons; 
+Sun, L., Liu, Y., Beadle, P.J., 'Independent component analysis of EEG signals' (2005) IEEE International Workshop on VLSI Design and Video Technology, pp. 219-222. , doi: 10.1109/IWVDVT.2005.1504590; 
+Chen, C.W., Lin, C.C.K., Ju, M.S., 'Hand orthosis controlled using brain-computer interface' (2009) Journal of Medical and Biological Engineering, 29, pp. 234-241; 
+Jung, T.P., Makeig, S., Westerfield, M., Townsend, J., Courchesne, E., Sejnowski, T.J., 'Removal of eye activity artifacts from visual event-related potentials in normal and clinical subjects' (2000) Clinical Neurophysiology, 111 (10), pp. 1745-1758. , doi: 10.1016/s1388-2457(00)00386-2; 
+Wang, C.P., Huang, H.P., Liu, Y.H., Huang, T.H., 'Automatic removal of eye-blink artifact in EEG based on ICA and SVDD' (2011) Internatonal Conference on Service and Interactive Robotics, , Taichung, Taiwan; 
+Brunner, C., Leeb, R., Müller-Putz, G.R., Schlögl, A., (2009) 'BCI competition 2008-graz data set a', , ed; 
+Huang, H.P., Huang, T.H., Liu, Y.H., Kang, Z.H., Teng, J.T., 'A brain-controlled rehabilitation system with multiple kernel learning' (2011) IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 591-596. , doi: 10.1109/icsmc.2011.6083775; 
+Lee, T.-W., Girolami, M., Sejnowski, T.J., 'Independent component analysis using an extended infomax algorithm for mixed subgaussian and supergaussian sources' (1999) Neural Computation, 11 (2), pp. 417-441. , doi: 10.1162/089976699300016719
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84905708944&partnerID=40&md5=ca4d900ffe719ab56b4064fcacbacba6
+ER  - 
+
+TY  - JOUR
+TI  - Smart information system for gachon university gil hospital
+T2  - Healthcare Informatics Research
+J2  - Healthc. Informatics Res.
+VL  - 18
+IS  - 1
+SP  - 74
+EP  - 83
+PY  - 2012
+DO  - 10.4258/hir.2012.18.1.74
+SN  - 20933681 (ISSN) 
+AU  - Park, D.K.
+AU  - Jung, E.Y.
+AU  - Jeong, B.H.
+AU  - Moon, B.C.
+AU  - Kang, H.W.
+AU  - Tchah, H.
+AU  - Han, G.S.
+AU  - Cheng, W.S.
+AU  - Lee, Y.H.
+AD  - u-HealthCare, Center Gachon University, Incheon, South Korea
+AD  - IT Division, Gachon University Gil Hospital, Gachon University, Incheon, South Korea
+AD  - MCC Inc, Gachon University, Incheon, South Korea
+AD  - Department of Information Technology, Gachon University, Incheon, South Korea
+AB  - Objectives: In this research, the hospital information system of Gachon University Gil hospital is introduced and a future strategy for hospital information systems is proposed. Methods: This research introduces the development conditions of hospital information system at Gachon University Gil hospital, information about the development of the enterprise resource planning (ERP), a medical service process improvement system, and the personal health record (PHR) system. Results: The medical service process and work efficiency were improved through the medical service process improvement system, which is the most common hospital information system at Gachon University Gil hospital and which includes an emergency medical service system, an online evaluation system and a round support system. Conclusions: Gachon University Gil hospital developed medical service improvement systems to increase work efficiency of medical team and optimized the systems to prove the availability of high-quality medical services for patients and their families. The PHR-based personalized health care solution is under development and will provide higher quality medical service for more patients in the future. © 2012 The Korean Society of Medical Informatics.
+KW  - Electronic medical record
+KW  - Hospital information system
+KW  - Management information system
+KW  - Personal health record
+KW  - Quality of health care
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Park, D. K.; u-HealthCare, Gachon University Gil Hospital, 21 Namdongdaero, 774 beon-gil, Namdong-gu, Incheon 405-760, South Korea; email: pdk66@gilhospital.com
+N1  - References: Lee, T.K., Status of present medical information system and future strategies (2011) Korean Soc Comput Inf Rev, 19, pp. 1-11; 
+Shin, J.W., Gachon University Gil hospital, leading medical and IT convergence (2010) Korea Inf Sci Soc Rev, 28, pp. 106-109; 
+Chung, D.G., Kim, K.H., Kim, M.G., The study on computer network for medical application (1995) Annu Bull Inst Hosp Manag, 1, pp. 51-75; 
+Park, Y.M., Oh, Y.H., A Study on the integration of healthcare information system based on SOA for PHR services (2011) J Korean Inst Electron Eng, 48, pp. 136-142; 
+Reti, S.R., Feldman, H.J., Safran, C., Governance for personal health records (2009) J Am Med Inform Assoc, 16, pp. 14-17; 
+Kim, M.I., Johnson, K.B., Personal health records: Evalua-tion of functionality and utility (2002) J Am Med Inform Assoc, 9, pp. 171-180; 
+Desroches, C.M., Campbell, E.G., Rao, S.R., Donelan, K., Ferris, T.G., Jha, A., Kaushal, R., Blumenthal, D., Electronic health records in ambulatory care: A national survey of physicians (2008) N Engl J Med, 359, pp. 50-60; 
+Lee, S.W., Lee, K.B., Kang, J.W., Choi, J.C., Oh, J.H., Trends in personalized medicine research (2011) Korean Inf Sci Soc Rev, 29, pp. 19-25
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84880796358&partnerID=40&md5=1b53a39311c1bd2b4d0ef46f91c519e9
+ER  - 
+
+TY  - JOUR
+TI  - Object oriented solution for industrial ERP using design patterns in.Net
+T2  - International Journal of Applied Engineering Research
+J2  - Int. J. Appl. Eng. Res.
+VL  - 7
+IS  - 11 SUPPL.
+SP  - 1562
+EP  - 1567
+PY  - 2012
+SN  - 09734562 (ISSN) 
+AU  - Khurana, R.
+AU  - Beniwal, V.
+AD  - Computer Science and Engineering JCVDM College of Engineering Sirsa, India
+AB  - Design patterns provide the reusable solution for the development and maintenance of the software. The main goal of using design patterns is to find the solution to the recurring problem encountered by the software developers during the software development and maintenance. As design patterns are useful technique but working with design patterns is very critical. In this paper author describes how these patterns can be used to solve various problems to build smart solutions for the industrial applications. A simulation has been developed during this studying by applying these design patterns to solve various industrial problems. Proposed framework in the present study is useful for those domains where changes occurred frequently like tax rules, production and making account strategy etc. and the studies main emphasis is all how use design patterns using programming languages like c#, vb.net, java etc. © Research India Publications.
+KW  - Design patterns
+KW  - GOF design patterns
+KW  - Industrial design patterns
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Computer Science and Engineering JCVDM College of Engineering SirsaIndia
+N1  - References: Design Patterns: Abstraction and Reuse of Object- Oriented Design by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides Taligent, Inc. at Department of Computer Science, USAhttp://www.google.co.in/#hl=en&output=search&sclient=psyab&q =Design+pattern+in+simple+examples&oq=Design+pattern+in+simple+examp les, WebsiteUsing Design Patterns in Educational Multimedia applications by Lyardet F., Rossi G., Schwabe D., LIFIA, Fac. at Departamento de Informática, BrasilGamma, E., Helm, R., Johnson, R., Vlissides, J., (1994) Design Patterns: Elements of Reusable Object-Oriented Software, , Addison-Wesley; 
+Dong, J., Yang, S., Sun, Y., (2007) A Classification of Design Pattern Evolutions, 6 (10). , Nov-Dec; 
+Writing Software Patterns by martin flower in 2006Visualizing Design Patterns in Their Applications and Compositions by Dong Jing, Yang Sheng, Zhang Kang Univ. of Texas at Dallas, Richardson in July 1997The role of domain experience in software design by B. Adelson and Soloway E. at IEEE Transactions on Software Engineering, in 1985The Design Patterns Java Companion by James W. Cooper in 1998Web Design Patterns Improving Quality and Performance in Web Application Design by David Bolchinim, Prof. Paolo Paolini at University della Svizzera italiana Facolt di science della comunicazione Lugano in 1999/2000Every Good Designer Uses Patterns by James Noble, Victoria University of Wellington in July/August 2007Experience Using Design Patterns to Develop Reusable Object-Oriented Communication Software by Douglas C. Schmidt at Department of Computer Science, Washington University, St. Louiswww.google.com/.NET%20Design%20Pattern20in%20C%23%20and%20VB.NET%20%20Ga ng%20of%20Four%20(GOF)%20%20DoFactory.htm, Websitehttp://en.wikipedia.org/wiki/Singleton_patternhttp://en.wikipedia.org/wiki/Abstract_factory_patternUR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84877723317&partnerID=40&md5=3f4ed3bd7645a5523e022aca14b536d8
+ER  - 
+
+TY  - JOUR
+TI  - Smarter consolidation into Hadoop platforms
+T2  - IBM Data Management Magazine
+J2  - IBM Data Manag. Mag.
+IS  - 4
+PY  - 2012
+SN  - 
+AU  - Kobielus, J.
+AB  - Hadoop is although becoming a core component of most organizations' big data strategies, but it's not mature enough to completely replace enterprise data warehouse (EDW). Most Hadoop environments lack the robust security, availability, and governance that are standard in a mature EDW. Hadoop can supplement, rather than replace, the analytic sandboxes an organization has implemented to support modeling with tools such as IBM SPSS, which of ten focus on more traditional structured data from customer relationship management and enterprise resource planning systems. Some operational Hadoop deployments may figure into larger application-consolidation initiatives, and may involve integration of Hadoop/MapReduce runtimes for analytical off load from online transaction processing, semantic web, and decision automation environments.
+KW  - Core components
+KW  - Customer relationship management
+KW  - Enterprise data warehouse
+KW  - Enterprise resource planning systems
+KW  - Hadoop platforms
+KW  - Online transaction processing
+KW  - Robust security
+KW  - Structured data
+KW  - Enterprise resource planning
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Kobielus, J.
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84880110475&partnerID=40&md5=963ba343db3ee59d0bbe393b0a9d03f8
+ER  - 
+
+TY  - JOUR
+TI  - CIM-based information model for power grid enterprise asset management and its application
+T2  - Dianli Xitong Zidonghua/Automation of Electric Power Systems
+J2  - Dianli Xitong Zidonghue
+VL  - 36
+IS  - 2
+SP  - 77
+EP  - 81
+PY  - 2012
+DO  - 10.3969/j.issn.1000-1026.2012.02.014
+SN  - 10001026 (ISSN) 
+AU  - Cao, J.
+AU  - Wang, Y.
+AU  - Zhu, C.
+AU  - Zhang, Y.
+AU  - Guo, C.
+AU  - Cao, Y.
+AD  - College of Electrical Engineering, Zhejiang University, Hangzhou 310027, China
+AD  - Zhejiang Electric Power Corporation, Hangzhou 310007, China
+AB  - In the overall plan for the smart grid by State Grid Corporation, the life-cycle asset management (EAM) system is the main part of the development of state grid enterprise resource planning (ERP). From the point of view of construction rules of the complex information system, based on the IEC 61970/61968 common information model (CIM), the asset information model theory is described and the difference between power system resources and asset is analyzed. The disciplines and methods for the electric power information modeling are presented and used to extend to the asset information model. The asset information model includes the base model and operation model, of which the former describes equipment records while the latter covers the inspection and maintenance data. Various applications of the asset model are discussed, such as asset database design, asset classification and coding design. Moreover, the integration scheme of asset management with materials and financial management is roughly studied. © 2012 State Grid Electric Power Research Institute Press.
+KW  - Common information model (CIM)
+KW  - Enterprise asset management (EAM)
+KW  - Enterprise information modeling
+KW  - Enterprise resource planning (ERP)
+KW  - Power system resources
+KW  - Smart grid
+KW  - Common information model
+KW  - Enterprise asset managements
+KW  - Enterprise resources
+KW  - Information Modeling
+KW  - Smart grid
+KW  - Industry
+KW  - Information theory
+KW  - Smart power grids
+KW  - Standby power systems
+KW  - Enterprise resource planning
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: DXZIE
+LA  - Chinese
+N1  - Correspondence Address: Cao, J.; College of Electrical Engineering, Zhejiang University, Hangzhou 310027, China; email: morriscao@zju.edu.cn
+N1  - References: Xiao, S., Consideration of technology for constructing Chinese smart grid (2009) Automation of Electric Power Systems, 33 (9), pp. 1-4; 
+Yu, Y., Luan, W., Smart grid and its implementations (2009) Proceedings of the CSEE, 29 (34), pp. 1-8; 
+Zhang, W., Liu, Z., Wang, M., Research status and development trend of smart grid (2009) Power System Technology, 33 (13), pp. 1-11; 
+Wang, Y., Research framework of technical standard system of strong & smart grid (2010) Automation of Electric Power Systems, 34 (22), pp. 1-6; 
+(2008), Chinese sourceWang, J., Zhang, C., Survey on power information resources integration methods (2006) Power System Technology, 30 (9), pp. 83-87; 
+Li, L., Qu, J., Design and realization of enterprise assets management system in power plants (2005) Automation of Electric Power Systems, 29 (13), pp. 80-83; 
+Li, H., Sheng, W., Cao, T., The application of enterprise asset management in electric power enterprise (2008) Power System Technology, 32 (3), pp. 22-26; 
+Zhang, S., Liu, G., Introduction of standard IEC 61970 (2002) Automation of Electric Power Systems, 26 (14), pp. 1-6; 
+He, J., Luo, J., Wang, G., Principle and analysis of IEC 61968 (2006) Journal of Chongqing University: Natural Science Edition, 29 (5), pp. 36-39; 
+(2000), Chinese sourceHuang, L., Wang, K., Liang, J., Power equipment diagnosis and management system model based on CIM (2005) Relay, 33 (7), pp. 50-54; 
+(2002), Chinese source(2008), Chinese sourceUR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84863144767&partnerID=40&md5=b65525ab3ce327810a326405f0c407ba
+ER  - 
+
+TY  - SER
+TI  - Future internet enterprise systems: A flexible architectural approach for innovation
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+J2  - Lect. Notes Comput. Sci.
+VL  - 6656
+SP  - 407
+EP  - 418
+PY  - 2011
+DO  - 10.1007/978-3-642-20898-0_29
+SN  - 03029743 (ISSN); 9783642208973 (ISBN)
+AU  - Angelucci, D.
+AU  - Missikoff, M.
+AU  - Taglino, F.
+AD  - Istituto di Analisi Dei Sistemi Ed Informatica A. Ruberti, Viale Manzoni 30, Rome I-00185, Italy
+AB  - In recent years, the evolution of infrastructures and technologies carried out by emerging paradigms, such as Cloud Computing, Future Internet and SaaS (Software-as-a-Service), is leading the area of enterprise systems to a progressive, significant transformation process. This evolution is characterized by two aspects: a progressive commoditization of the traditional ES functions, with the 'usual' management and planning of resources, while the challenge is shifted toward the support to enterprise innovation. This process will be accelerated by the advent of FInES (Future Internet Enterprise System) research initiatives, where different scientific disciplines converge, together with empirical practices, engineering techniques and technological solutions. All together they aim at revisiting the development methods and architectures of the Future Enterprise Systems, according to the different articulations that Future Internet Systems (FIS) are assuming, to achieve the Future Internet Enterprise Systems (FInES). In particular, this paper foresees a progressive implementation of a rich, complex, articulated digital world that reflects the real business world, where computational elements, referred to as FInER (Future Internet Enterprise Resources), will directly act and evolve according to what exists in the real world. © 2011 Springer-Verlag Berlin Heidelberg.
+KW  - component-based software engineering
+KW  - COTS
+KW  - FInER
+KW  - FInES
+KW  - Future Enterprise Systems
+KW  - Future Internet
+KW  - MAS
+KW  - smart objects
+KW  - SOA
+KW  - Component-based software engineering
+KW  - COTS
+KW  - FInER
+KW  - FInES
+KW  - Future Enterprise Systems
+KW  - Future Internet
+KW  - MAS
+KW  - Smart objects
+KW  - SOA
+KW  - Cloud computing
+KW  - Enterprise resource planning
+KW  - Human computer interaction
+KW  - Industry
+KW  - Innovation
+KW  - Internet
+KW  - Planning
+KW  - Software engineering
+KW  - Telecommunication networks
+A2  - Domingue J.
+A2  - Lambert D.
+A2  - Domingue J.
+A2  - Galis A.
+A2  - Gavras A.
+A2  - Zahariadis T.
+A2  - Daras P.
+A2  - Cleary F.
+A2  - Krco S.
+A2  - Muller H.
+A2  - Li M.
+A2  - Schaffers H.
+A2  - Lotz V.
+A2  - Alvarez F.
+A2  - Stiller B.
+A2  - Avessta S.
+A2  - Karnouskos S.
+A2  - Nilsson M.
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Angelucci, D.; Istituto di Analisi Dei Sistemi Ed Informatica A. Ruberti, Viale Manzoni 30, Rome I-00185, Italy; email: daniela.angelucci@gmail.com
+N1  - References: Bouckaert, S., De Poorter, E., Latré, B., Strategies and challenges for interconnecting wireless mesh and wireless sensor networks (2010) Wireless Personal Communications, 53 (3); 
+Buxmann, P., Hess, T., Ruggaber, R., Internet of services (2009) Business & Information Systems Engineering, 1 (5), pp. 341-342; 
+Chesbrough, H., (2003) Open Innovation: The New Imperative For Creating And Profiting From Technology, , Harvard Business School Press; 
+Luftmann, J.N., Papp, R., Brier, T., (1999) Enablers and Inhibitors Of Business-IT-Alignment Communications of AIS, 1, p. 11; 
+Mansell, R.E., Introduction to volume II: Knowledge. Economics and organization (2009) The Information Society, Critical Concepts in Sociology Routledge, , Mansell (ed.); 
+Proposition Informal Study Group on Value, , http://cordis.europa.eu/fp7/ict/enet/ei-isg_en.html, Cordis.lu, Retrieved May 29,2010 from Value Proposition for Enterprise Interoperability Report 2009; 
+Sykes, D., Heaven, W., Magee, J., Kramer, J., From goals to components: A combined approach to self-management (2008) Proceedings of the 2008 International Workshop on Software Engineering for Adaptive and Self-Managing Systems; 
+Villa, F., Athanasiadis, I.A., Rizzoli, A.E., Modelling with knowledge: A review of emerging semantic approaches to environmental modeling (2009) Environmental Modelling & Software, 24, p. 5; 
+Crnkovic, I., Larsson, S., Chaudron, M., Component-based development process and component lifecycle (2005) 27th International Conference on Information Technology Interfaces (ITI) Cavtat Croatia, , IEEE, Los Alamitos; 
+Nierstrasz Oscar, Gibbs Simon, Tsichritzis Dennis, Component-oriented software development (1992) Communications of the ACM, 35 (9), pp. 160-165. , DOI 10.1145/130994.131005; 
+Petritsch, H., Service-oriented architecture (SOA) vs (2006) Component Based Architecture, , http://whitepapers.techrepublic.com.com, white paper, TU Wien; 
+Armbrust, M., (2009) Above the Clouds: A Berkley View of Cloud Computing, , EECS-2009-28; 
+Martin, D., Bringing semantics to web services with owl-s (2007) Proc. Of WWW Conference; 
+Clark, D., Newarch project: Future-generation internet architecture (2003) Tech Rep., , http://www.isi.edu/newarch/, MIT Laboratory for Computer Science; 
+Tselentis, G., (2010) Towards the Future Internet-Emerging Trends from European Research, , IOS Press, Amsterdam; 
+Papazoglou, M.P., (2007) Web Services: Principles and Technology, , Prentice-Hall, Englewood Cliffs; 
+Mellor, S.J., Scott, K., Uhl, A., Weise, D., (2002) Model-Driven Architecture, 2426, p. 290. , Bruel, J.-M., Bellahsène, Z., et al. (eds.) OOIS 2002. LNCS Springer, Heidelberg
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-79955816434&partnerID=40&md5=3932335f68f43a82ebf069b90cc6c61d
+ER  - 
+
+TY  - JOUR
+TI  - Multiple criteria analysis for evaluation of information system risk
+T2  - Asia-Pacific Journal of Operational Research
+J2  - Asia Pac J Oper Res
+VL  - 28
+IS  - 1
+SP  - 25
+EP  - 39
+PY  - 2011
+DO  - 10.1142/S021759591100303X
+SN  - 02175959 (ISSN) 
+AU  - Olson, D.L.
+AU  - Wu, D.D.
+AD  - Department of Management, University of Nebraska, United States
+AD  - RiskLab and RiskChina Research Center, University of Toronto, 105 St. George Street, Toronto, M5S 3E6, Canada
+AB  - Information technology (IT) involve a wide set of risks. Enterprise information systems are a major developing form of information technology involving their own set of risks, thus creating potential blind spots. This paper describes risk management issues involved in enterprise resource planning systems (ERP) which have high impact on organizations due to their high cost, and their pervasive impact on organizational operations. Alternative means of acquiring ERP systems, to include outsourcing to application service providers (ASPs) are available. But outsourcing ERP involves many risks that are often overlooked. After identification of typical risks involved with representative alternative forms of ERP, multiple criteria analysis is proposed as a useful tool for tradeoff analysis in this selection decision. SMART is compared with popular approaches such as DEA and PCA- based DEA. A demonstration of how multiple criteria analysis can be applied in the international ERP alternative selection decision is given by including outsourcing to China and South Korea. © 2011 World Scientific Publishing Co. & Operational Research Society of Singapore.
+KW  - DEA (Data Envelopment Analysis)
+KW  - Enterprise risk management
+KW  - enterprise systems, multiple criteria
+KW  - Information technology risks
+KW  - PCA (Principal Component Analysis)
+KW  - DEA (Data Envelopment Analysis)
+KW  - Enterprise risk management
+KW  - enterprise systems, multiple criteria
+KW  - Information technology risks
+KW  - PCA (principal component analysis)
+KW  - Data envelopment analysis
+KW  - Data handling
+KW  - Enterprise resource management
+KW  - Industry
+KW  - Information management
+KW  - Information systems
+KW  - Outsourcing
+KW  - Planning
+KW  - Principal component analysis
+KW  - Resource allocation
+KW  - Risk analysis
+KW  - Risk management
+KW  - Technology
+KW  - Enterprise resource planning
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: APJRE
+LA  - English
+N1  - Correspondence Address: Olson, D. L.; Department of Management, University of NebraskaUnited States; email: dolson3@unl.edu
+N1  - References: Bryson, K.M., Sullivan, W.E., Designing effective incentive-oriented contracts for application service provider hosting of ERP systems (2003) Business Process Management Journal, 9 (6), pp. 705-721; 
+Edwards, W., How to use multiattribute utility measurement for social decisionmaking (1977) IEEE Transactions on Systems, Man, and Cybernetics, SMC, 7 (5), pp. 326-340; 
+Ekanayaka, Y., Currie, W.L., Seltsikas, P., Evaluating application service providers (2003) Benchmarking: An International Journal, 10 (4), pp. 343-354; 
+Keeney, R.L., Raiffa, H., (1976) Decisions with Multiple Objectives: P and Value Tradeoffs, , New York: John Wiley & Sons; 
+Kent, A., Convergence: A holistic approach to risk management (2007) Network Security, , May, 4-7; 
+Levinsohn, A., How to manage risk-Enterprise-wide (2004) Strategic Finance, 86 (5), pp. 55-56; 
+Mabert, V.M., Soni, A., Venkataramanan, M., Enterprise resource planning survey of US manufacturing firms (2000) Production and Inventory Management Journal, 41 (20), pp. 52-58; 
+McCarthy, T., Are ASPs for you? (2001) Financial Executive, 17 (4), pp. 45-48; 
+O'Connell, E., Enterprise risk management: A systems-thinking framework for the event identification phase (2005) International Journal of Accounting Information Systems, 6, pp. 177-195; 
+Olhager, J., Selldin, E., Enterprise resource planning survey of Swedish manufacturing firms (2003) European Journal of Operational Research, 146, pp. 365-373; 
+Olson, D.L., Evaluation of ERP outsourcing (2007) Computers and Operations Research, 34 (12), pp. 3715-3724. , DOI 10.1016/j.cor.2006.01.010, PII S0305054806000293; 
+Olson, D.L., (2004) Managerial Issues of Enterprise Resource Planning Systems, , Boston: McGraw-Hill/Irwin; 
+Olson, D.L., (1996) Decision Aids for Selection Problems, , New York: Springer; 
+Saaty, T.L., A scaling method for priorities in hierarchical structures (1977) Journal of Mathematical Psychology, 15, pp. 234-281; 
+Van Everdingen, Y., Van Hellegersberg, J., Waarts, E., ERP adoption by European midsize companies (2000) Communications of the ACM, 43 (4), pp. 27-31; 
+Wu, D., Supplier selection: A hybrid model using DEA, decision tree and neural network (2009) Expert Systems with Applications, 36 (5), pp. 9105-9112; 
+Wu, D., Performance evaluation: An integrated method using data envelopment analysis and fuzzy preference relations (2009) European Journal of Operational Research, 194 (1), pp. 227-235; 
+Wu, D., Olson, D.L., A comparison of stochastic dominance and stochastic DEA for vendor evaluation (2008) International Journal of Production Research, 46 (8), pp. 2313-2327. , DOI 10.1080/00207540601039775, PII 770684261; 
+Wu, D., Olson, D.L., Supply chain risk, simulation, and vendor selection (2008) International Journal of Production Economics, 114 (2), pp. 646-655
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-79952055798&partnerID=40&md5=383768fb38a0cb5400a044b1e17198b1
+ER  - 
+
+TY  - JOUR
+TI  - Assessing critical success factors for military decision support
+T2  - Expert Systems with Applications
+J2  - Expert Sys Appl
+VL  - 37
+IS  - 12
+SP  - 8229
+EP  - 8241
+PY  - 2010
+DO  - 10.1016/j.eswa.2010.05.062
+SN  - 09574174 (ISSN) 
+AU  - Louvieris, P.
+AU  - Gregoriades, A.
+AU  - Garn, W.
+AD  - School of Management, University of Surrey, Guildford, Surrey, United Kingdom
+AB  - This paper outlines the application of case-based reasoning and Bayesian belief networks to critical success factor (CSF) assessment for parsimonious military decision making. An important factor for successful military missions is information superiority (IS). However, IS is not solely about minimising information related needs to avoid information overload and the reduction of bandwidth but it is also concerned with creating information related capabilities that are aligned with achieving operational effects and raising operational tempo. Moreover, good military decision making, should take into account the uncertainty inherent in operational situations. Herein, we illustrate the development and evaluation of a smart decision support system (SDSS) that dynamically identifies and assesses CSFs in military scenarios and as such de-clutters the decision making process. The second contribution of this work is an automated configuration of conditional probability tables from hard data generated from simulations of military operational scenarios using a computer generated forces (CGF) synthetic environment. © 2010 Elsevier Ltd. All rights reserved.
+KW  - Bayesian belief networks
+KW  - Case-based reasoning
+KW  - Critical success factors
+KW  - Decision making
+KW  - Automated configuration
+KW  - Bayesian Belief Networks
+KW  - Computer generated forces
+KW  - Conditional probability tables
+KW  - Critical success factor
+KW  - Decision making process
+KW  - Decision supports
+KW  - Hard data
+KW  - Information overloads
+KW  - Military decision making
+KW  - Military missions
+KW  - Operational scenario
+KW  - Synthetic environments
+KW  - Artificial intelligence
+KW  - Case based reasoning
+KW  - Computer simulation
+KW  - Decision making
+KW  - Decision support systems
+KW  - Decision theory
+KW  - Enterprise resource planning
+KW  - Intelligent agents
+KW  - Bayesian networks
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: ESAPE
+LA  - English
+N1  - Correspondence Address: Gregoriades, A.; School of Management, University of Surrey, Guildford, Surrey, United Kingdom; email: a.gregoriades@-surrey.ac.uk
+N1  - References: Barrientos, M., Vargas, J., A framework for the analysis of dynamic processes based on Bayesian networks and case-based reasoning (1998) Expert Systems with Applications, 15 (3-4), pp. 287-294; 
+Bergeron, F., Begin, F., The use of critical success factors in evaluation of information systems: A case study (1989) Journal of Management Information Systems, 5 (4), pp. 111-124; 
+Buntine, W., A guide to the literature on learning probabilistic networks from data (1996) IEEE Transactions on Knowledge and Data Engineering, 8 (2), pp. 195-210; 
+Butler, T., Fitzgerald, B., Unpacking the systems development process: An empirical application of the CSF concept in a research context (1999) Journal of Strategic Information Systems, 8 (4), pp. 351-371; 
+Clarke, B.C., (1965) Soldier Management and Morale, , Washington, D.C.: A-9840 Truman Library; 
+Dempster, A.P., Laird, N.M., Maximum likelihood estimation from incomplete data via the EM algorithm (1977) Journal of the Royal Statistical Society, 39, pp. 1-38; 
+D́ielz, F.J., Galán, S.F., Efficient computation for the noisy MAX (2003) International Journal of Intelligent Systems, 18 (2), pp. 165-177; 
+(2001) Field Manual FM 3-10: Operations, , DoA; 
+Druzdzel, M.K., Gaag, L.C., SDS: Elicitation of probabilities for belief networks: Combining qualitative and quantitative information (1995) Proceedings of the 11th Annual Conference on Uncertainty in Artificial Intelligence (UAI-95), , Paper presented at the, Montreal, Quebec, Canada; 
+Druzdzel, M.K., Van Der Gaag, L.C., Building probabilistic networks: Where do the numbers come from? (2000) IEEE Transactions on Knowledge and Data Engineering, 12 (4), pp. 481-486; 
+Endsley, M.R., Bolte, B., Jones, D., (2003) Designing for Situation Awareness: An Approach to User-Centered Design, , London: Taylor and Francis; 
+Falkenhainer, D., Borbus, D., Gentner, D., The structure-mapping engine: Algorithm and examples (1989) Artificial Intelligence, 41, pp. 1-63; 
+Falzon, L., Using Bayesian network analysis to support centre of gravity analysis in military planning (2006) European Journal of Operations Research, 170 (2), pp. 629-643; 
+Feng, Y., Teng, T., Tan, A., Modelling situation awareness for context-aware decision support (2009) Expert Systems with Applications, 36 (1), pp. 455-463; 
+Fenton, N., Applying Bayesian belief networks to critical systems assessment (1999) Critical Systems, 8, pp. 10-13; 
+Fenton, N., Neil, M., Software metrics: Successes, failures and new directions (2000) Journal of Systems Software, 47 (2-3), pp. 149-157; 
+Fenton, N., Neil, M., Gallan, J., Using ranked nodes to model qualitative judgments in bayesian networks (2007) Transactions on Knowledge and Data Engineering, 19 (10), pp. 1420-1432; 
+Gentner, D., Structure-mapping, a theoretical framework for analogy (1983) Cognitive Science, 5, pp. 121-152; 
+Guynes, C.S., Vanecek, M.T., Critical success factors in data management (1996) Information and Management, 30 (4), pp. 201-209; 
+Haider, S., Levis, A., Effective course-of-action determination to achieve desired effects (2007) IEEE Transactions on Systems, Man, and Cybernatics - Part A, 37 (6), pp. 1140-1150; 
+Heckerman, D., Mamdani, A., Wellman, M., Real-world applications of Bayesian networks (1995) Communications of ACM, 38 (3), pp. 25-26; 
+(2006), www.hugin.com, HUGINJain, A.K., Duin, R., Mao, J., Statistical pattern recognition: A review (2000) IEEE Transactions on Pattern Analysis and Machine Intelligence, 22 (1), pp. 4-37; 
+Klein, G.A., A recognition-primed decision (RPD) model of rapid decision making (1993) Decision Making in Action: Models and Methods, pp. 138-147. , G. A. Klein, J. Orasanu, R. Calderwood, & C. E. Zsambok (Eds.), Norwood: Ablex; 
+Klein, G., Orasanu, J., Calderwood, R., Zsambok, C., (1993) Decision Making in Action: Models and Methods, , Norwood, NJ: Ablex; 
+Kolonder, J.L., (1993) Case-Based Reasoning, , Morgan Kaufman; 
+Korb, A., Nicholson, K., (2004) Bayesian Artificial Intelligence, , CRC Press; 
+Lam, P., Chin, K.I.P., (2005) Identifying and Prioritizing Critical Success Factors for Conflict Management in Collaborative New Product Development, , Industrial Marketing and Management; 
+Lee, K.J., Chang, W., Bayesian belief network for box-office performance: A case study on Korean movies (2009) Expert Systems with Applications, 36 (1), pp. 280-291; 
+Lemmer, J.F., Gossink, D.E., Recursive noisy OR - A rule for estimating complex probabilistic interactions (2004) IEEE Transactions on Systems, Man, and Cybernetics - Part B: Cybernetics, 43 (5), pp. 2252-2261; 
+Liao, S.-H., A knowledge-based architecture for implementing military geographical intelligence system on Intranet (2001) Expert Systems with Applications, 20 (4), pp. 313-324; 
+Louvieris, P., Beswick, P., (2004) Meeting the Commander's Information Needs During the Execution of a Mission; 
+Louvieris, P., (2005) Scenarios Development and CSF Elicitation; 
+Louvieris, P., Mashanovich, N., Henderson, S., White, G., Petrou, M., O'Keefe, R., Smart DSS parsimonious information fusion (2005) 8th International Conference on Information Fusion, , Paper presented at the, Philadelphia; 
+Louvieris, P., Gregoriades, A., Mashanovich, N., White, G., Papathanassiou, C., Parsimonious analogical reasoning for smart decision support in network-enabled environments: Managing situational awareness (2006) Coalition Command and Control in the Networked Era, 11th International Command and Control Research and Technology Symposium, , Paper presented at the, Cambridge UK; 
+(2005), www.mak.com, MAK: VR-Forces M. TMiller, D., Information dominance (2004) The Philosophy of Total Propaganda Control: Coldtype; 
+(2005) Networked Enabled Capability, , MoD; 
+Pal, S., Shiu, S., (2004) Foundations of Soft Case-Based Reasoning, , New Jersey: John Wiley & Sons; 
+Patel, V.L., Kaufman, D.R., Arocha, J.F., Emerging paradigms of cognition in medical decision-making (2002) Journal of Biomedical Informatics, 35, pp. 52-75; 
+Pearl, J., (1988) Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Information, , San Francisco: Morgan Kaufman; 
+Rey-Long, L., Yun-Ling, L., Distributed agents for cost-effective monitoring of critical success factors (2003) Decision Support Systems, 35, pp. 353-366; 
+Rockart, J.F., (1979) Chief Executives Define Their Own Data Needs; 
+Salmeron, J., Herrero, I., An AHP-based methodology to rank critical success factors of executive information systems (2005) Computer Standards and Interfaces, 28 (1), pp. 1-12; 
+Takikawa, M., D'Ambrosio, B., Multiplicative factorization of noisy-max (1999) Proceedings of the Uncertainty in AI Conference, , Paper presented at the; 
+Turban, E., Aronsosn, J., Liang, T., Sharda, R., (2008) Decision Support and Business Intelligence Systems: Pearson; 
+Umble, E., Haft, R., Umble, M., Enterprise resource planning: Implementation procedures and critical success factors (2003) European Journal of Operational Research, 146 (1-2), pp. 241-257; 
+Vanecek, M., Guynes, C., Critical Success factors in data management (1996) Information Management, 30, pp. 201-208; 
+Wellman, M.P., Fundamental concepts of qualitative probabilistic networks (1990) Artificial Intelligence, 44 (3), pp. 257-303; 
+Westerveld, E., The project excellence model: Linking success criteria and critical success factors (2003) International Journal of Project Management, 21 (6), pp. 411-418
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-77957850964&partnerID=40&md5=2284b0bfe3cb5bdad24c0a404075b0ae
+ER  - 
+
+TY  - JOUR
+TI  - Summary of research on intelligent sales and marketing of smart grid (3): Research vision of essential issues
+T2  - Dianli Zidonghua Shebei/Electric Power Automation Equipment
+J2  - Dianli Zidonghua Shebei Electr. Power Autom. Equip.
+VL  - 30
+IS  - 4
+SP  - 139
+EP  - 143+149
+PY  - 2010
+SN  - 10066047 (ISSN) 
+AU  - Liu, Y.
+AU  - Liu, J.
+AU  - Yin, L.
+AD  - School of Electrical Engineering and Information, Sichuan University, Chengdu 610065, China
+AD  - Provincial-Level Key Laboratory of Smart Grid, Chengdu 610065, China
+AD  - Sichuan Electric Power Company, Chengdu 610061, China
+AB  - From the view of development, several essential issues of ISM (Intelligent Sale and Marketing) in smart grid construction are discussed, including the differentiation research, the smart grid and power markets, the virtual resource management, the design concept of ISM automation system, which tries to exhibit the theoretical hot spots and application development prospects of ISM in the vision of smart grid. The essential issues discussed about include two aspects: theory and application, which sketches the research line for building the theoretical framework of ISM and gradual implementing its high-level application.
+KW  - Essential issues
+KW  - Intelligent sale and marketing
+KW  - Research vision
+KW  - Smart grid
+KW  - Theoretical architecture
+KW  - Application development
+KW  - Automation systems
+KW  - Design concept
+KW  - High level applications
+KW  - Hot spot
+KW  - Marketing research
+KW  - Power markets
+KW  - Research vision
+KW  - Smart grid
+KW  - Theoretical framework
+KW  - Virtual resource management
+KW  - Enterprise resource planning
+KW  - Marketing
+KW  - Research
+KW  - Research and development management
+N1  - Cited By :4
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: DZSHF
+LA  - Chinese
+N1  - Correspondence Address: Liu, Y.; School of Electrical Engineering and Information, Sichuan University, Chengdu 610065, China; email: mailtobo@163.com
+N1  - References: Tang, Y., Shao, Z., Guo, C., Digital power grid architecture (2009) Electric Power Automation Equipment, 29 (6), pp. 115-118; 
+Ipackchi, A., Albuyeh, F., Grid of the future (2009) IEEE Transactions on Power and Energy Magazine, 7 (2), pp. 52-62; 
+Fan, J., Borlase, S., The evolution of distribution (2009) IEEE Transactions on Power and Energy Magazine, 7 (2), pp. 63-68; 
+Mahmood, A., Aamir, M., Anism, I., Design and implementation of AMR smart grid system (2008) Electric Power Conference, IEEE, pp. 1-6. , Vancouver, Canada: IEEE; 
+Wittebol, E.H.M., Jokic, A., van den Bosch, P.P.J., Dynamic market behavior of autonomous network based power systems (2005) 2005 International Conference on Future Power Systems, pp. 1-6. , Amsterdam, Holand; 
+Dam, Q.B., Mohagheghi, S., Stoupis, J., Intelligent demand response scheme for customer side load management (2008) IEEE Energy2030, pp. 1-7. , Atlanta, GA USA: IEEE; 
+Flueck, A., Zuyi, L., Destination: Perfection (2008) Power and Energy Magazine, IEEE, 6 (6), pp. 36-47; 
+Liu, Y., Liu, J., Tang, J., An optimal decision-making model for power supply company' s power purchase in weekly market considering price elasticity matrix of demand side and risk (2008) Power System Technology, 32 (18), pp. 18-24; 
+Yu, Y., Technical composition of smart grid and its implementation sequence (2009) Southern Power System Technology, 3 (2), pp. 1-5; 
+Faruqui, A., Hledik, R., Tsoukalis, J., The power of dynamic pricing (2009) The Electricity Journal, 22 (3), pp. 42-56; 
+Borenstein, S., Jaske, M., Rosenfeld, A., Dynamic pricing, advanced metering and demand response in electricity markets (2002), California, USA: University of California Energy Institute(2009), Chinese sourceHu, Z., Tan, X., Shan, B., Application of intelligent engineering and agent to DSM compensation mechanism modelling (2008) Proceedings of the CSEE, 28 (13), pp. 125-131
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-77952196272&partnerID=40&md5=d43029da0786e3fba24c775f21172a2c
+ER  - 
+
+TY  - JOUR
+TI  - Combining RFID with ontologies to create smart objects
+T2  - International Journal of Production Research
+J2  - Int J Prod Res
+VL  - 48
+IS  - 9
+SP  - 2633
+EP  - 2654
+PY  - 2010
+DO  - 10.1080/00207540903564975
+SN  - 00207543 (ISSN) 
+AU  - Grüninger, M.
+AU  - Shapiro, S.
+AU  - Fox, M.S.
+AU  - Weppner, H.
+AD  - Department of Mechanical and Industrial Engineering, University of Toronto, Toronto, ON, Canada
+AD  - Department of Computer Science, University of Toronto, Toronto, ON, Canada
+AD  - SAP Research, SAP Labs LLC, Palo Alto, CA, United States
+AB  - Radio frequency identification (RFID) technology has long been known for its ability to uniquely identify objects. Recent years have witnessed a significant increase in storage capacity on the tag, which is giving rise to a new set of application scenarios. As the tag itself can carry relevant context information, processes can be managed locally rather than relying on a centralised system infrastructure. This in turn results in a massive interoperability challenge. We propose to solve this problem by combining RFID technology with ontologies to create smart objects in the context of manufacturing process control. The idea is to store information originating from an SAP ERP system using the PSL Ontology (ISO 18629) for representing processes and time directly on the RFID tags. As an item flows through a manufacturing process, information about the item can be stored on its tag. This information, along with the PSL axioms, can be used to make inferences about the manufacturing process and the item in particular. In this paper, we discuss our formalisation of an ontology for the SAP data model and show an example of translating data from an SAP ERP system into PSL axioms, and answering queries about a manufacturing process. © 2010 Taylor & Francis.
+KW  - Automated reasoning
+KW  - Manufacturing
+KW  - Ontologies
+KW  - Process specification language
+KW  - RFID
+KW  - Smart objects
+KW  - Answering queries
+KW  - Application scenario
+KW  - Automated reasoning
+KW  - Context information
+KW  - Data models
+KW  - ERP system
+KW  - Formalisation
+KW  - Manufacturing ontology
+KW  - Manufacturing process
+KW  - Process specification language
+KW  - PSL ontology
+KW  - Radio frequency identification technology
+KW  - RF-ID tags
+KW  - RFID Technology
+KW  - Smart objects
+KW  - Storage capacity
+KW  - System infrastructure
+KW  - Automata theory
+KW  - Enterprise resource planning
+KW  - Industrial engineering
+KW  - Linguistics
+KW  - Manufacture
+KW  - Problem solving
+KW  - Production engineering
+KW  - Radio frequency identification (RFID)
+KW  - Radio navigation
+KW  - Retail stores
+KW  - Specification languages
+KW  - Specifications
+KW  - Supply chain management
+KW  - Supply chains
+KW  - Ontology
+N1  - Cited By :7
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: IJPRB
+LA  - English
+N1  - Correspondence Address: Grüninger, M.; Department of Mechanical and Industrial Engineering, University of Toronto, Toronto, ON, Canada; email: gruninger@mie.utoronto.ca
+N1  - References: Bock, C., Grüninger, M., PSL: A semantic domain for flow models (2005) Software and Systems Modeling Journal, 2 (2), pp. 209-231; 
+Cho, H., Wysk, R., Intelligent workstation controller for computer-integrated manufacturing: Problems and models (1995) Journal of Manufacturing Systems, 14 (4), pp. 252-263; 
+Diekmann, T., Melski, A., Schumann, M., (2007) Data-on-network Vs. Data-on-tag: Managing Data in Complex RFID Environments, , Waikoloa, USA, January; 
+Grüninger, M., Ontology of the process specification language (2004) Handbook of Ontologies in Information Systems, , S. Staab and R. Studer, eds. Berlin: Springer; 
+Grüninger, M., Menzel, C., Process Specification Language: Principles and applications (2003) AI Magazine, 24 (3), pp. 63-74; 
+Guenther, O., Tribowski, C., (2009) Storing Data on RFID Tags: A Standards-based Approach, , Verona, Italy, June. To be published; 
+McCune, W., (2003) OTTER 3.3 Reference Manual, , Technical memorandum No. 263, Argonne National Laboratory ANL/MCS-TM-263; 
+Melski, A., (2007) Beyond EPC - Insights from Multiple RFID Case Studies on the Storage of Additional Data on Tag, pp. 281-286. , Chicago, August; 
+Ruta, M., Semantic-enhanced EPCglobal radio-frequency identification (2007) Proceedings of SWAP 2007, the 4th Italian Semantic Web Workshop, , http://ceur-ws.org/Vol-314/56.pdf, G. Semeraro, et al., eds. 18-20 December 2007, Bari, Italy. Available from; 
+Schlenoff, C., Grüninger, M., Ciociou, M., The essence of the Process Specification Language (1999) Transactions of the Society for Computer Simulation, 16 (4), pp. 204-216; 
+Sormaz, D., Khoshnevis, B., Generation of alternative process plans in integrated manufacturing systems (2003) Journal of Intelligent Manufacturing, 14 (6), pp. 509-526
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-77951098179&partnerID=40&md5=dc61fd7b04b9f085886eebe7c72be658
+ER  - 
+
+TY  - JOUR
+TI  - "Smart pharmacy" master blends integrated supply chains with patient care to uphold regulatory compliances.
+T2  - Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference
+J2  - Conf Proc IEEE Eng Med Biol Soc
+SP  - 1707
+EP  - 1709
+PY  - 2009
+SN  - 1557170X (ISSN) 
+AU  - Bhinder, P.
+AU  - Oberoi, M.S.
+AB  - Hospitals require better information connectivity because timing and content of the information to be traded is critical. The imperative success in the past has generated renewed thrust on the expectations and credibility of the current enterprise resource planning (ERP) applications in health care. The desire to bring improved connectivity and to match it with critical timing remains the penultimate dream. Currently, majority of ERP system integrators are not able to match these requirements of the healthcare industry. It is perceived that the concept of ERP has made the process of segregating bills and patient records much easier. Hence the industry is able to save more lives, but at the cost of an individual's privacy as it enables to access the database of patients and medical histories through the common database shared by hospitals though at a quicker rate. Businesses such as health care providers, pharmaceutical manufacturers, and distributors have already implemented rapid ERPs. The new concept "Smart Pharmacies" will link the process all the way from drug delivery, patient care, demand management, drug repository, and pharmaceutical manufacturers while maintaining Regulatory Compliances and make the vital connections where these Businesses will talk to each other electronically.
+KW  - article
+KW  - health care organization
+KW  - hospital organization
+KW  - organization and management
+KW  - practice guideline
+KW  - system analysis
+KW  - Efficiency, Organizational
+KW  - Guideline Adherence
+KW  - Health Care Rationing
+KW  - Medication Systems, Hospital
+KW  - Systems Integration
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+C2  - 19964555
+LA  - English
+N1  - Correspondence Address: Bhinder, P.
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-84903860868&partnerID=40&md5=4ed88f6e6ba99197139148a39bb0717d
+ER  - 
+
+TY  - JOUR
+TI  - Smart home interoperability: The DomoEsi project approach
+T2  - International Journal of Smart Home
+J2  - Int. J. Smart Home
+VL  - 3
+IS  - 3
+SP  - 31
+EP  - 44
+PY  - 2009
+SN  - 19754094 (ISSN) 
+AU  - Maestre, J.M.
+AU  - Camacho, E.F.
+AD  - Departament of Systems and Automation Engineering, Escuela Superior de Ingenieros, Seville, Spain
+AB  - The home automation market is characterized by the great number of systems available to the end user. The recent bubble in the building industry made the situation even worse due to the birth of new proprietary systems. The success of the digital home concept depends on the ease of integration between home automation systems and other consumer electronic equipment pre-existing in the home. In this paper the interoperability issue is addressed and the approach followed in the project DomoEsi is presented.
+KW  - Interoperability
+KW  - Upnp
+KW  - Building industry
+KW  - Digital home
+KW  - End users
+KW  - Home automation
+KW  - Home automation systems
+KW  - Project approach
+KW  - Proprietary systems
+KW  - Smart homes
+KW  - Upnp
+KW  - Amplifiers (electronic)
+KW  - Construction industry
+KW  - Digital devices
+KW  - Enterprise resource planning
+KW  - Oscillators (electronic)
+KW  - Interoperability
+N1  - Cited By :12
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Maestre, J.M.; Departament of Systems and Automation Engineering, Escuela Superior de Ingenieros, Seville, Spain; email: pepemaestre@cartuja.us.es
+N1  - References: http://www.osgi.org, Osgi Alliancehttp://www.upnp.org, UPnP Forumhttp://www.jini.org, Jini Communityhttp://paginas.fe.up.pt/~ee99043/plm/x10tech.htm, X-10 Technologyhttp://www.knx.org, KNX Associationhttp://www.echelon.com/developers/lonworks/default.htm, Lonworks Technologyhttp://www.deltadore.es, Delta Dorehttp://www.z-wave.com, Z-Wavehttp://www.ingeniumsl.com, Ingenium Domóticahttp://www.ipdomo.com, IPDomoWiechman, H., (2005) Interoperability in the Multi-Format Home Network, , http://www.hometoys.com/htinews/dec05/articles/ti/networkhome.htm, December; 
+Quinnell, R.A., (2007) Networking moves to home automation, , http://www.edn.com/article/CA6455597.html; 
+Webb, W., (2006) Smart-building systems converge, , http://www.edn.com/article/CA6360315.html; 
+Foard, W., (2006) Bridging to Home Automation's Future, , http://www.hometoys.com/article.php4?displayid=813, October; 
+http://www.dlna.org, Digital Living Network Alliance(2007) Introducing Device Profiles for Web Services, , Microsoft Corporation; 
+http://www.nintendo.com, Nintendo WiiBenítez, D.J., (2008) Writing recognition with Bluetooth controller (in Spanish), , Escuela Superior de Ingenieros de Sevilla; 
+http://www.globalcache.com, Zigbee Alliancehttp://www.zigbee.org, Zigbee AllianceLobillo, R., Maestre, J.M., Camacho, E.F., (2008) Zigbee Positioning System: applications to home automation (in Spanish), , XXIX Jornadas Automática. Tarragona; 
+Grossmann, R., Blumenthal, J., Golatowski, F., Timmermann, D., (2007) Localization in Zigbee-based Sensor Networks, , 1st European ZigBee Developer's Conference (EuZDC), München-Dornach, Deutschland; 
+Blumenthal, J., Grossmann, R., Golatowski, F., Timmermann, D., Weighted Centroid Localization in Zigbee-based Sensor Networks (2007) IEEE International Symposium on Intelligent Signal Processing, , WISP 2007, Madrid, Spain; 
+Cho, H., Kang, M., Kim, J., Kim, H., ZigBee Based Location Estimation in Home Networking Environments (2007) IEICE Transactions, 90 D (10), pp. 1706-1708; 
+http://www.nokia.com/, Nokiahttp://www.philips.com/, Philipshttp://www.youtube.com/user/pepemaestre, DomoEsi VideosUR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-77953757383&partnerID=40&md5=33683ab130905e3ee70d995d9f2ce996
+ER  - 
+
+TY  - JOUR
+TI  - Optimising mobile phone self-location estimates by introducing beacon characteristics to the algorithm
+T2  - Journal of Location Based Services
+J2  - J. Locat. Based Serv.
+VL  - 3
+IS  - 1
+SP  - 55
+EP  - 73
+PY  - 2009
+DO  - 10.1080/17489720902776738
+SN  - 17489725 (ISSN) 
+AU  - Curran, K.
+AU  - Hubrich, S.
+AD  - School of Computing and Intelligent Systems, University of Ulster, Londonderry, United Kingdom
+AB  - Positioning technologies that use global system for mobile communication (GSM) networks for location estimation (such as the privacy observant location system (POLS) and the place lab framework) lack the accuracy that other positioning technologies like the global positioning system (GPS) have. GPS receivers are most of the time capable of placing a person within 10 m of a known location. Place Lab is an open platform framework implemented in Java for client-side location sensing that can calculate a position estimate from various beacon sources, such as GSM beacons. The POLS framework is a counterpart of Place Lab for Windows Smartphone devices which provide the tools to develop location-based services quickly. There is a lack of accuracy, however, when the location estimation algorithm uses only GSM readings. Measurements that have been made with Place Lab show a median accuracy of 232 m in downtown areas. Place Lab and POLS do not need additional hardware, apart from the mobile phone itself, however, their lack of accuracy compared to GPS is significant. Due to this rather poor accuracy, the use of those frameworks is limited to applications where the accuracy is not crucial. This article presents the results of improving the accuracy of location estimation in urban areas by extending the algorithm used in the POLS and Place Lab frameworks to take into account the beacon properties, effective radiated power (ERP) and beacon height when estimating a position. The extended algorithm based on beacon properties outperforms the centroid algorithm by over 30%.
+KW  - Effective radiated power (ERP)
+KW  - GPS
+KW  - Location estimation
+KW  - Location positioning
+KW  - Centroid algorithm
+KW  - Effective radiated power
+KW  - Effective radiated power (ERP)
+KW  - GPS
+KW  - GPS receivers
+KW  - Location estimation
+KW  - Location systems
+KW  - Location-Based Services
+KW  - Location-sensing
+KW  - Position estimates
+KW  - Positioning technologies
+KW  - Smart phones
+KW  - Urban areas
+KW  - Algorithms
+KW  - Cellular telephone systems
+KW  - Enterprise resource planning
+KW  - Estimation
+KW  - Global system for mobile communications
+KW  - Indexing (of information)
+KW  - Laboratories
+KW  - Mobile phones
+KW  - Telecommunication equipment
+KW  - Telephone
+KW  - Telephone sets
+KW  - Wireless networks
+KW  - Wireless telecommunication systems
+KW  - Global positioning system
+N1  - Cited By :2
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Curran, K.; School of Computing and Intelligent Systems, University of Ulster, Londonderry, United Kingdom
+N1  - References: Chen, M., (2006) Practical Metropolitan-scale Positioning for GSM Phones, , UbiComp, Irvine, CA; 
+Cheng, Y.C., Accuracy characterization for metropolitan-scale Wi-Fi localization (2005) Mobisys, pp. 233-245. , Seattle; 
+(1997) Revision of the Commissions Rules to Ensure Compatibility With Enhanced 911 Emergency Calling Systems, , FCC RM-8143, CC Docket No. 94-102; 
+(2006) GSM Subscriber Statistics, , GSM-Association [online]; 
+Hata, M., Empirical formula for propagation loss in land mobile radio services (1980) IEEE Transactions on Vehicular Technology, 29, pp. 317-325; 
+Hong, J.I., Privacy and security in the location-enhanced World Wide Web (2003) Fifth International Conference on Ubiquitous Computing: Ubicomp, , Seattle, WA, USA; 
+Hulbert, I.A.R., French, J., The accuracy of GPS for wildlife telemetry and habitat mapping (2001) Journal of Applied Ecology, 38, pp. 869-878; 
+LaMarca, A., Place lab: Device positioning using radio beacons in the wild (2005) Pervasive, pp. 116-133. , IEEE, Munich, Germany; 
+Okumura, Y., Field strength and its variability in VHF and UHF land-mobile radio service (1968) Review of the Electrical Communications Laboratories, 16, p. 852; 
+Silventoinen, M., Rantalainen, T., Mobile station locating in GSM (1995) Wireless Communication System Symposium, pp. 53-59. , Smithtown, New York; 
+Sinnott, R.W., Virtues of the Haversine (1984) Sky and Telescope, 68, p. 158; 
+Tabbane, S., Evaluation of handover target cell determination algorithms for heterogeneous cellular environments (1997) ICC 97 Montreal, 'Towards the Knowledge Millennium', pp. 396-400. , Montreal, Canada; 
+Tonteri, T., A statistical modeling approach to location estimation (2001), Master's Thesis, University of HelsinkiWylie, M., Holtzman, J., The non-line of sight problem in mobile location estimation (1996) Proceedings of the 5th IEEE International Conference on Universal Personal Communications (ICUPC '96), 2, pp. 827-831. , Cambridge Mass, USA
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-67651014898&partnerID=40&md5=14c7d61757b59557ed9d2f78f4dc1899
+ER  - 
+
+TY  - JOUR
+TI  - ERP software: New ways to find your data, lower-cost entry for small plants
+T2  - Plastics Technology
+J2  - Plast Technol
+VL  - 55
+IS  - 6
+SP  - 28
+EP  - 31
+PY  - 2009
+SN  - 00321257 (ISSN) 
+AB  - IQMS, California, has introduced the Smart Page Internet portal to EnterpriseIQ enterprise resource planning (ERP) software system, which is a new web-based portal that provides customized single point access to all ERP data for single or multiple plants. Smart Page provides full access to ERP area of single or multiple plants in quality, manufacturing, engineering, accounting, maintenance, and customer services. It provides a number of ways to view ERP data, which can be filtered by company, plant, or individual machines or manufacturing cell. Smart Page also features a brand new feature, called SmartSearch, which is atypical search engine. Smart Page also includes manufacturing, production planning/MRP, scheduling, order history, and tracking. IQMS has also developed a new version of its Assembly manufacturing type that provides greater traceability of types, amounts, and costs of materials.
+KW  - California
+KW  - Customer services
+KW  - ERP software
+KW  - Internet portals
+KW  - Manufacturing cells
+KW  - Single point
+KW  - Software systems
+KW  - Web-based portal
+KW  - Cell membranes
+KW  - Computer software maintenance
+KW  - Flexible manufacturing systems
+KW  - Resource allocation
+KW  - Search engines
+KW  - Enterprise resource planning
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: PLTEA
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-67849100762&partnerID=40&md5=90322378b7b6e5948360141623ee4428
+ER  - 
+
+TY  - JOUR
+TI  - Lean automation
+T2  - Manufacturing Engineering
+J2  - Manuf Eng
+VL  - 142
+IS  - 2
+PY  - 2009
+SN  - 03610853 (ISSN) 
+AB  - Lean manufacturing tools along with right automation system can play a significant role in improving productivity. Smart applications of automation or deployment of systems having automated and lean features along with flexible manufacturing systems can be used as per factory operation's requirement. A proper testing need to be carried out before deployment of any lean automation systems. Manufacturers, who are planning to deploy lean principles to automated system, are advised to perform Plan, Do, Check, Act (PDCA) steps before implementing a lean automation system. Manufacturers also need to adopt those flexible automation systems, that are easy for modification and can improve the process, productivity, save time, and reduce errors. Intelligent robots with latest vision can provide higher degree of flexibility for automation in lean environments.
+KW  - Enterprise resource planning
+KW  - Flexible manufacturing systems
+KW  - Automated systems
+KW  - Automation systems
+KW  - Flexible automation systems
+KW  - Flexible manufacturing
+KW  - Higher degrees
+KW  - Lean environments
+KW  - Lean manufacturing
+KW  - Lean principles
+KW  - Smart applications
+KW  - Automation
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MAEND
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-60849134587&partnerID=40&md5=a80007411008384038f13adbc85e104c
+ER  - 
+
+TY  - JOUR
+TI  - Smart devices in a training home for people with Down's syndrome: Case study of "Casa satellite"
+T2  - International Journal for Housing Science and Its Applications
+J2  - Int J Hous Sci Appl
+VL  - 32
+IS  - 4
+SP  - 265
+EP  - 278
+PY  - 2008
+SN  - 01466518 (ISSN) 
+AU  - Frattari, A.
+AU  - Dalprà, M.
+AU  - Chiogna, M.
+AD  - University of Trento, CUnEDI, Trento, Italy
+AB  - Through an analysis on disabled people data and because of a specific request of families and associations of disabled people in Italy, it emerged the necessity to design new home solutions. Theirs goals are the improvements of the autonomy and of the quality of users' life in their own homes instead of in health care institutions. CUnEdI of the University of Trento developed a methodology of participated interdisciplinary design for smart homes for disabled users. This paper refers to the case study called "Casa satellite" a home solution designed for people suffering from Down syndrome. "Casa satellite" is a pilot project which aims to educate the users to an independent living by mean of a training period in the experimental dwelling. This apartment combines accessibility and automation system in order to facilitate the activities inside the home, to assure safety and security, to permit the remote connection with assistance services. Copyright © 2008 IAHS.
+KW  - Automation systems
+KW  - Disabled people
+KW  - Down syndrome
+KW  - Independent living
+KW  - Mental retardation
+KW  - Apartment houses
+KW  - Enterprise resource planning
+KW  - Health care
+KW  - Satellites
+KW  - Solutions
+KW  - Automation systems
+KW  - Disabled people
+KW  - Down syndrome
+KW  - Independent living
+KW  - Mental retardation
+KW  - Independent living systems
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: IJHAD
+LA  - English
+N1  - Correspondence Address: Frattari, A.; University of Trento, CUnEDI, Trento, Italy
+N1  - References: Frattari, A., (2005) Codice di Pratica per la localizzazione di sistemi domotici, , Provincia Autonoma di Trento, Trento; 
+Frattari, A., Casa educativa con l'impiego di sussidi domotici per utenti con ritardo (2006) Journal A&A; 
+Frattari, A., Dalprà M., Chiogna, M. 2006, Smart home and architecture: case study of dwellings for people with cognitive disabilities, in Sustainable Housing Design a cura di Ural O., Iovino R., Frattari A., Fascia F., Albatici R., Napoli: Luciano Editore, 2006. p. 277. ISBN 88-6026-030-2, Atti del convegno: XXXIV IAHS World Congress on Housing Sustainable Housing Design Emphasizing Urban Housing September 20-23, Naples, ItalyFrattari, A., Chiogna, M. 2006, Casa sicura ed educativa, in Journal Casa Futura, ANNO VIII- No. 1, pp.48-54Sandstrom, G., Keijer, U., Alloggi domotici integrati e di addestramento per persone con problemi mentali (2003) A&A, 1-2, pp. 85-90; 
+Dalmonego, C., (2006) Progetto Casa satellite, , Anffas Trentino Onlus; 
+Nazionale di Statistica, I., (2007) Sindrome di Down, , www.disabilitaincifre.it/indicatori/nascita/sindrome_down.asp, available in; 
+(2007) Sindrome di Down, , www.aipd.it/sindrome_di_down/sindrome_di_down.php, AIPD Associazione Italiana Persone Down, available in; 
+(2007), www.anffas.net/Page.asp, ANFFAS available inUR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-54449097427&partnerID=40&md5=b131d0ecb81273909ca381928eb8d56d
+ER  - 
+
+TY  - JOUR
+TI  - Business software sector targets process market
+T2  - Process Engineering (London)
+J2  - Process Eng (London)
+VL  - 89
+IS  - 3
+SP  - 21
+EP  - 26
+PY  - 2008
+SN  - 03701859 (ISSN) 
+AU  - Raleigh, P.
+AB  - Software process operators are considering the integration of real-time events on the shop-floor and factory site up into business planning environments. Simon Pollard, vice president, Manufacturing Operations and Execution, SAP EMEA, stated that customers in the process sector are targeting a natural evolution of the enterprise model rather than the plant model. A key software player SAP is increasing its market presence throughout the process industries with focus on the ERP/enterprise business planning and execution functions, and over the last two to three years the company has started to work with major customers to integrate plant-to-enterprise business scenarios. The efforts should be focused on understanding potential benefits, in the context of a guiding principle or manufacturing philosophies such as lean, JIT and Six Sigma. Smart industry-specific, real-time integration scenarios is aimed towards benefits such as reduced cost, latency, waste, or improved return on assets.
+KW  - Computer software
+KW  - Industrial plants
+KW  - Philosophical aspects
+KW  - Planning
+KW  - Process engineering
+KW  - Process planning
+KW  - Strategic planning
+KW  - Work simplification
+KW  - (e ,3e) process
+KW  - (min ,max ,+) functions
+KW  - Business planning
+KW  - Business software
+KW  - enterprise modelling
+KW  - Manufacturing operations
+KW  - Market presence
+KW  - natural evolution
+KW  - plant modelling
+KW  - Potential benefits
+KW  - Process industries (PI)
+KW  - Real time integration
+KW  - Reduced costs
+KW  - Return on assets
+KW  - Six-sigma
+KW  - Software processing
+KW  - vice president
+KW  - Industry
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: PSEGA
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-44649129093&partnerID=40&md5=cc2f568dea43162cade1c4a9ccf23e7b
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of ERP outsourcing
+T2  - Computers and Operations Research
+J2  - Comp. Oper. Res.
+VL  - 34
+IS  - 12
+SP  - 3715
+EP  - 3724
+PY  - 2007
+DO  - 10.1016/j.cor.2006.01.010
+SN  - 03050548 (ISSN) 
+AU  - Olson, D.L.
+AD  - Department of Management, University of Nebraska, Lincoln, United States
+AB  - Outsourcing has evolved as a viable means to attain cost savings in organizational information technology. This option, however, involves significant risks. This paper discusses why formal cost evaluation models are difficult to apply in this decision, and demonstrates how multi-criteria methods can be used to support this critical decision. © 2006 Elsevier Ltd. All rights reserved.
+KW  - Application service providers
+KW  - Cost evaluation
+KW  - Enterpise resource planning
+KW  - Outsourcing
+KW  - Simple multiattribute rating theory (SMART)
+KW  - Cost accounting
+KW  - Enterprise resource planning
+KW  - Information technology
+KW  - Risk management
+KW  - Societies and institutions
+KW  - Application service providers
+KW  - Cost evaluation
+KW  - Simple multiattribute rating theory (SMART)
+KW  - Viable means
+KW  - Outsourcing
+N1  - Cited By :41
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: CMORA
+LA  - English
+N1  - Correspondence Address: Olson, D.L.; Department of Management, University of Nebraska, Lincoln, United States; email: Dolson3@unl.edu
+N1  - References: Teresko, J., ERP outsourcing (1999) Industryweek, 248 (16), pp. 38-45; 
+Bryson, K.M., Sullivan, W.E., Designing effective incentive-oriented contracts for application service provider hosting of ERP systems (2003) Business Process Management Journal, 9 (6), pp. 705-721; 
+Fox, S., (2004) Offshore storm brews. Infoworld, 26 (12), p. 12; 
+Hildreth, S., Asset management moves out (2004) Computerworld, 38 (20), pp. 25-26; 
+Van Everdingen, Y., van Hellegersberg, J., Waarts, E., Outsourcing's next generation (2003) Eweek, 20 (25), pp. 22-24; 
+Clymer, J., Rent or buy? (2004) PC Magazine, 23 (18), pp. 129-132; 
+Huff, A., A good host? (2003) Commercial Carrier Journal, 160 (8), pp. 65-69; 
+Kevan, T., ERP's new landscape (2003) Frontline Solutions, 4 (8), pp. 30-32; 
+Hoffman, T., Thibodeau, P., Wage inflation unlikely to soon end India's offshore dominance (2004) Computerworld, 38 (14), pp. 11-12; 
+Schwartz, J., A clean fresh feeling (2003) VarBusiness, 19 (23), pp. 24-30; 
+Saran, C., Sun chief predicts 90% of IT jobs will go as firms outsource systems (2003) Computer Weekly, 5; 
+DePompa, B., Time to outsource ERP? (2003) Computerworld, 37 (31), pp. 33-34; 
+Gunsauley, C., Best-case scenario (2004) Employee Benefits News, 18 (3), pp. 28-29; 
+Joplin, B., Terry, C., Financial system outsourcing: The ERP application hosting option (2000) Government Finance Review, 16 (1), pp. 31-33; 
+Regan, R., Virzi, A.M., Turn a negative into a positive (2004) Baseline, 38, p. 28; 
+Van Everdingen, Y., van Hellegersberg, J., Waarts, E., (2003) ERP outsourcing. CIO Insight, 27, p. 72; 
+Nash, K.S., Let's define a deal (2002) Baseline, 13, pp. 64-67; 
+Olson, D.L., (2004) Managerial issues of enterprise resource planning systems, , McGraw-Hill/Irwin, Boston; 
+Mabert, V.M., Soni, A., Venkataramanan, M.A., Enterprise resource planning survey of US manufacturing firms (2000) Production and Inventory Management Journal, 41 (20), pp. 52-58; 
+Olhager, J., Selldin, E., (2003) Enterprise resource planning survey of Swedish manufacturing firms. European Journal of Operational Research, 146, pp. 365-373; 
+McCarthy, T., Are ASPs for you? (2001) Financial Executive, 17 (4), pp. 45-48; 
+Van Everdingen, Y., van Hellegersberg, J., Waarts, E., ERP adoption by European midsize companies (2000) Communications of the ACM, 43 (4), pp. 27-31; 
+Ekanayaka, Y., Currie, W.L., Seltsikas, P., Evaluating application service providers (2003) Benchmarking: An International Journal, 10 (4), pp. 343-354; 
+Hobbs, B.F., Horn, G.T.F., Building public confidence in energy planning: a multimethod MCDM approach to demand-side planning at BC gas (1997) Energy Policy, 25 (3), pp. 356-375; 
+Keeney, R.L., Raiffa, H., (1976) Decisions with multiple objectives: preferences and value tradeoffs, , Wiley, New York; 
+Olson, D.L., (1996) Decision aids for selection problems, , Springer, New York; 
+Edwards, W., How to use multiattribute utility measurement for social decision making (1977) IEEE Transactions on Systems Man and Cybernetics, 7 (5), pp. 326-340; 
+Saaty, T.L., (1977) A scaling method for priorities in hierarchical structures. Journal of Mathematical Psychology, 15, pp. 234-281
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-34247482248&partnerID=40&md5=42beedc568cab3c715e16785f823110a
+ER  - 
+
+TY  - JOUR
+TI  - Controlling change
+T2  - Manufacturing Computer Solutions
+J2  - Manuf. Comput. Solutions
+VL  - 13
+IS  - 5
+SP  - 28
+EP  - 29
+PY  - 2007
+SN  - 13581066 (ISSN) 
+AU  - Shelley, T.
+AB  - Product lifecycle management (PLM) software tools are increasingly being used by automobile companies for engineering production and development. Triple Eight Race Engineering has adopted Autodesk's main PLM tool for a complete redesign of the cars. PLM tool enables the company to recreate data several times throughout the design and production processes. Several companies are using Unigraphics PLM under NX2 CAD/CAM on the engineering part along with EMC Documentum eRoom, to facilitate collaboration on their chain, integrated with mySAP ERP. Smart Design Environment (SDE) 2.0 been developed to integrate into commercial 3D CAD systems for managing designing process of seat trim development more efficiently.
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MCSOF
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-35348884800&partnerID=40&md5=4eb04f138fad65c7a7e5790d81de949b
+ER  - 
+
+TY  - JOUR
+TI  - Smart GIS/IT
+T2  - GEO: connexion
+J2  - GEO connexion
+VL  - 6
+IS  - 5
+SP  - 23
+EP  - 24
+PY  - 2007
+SN  - 14768941 (ISSN) 
+AU  - Baumann, J.
+AB  - Following amalgamation of seven neighboring local authorities into the City of Cape Town in the Republic of South Africa, the IT department initiated several projects to address the standardization of Information and Communications Technology (ICT) architecture and connection of constituent parts to enable a better flow of information among the departments and more efficient services for its residents. By implementing an enterprise resource planning (ERP) system, 113 legacy systems and 70 interfaces were replaced with a single functionality rich SAP solution designed to standardize and optimize the city's entire business processes.
+KW  - design
+KW  - GIS
+KW  - information and communication technology
+KW  - planning system
+KW  - standardization
+KW  - urban planning
+KW  - Africa
+KW  - Cape Town
+KW  - South Africa
+KW  - Southern Africa
+KW  - Sub-Saharan Africa
+KW  - Western Cape
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-34248545884&partnerID=40&md5=893098407ea3b147d17a2a032d03e78b
+ER  - 
+
+TY  - JOUR
+TI  - Data hub gets global bearings group rolling
+T2  - Manufacturing Computer Solutions
+J2  - Manuf Comput Solutions
+VL  - 12
+IS  - 10
+SP  - 34
+EP  - 35
+PY  - 2006
+SN  - 13581066 (ISSN) 
+AU  - Tinham, B.
+AB  - The automotive bearings firms Galcier Industrial Bearings, Glacier Vandervell and Garlock Bearings (GGB) utilizes an Oracle data hub for the low cost implementation, customer and supplier developments. GGB found itself with 13 sites around the world, some manufacturing, some distribution, some sales offices with different ERP and legacy systems. GGB goal is smart, automated logistics with the ability to sell ex-stock across its company and regional boundaries. GGB started its product data consolidation project on the Oracle's E-Business suite product information management (PIM) data hub. The system also covers additional attributes relevant to the different sites such as tolerance data and drawings. The data hub approach means that GGB can acquire new companies and secured in the knowledge that its IT infrastructure is flexible enough to allow seamless integration.
+KW  - Enterprise resource planning
+KW  - Industrial management
+KW  - Information management
+KW  - Knowledge acquisition
+KW  - Product development
+KW  - Project management
+KW  - IT infrastructure
+KW  - Product information management (PIM)
+KW  - Supplier developments
+KW  - Roller bearings
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MCSOF
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-33845525757&partnerID=40&md5=4895ae98e441993538e929b80ad1d212
+ER  - 
+
+TY  - JOUR
+TI  - Research on security architecture and security technologies for collaborative commerce and design environment
+T2  - Jisuanji Jicheng Zhizao Xitong/Computer Integrated Manufacturing Systems, CIMS
+J2  - Jisuanji Jicheng Zhizao Xitong
+VL  - 11
+IS  - 2
+SP  - 294
+EP  - 300
+PY  - 2005
+SN  - 10065911 (ISSN) 
+AU  - Tang, Y.
+AU  - Zhang, S.-S.
+AU  - Li, L.
+AD  - CIT Lab., Dept. of Comp. Sci., Shanghai Jiaotong Univ., Shanghai 200030, China
+AB  - Collaborative commerce and design environment (CCDE) is characterized by its numerous users, massive resources and dynamic changes. In order to solve security problems coming from multi-domain, heterogeneity and dynamics, the security policies for CCDE were introduced. The security architecture for CCDE was constructed, which employed user proxy and resource proxy to provide resource and security access control. On the premise that the access control mechanism of each individual security domain was not changed in CCDE, secure resource access could be accomplished in cross-heterogeneous domains. The security of collaborative commerce and design activities were guaranteed and at the same time easy use of resource access was provided. At last, the framework of key supporting technologies of CCDE was also introduced.
+KW  - Collaboration commerce and design environment
+KW  - Proxy
+KW  - Security architecture
+KW  - Security policy
+KW  - Security technology
+KW  - Enterprise resource planning
+KW  - Information management
+KW  - Intelligent agents
+KW  - Internet
+KW  - Security of data
+KW  - Smart cards
+KW  - Software agents
+KW  - XML
+KW  - Collaboration commerce and design environment
+KW  - Proxy
+KW  - Security architecture
+KW  - Security policy
+KW  - Security technology
+KW  - Computer supported cooperative work
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: JJZXF
+LA  - Chinese
+N1  - Correspondence Address: Tang, Y.; CIT Lab., Dept. of Comp. Sci., Shanghai Jiaotong Univ., Shanghai 200030, China; email: tangye@cs.sjtu.edu.cn
+N1  - References: Zhang, S., Cao, J., Wang, Y., (2000) Theory, Technology and Practice of Agile Manufacturing, pp. 46-133. , Shanghai: Shanghai Jiaotong University Press, Chinese source; 
+Zhang, S., Huang, Y., Cao, J., Application for mass custom collaboration commerce and integrated design system (2001), Shanghai: CIT Lab, Computer Science Department, Shanghai Jiaotong University, Chinese sourceFoster, I., Kesselman, C., Tsudik, G., A security architecture for computational grids (1998) Proc. 5th ACM Conference on Computer and Communications Security Conference, pp. 83-92. , New York: ACM Press; 
+Naomaru, I., Peter, H., Practical security systems with smartcards (1999), http://citeseer.nj.nec.com/itoi99practical.htmWooldridge, M., Jennings, N.R., Intelligent agents-theory and practice (1995) The Knowledge Engineering Review, 10 (2), pp. 115-152; 
+Parker, T.A., Single sign-on systems - The technologies and the products (1995) European Convention on Security and Detection, (5), pp. 151-155; 
+Al Mahdi, H.A.H., Zhang, S.S., Design of the XML security system for electronic commerce application (2003) High Technology Letters, (6), pp. 81-86; 
+Linn, J., Generic security service application program interface (1997), http://www.rfc-editor.org/rfc/rfc2078.txt, Version 2, rfc2078UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-16644368498&partnerID=40&md5=136f93e7b996eb62cd40e4f50f6b3073
+ER  - 
+
+TY  - JOUR
+TI  - The viable systems model applied to a smart network: The case of the UK electricity market
+T2  - Journal of Information Technology
+J2  - J. Inf. Technol.
+VL  - 19
+IS  - 4
+SP  - 270
+EP  - 280
+PY  - 2004
+DO  - 10.1057/palgrave.jit.2000028
+SN  - 02683962 (ISSN) 
+AU  - Shaw, D.R.
+AU  - Snowdon, B.
+AU  - Holland, C.P.
+AU  - Kawalek, P.
+AU  - Warboys, B.
+AD  - Manchester Business School, University of Manchester, Manchester, United Kingdom
+AD  - Department of Computer Science, University of Manchester, Manchester, United Kingdom
+AD  - Manchester Business School, Booth Street West, Manchester M15 6PB, United Kingdom
+AB  - We investigate the concept of Smart Business Networks by using Beer's Viable System Model (VSM) to analyse how such a network mitigates the affect of emergent, and therefore unforecastable, demands upon the networked businesses. We examine the requirements for network smartness, highlight some significant properties of one Smart Network and use our case analysis and concepts from systems theory to suggest some general properties such as natural stability and distributed capability. We have found that smartness is distributed and shared behavioural process standards can act to stabilise complex systems. This is important because it mitigates emergent behaviour within increasingly complex business networks. The contributions of our article apply both to academics and business practitioners and are in its illustration and investigation of one Smart Business Network including how the smart capability functions at a strategic, business process and technical level; and the use of Beer's VSM to analyse an electricity market.
+KW  - Complex systems
+KW  - Complexity
+KW  - Electricity markets
+KW  - Smart Business Networks
+KW  - Stability
+KW  - Viable System Model
+KW  - Data processing
+KW  - Distributed computer systems
+KW  - Electric industry
+KW  - Enterprise resource planning
+KW  - Industrial management
+KW  - Intelligent agents
+KW  - Marketing
+KW  - Strategic planning
+KW  - Complexity
+KW  - Electricity markets
+KW  - Smart business networks
+KW  - Viable system model (VSM)
+KW  - Electronic commerce
+N1  - Cited By :9
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+N1  - Correspondence Address: Shaw, D.R.; Manchester Business School, Booth Street West, Manchester M15 6PB, United Kingdom; email: dshaw@man.mbs.ac.uk
+N1  - References: Ashby, W.R., Requisite variety and its implications for the control of complex systems (1958) Cybernetica, 1 (2), pp. 83-99; 
+Anderson, P., Complexity Theory and organization science (1999) Organization Science, 10 (3); 
+Beer, S., (1979) The Heart of Enterprise, , New York: John Wiley & Sons Ltd; 
+Brignall, M., (2004) The Guardian Newspaper, , 17th July; 
+Chakravorti, B., (2003) The Slow Pace of Fast Change: Bringing Innovations to Market in A Connected World, , Boston, MA: Harvard Business School Press; 
+Checkland, P., (1981) Systems Thinking, Systems Practice, , Chichester: John Wiley & Sons; 
+Electralink Website, , www.electralink.co.uk, accessed 11th May, 2004; 
+Haeckel, S.H., Nolan, R.L., Managing by wire: Using IT to transform a business from 'make-and-sell to 'sense-and-respond' (1996) Competing in the Information Age: Strategic Alignment in Practice, , J.N. Luftman (ed.) Oxford: Oxford University Press; 
+Herring, C., Kaplan, S., The viable system architecture (2001) Proceedings of the 34th Hawaii International Conference on System Sciences (HICSS-34), Theme III: Software Engineering and Related Issues, , Software Architecture Silver spring, MD: IEEE Computer Society Press; 
+Malone, T.W., Crowston, K., The Interdisciplinary theory of coordination (1994) ACM Computing Surveys, 26 (1), pp. 87-119; 
+(2003) Master Registration Agreement (MRA) Process Diagrams, , www.mrasco.com, August release, (last accessed 1st August 2004); 
+Mumford, E., A socio-technical approach to systems design (2000) Requirements Engineering, 5. , Springer-Verlag, London; 
+(2003) The New Electricity Trading Arrangements in England and Wales, , Report for the House of Commons, London: The Stationery Office; 
+(2004) Advice for Consumers: Choosing the Best Electricity Supplier for Your Needs, , http://www.nao.gov.uk/publications/electricity1.htm, last accessed 5th May 2004; 
+Newell, A., Putting it all together (1989) Complex Information Processing: the Impact of Herbert A. Simon, , Klahr, D. and Kotovsky, K. (eds.) Hillsdale, NJ: LL Erlbaum Associates; 
+Parnas, D.L., Clements, P.C., Weiss, D.M., The modular structure of complex systems (1985) IEEE Transactions on Software Engineering, SE11 (3), pp. 259-266; 
+Simon, H.A., (1969) The Sciences of the Artificial, , MIT Press, Cambridge, MA, USA; 
+Warboys, B., Kawalek, P., Robertson, I., Greenwood, M., (1999) Business Information Systems: A Process Approach, , New York: McGraw-Hill; 
+Weick, K.E., Educational organizations as loosely coupled systems (1976) Administrative Science Quaterly, 21. , March; 
+Williamson, O.E., Comparative economic organization: The analysis of discrete structural alternatives (1991) Administrative Science Quarterly, 36, pp. 269-296
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-11044237293&partnerID=40&md5=eb7e21b3697363a239660aed276df145
+ER  - 
+
+TY  - JOUR
+TI  - Research on PLM system framework and key technologies
+T2  - Nanjing Hangkong Hangtian Daxue Xuebao/Journal of Nanjing University of Aeronautics and Astronautics
+J2  - Nanjing Hangkong Hangtian Daxue Xuebao
+VL  - 35
+IS  - 5
+SP  - 565
+EP  - 571
+PY  - 2003
+SN  - 10052615 (ISSN) 
+AU  - Shen, J.-X.
+AU  - Zhou, R.-R.
+AD  - Coll. of Mech. and Elec. Eng., Nanjing Univ. of Aero. and Astron., Nanjing 210016, China
+AB  - The product lifecycle management (PLM) system provides a collaborative environment to manage, track and control all the product-related information over the complete product and asset life cycle. PLM offers functions for creating and sharing product planning, designing, manufacturing and distribution information for collaboration via local networks and the Internet. PLM pulls relevant information from the CAX, ERP, SCM and CRM systems, and associates with product knowledge. It shares the product data across all company functions, customers and suppliers, and makes the product data available to extended enterprises. It empowers everyone from manufacturing to marketing and from purchasing to field supporting to work faster and smarter. This paper describes a four layers framework of PLM system, four main technologies including product modeling, integrated data environment, designing and manufacturing collaboration as well as workflow management. The implementation of PLM system with CORAB and WEB techniques is also discussed.
+KW  - Designing and manufacturing collaboration
+KW  - Integrated data environment
+KW  - Product lifecycle management
+KW  - Product modeling
+KW  - Workflow management
+KW  - Computer simulation
+KW  - Internet
+KW  - Life cycle
+KW  - Product design
+KW  - Product development
+KW  - Collaboration design
+KW  - Collaboration manufacturing
+KW  - Integrated data environment
+KW  - Product lifecycle management
+KW  - Workflow management
+KW  - Management information systems
+N1  - Cited By :8
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: NHHXE
+LA  - Chinese
+N1  - Correspondence Address: Shen, J.-X.; Coll. of Mech. and Elec. Eng., Nanjing Univ. of Aero. and Astron., Nanjing 210016, China; email: njshenjx@vip.sina.com
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-1942542485&partnerID=40&md5=ac465ce947a5fc282c370c0ccce03741
+ER  - 
+
+TY  - JOUR
+TI  - IT direction in Thailand: Cultivating an E-society
+T2  - IT Professional
+J2  - IT Prof
+VL  - 5
+IS  - 5
+SP  - 16
+EP  - 20
+PY  - 2003
+DO  - 10.1109/MITP.2003.1235317
+SN  - 15209202 (ISSN) 
+AU  - Bhattarakosol, P.
+AD  - Department of Mathematics, Faculty of Science, Chula-longkorn University, Bangkok, Thailand
+AB  - Thailand's current government established the Ministry of Information and Communication Technology (ICT), charged with developing and supporting completely electronic processes for government, commerce, industry, and education. The new ICT policies aim to bring IT to bear on every aspect of Thai society and, ultimately, transform the economy. Thus, Thailand's new long-term plans aim to bring technologies to thepeople-and to nurture a generation to produce IT for the world market.
+KW  - Education computing
+KW  - Electronic commerce
+KW  - Enterprise resource planning
+KW  - Investments
+KW  - Management information systems
+KW  - Smart cards
+KW  - Government staff
+KW  - National spatial data infrastructure
+KW  - Information technology
+N1  - Cited By :2
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: IPMAF
+LA  - English
+N1  - Correspondence Address: Bhattarakosol, P.; Department of Mathematics, Faculty of Science, Chula-longkorn University, Bangkok, Thailand; email: bpattara@sc.chula.ac.th
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0142071661&partnerID=40&md5=f58dfe8451baac46bc91b6a7b141dd1d
+ER  - 
+
+TY  - JOUR
+TI  - Control room revolution
+T2  - PPI Pulp and Paper International
+J2  - PPI Pulp Pap Int
+VL  - 44
+IS  - 3
+SP  - 22
+EP  - 26
+PY  - 2002
+SN  - 0033409X (ISSN) 
+AU  - Roberts, J.
+AB  - The relationship of the control room with the devices it manages is set to change forever. While the distributed control system (DCS) networks risk being overloaded by the huge amounts of information which smart field devices can transmit compared with their analog cousins, Fieldbus is created to cope with the digital revolution. Moreover, Fieldbus's open architecture allows equipment from different suppliers to communicate freely.
+KW  - Computer aided manufacturing
+KW  - Distributed parameter control systems
+KW  - Enterprise resource planning
+KW  - Factory automation
+KW  - Industrial management
+KW  - Inventory control
+KW  - Investments
+KW  - Paper and pulp industry
+KW  - Productivity
+KW  - Quality control
+KW  - Standards
+KW  - Industrial automation
+KW  - International standardization
+KW  - Manufacturing execution systems
+KW  - Profitability
+KW  - Paper and pulp mills
+KW  - Automation
+KW  - Cad Cam
+KW  - Capacity
+KW  - Inventory Control
+KW  - Investment
+KW  - Management
+KW  - Paper Industry
+KW  - Paper Mills
+KW  - Profits
+KW  - Quality Control
+KW  - Standards
+KW  - Throughput
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: PUPIA
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0036495860&partnerID=40&md5=2a0ce1f5b872c458f4b4ac80999e8b33
+ER  - 
+
+TY  - JOUR
+TI  - Pervasive computing: A computer in every pot
+T2  - EDN
+J2  - EDN
+VL  - 47
+IS  - 3
+SP  - 75
+EP  - 78
+PY  - 2002
+SN  - 00127515 (ISSN) 
+AU  - Vrana, G.
+AB  - The definition, technology and applications of pervasive computing were presented. Pervasive computing technology was stated to provide seamless access and use of data from any server to any device by assigning it as a web resource. The technology benefits from the success of the web, wireless connectivity and the commoditization of computing. Its applications include tv and refrigerator customization, remote access and smart homes.
+KW  - Cellular radio systems
+KW  - Computer hardware
+KW  - Computer software
+KW  - Database systems
+KW  - Electronic mail
+KW  - Enterprise resource planning
+KW  - Global positioning system
+KW  - Intelligent buildings
+KW  - Network protocols
+KW  - Servers
+KW  - Speech communication
+KW  - Websites
+KW  - Wireless telecommunication systems
+KW  - XML
+KW  - Pervasive computing technology
+KW  - Wireless application protocol (WAP)
+KW  - Computer applications
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: EDNSB
+LA  - English
+N1  - References: Cravotta, N., VoiceXML distributes voice to the masses (2002) EDN, p. 55. , Jan 10; 
+Sorrells, P., Optimizing read range in RFID systems (2000) EDN, p. 173. , Dec 7; 
+Prophet, G., RFID and the smart label: Bye bye barcode? (2000) EDN, , Aug 17; 
+Vrana, G., Analytic technology: Diagnose what ails your auto (2001) EDN, p. 37. , Dec 20; 
+Kindberg, T., People, Places, Things: Web Presence for the Real World, , Hewlett-Packard Laboratories; 
+Odlyzko, A., (1999) The Visible Problems of the Invisible Computer: A Skeptical Look at Information Appliances, , www.firstmonday.org, Sept 6
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0037034227&partnerID=40&md5=e3fcc1788c6ee12ca17609b90be273ba
+ER  - 
+
+TY  - JOUR
+TI  - Shaping up the wet end
+T2  - European Papermaker
+J2  - Eur Papermaker
+VL  - 8
+IS  - 4
+SP  - 28
+EP  - 32+34
+PY  - 2001
+SN  - 11036966 (ISSN) 
+AU  - Swann, C.E.
+AB  - As with many other sectors related to the papermaking industry, wet-end chemistry is evolving rapidly with the advent of e-business and intensifying consolidation, combined with the continuing race to turn out the smartest solutions to existing and new challenges. An overview is given on what's been going on, and how it will affect business.
+KW  - Electronic commerce
+KW  - Enterprise resource planning
+KW  - International trade
+KW  - Paper and pulp industry
+KW  - Paper and pulp mills
+KW  - Papermaking
+KW  - Raw materials
+KW  - Societies and institutions
+KW  - Electronic business
+KW  - Paper quality
+KW  - Supply chain costs
+KW  - Wet end chemistry
+KW  - Wet ends (papermaking machinery)
+KW  - Foreign trade
+KW  - Innovation
+KW  - Machine speed
+KW  - Paper industry
+KW  - Paper sheets
+KW  - Suppliers
+KW  - Wet ends
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0035366869&partnerID=40&md5=5285ba27f1ee9f9f487bf872a6720fa9
+ER  - 
+
+TY  - JOUR
+TI  - Getting the best out of what you've got
+T2  - Manufacturing Computer Solutions
+J2  - Manuf Comput Solutions
+VL  - 6
+IS  - 9
+SP  - 16
+EP  - 19
+PY  - 2000
+SN  - 13581066 (ISSN) 
+AU  - Lock, Geoff
+AU  - Tinham, Brian
+AB  - The big gains from advanced planning and scheduling (APS) irrespective of some unique cases are studied. APS is defined as capability of planning materials and capacity to act simultaneously and fast. Due to misconception they find little use compared to manufacture resource planning systems and enterprise resource planning systems which operate in the same functional mode. However APS has found more takers especially among smart manufacturers who realize that it is best suited to present day manufacturing business. APS system is known for high speed and sophistication that allow manufacturer to deal with high velocity and changeable world of business.
+KW  - Computer simulation
+KW  - Computer software
+KW  - Industrial management
+KW  - Information technology
+KW  - Optimization
+KW  - Resource allocation
+KW  - Technological forecasting
+KW  - Advanced planning and scheduling (APS) systems
+KW  - Enterprise resource planning (ERP) systems
+KW  - Manufacture resource planning (MRP) systems
+KW  - Strategic planning
+PB  - Findlay Publ Ltd
+CY  - Orpington, United Kingdom
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MCSOF
+LA  - English
+N1  - Correspondence Address: Lock, Geoff
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0034291940&partnerID=40&md5=64f9282e4210bfdbfcb756c1235cfc09
+ER  - 
+
+TY  - JOUR
+TI  - Maintenance gets smart
+T2  - Airline Business
+J2  - Airl. Bus.
+VL  - 1999
+IS  - 4
+SP  - 80
+EP  - 81
+PY  - 1999
+SN  - 02687615 (ISSN) 
+AB  - The latest generation of enterprise-wide software solutions promise to deliver double-digit cost savings to maintenance departments - but will they? Kevin O'Toole talks to consultants Ernst & Young, fresh from implementing the industry's first full ERP system at Air New Zealand.
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+LA  - English
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-1542531432&partnerID=40&md5=8bfd120ed0813912eaa2577f1c8d11c3
+ER  - 
+
+TY  - JOUR
+TI  - Integrated information management system: Turning knowledge into profit
+T2  - Process Control News (for the Pulp and Paper Industries)
+J2  - Process Control News Pulp Paper Indus
+VL  - 19
+IS  - 4
+SP  - 
+EP  - 
+PY  - 1999
+SN  - 07483236 (ISSN) 
+AU  - Harkins, B.
+AU  - Antanies, J.
+AD  - Aspen Technology, Inc, United States
+AB  - With the advent of information technology, many mills are shifting towards integrated information management systems. An integrated plant information system converts data into knowledge and when combined with decision support and advanced controls, it provides a means of turning knowledge into profit. Integrated information management consists of emerging technologies dubbed as `smart manufacturing systems.' By combining models with tools to compare current and past operating conditions, planning and scheduling, and advanced controls, a mill can truly maximize its performance.
+KW  - Enterprise resource planning (ERP)
+KW  - Integrated information management system
+KW  - Computer integrated manufacturing
+KW  - Decision support systems
+KW  - Electronic data interchange
+KW  - Inventory control
+KW  - Resource allocation
+KW  - Strategic planning
+KW  - Paper and pulp mills
+N1  - Cited By :1
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: 00293
+LA  - English
+N1  - Correspondence Address: Harkins, B.; Aspen Technology, IncUnited States
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0032691048&partnerID=40&md5=d354c5abe7dbca987d0e2a8a00e813cd
+ER  - 
+
+TY  - JOUR
+TI  - Controllable misaligned journal bearings, lubricated with smart fluids
+T2  - Journal of Intelligent Material Systems and Structures
+J2  - J Intell Mater Syst Struct
+VL  - 8
+IS  - 2
+SP  - 125
+EP  - 137
+PY  - 1997
+SN  - 1045389X (ISSN) 
+AU  - Nikolakopoulos, P.G.
+AU  - Papadopoulos, C.A.
+AD  - Mechanical Engineering Dept., University of Patras, Machine Design Lab., Patras, 265 00, Greece
+AB  - The controllable rheological behaviour of Electro-Rheological Fluids (ERP) is useful in engineering systems where variable performance is required. In particular the ERF have properties which are changed by an imposed electric field. In this paper a general ised Reynolds equation is solved using finite element techniques in order to simulate the behaviour of misaligned journal bearings lubricated with ERF. The Bingham plastic model is used to described the behaviour of the ERF, when the fluid is in flow mode. It is found that the applied electric field has a substantial influence on the load carrying capacity and the misaligned attitude of the journal bearings. It is concluded that the electric field imposed on the electro-rheological lubricant tends to align the journal in the bearing, making thus the misalignment angle smaller. Thus by changing the electric field it is possible to control the dynamic behaviour of rotor-bearing systems.
+KW  - Electric field effects
+KW  - Finite element method
+KW  - Intelligent materials
+KW  - Lubrication
+KW  - Mathematical models
+KW  - Plasticity
+KW  - Rheology
+KW  - Bingham plastic model
+KW  - Electrorheological fluids (ERF)
+KW  - Misaligned journal bearings
+KW  - Reynolds equation
+KW  - Journal bearings
+N1  - Cited By :3
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: JMSSE
+LA  - English
+N1  - Correspondence Address: Nikolakopoulos, P.G.; Mechanical Engineering Dept., University of Patras, Machine Design Lab., Patras, 265 00, Greece
+N1  - References: Asanabe, S., Akahoshi, M., Asai, R., Theoretical and Experimental Investigation on Misaligned Journal Bearing Performance Instn. Mech. Engrs., C36 (71); 
+Bird, R.B., Stewart, W.E., Lightfoot, E.N., (1960) Transport Phenomena, , New York: Wiley and Sons; 
+Block, H., Kelly, J.P., Review Article Electro-Rheology (1988) Journal of Physics D: Applied Physics, 21, pp. 1661-1677; 
+Buckholtz, R.H., Lin, J.F., The Effect of Journal Bearing Misalignment on Load and Cavitation for Non Newtonian Lubricants (1986) Journal of Tribology, 108, pp. 645-654; 
+Dimarogonas, A.D., Kollias, A., Electro-Rheological Fluid-Controlled 'Smart' Journal Bearing (1992) Tribology Transactions, 35 (4), pp. 611-618; 
+Dubois, G.B., Ocvirk, F.W., Wehe, R.L., Ithaca, N.Y., (1957) Properties of Misaligned Journal Bearings, pp. 1205-1212. , Transaction of the ASME August, Paper No. 56-LUB-7; 
+Hill, J.J., Thomas, H.V.S., Response Times of Electro-Rheological Fluids (1991) Journal of Applied Physics, 70 (3), pp. 1207-1211; 
+Klass, D.L., Martinek, T.W., I.Rheological Properties (1967) Journal of Applied Physics, 38, pp. 67-74; 
+Klass, D.L., Martinek, T.W., II. Electrical Properties (1967) Journal of Applied Physics, 38, pp. 75-80; 
+Kollias, A., Dimarogonas, A.D., Rheology of Zeolite and Corn Starch Based ER Fluids at High Shear Strain Rates (1992) Proceedings of the Conference on Recent Advances in Adaptive and Sensory Materials and Their Applications, pp. 548-558. , C. A. Rogers and R. C. Rogers (eds.); 
+Kollias, A., Dimarogonas, A.D., Electro-Rheological Fluid Flow in Partial Journal Bearings (1994) ASME Winter Annual Meeting, Electro-Rheological Flows; 
+Kraynik, A.K., Comments on ER Fluid Rheology (1989) Proc. 2nd Int. Conference on ER Fluids, p. 445. , J. Carson, A. F. Sprecher and H. Conrad (ed.), Lancaster, PA: Technomic Publ. Co; 
+Leek, T.H., Lingard, S., Atkin, R.J., Bullough, W.A., An Experimental Investigation of the Flow of an Electro-Rheological Fluid in Rayleigh Step Bearing (1993) Journal of Physics D: Applied Physics, 26, pp. 1592-1800; 
+Morishita, S., Mitsui, J., Controllable Squeeze Film Damper an Application of Electro-Rheological Fluid (1992) Journal of Vibrations and Acoustics, 114, pp. 354-357; 
+Nikolajsen, J.L., Hoque, M.S., An Electro-Viscous Damper for Rotor Applications (1990) Journal of Vibrations & Acoustics, 112, pp. 440-443; 
+Nikolakopoulos, P.G., Papadopoulos, C.A., Nonlinearities in Misaligned Journal Bearings (1994) Tribology International, 27 (4), pp. 243-257; 
+Nikolakopoulos, P.G., Papadopoulos, C.A., High Speed Journal Bearing Lubricated with ER-Fluids. An Experimental Investigation (1995) 5th International Conference on Electro-Rheological Fluids, Magneto-Rheological Suspensions and Associate Technology, , Sheffield; 
+Piggott, R.J.S., Bearing and Lubrication-Bearing Troubles Traceable to Design Can Be Avoided by Engineering Study (1942) Mechanical Engineering, 64, p. 259; 
+Shingley, J.E., Mischke, C.R., (1986) Standard Handbook of Machine Design, , New York: McGraw Hill Book Company; 
+Smalley, A.J., McCallion, H., The Effect of Journal Misalignment on the Performance of a Journal Bearing under Steady Running Conditions (1966) Pro Inst. Engns., 181, pp. 3B; 
+Tichy, J.A., Hydrodynamic Lubrication Theory for the Bingham Plastic Model (1991) Journal of Rheology, 35 (4), pp. 477-496; 
+Tichy, J.A., Behaviour of Squeeze Film Damper with an Electrorheological Fluid (1993) Tribology Transactions, 36 (1), pp. 127-133; 
+Wada, H., Hayashi, H., Haga, K., Behaviour of Bingham Solid in Hydrodynamic Lubrication, Part 2, Application to Step Bearing (1973) Bulletin of the JSME, 16 (92), pp. 432-440; 
+Wada, H., Hayashi, H., Haga, K., Behaviour of Bingham Solid in Hydrodynamic Lubrication, Part 1, General Theory (1973) Bulletin of the JSME, 16 (92), pp. 422-431; 
+Winslow, W.M., 1947. Methods and Means of Translating Electrical Impulses into Mechanical Forces", U.S. Patent, 2, p. 147-150UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0031072419&partnerID=40&md5=6225951fc3eec5d755ea2961fbd3c9f7
+ER  - 
+
+TY  - JOUR
+TI  - INNOVATIVE MICROWAVE DESIGN LEADS TO SMART, SMALL EW SYSTEMS.
+T2  - Microwave journal
+J2  - Microwave J
+VL  - 31
+IS  - 2
+SP  - 
+EP  - 
+PY  - 1988
+SN  - 00262897 (ISSN) 
+AU  - Niehenke, Edward C.
+AD  - Westinghouse Electric Corp,, Baltimore, MD, USA, Westinghouse Electric Corp, Baltimore, MD, USA
+AB  - A brief overview of the modern electronic warefare (EW) system is given. Some innovative designs that have applications for smart, small EW systems are presented. These are: high-isolation GaAs MMIC switches; amplifiers; frequency converters; filters; instantaneous-frequency-measurement systems; frequency translators; digital rf memory; and ERP solid-state active antenna arrays.
+KW  - AMPLIFIERS, MICROWAVE - Design
+KW  - ELECTRIC FILTERS - Design
+KW  - ELECTRIC SWITCHES, SEMICONDUCTOR - Design
+KW  - ELECTRONIC CIRCUITS, FREQUENCY CONVERTER - Design
+KW  - MICROWAVE DEVICES - Design
+KW  - ACTIVE ANTENNA ARRAYS
+KW  - DIGITAL RF MEMORY
+KW  - ELECTRONIC WARFARE SYSTEMS
+KW  - FREQUENCY MEASUREMENT
+KW  - MONOLITHIC MICROWAVE INTEGRATED CIRCUITS
+KW  - MILITARY EQUIPMENT
+N1  - Export Date: 16 September 2015
+DB  - Scopus
+N1  - CODEN: MCWJA
+LA  - English
+N1  - Correspondence Address: Niehenke, Edward C.; Westinghouse Electric Corp,, Baltimore, MD, USA, Westinghouse Electric Corp, Baltimore, MD, USA
+UR  - http://www.scopus.com/inward/record.url?eid=2-s2.0-0023963009&partnerID=40&md5=efffdcb7a90e1234145e955acc1bbf52
+ER  - 
+
