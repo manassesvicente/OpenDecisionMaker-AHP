@@ -1,0 +1,85 @@
+1) Pesquisa pela metalinguagem estabelecida numa base de artigos indexados, ex. Scopus
+2) Anotar a quantidade de registros retornados
+3) Aplica-se o filtro de Limitado apenas a Artigos
+4) Anotar a quantidade de registros retornados
+5) Expor todos os retornos como arquivo .ris e com todas as informações
+6) Renomeado esse arquivo de ex.: scopus.ris para ERP_AHP_Scopus.ris
+7) No Zotero / Minha biblioteca -  criar a coleção ERP e AHP
+8) Sobre a coleção criada no passo anterior, criar a subcoleção Scopus
+9) Clicar em Minha biblioteca, em seguida em Arquivo / Importar e importar o arquivo ERP_AHP_Scopus.ris
+10) Arrastar os arquivos da coleção ERP_AHP_Scopus para a subcoleção Scopus da coleção ERP e AHP
+11) Remover a coleção ERP_AHP_Scopus (sem remover os itens)
+--Esse procedimento foi refeito para todas as metalinguagens estabelecidas
+--Foi repetido na base WoS usando sempre tópico que pesquisa nos seguintes campos em um registro: Título;Resumo;Palavras-chave de autor;Keywords Plus®
+5) Salvar em outros formatos de arquivos e com todas as informações; Todos os registros na página; Autor, Titulo, Fonte, Resumo; Outros Softwares de Referencia
+6) Renomeado esse arquivo de ex.: savedrecs.txt para ERP_AHP_WoS.txt
+7) Já foi criada a coleção ERP e AHP, basta localiza-la
+8) Sobre a coleção criada no passo anterior, criar a subcoleção WoS
+--Foi repetido na base Scielo http://www.scielo.br/ Clicar em article browsing / search form em seguida em Search for : Basic form 
+5) O problema foi ter que clicar em um a um dos registros retornados para que eles salve diretamente dentro do Zotero
+6) A exportação da Scielo não é adequada para fazer em lote e importar em softwares de referencia
+7) Já foi criada a coleção ERP e AHP, basta localiza-la
+8) Sobre a coleção criada no passo anterior, criar a subcoleção Scielo, clicar sobre ela, retornar ao site
+clicar em salvar do zotero no site. Não clicar para mostrar o PDF pois o translators do Zotero não o identificará como artigo
+Scopus de 609 registros retornados 301 eram artigos
+Web of Science de 398 registros retornados 202 eram artigos
+Web of Science de 12 registros retornados 12 eram artigos
+Backup do banco ao termino dos procedimentos 001
+-------------------------------------------------------------------
+Mesclado os itens duplicados identificas pelo zotero
+de 515 ficaram 346 artigos
+Limpar lixeira do zotero
+Backup do banco ao termino dos procedimentos 002
+--------------------------------------------------------------------
+Exclusão das referências que eram partes de livros (6 no total) restando 340
+Limpar lixeira do zotero
+Backup do banco ao termino dos procedimentos 003
+--------------------------------------------------------------------
+Exclusão das referências por causa do idioma alemão, chinês e francês (23 no total) restando 317
+Limpar lixeira do zotero
+Backup do banco ao termino dos procedimentos 004
+--------------------------------------------------------------------
+select para exportar tema, resumo
+google tradutor
+a) Relação dos artigos desalinhados com o problema de pesquisa
+b) Relação dos artigos elegíveis para a revisão da literatura
+Nesse ponto mesmo a preocupação com o alinhamento da pesquisa em alguns casos não foram considerados devido ao objetivo de obter artigos que apoiassem a etapa de embasamento teórico.
+Para facilitar a remoção do zotero os artigos da relação a foram atualizados no zotero com a informação EXCLUIR no campo direitos
+Backup do banco ao termino dos procedimentos zotero004informacao_excluir
+Remoção dos artigos do grupo a) (169 no total) restando 148
+Limpar lixeira do zotero
+Backup do banco ao termino dos procedimentos 005
+--------------------------------------------------------------------
+Fazer select dos artigos ordenados por base de indexação dos artigos
+Busca da disponibilidade do artigo completo do grupo b)
+c) Relação dos artigos indisponíveis
+--Essa etapa foi realizado primeiro na base de menor representatividade (Scielo), em seguida na de maior (Scopus) finalizado na WoF.
+Os artigos que não eram encontrados numa base, mesmo não tendo retornado nas demais bases ele era novamente pesquisado pelo seu título nas demais bases, dessa forma houveram alguns casos de sucesso, onde na base em que o artigo apareceu na pesquisa bibliográfica ele não estava disponível, e na base onde ele não apareceu na pesquisa bibliográfica ao buscar pelo título ele estava disponível.
+Nessa fase apareceram outros artigos também, disponíveis que devido ao alinhamento com o tema, foram incluídos a saber: 
+
+Prioritization of enterprise resource planning systems criteria: Focusing on construction industry;
+The Application of AHP in Biotechnology Industry with ERP KSF Implementation;
+UTILIZAÇÃO DO MÉTODO DE ANÁLISE HIERÁRQUICA - AHP PARA A SELEÇÃO DE UM SISTEMA INTEGRADO DE GESTÃO - ERP;
+A Escolha de um Sistema Integrado de Gestão Empresarial - ERP através do Método de Análise Hierárquica - AHP;
+2011 - ABORDAGEM ESTRATÉGICA PARA A SELEÇÃO DE SISTEMAS ERP UTILIZANDO APOIO MULTICRITÉRIO À DECISÃO;
+2013 - ABORDAGEM ESTRATÉGICA PARA A SELEÇÃO DE SISTEMAS ERP UTILIZANDO APOIO MULTICRITÉRIO À DECISÃO;
+
+Essa fase foi realizada com apoio do excel aqui foram identificados 69 artigos disponiveis + 6 add durante a pesquisa, e 79 artigos indisponíveis.
+, em seguida a base do zotero foi atualizada com a informação DISPONIVEL para os artigos que foram possíveis fazer o download de seus pdfs e INDISPONIVEL aqueles não disponíveis.
+Backup do banco ao termino dos procedimentos zotero005informacao_disponibilidade
+Remoção dos artigos do grupo c)
+Limpar lixeira do zotero
+Backup do banco ao termino dos procedimentos 006
+
+--------------------------------------------------------------------
+Montar as tabelas para a estrutura de análise dos resultados:
+
+--Na busca Wos e Scielo retornaram Avaliação da importância relativa dos critérios para a seleção de Sistemas Integrados de Gestão (ERP) para uso em empresas da construção civil
+e Scopus retornou Evaluation of the importance of criteria for the selection of Integrated Management Systems (ERP) for use in civil construction companies
+porém trata-se do mesmo artigo
+d) Relação dos artigos disponíveis, por base de indexação dos artigos
+e) Montar a análise por Autor, Data, Método, Periódico, Base, Metalinguagem,
+f) Levantar níveis, critérios, subcritérios, problema, fase, tipo de estudo
+--------------------------------------------------------------------
+Os arquivos da pesquisa
+https://github.com/manassesvicente/OpenDecisionMaker-AHP/tree/master/MestradoUFF
